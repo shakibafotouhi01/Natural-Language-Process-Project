@@ -1,0 +1,31 @@
+story_id,culture,title,file_path,source title,source link
+g01,german,THE GOLDEN BIRD,data/human/german/g01.txt,The Project Gutenberg eBook of Grimms' Fairy Tales,https://www.gutenberg.org/ebooks/2591
+g02,german,HANSEL AND GRETEL,data/human/german/g02.txt,The Project Gutenberg eBook of Grimms' Fairy Tales,https://www.gutenberg.org/ebooks/2591
+g03,german,RAPUNZEL,data/human/german/g03.txt,The Project Gutenberg eBook of Grimms' Fairy Tales,https://www.gutenberg.org/ebooks/2591
+g04,german,THE FROG-PRINCE,data/human/german/g04.txt,The Project Gutenberg eBook of Grimms' Fairy Tales,https://www.gutenberg.org/ebooks/2591
+g05,german,RUMPELSTILTSKIN,data/human/german/g05.txt,The Project Gutenberg eBook of Grimms' Fairy Tales,https://www.gutenberg.org/ebooks/2591
+g06,german,THE TWELVE DANCING PRINCESSES,data/human/german/g06.txt,The Project Gutenberg eBook of Grimms' Fairy Tales,https://www.gutenberg.org/ebooks/2591
+g07,german,THE FISHERMAN AND HIS WIFE,data/human/german/g07.txt,The Project Gutenberg eBook of Grimms' Fairy Tales,https://www.gutenberg.org/ebooks/2591
+g08,german,THE GOLDEN GOOSE,data/human/german/g08.txt,The Project Gutenberg eBook of Grimms' Fairy Tales,https://www.gutenberg.org/ebooks/2591
+g09,german,LILY AND THE LION,data/human/german/g09.txt,The Project Gutenberg eBook of Grimms' Fairy Tales,https://www.gutenberg.org/ebooks/2591
+g10,german,THE RAVEN,data/human/german/g10.txt,The Project Gutenberg eBook of Grimms' Fairy Tales,https://www.gutenberg.org/ebooks/2591
+n01,native american,Raven Steals the Sun,data/human/native american/n01.txt,,http://www.magma.ca/~jbremner/blog/months/RavenStealsSun.htm
+n02,native american,The origin of fire,data/human/native american/n02.txt,,https://ospi.k12.wa.us/sites/default/files/2023-02/how-fire-came-earth.pdf
+n03,native american,Legend of the Corn,data/human/native american/n03.txt,americanfolklore.net,https://www.americanfolklore.net/legend-of-the-corn/
+n04,native american,The Creation Story - Turtle Island,data/human/native american/n04.txt,,https://ltbbodawa-nsn.gov/wp-content/uploads/2020/12/The-Creation-Story-Turtle-Island.pdf
+n05,native american,White Feather and the Six Giants,data/human/native american/n05.txt,Indian_fairy_book,https://www.worldoftales.com/Indian_fairy_book.html#gsc.tab=0
+n06,native american,The Celestial Sisters,data/human/native american/n06.txt,Indian_fairy_book,https://www.worldoftales.com/Indian_fairy_book.html#gsc.tab=0
+n07,native american,He of the Little Shell,data/human/native american/n07.txt,Indian_fairy_book,https://www.worldoftales.com/Indian_fairy_book.html#gsc.tab=0
+n08,native american,The Man with his Leg Tied Up,data/human/native american/n08.txt,Indian_fairy_book,https://www.worldoftales.com/Indian_fairy_book.html#gsc.tab=0
+n09,native american,The Crane that Crossed the River,data/human/native american/n09.txt,Indian_fairy_book,https://www.worldoftales.com/Indian_fairy_book.html#gsc.tab=0
+n10,native american,Strong Desire and the Red Sorcerer,data/human/native american/n10.txt,Indian_fairy_book,https://www.worldoftales.com/Indian_fairy_book.html#gsc.tab=0
+p01,persian,The faith of a starving man,data/human/persian/p01.txt,Persian Fairy Tales,https://persianfairytales.wordpress.com/
+p02,persian,Gulistan - story 16,data/human/persian/p02.txt,Golestan Sadi English Translation,http://classics.mit.edu/Sadi/gulistan.html
+p03,persian,Gulistan -chapter III- story 28,data/human/persian/p03.txt,Golestan Sadi English Translation,http://classics.mit.edu/Sadi/gulistan.html
+p04,persian,Gulistan chapter II - story 5,data/human/persian/p04.txt,Golestan Sadi English Translation,http://classics.mit.edu/Sadi/gulistan.html
+p05,persian,Gulistan Chapter II- sotry 20,data/human/persian/p05.txt,Golestan Sadi English Translation,http://classics.mit.edu/Sadi/gulistan.html
+p06,persian,The fox that rode a camel,data/human/persian/p06.txt,Persian Fairy Tales,https://persianfairytales.wordpress.com/
+p07,persian,The smart rabbit,data/human/persian/p07.txt,Persian Fairy Tales,https://persianfairytales.wordpress.com/
+p08,persian,Rostam and Sohrab,data/human/persian/p08.txt,Shahnameh English Translation,https://www.iranchamber.com/literature/shahnameh/08rostam_sohrab.php
+p09,persian,4 - Zal and Rodabeh,data/human/persian/p09.txt,Shahnameh English Translation,https://www.sattor.com/english/Shahnameh.pdf
+p10,persian,9  - Saiawosh,data/human/persian/p10.txt,Shahnameh English Translation,https://www.sattor.com/english/Shahnameh.pdf
