@@ -1,0 +1,716 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "\u2205 | be | king",
+      "sent_id": 0,
+      "sentence": "There was once a king who had twelve beautiful daughters.",
+      "subj": "",
+      "verb": "be",
+      "obj": "king"
+    },
+    {
+      "id": "e0001",
+      "label": "they | sleep | room",
+      "sent_id": 1,
+      "sentence": "They all slept in one room, each in her own bed, and every night the doors were locked tight.",
+      "subj": "they",
+      "verb": "sleep",
+      "obj": "room"
+    },
+    {
+      "id": "e0002",
+      "label": "shoe | find | wear",
+      "sent_id": 2,
+      "sentence": "Yet each morning, their shoes were found worn through, as though they had been dancing all night.",
+      "subj": "shoe",
+      "verb": "find",
+      "obj": "wear"
+    },
+    {
+      "id": "e0003",
+      "label": "nobody | figure | \u2205",
+      "sent_id": 3,
+      "sentence": "Nobody could figure out how this was possible or where the princesses had been.",
+      "subj": "nobody",
+      "verb": "figure",
+      "obj": ""
+    },
+    {
+      "id": "e0004",
+      "label": "king | announce | \u2205",
+      "sent_id": 4,
+      "sentence": "The king announced that anyone who could discover the secret of where the princesses danced at night would be allowed to marry whichever princess he chose and would become king after the current king\u2019s death.",
+      "subj": "king",
+      "verb": "announce",
+      "obj": ""
+    },
+    {
+      "id": "e0005",
+      "label": "they | execute | \u2205",
+      "sent_id": 5,
+      "sentence": "But if anyone failed after trying for three days and nights, they would be executed.",
+      "subj": "they",
+      "verb": "execute",
+      "obj": ""
+    },
+    {
+      "id": "e0006",
+      "label": "son | arrive | \u2205",
+      "sent_id": 6,
+      "sentence": "Soon, the son of another king arrived.",
+      "subj": "son",
+      "verb": "arrive",
+      "obj": ""
+    },
+    {
+      "id": "e0007",
+      "label": "he | welcome | \u2205",
+      "sent_id": 7,
+      "sentence": "He was welcomed and given a room next to the princesses\u2019 chamber, and his door was left open so he could hear everything.",
+      "subj": "he",
+      "verb": "welcome",
+      "obj": ""
+    },
+    {
+      "id": "e0008",
+      "label": "he | fall | \u2205",
+      "sent_id": 8,
+      "sentence": "But each night, he fell asleep and when morning came, the princesses\u2019 shoes were again worn out.",
+      "subj": "he",
+      "verb": "fall",
+      "obj": ""
+    },
+    {
+      "id": "e0009",
+      "label": "king | order | head",
+      "sent_id": 9,
+      "sentence": "After three failed nights, the king ordered the prince\u2019s head to be cut off.",
+      "subj": "king",
+      "verb": "order",
+      "obj": "head"
+    },
+    {
+      "id": "e0010",
+      "label": "other | try | \u2205",
+      "sent_id": 10,
+      "sentence": "Many others tried and failed just the same.",
+      "subj": "other",
+      "verb": "try",
+      "obj": ""
+    },
+    {
+      "id": "e0011",
+      "label": "he | meet | woman",
+      "sent_id": 12,
+      "sentence": "As he wandered through the forest, he met an old woman who asked where he was headed.",
+      "subj": "he",
+      "verb": "meet",
+      "obj": "woman"
+    },
+    {
+      "id": "e0012",
+      "label": "he | reply | \u2205",
+      "sent_id": 13,
+      "sentence": "He replied that he wasn\u2019t sure, but he was curious to find out where the princesses danced, hoping to become king someday.",
+      "subj": "he",
+      "verb": "reply",
+      "obj": ""
+    },
+    {
+      "id": "e0013",
+      "label": "she | tell | he",
+      "sent_id": 14,
+      "sentence": "She told him it wasn\u2019t a difficult task but warned him not to drink any wine offered by the princesses at night and to pretend to be fast asleep as soon as she left.",
+      "subj": "she",
+      "verb": "tell",
+      "obj": "he"
+    },
+    {
+      "id": "e0014",
+      "label": "he | follow | princess",
+      "sent_id": 15,
+      "sentence": "She then gave him a cloak that would make him invisible, so he could follow the princesses without being seen.",
+      "subj": "he",
+      "verb": "follow",
+      "obj": "princess"
+    },
+    {
+      "id": "e0015",
+      "label": "soldier | go | king",
+      "sent_id": 16,
+      "sentence": "Encouraged by her advice, the soldier went to the king and offered to try.",
+      "subj": "soldier",
+      "verb": "go",
+      "obj": "king"
+    },
+    {
+      "id": "e0016",
+      "label": "he | receive | welcome",
+      "sent_id": 17,
+      "sentence": "He received a royal welcome and fine clothes, and was taken to the outer chamber at night.",
+      "subj": "he",
+      "verb": "receive",
+      "obj": "welcome"
+    },
+    {
+      "id": "e0017",
+      "label": "he | throw | it",
+      "sent_id": 18,
+      "sentence": "When the eldest princess brought him a cup of wine, he discreetly threw it away, avoiding a single sip.",
+      "subj": "he",
+      "verb": "throw",
+      "obj": "it"
+    },
+    {
+      "id": "e0018",
+      "label": "he | lie | \u2205",
+      "sent_id": 19,
+      "sentence": "Then he lay down and began to snore loudly, pretending to sleep.",
+      "subj": "he",
+      "verb": "lie",
+      "obj": ""
+    },
+    {
+      "id": "e0019",
+      "label": "princess | laugh | \u2205",
+      "sent_id": 20,
+      "sentence": "The princesses laughed when they heard him and said he was wasting his life like the others.",
+      "subj": "princess",
+      "verb": "laugh",
+      "obj": ""
+    },
+    {
+      "id": "e0020",
+      "label": "they | open | drawer",
+      "sent_id": 21,
+      "sentence": "They opened their drawers, dressed in their finest clothes, and prepared to dance.",
+      "subj": "they",
+      "verb": "open",
+      "obj": "drawer"
+    },
+    {
+      "id": "e0021",
+      "label": "princess | warn | \u2205",
+      "sent_id": 22,
+      "sentence": "The youngest princess, uneasy and fearful, warned something might go wrong, but the eldest dismissed her worries, reminding her how many princes had already failed.",
+      "subj": "princess",
+      "verb": "warn",
+      "obj": ""
+    },
+    {
+      "id": "e0022",
+      "label": "eld | clap | hand",
+      "sent_id": 23,
+      "sentence": "The eldest clapped her hands, and the bed sank into the floor as a trapdoor opened beneath it.",
+      "subj": "eld",
+      "verb": "clap",
+      "obj": "hand"
+    },
+    {
+      "id": "e0023",
+      "label": "princess | descend | \u2205",
+      "sent_id": 24,
+      "sentence": "One by one, the princesses descended, and the soldier quickly put on his cloak and followed.",
+      "subj": "princess",
+      "verb": "descend",
+      "obj": ""
+    },
+    {
+      "id": "e0024",
+      "label": "he | catch | gown",
+      "sent_id": 25,
+      "sentence": "But halfway down, he caught the gown of the youngest princess and she cried out, warning the others.",
+      "subj": "he",
+      "verb": "catch",
+      "obj": "gown"
+    },
+    {
+      "id": "e0025",
+      "label": "eld | tell | she",
+      "sent_id": 26,
+      "sentence": "The eldest told her it was nothing but a nail.",
+      "subj": "eld",
+      "verb": "tell",
+      "obj": "she"
+    },
+    {
+      "id": "e0026",
+      "label": "they | find | themselves",
+      "sent_id": 27,
+      "sentence": "At the bottom, they found themselves in a magical forest where the leaves were silver and shimmered beautifully.",
+      "subj": "they",
+      "verb": "find",
+      "obj": "themselves"
+    },
+    {
+      "id": "e0027",
+      "label": "soldier | break | branch",
+      "sent_id": 28,
+      "sentence": "The soldier broke off a small branch as proof, which caused a loud noise that frightened the youngest princess, but the eldest assured her it was only the princes shouting with joy.",
+      "subj": "soldier",
+      "verb": "break",
+      "obj": "branch"
+    },
+    {
+      "id": "e0028",
+      "label": "they | move | forest",
+      "sent_id": 29,
+      "sentence": "They moved on to another forest where the leaves were gold, and then to a third with leaves sparkling like diamonds.",
+      "subj": "they",
+      "verb": "move",
+      "obj": "forest"
+    },
+    {
+      "id": "e0029",
+      "label": "soldier | break | branch",
+      "sent_id": 30,
+      "sentence": "Each time, the soldier broke off a branch, triggering a noise that made the youngest sister uneasy, but the eldest always calmed her fears.",
+      "subj": "soldier",
+      "verb": "break",
+      "obj": "branch"
+    },
+    {
+      "id": "e0030",
+      "label": "they | reach | lake",
+      "sent_id": 31,
+      "sentence": "They reached a large lake where twelve small boats waited, each with a handsome prince.",
+      "subj": "they",
+      "verb": "reach",
+      "obj": "lake"
+    },
+    {
+      "id": "e0031",
+      "label": "princess | step | boat",
+      "sent_id": 32,
+      "sentence": "The princesses each stepped into a boat, and the soldier took the one with the youngest princess.",
+      "subj": "princess",
+      "verb": "step",
+      "obj": "boat"
+    },
+    {
+      "id": "e0032",
+      "label": "prince | say | \u2205",
+      "sent_id": 33,
+      "sentence": "The prince rowing the boat said they were slower than usual and he felt tired, but the princess blamed the warm weather.",
+      "subj": "prince",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0033",
+      "label": "they | cross | castle",
+      "sent_id": 34,
+      "sentence": "They crossed to a shining castle filled with music from horns and trumpets.",
+      "subj": "they",
+      "verb": "cross",
+      "obj": "castle"
+    },
+    {
+      "id": "e0034",
+      "label": "they | dance | princess",
+      "sent_id": 35,
+      "sentence": "They all danced there\u2014each princess with a prince, and the soldier, invisible, danced among them as well.",
+      "subj": "they",
+      "verb": "dance",
+      "obj": "princess"
+    },
+    {
+      "id": "e0035",
+      "label": "he | drink | it",
+      "sent_id": 36,
+      "sentence": "Whenever a princess had a cup of wine, he drank it all, leaving the cup empty.",
+      "subj": "he",
+      "verb": "drink",
+      "obj": "it"
+    },
+    {
+      "id": "e0036",
+      "label": "this | frighten | princess",
+      "sent_id": 37,
+      "sentence": "This frightened the youngest princess, but again the eldest reassured her.",
+      "subj": "this",
+      "verb": "frighten",
+      "obj": "princess"
+    },
+    {
+      "id": "e0037",
+      "label": "they | dance | three",
+      "sent_id": 38,
+      "sentence": "They danced until three in the morning, wearing out their shoes, then sailed back across the lake.",
+      "subj": "they",
+      "verb": "dance",
+      "obj": "three"
+    },
+    {
+      "id": "e0038",
+      "label": "they | say | goodbye",
+      "sent_id": 40,
+      "sentence": "They said their goodbyes and promised to return the next night.",
+      "subj": "they",
+      "verb": "say",
+      "obj": "goodbye"
+    },
+    {
+      "id": "e0039",
+      "label": "soldier | race | stair",
+      "sent_id": 41,
+      "sentence": "At the stairs leading back, the soldier raced ahead and pretended to sleep again.",
+      "subj": "soldier",
+      "verb": "race",
+      "obj": "stair"
+    },
+    {
+      "id": "e0040",
+      "label": "princess | creep | \u2205",
+      "sent_id": 42,
+      "sentence": "The tired princesses crept upstairs quietly, believing all was safe, undressed, put away their fine clothes, took off their worn shoes, and went to bed.",
+      "subj": "princess",
+      "verb": "creep",
+      "obj": ""
+    },
+    {
+      "id": "e0041",
+      "label": "soldier | keep | silent",
+      "sent_id": 43,
+      "sentence": "The soldier kept silent about what he had seen, resolved to watch again the next two nights.",
+      "subj": "soldier",
+      "verb": "keep",
+      "obj": "silent"
+    },
+    {
+      "id": "e0042",
+      "label": "routine | play | \u2205",
+      "sent_id": 44,
+      "sentence": "Each night the same routine played out, with dancing until their shoes were ruined, followed by the row back across the lake.",
+      "subj": "routine",
+      "verb": "play",
+      "obj": ""
+    },
+    {
+      "id": "e0043",
+      "label": "soldier | take | cup",
+      "sent_id": 45,
+      "sentence": "On the third night, the soldier took a golden cup as proof of where they had been.",
+      "subj": "soldier",
+      "verb": "take",
+      "obj": "cup"
+    },
+    {
+      "id": "e0044",
+      "label": "soldier | bring | king",
+      "sent_id": 46,
+      "sentence": "When the time came to reveal the secret, the soldier was brought before the king with the branches and the golden cup.",
+      "subj": "soldier",
+      "verb": "bring",
+      "obj": "king"
+    },
+    {
+      "id": "e0045",
+      "label": "princess | listen | \u2205",
+      "sent_id": 47,
+      "sentence": "The twelve princesses listened from behind a door as the soldier told the king they danced underground with twelve princes, then showed the items he had taken.",
+      "subj": "princess",
+      "verb": "listen",
+      "obj": ""
+    },
+    {
+      "id": "e0046",
+      "label": "king | summon | princess",
+      "sent_id": 48,
+      "sentence": "The king summoned the princesses and asked if it was true.",
+      "subj": "king",
+      "verb": "summon",
+      "obj": "princess"
+    },
+    {
+      "id": "e0047",
+      "label": "they | admit | everything",
+      "sent_id": 49,
+      "sentence": "Faced with the evidence, they admitted everything.",
+      "subj": "they",
+      "verb": "admit",
+      "obj": "everything"
+    },
+    {
+      "id": "e0048",
+      "label": "king | ask | soldier",
+      "sent_id": 50,
+      "sentence": "The king then asked the soldier which princess he wished to marry.",
+      "subj": "king",
+      "verb": "ask",
+      "obj": "soldier"
+    },
+    {
+      "id": "e0049",
+      "label": "he | reply | \u2205",
+      "sent_id": 51,
+      "sentence": "He replied that, being no longer young, he would choose the eldest.",
+      "subj": "he",
+      "verb": "reply",
+      "obj": ""
+    },
+    {
+      "id": "e0050",
+      "label": "they | be | \u2205",
+      "sent_id": 52,
+      "sentence": "They were married that very day, and the soldier was named heir to the throne.",
+      "subj": "they",
+      "verb": "be",
+      "obj": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    },
+    {
+      "source": "e0029",
+      "target": "e0030",
+      "relation": "next"
+    },
+    {
+      "source": "e0030",
+      "target": "e0031",
+      "relation": "next"
+    },
+    {
+      "source": "e0031",
+      "target": "e0032",
+      "relation": "next"
+    },
+    {
+      "source": "e0032",
+      "target": "e0033",
+      "relation": "next"
+    },
+    {
+      "source": "e0033",
+      "target": "e0034",
+      "relation": "next"
+    },
+    {
+      "source": "e0034",
+      "target": "e0035",
+      "relation": "next"
+    },
+    {
+      "source": "e0035",
+      "target": "e0036",
+      "relation": "next"
+    },
+    {
+      "source": "e0036",
+      "target": "e0037",
+      "relation": "next"
+    },
+    {
+      "source": "e0037",
+      "target": "e0038",
+      "relation": "next"
+    },
+    {
+      "source": "e0038",
+      "target": "e0039",
+      "relation": "next"
+    },
+    {
+      "source": "e0039",
+      "target": "e0040",
+      "relation": "next"
+    },
+    {
+      "source": "e0040",
+      "target": "e0041",
+      "relation": "next"
+    },
+    {
+      "source": "e0041",
+      "target": "e0042",
+      "relation": "next"
+    },
+    {
+      "source": "e0042",
+      "target": "e0043",
+      "relation": "next"
+    },
+    {
+      "source": "e0043",
+      "target": "e0044",
+      "relation": "next"
+    },
+    {
+      "source": "e0044",
+      "target": "e0045",
+      "relation": "next"
+    },
+    {
+      "source": "e0045",
+      "target": "e0046",
+      "relation": "next"
+    },
+    {
+      "source": "e0046",
+      "target": "e0047",
+      "relation": "next"
+    },
+    {
+      "source": "e0047",
+      "target": "e0048",
+      "relation": "next"
+    },
+    {
+      "source": "e0048",
+      "target": "e0049",
+      "relation": "next"
+    },
+    {
+      "source": "e0049",
+      "target": "e0050",
+      "relation": "next"
+    }
+  ]
+}

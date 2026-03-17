@@ -1,0 +1,530 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "hunter",
+    "verb": "live",
+    "obj": "wife",
+    "label": "hunter | live | wife",
+    "sentence": "A well-known hunter lived far up North with his beautiful wife and two young sons."
+  },
+  {
+    "sent_id": 1,
+    "subj": "he",
+    "verb": "leave",
+    "obj": "lodge",
+    "label": "he | leave | lodge",
+    "sentence": "Every day, he left their remote lodge to hunt the animals that were their main source of food."
+  },
+  {
+    "sent_id": 2,
+    "subj": "game",
+    "verb": "be",
+    "obj": "",
+    "label": "game | be | \u2205",
+    "sentence": "Back then, game was plentiful, and his hard work in the hunt always brought good results."
+  },
+  {
+    "sent_id": 3,
+    "subj": "they",
+    "verb": "see",
+    "obj": "anyone",
+    "label": "they | see | anyone",
+    "sentence": "Because they were so isolated, they rarely saw anyone outside their family."
+  },
+  {
+    "sent_id": 4,
+    "subj": "they",
+    "verb": "play",
+    "obj": "lodge",
+    "label": "they | play | lodge",
+    "sentence": "The two boys were still too young to join their father in the hunt, so they played near the lodge."
+  },
+  {
+    "sent_id": 5,
+    "subj": "they",
+    "verb": "start",
+    "obj": "",
+    "label": "they | start | \u2205",
+    "sentence": "While they were busy, they started noticing a young man visiting their lodge whenever their father was away."
+  },
+  {
+    "sent_id": 6,
+    "subj": "visit",
+    "verb": "happen",
+    "obj": "",
+    "label": "visit | happen | \u2205",
+    "sentence": "These visits happened again and again."
+  },
+  {
+    "sent_id": 7,
+    "subj": "boy",
+    "verb": "ask",
+    "obj": "mother",
+    "label": "boy | ask | mother",
+    "sentence": "One day, the older boy asked his mother, \"Mother, who is that tall young man who keeps coming here when father is gone?"
+  },
+  {
+    "sent_id": 8,
+    "subj": "he",
+    "verb": "want",
+    "obj": "",
+    "label": "he | want | \u2205",
+    "sentence": "Does he want to see father?"
+  },
+  {
+    "sent_id": 9,
+    "subj": "i",
+    "verb": "tell",
+    "obj": "father",
+    "label": "i | tell | father",
+    "sentence": "Should I tell father when he comes back tonight?"
+  },
+  {
+    "sent_id": 10,
+    "subj": "mother",
+    "verb": "scold",
+    "obj": "child",
+    "label": "mother | scold | child",
+    "sentence": "\"\n\n\"Naubesah, you foolish child,\" their mother scolded."
+  },
+  {
+    "sent_id": 12,
+    "subj": "it",
+    "verb": "\u2019",
+    "obj": "",
+    "label": "it | \u2019 | \u2205",
+    "sentence": "It\u2019s not manly to hang around the lodge all day."
+  },
+  {
+    "sent_id": 13,
+    "subj": "you",
+    "verb": "become",
+    "obj": "warrior",
+    "label": "you | become | warrior",
+    "sentence": "You won\u2019t become a warrior by reporting every little thing you see and hear to your father."
+  },
+  {
+    "sent_id": 14,
+    "subj": "",
+    "verb": "keep",
+    "obj": "",
+    "label": "\u2205 | keep | \u2205",
+    "sentence": "Keep quiet about it."
+  },
+  {
+    "sent_id": 16,
+    "subj": "boy",
+    "verb": "listen",
+    "obj": "",
+    "label": "boy | listen | \u2205",
+    "sentence": "The boys listened, but as they grew older and kept seeing the stranger, they decided to talk to their mother again."
+  },
+  {
+    "sent_id": 17,
+    "subj": "they",
+    "verb": "say",
+    "obj": "",
+    "label": "they | say | \u2205",
+    "sentence": "This time, they said they wanted to tell their father everything they\u2019d witnessed."
+  },
+  {
+    "sent_id": 18,
+    "subj": "man",
+    "verb": "use",
+    "obj": "path",
+    "label": "man | use | path",
+    "sentence": "The young man didn\u2019t use the path or carry food, so if he had a message for their father, why didn\u2019t he deliver it directly?"
+  },
+  {
+    "sent_id": 19,
+    "subj": "they",
+    "verb": "know",
+    "obj": "",
+    "label": "they | know | \u2205",
+    "sentence": "They knew that important messages were always given to men, never women."
+  },
+  {
+    "sent_id": 20,
+    "subj": "mother",
+    "verb": "become",
+    "obj": "",
+    "label": "mother | become | \u2205",
+    "sentence": "Their mother became very angry."
+  },
+  {
+    "sent_id": 21,
+    "subj": "she",
+    "verb": "threaten",
+    "obj": "",
+    "label": "she | threaten | \u2205",
+    "sentence": "\"If you tell anyone, I\u2019ll kill you,\" she threatened."
+  },
+  {
+    "sent_id": 22,
+    "subj": "fear",
+    "verb": "silence",
+    "obj": "they",
+    "label": "fear | silence | they",
+    "sentence": "Fear silenced them for a while, but they still noticed the stranger\u2019s secret visits."
+  },
+  {
+    "sent_id": 23,
+    "subj": "they",
+    "verb": "decide",
+    "obj": "",
+    "label": "they | decide | \u2205",
+    "sentence": "Finally, they decided to tell their father."
+  },
+  {
+    "sent_id": 24,
+    "subj": "they",
+    "verb": "tell",
+    "obj": "everything",
+    "label": "they | tell | everything",
+    "sentence": "One day, while they were learning to follow animal tracks in the woods, they told him everything."
+  },
+  {
+    "sent_id": 25,
+    "subj": "face",
+    "verb": "darken",
+    "obj": "",
+    "label": "face | darken | \u2205",
+    "sentence": "The father\u2019s face darkened."
+  },
+  {
+    "sent_id": 26,
+    "subj": "he",
+    "verb": "look",
+    "obj": "silence",
+    "label": "he | look | silence",
+    "sentence": "After a long silence, he looked up and said, \"It is done."
+  },
+  {
+    "sent_id": 27,
+    "subj": "boy",
+    "verb": "stay",
+    "obj": "sunset",
+    "label": "boy | stay | sunset",
+    "sentence": "You boys stay here until sunset, then come back to the lodge and you will find me.\""
+  },
+  {
+    "sent_id": 28,
+    "subj": "he",
+    "verb": "walk",
+    "obj": "",
+    "label": "he | walk | \u2205",
+    "sentence": "He walked away slowly, and the boys played until it was time to return."
+  },
+  {
+    "sent_id": 29,
+    "subj": "mother",
+    "verb": "be",
+    "obj": "",
+    "label": "mother | be | \u2205",
+    "sentence": "When they got back, their mother was gone."
+  },
+  {
+    "sent_id": 30,
+    "subj": "they",
+    "verb": "dare",
+    "obj": "",
+    "label": "they | dare | \u2205",
+    "sentence": "They didn\u2019t dare ask where she had gone, and from that day on, her name was never mentioned again in the lodge."
+  },
+  {
+    "sent_id": 31,
+    "subj": "year",
+    "verb": "pass",
+    "obj": "",
+    "label": "year | pass | \u2205",
+    "sentence": "Years passed, and the boys became men."
+  },
+  {
+    "sent_id": 32,
+    "subj": "she",
+    "verb": "linger",
+    "obj": "lodge",
+    "label": "she | linger | lodge",
+    "sentence": "Though their mother was never seen again managing the home, walking the forest paths, or near the river, she lingered near the lodge, transformed but still there."
+  },
+  {
+    "sent_id": 33,
+    "subj": "arm",
+    "verb": "wither",
+    "obj": "",
+    "label": "arm | wither | \u2205",
+    "sentence": "She appeared to her sons at twilight after their hunts\u2014her face ghastly, her arms withered."
+  },
+  {
+    "sent_id": 34,
+    "subj": "she",
+    "verb": "open",
+    "obj": "door",
+    "label": "she | open | door",
+    "sentence": "At night, she would silently open the lodge door and lean over them as they slept."
+  },
+  {
+    "sent_id": 35,
+    "subj": "they",
+    "verb": "see",
+    "obj": "pale",
+    "label": "they | see | pale",
+    "sentence": "Often, they saw only her pale, bony forehead floating in the air, mocking them along wild forest trails or in the dark of night."
+  },
+  {
+    "sent_id": 36,
+    "subj": "she",
+    "verb": "terrify",
+    "obj": "they",
+    "label": "she | terrify | they",
+    "sentence": "She terrified them all, turning every place she appeared into something dreadful."
+  },
+  {
+    "sent_id": 37,
+    "subj": "father",
+    "verb": "agree",
+    "obj": "suffering",
+    "label": "father | agree | suffering",
+    "sentence": "After long suffering, the father and his sons agreed to leave their homeland."
+  },
+  {
+    "sent_id": 38,
+    "subj": "they",
+    "verb": "journey",
+    "obj": "",
+    "label": "they | journey | \u2205",
+    "sentence": "They journeyed south, traveling many days along a great lake\u2019s shore."
+  },
+  {
+    "sent_id": 39,
+    "subj": "they",
+    "verb": "round",
+    "obj": "bluff",
+    "label": "they | round | bluff",
+    "sentence": "One day, they rounded a rocky bluff and came upon a waterfall where a river flowed from the lake."
+  },
+  {
+    "sent_id": 40,
+    "subj": "they",
+    "verb": "hear",
+    "obj": "noise",
+    "label": "they | hear | noise",
+    "sentence": "As they admired the rushing water, they heard a heavy rolling noise behind them."
+  },
+  {
+    "sent_id": 41,
+    "subj": "they",
+    "verb": "see",
+    "obj": "",
+    "label": "they | see | \u2205",
+    "sentence": "Turning, they saw a woman\u2019s skull rolling along the beach, chasing them fast."
+  },
+  {
+    "sent_id": 42,
+    "subj": "body",
+    "verb": "appear",
+    "obj": "wood",
+    "label": "body | appear | wood",
+    "sentence": "Then, from the nearby woods, a headless body appeared, running swiftly toward the shore."
+  },
+  {
+    "sent_id": 43,
+    "subj": "skull",
+    "verb": "pursue",
+    "obj": "it",
+    "label": "skull | pursue | it",
+    "sentence": "The skull too pursued it, and soon they joined together, rushing ahead to catch the hunter and his sons."
+  },
+  {
+    "sent_id": 44,
+    "subj": "man",
+    "verb": "know",
+    "obj": "",
+    "label": "man | know | \u2205",
+    "sentence": "Terrified, the men didn\u2019t know how to escape."
+  },
+  {
+    "sent_id": 45,
+    "subj": "one",
+    "verb": "spot",
+    "obj": "crane",
+    "label": "one | spot | crane",
+    "sentence": "At that moment, one of the sons spotted a large, stately crane perched on a rock in the rapids."
+  },
+  {
+    "sent_id": 46,
+    "subj": "they",
+    "verb": "cry",
+    "obj": "",
+    "label": "they | cry | \u2205",
+    "sentence": "They cried out, \"Grandfather, help us!"
+  },
+  {
+    "sent_id": 47,
+    "subj": "",
+    "verb": "carry",
+    "obj": "we",
+    "label": "\u2205 | carry | we",
+    "sentence": "Carry us across the falls so we can get away from her."
+  },
+  {
+    "sent_id": 48,
+    "subj": "crane",
+    "verb": "be",
+    "obj": "thought",
+    "label": "crane | be | thought",
+    "sentence": "\"\n\nThe crane, old and wise, had been deep in thought alone amid the swirling waters."
+  },
+  {
+    "sent_id": 49,
+    "subj": "he",
+    "verb": "stretch",
+    "obj": "neck",
+    "label": "he | stretch | neck",
+    "sentence": "Hearing their call, he stretched his neck slowly, flapped his wings, and flew to help."
+  },
+  {
+    "sent_id": 50,
+    "subj": "he",
+    "verb": "warn",
+    "obj": "they",
+    "label": "he | warn | they",
+    "sentence": "\"Be careful,\u201d he warned them."
+  },
+  {
+    "sent_id": 51,
+    "subj": "",
+    "verb": "touch",
+    "obj": "crown",
+    "label": "\u2205 | touch | crown",
+    "sentence": "\u201cDo not touch the crown of my head."
+  },
+  {
+    "sent_id": 52,
+    "subj": "i",
+    "verb": "be",
+    "obj": "",
+    "label": "i | be | \u2205",
+    "sentence": "I am bald there from age and service, and it\u2019s very sensitive."
+  },
+  {
+    "sent_id": 53,
+    "subj": "i",
+    "verb": "have",
+    "obj": "",
+    "label": "i | have | \u2205",
+    "sentence": "If you touch it, I will have to throw you both into the rapids."
+  },
+  {
+    "sent_id": 54,
+    "subj": "they",
+    "verb": "listen",
+    "obj": "",
+    "label": "they | listen | \u2205",
+    "sentence": "\"\n\nThey listened carefully and crossed safely."
+  },
+  {
+    "sent_id": 55,
+    "subj": "crane",
+    "verb": "return",
+    "obj": "",
+    "label": "crane | return | \u2205",
+    "sentence": "The crane then returned to carry their father the same way, before settling back on his rock in the rapids."
+  },
+  {
+    "sent_id": 56,
+    "subj": "woman",
+    "verb": "reach",
+    "obj": "shore",
+    "label": "woman | reach | shore",
+    "sentence": "The woman reached the shore and cried out, \"Grandfather, take me across!"
+  },
+  {
+    "sent_id": 57,
+    "subj": "i",
+    "verb": "lose",
+    "obj": "child",
+    "label": "i | lose | child",
+    "sentence": "I\u2019ve lost my children and I am heartbroken."
+  },
+  {
+    "sent_id": 58,
+    "subj": "bird",
+    "verb": "come",
+    "obj": "she",
+    "label": "bird | come | she",
+    "sentence": "\"\n\nThe old bird came to her and repeated his warning about not touching the crown of his head several times, making sure she understood."
+  },
+  {
+    "sent_id": 59,
+    "subj": "she",
+    "verb": "promise",
+    "obj": "",
+    "label": "she | promise | \u2205",
+    "sentence": "She promised to obey."
+  },
+  {
+    "sent_id": 60,
+    "subj": "she",
+    "verb": "try",
+    "obj": "",
+    "label": "she | try | \u2205",
+    "sentence": "But as soon as they were flying over the river, she tried to break her promise."
+  },
+  {
+    "sent_id": 61,
+    "subj": "crane",
+    "verb": "throw",
+    "obj": "she",
+    "label": "crane | throw | she",
+    "sentence": "The crane instantly threw her into the rapids, flapping his wings to shake her off."
+  },
+  {
+    "sent_id": 62,
+    "subj": "he",
+    "verb": "say",
+    "obj": "",
+    "label": "he | say | \u2205",
+    "sentence": "\"There,\" he said as she sank beneath the waves, \"you have always done what was forbidden."
+  },
+  {
+    "sent_id": 63,
+    "subj": "you",
+    "verb": "seek",
+    "obj": "those",
+    "label": "you | seek | those",
+    "sentence": "In life, you sought those you should not."
+  },
+  {
+    "sent_id": 64,
+    "subj": "one",
+    "verb": "seek",
+    "obj": "you",
+    "label": "one | seek | you",
+    "sentence": "Now, no one will seek you."
+  },
+  {
+    "sent_id": 65,
+    "subj": "",
+    "verb": "go",
+    "obj": "",
+    "label": "\u2205 | go | \u2205",
+    "sentence": "Go, and be forever Addum Kum Maig!\""
+  },
+  {
+    "sent_id": 66,
+    "subj": "woman",
+    "verb": "disappear",
+    "obj": "",
+    "label": "woman | disappear | \u2205",
+    "sentence": "The woman disappeared, swept far away by the rushing waters, lost alone in the wide, endless wilderness."
+  },
+  {
+    "sent_id": 67,
+    "subj": "family",
+    "verb": "take",
+    "obj": "bird",
+    "label": "family | take | bird",
+    "sentence": "Grateful for the crane\u2019s help, the hunter\u2019s family took the bird as their symbol, and under the protection of the Crane that Crossed the River, they prospered with plenty by day and peace by night."
+  }
+]

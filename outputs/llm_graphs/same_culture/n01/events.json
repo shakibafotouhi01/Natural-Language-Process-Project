@@ -1,0 +1,154 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "raven",
+    "verb": "grow",
+    "obj": "",
+    "label": "raven | grow | \u2205",
+    "sentence": "Long ago, when the world was completely dark, the Raven, who had been there from the very start, grew tired of feeling around blindly and bumping into things in the dark."
+  },
+  {
+    "sent_id": 1,
+    "subj": "raven",
+    "verb": "find",
+    "obj": "home",
+    "label": "raven | find | home",
+    "sentence": "One day, the Raven found the home of an old man who lived alone with his daughter."
+  },
+  {
+    "sent_id": 2,
+    "subj": "raven",
+    "verb": "discover",
+    "obj": "",
+    "label": "raven | discover | \u2205",
+    "sentence": "Using his cunning, the Raven discovered that the old man held a great treasure\u2014the light of the whole universe\u2014kept safely inside a tiny box hidden within many other boxes."
+  },
+  {
+    "sent_id": 3,
+    "subj": "raven",
+    "verb": "decide",
+    "obj": "",
+    "label": "raven | decide | \u2205",
+    "sentence": "The Raven immediately decided to steal this light."
+  },
+  {
+    "sent_id": 4,
+    "subj": "he",
+    "verb": "think",
+    "obj": "",
+    "label": "he | think | \u2205",
+    "sentence": "He thought carefully and finally made a plan."
+  },
+  {
+    "sent_id": 5,
+    "subj": "he",
+    "verb": "wait",
+    "obj": "",
+    "label": "he | wait | \u2205",
+    "sentence": "He waited until the old man\u2019s daughter came down to the river to gather water."
+  },
+  {
+    "sent_id": 6,
+    "subj": "raven",
+    "verb": "transform",
+    "obj": "himself",
+    "label": "raven | transform | himself",
+    "sentence": "Then the Raven transformed himself into a tiny hemlock needle and dropped into the river just as the girl was scooping water into her basket."
+  },
+  {
+    "sent_id": 7,
+    "subj": "she",
+    "verb": "swallow",
+    "obj": "needle",
+    "label": "she | swallow | needle",
+    "sentence": "As she drank from the basket, she swallowed the needle."
+  },
+  {
+    "sent_id": 8,
+    "subj": "it",
+    "verb": "slide",
+    "obj": "belly",
+    "label": "it | slide | belly",
+    "sentence": "It slid down into her warm belly, where the Raven changed once again, this time into a little human."
+  },
+  {
+    "sent_id": 9,
+    "subj": "raven",
+    "verb": "come",
+    "obj": "world",
+    "label": "raven | come | world",
+    "sentence": "After sleeping and growing inside her for a very long time, the Raven finally came into the world again\u2014this time as a human baby."
+  },
+  {
+    "sent_id": 10,
+    "subj": "grandson",
+    "verb": "love",
+    "obj": "",
+    "label": "grandson | love | \u2205",
+    "sentence": "Though he looked quite strange, the old man\u2019s grandson was loved deeply."
+  },
+  {
+    "sent_id": 11,
+    "subj": "man",
+    "verb": "warn",
+    "obj": "boy",
+    "label": "man | warn | boy",
+    "sentence": "The old man warned the boy that if he ever touched the precious treasure box, there would be terrible consequences."
+  },
+  {
+    "sent_id": 12,
+    "subj": "child",
+    "verb": "beg",
+    "obj": "",
+    "label": "child | beg | \u2205",
+    "sentence": "But the Raven child begged and begged to hold the light, just for a moment."
+  },
+  {
+    "sent_id": 13,
+    "subj": "man",
+    "verb": "give",
+    "obj": "",
+    "label": "man | give | \u2205",
+    "sentence": "Eventually, the old man gave in."
+  },
+  {
+    "sent_id": 14,
+    "subj": "he",
+    "verb": "lift",
+    "obj": "ball",
+    "label": "he | lift | ball",
+    "sentence": "He lifted from the box a warm and glowing ball of light and threw it to his grandson."
+  },
+  {
+    "sent_id": 15,
+    "subj": "child",
+    "verb": "change",
+    "obj": "bird",
+    "label": "child | change | bird",
+    "sentence": "As the light moved toward him, the child changed suddenly into a huge black bird with wide wings and an open beak, ready to catch what was coming."
+  },
+  {
+    "sent_id": 16,
+    "subj": "raven",
+    "verb": "catch",
+    "obj": "it",
+    "label": "raven | catch | it",
+    "sentence": "When the beautiful glowing ball reached him, the Raven caught it in his beak!"
+  },
+  {
+    "sent_id": 17,
+    "subj": "he",
+    "verb": "burst",
+    "obj": "wing",
+    "label": "he | burst | wing",
+    "sentence": "With strong wings beating powerfully, he burst through the smokehole in the roof of the house and flew away into the darkness, carrying his stolen treasure."
+  },
+  {
+    "sent_id": 18,
+    "subj": "that",
+    "verb": "be",
+    "obj": "",
+    "label": "that | be | \u2205",
+    "sentence": "And that is how light came into the world."
+  }
+]

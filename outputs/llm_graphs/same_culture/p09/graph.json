@@ -1,0 +1,3068 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "zal | desire | \u2205",
+      "sent_id": 0,
+      "sentence": "Soon Zal desired to explore the kingdom.",
+      "subj": "zal",
+      "verb": "desire",
+      "obj": ""
+    },
+    {
+      "id": "e0001",
+      "label": "he | set | escort",
+      "sent_id": 1,
+      "sentence": "He set out with a grand escort and, after some travel, proudly entered Kabul.",
+      "subj": "he",
+      "verb": "set",
+      "obj": "escort"
+    },
+    {
+      "id": "e0002",
+      "label": "mihrab | be | \u2205",
+      "sent_id": 2,
+      "sentence": "Mihrab, the ruler there and a descendant of the serpent Zohak, was wise and noble.",
+      "subj": "mihrab",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0003",
+      "label": "mihrab | go | \u2205",
+      "sent_id": 3,
+      "sentence": "Hearing that Zal, son of Sam and to whom he paid tribute, was approaching, Mihrab went out to greet him with his nobles and slaves bearing valuable gifts.",
+      "subj": "mihrab",
+      "verb": "go",
+      "obj": ""
+    },
+    {
+      "id": "e0004",
+      "label": "zal | prepare | feast",
+      "sent_id": 4,
+      "sentence": "Zal, upon learning of Mihrab\u2019s arrival, prepared a feast in his tents.",
+      "subj": "zal",
+      "verb": "prepare",
+      "obj": "feast"
+    },
+    {
+      "id": "e0005",
+      "label": "mihrab | din | he",
+      "sent_id": 5,
+      "sentence": "Mihrab and his retinue dined with him late into the night.",
+      "subj": "mihrab",
+      "verb": "din",
+      "obj": "he"
+    },
+    {
+      "id": "e0006",
+      "label": "zal | praise | beauty",
+      "sent_id": 6,
+      "sentence": "After the guests left, Zal praised Mihrab\u2019s beauty.",
+      "subj": "zal",
+      "verb": "praise",
+      "obj": "beauty"
+    },
+    {
+      "id": "e0007",
+      "label": "nobleman | stand | \u2205",
+      "sent_id": 7,
+      "sentence": "Then a nobleman stood and told him, \u201cO Zal, you know not true beauty since you have not seen this man\u2019s daughter.",
+      "subj": "nobleman",
+      "verb": "stand",
+      "obj": ""
+    },
+    {
+      "id": "e0008",
+      "label": "face | shin | \u2205",
+      "sent_id": 8,
+      "sentence": "She is like a slender cypress, her face shines brighter than the sun, and her mouth is like a pomegranate blossom.\u201d",
+      "subj": "face",
+      "verb": "shin",
+      "obj": ""
+    },
+    {
+      "id": "e0009",
+      "label": "heart | fill | longing",
+      "sent_id": 9,
+      "sentence": "Hearing this, Zal\u2019s heart was filled with longing, and he could not sleep, thinking of her beauty.",
+      "subj": "heart",
+      "verb": "fill",
+      "obj": "longing"
+    },
+    {
+      "id": "e0010",
+      "label": "he | open | door",
+      "sent_id": 10,
+      "sentence": "At dawn, he opened his court doors, and the nobles gathered according to rank.",
+      "subj": "he",
+      "verb": "open",
+      "obj": "door"
+    },
+    {
+      "id": "e0011",
+      "label": "mihrab | arrive | \u2205",
+      "sent_id": 11,
+      "sentence": "Mihrab arrived to greet him from outside the city gates.",
+      "subj": "mihrab",
+      "verb": "arrive",
+      "obj": ""
+    },
+    {
+      "id": "e0012",
+      "label": "zal | want | \u2205",
+      "sent_id": 12,
+      "sentence": "Zal wanted Mihrab to ask a favor of him.",
+      "subj": "zal",
+      "verb": "want",
+      "obj": ""
+    },
+    {
+      "id": "e0013",
+      "label": "mihrab | speak | \u2205",
+      "sent_id": 13,
+      "sentence": "Mihrab spoke: \u201cO mighty ruler, I ask only that you stay as a guest under my roof so my heart may rejoice in your presence.\u201d",
+      "subj": "mihrab",
+      "verb": "speak",
+      "obj": ""
+    },
+    {
+      "id": "e0014",
+      "label": "zal | answer | \u2205",
+      "sent_id": 14,
+      "sentence": "Zal answered, \u201cO King, do not ask this favor; it cannot be done.",
+      "subj": "zal",
+      "verb": "answer",
+      "obj": ""
+    },
+    {
+      "id": "e0015",
+      "label": "shah | be | \u2205",
+      "sent_id": 15,
+      "sentence": "The Shah and Sam would be angry if they knew I dined under the roof of Zohak\u2019s kin.",
+      "subj": "shah",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0016",
+      "label": "\u2205 | ask | anything",
+      "sent_id": 16,
+      "sentence": "Ask for anything else.\u201d",
+      "subj": "",
+      "verb": "ask",
+      "obj": "anything"
+    },
+    {
+      "id": "e0017",
+      "label": "mihrab | leave | \u2205",
+      "sent_id": 17,
+      "sentence": "Mihrab left sadly, bowing before Zal.",
+      "subj": "mihrab",
+      "verb": "leave",
+      "obj": ""
+    },
+    {
+      "id": "e0018",
+      "label": "zal | watch | \u2205",
+      "sent_id": 18,
+      "sentence": "Zal watched him go and once more praised him.",
+      "subj": "zal",
+      "verb": "watch",
+      "obj": ""
+    },
+    {
+      "id": "e0019",
+      "label": "day | pass | \u2205",
+      "sent_id": 19,
+      "sentence": "Then his thoughts returned to the King\u2019s daughter and her beauty; days passed unnoticed as desire consumed him.",
+      "subj": "day",
+      "verb": "pass",
+      "obj": ""
+    },
+    {
+      "id": "e0020",
+      "label": "mihrab | visit | quarter",
+      "sent_id": 20,
+      "sentence": "One morning Mihrab visited the women\u2019s quarters, where he found Sindokht, his wife, and their daughter Rodabeh.",
+      "subj": "mihrab",
+      "verb": "visit",
+      "obj": "quarter"
+    },
+    {
+      "id": "e0021",
+      "label": "house | be | garden",
+      "sent_id": 21,
+      "sentence": "The house was like a garden full of color and sweet scents, and the two women shone like moons of beauty.",
+      "subj": "house",
+      "verb": "be",
+      "obj": "garden"
+    },
+    {
+      "id": "e0022",
+      "label": "mihrab | marvel | loveliness",
+      "sent_id": 22,
+      "sentence": "After greeting Rodabeh, Mihrab marveled at her loveliness and blessed her.",
+      "subj": "mihrab",
+      "verb": "marvel",
+      "obj": "loveliness"
+    },
+    {
+      "id": "e0023",
+      "label": "sindokht | ask | mihrab",
+      "sent_id": 23,
+      "sentence": "Sindokht asked Mihrab about the stranger in their city\u2019s tents: \u201cTell me, what kind of man is this white-haired son of Sam?",
+      "subj": "sindokht",
+      "verb": "ask",
+      "obj": "mihrab"
+    },
+    {
+      "id": "e0024",
+      "label": "mihrab | reply | \u2205",
+      "sent_id": 24,
+      "sentence": "Is he worthy of our nest, or even the throne?\u201d\n\nMihrab replied, \u201cO fair cypress, the son of Sam is a hero among men.",
+      "subj": "mihrab",
+      "verb": "reply",
+      "obj": ""
+    },
+    {
+      "id": "e0025",
+      "label": "heart | be | lion",
+      "sent_id": 25,
+      "sentence": "His heart is like a lion\u2019s, his strength an elephant\u2019s.",
+      "subj": "heart",
+      "verb": "be",
+      "obj": "lion"
+    },
+    {
+      "id": "e0026",
+      "label": "he | be | crocodile",
+      "sent_id": 26,
+      "sentence": "He is graceful to friends, a fierce crocodile to foes.",
+      "subj": "he",
+      "verb": "be",
+      "obj": "crocodile"
+    },
+    {
+      "id": "e0027",
+      "label": "lock | add | glory",
+      "sent_id": 27,
+      "sentence": "Even his white locks add to his glory, turning flaws into beauty.\u201d",
+      "subj": "lock",
+      "verb": "add",
+      "obj": "glory"
+    },
+    {
+      "id": "e0028",
+      "label": "heart | burn | love",
+      "sent_id": 28,
+      "sentence": "Hearing this, Rodabeh\u2019s heart burned with love for Zal.",
+      "subj": "heart",
+      "verb": "burn",
+      "obj": "love"
+    },
+    {
+      "id": "e0029",
+      "label": "she | be | \u2205",
+      "sent_id": 29,
+      "sentence": "She could neither eat nor rest; she was like one transformed.",
+      "subj": "she",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0030",
+      "label": "she | confide | slave",
+      "sent_id": 30,
+      "sentence": "Unable to bear it alone, she confided in her beloved slaves, begging them to keep her secret and help ease her troubled heart.",
+      "subj": "she",
+      "verb": "confide",
+      "obj": "slave"
+    },
+    {
+      "id": "e0031",
+      "label": "slave | beg | she",
+      "sent_id": 31,
+      "sentence": "Fearful, the slaves begged her to let go of a man marked by men and rejected by his own father, but Rodabeh would not listen.",
+      "subj": "slave",
+      "verb": "beg",
+      "obj": "she"
+    },
+    {
+      "id": "e0032",
+      "label": "wise | speak | \u2205",
+      "sent_id": 32,
+      "sentence": "Seeing her resolve, the wisest among them spoke: \u201cO moon-faced beauty and slender cypress, it shall be done as you wish.",
+      "subj": "wise",
+      "verb": "speak",
+      "obj": ""
+    },
+    {
+      "id": "e0033",
+      "label": "we | rest | \u2205",
+      "sent_id": 33,
+      "sentence": "We will not rest until this royal youth lies at your feet.\u201d",
+      "subj": "we",
+      "verb": "rest",
+      "obj": ""
+    },
+    {
+      "id": "e0034",
+      "label": "rodabeh | be | \u2205",
+      "sent_id": 34,
+      "sentence": "Rodabeh was glad and promised to plant a noble tree for the faithful slave, which would bear riches, jewels, and wisdom.",
+      "subj": "rodabeh",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0035",
+      "label": "slave | go | work",
+      "sent_id": 35,
+      "sentence": "The slaves went to work, knowing their plan must be subtle.",
+      "subj": "slave",
+      "verb": "go",
+      "obj": "work"
+    },
+    {
+      "id": "e0036",
+      "label": "they | enter | garden",
+      "sent_id": 36,
+      "sentence": "Dressed in fine clothes, they cheerfully entered the garden by the river outside the city, picking roses and scattering blossoms in the water to tell fortunes.",
+      "subj": "they",
+      "verb": "enter",
+      "obj": "garden"
+    },
+    {
+      "id": "e0037",
+      "label": "they | come | tent",
+      "sent_id": 37,
+      "sentence": "There they came near Zal\u2019s tents.",
+      "subj": "they",
+      "verb": "come",
+      "obj": "tent"
+    },
+    {
+      "id": "e0038",
+      "label": "one | say | \u2205",
+      "sent_id": 38,
+      "sentence": "Zal noticed them and asked who they were; one said, \u201cThey are slaves sent by the moon of Kabul into the garden of flowers.\u201d\n\nZal\u2019s heart leapt with joy.",
+      "subj": "one",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0039",
+      "label": "he | go | river",
+      "sent_id": 39,
+      "sentence": "He went to the river with one page.",
+      "subj": "he",
+      "verb": "go",
+      "obj": "river"
+    },
+    {
+      "id": "e0040",
+      "label": "he | shoot | \u2205",
+      "sent_id": 40,
+      "sentence": "Seeing a waterbird flying up, he shot and struck it through the heart, and it fell near the rose-gatherers.",
+      "subj": "he",
+      "verb": "shoot",
+      "obj": ""
+    },
+    {
+      "id": "e0041",
+      "label": "he | send | boy",
+      "sent_id": 41,
+      "sentence": "He sent the boy to retrieve it.",
+      "subj": "he",
+      "verb": "send",
+      "obj": "boy"
+    },
+    {
+      "id": "e0042",
+      "label": "he | be | king",
+      "sent_id": 43,
+      "sentence": "Surely he is king among men.\u201d",
+      "subj": "he",
+      "verb": "be",
+      "obj": "king"
+    },
+    {
+      "id": "e0043",
+      "label": "boy | answer | \u2205",
+      "sent_id": 44,
+      "sentence": "The boy answered, \u201cDon\u2019t you know the son of Sam, the hero?",
+      "subj": "boy",
+      "verb": "answer",
+      "obj": ""
+    },
+    {
+      "id": "e0044",
+      "label": "\u2205 | be | equal",
+      "sent_id": 45,
+      "sentence": "There is no equal in strength or beauty.\u201d",
+      "subj": "",
+      "verb": "be",
+      "obj": "equal"
+    },
+    {
+      "id": "e0045",
+      "label": "woman | object | \u2205",
+      "sent_id": 46,
+      "sentence": "The women objected, \u201cNay, boast not so.",
+      "subj": "woman",
+      "verb": "object",
+      "obj": ""
+    },
+    {
+      "id": "e0046",
+      "label": "house | hold | sun",
+      "sent_id": 47,
+      "sentence": "The house of Mihrab holds a sun that outshines all else.\u201d",
+      "subj": "house",
+      "verb": "hold",
+      "obj": "sun"
+    },
+    {
+      "id": "e0047",
+      "label": "boy | smile | \u2205",
+      "sent_id": 48,
+      "sentence": "The boy smiled and returned to Zal.",
+      "subj": "boy",
+      "verb": "smile",
+      "obj": ""
+    },
+    {
+      "id": "e0048",
+      "label": "zal | ask | \u2205",
+      "sent_id": 49,
+      "sentence": "Zal asked why he smiled so, and he told him what the women said.",
+      "subj": "zal",
+      "verb": "ask",
+      "obj": ""
+    },
+    {
+      "id": "e0049",
+      "label": "zal | send | he",
+      "sent_id": 50,
+      "sentence": "Zal sent him back with gifts of pearl and gold, asking them to stay and carry jewels with their roses.",
+      "subj": "zal",
+      "verb": "send",
+      "obj": "he"
+    },
+    {
+      "id": "e0050",
+      "label": "slave | ask | \u2205",
+      "sent_id": 51,
+      "sentence": "The slave who had sworn to serve Rodabeh asked to see Zal\u2019s face, saying, \u201cA secret known by three is no secret.\u201d",
+      "subj": "slave",
+      "verb": "ask",
+      "obj": ""
+    },
+    {
+      "id": "e0051",
+      "label": "zal | allow | it",
+      "sent_id": 52,
+      "sentence": "Zal allowed it, and she told him of Rodabeh\u2019s beauty.",
+      "subj": "zal",
+      "verb": "allow",
+      "obj": "it"
+    },
+    {
+      "id": "e0052",
+      "label": "passion | grow | \u2205",
+      "sent_id": 53,
+      "sentence": "His passion grew, and he asked her to show the way to see the maiden.",
+      "subj": "passion",
+      "verb": "grow",
+      "obj": ""
+    },
+    {
+      "id": "e0053",
+      "label": "slave | say | \u2205",
+      "sent_id": 54,
+      "sentence": "The slave said, \u201cLet us return to the women\u2019s house.",
+      "subj": "slave",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0054",
+      "label": "we | praise | son",
+      "sent_id": 55,
+      "sentence": "We will praise the son of Sam to Rodabeh and weave the net that will trap the lion in his chase of the lamb.\u201d",
+      "subj": "we",
+      "verb": "praise",
+      "obj": "son"
+    },
+    {
+      "id": "e0055",
+      "label": "zal | agree | \u2205",
+      "sent_id": 56,
+      "sentence": "Zal agreed, and the women returned, joyful, saying, \u201cThe lion is entering the snare, and the wishes of Rodabeh and Zal will come to pass.\u201d",
+      "subj": "zal",
+      "verb": "agree",
+      "obj": ""
+    },
+    {
+      "id": "e0056",
+      "label": "porter | scold | they",
+      "sent_id": 57,
+      "sentence": "Yet, at the city gates, a porter scolded them for leaving while the stranger stayed in Kabul.",
+      "subj": "porter",
+      "verb": "scold",
+      "obj": "they"
+    },
+    {
+      "id": "e0057",
+      "label": "they | calm | anger",
+      "sent_id": 58,
+      "sentence": "They calmed his anger and reached Rodabeh.",
+      "subj": "they",
+      "verb": "calm",
+      "obj": "anger"
+    },
+    {
+      "id": "e0058",
+      "label": "they | tell | she",
+      "sent_id": 59,
+      "sentence": "They told her of Zal\u2019s beauty and prowess.",
+      "subj": "they",
+      "verb": "tell",
+      "obj": "she"
+    },
+    {
+      "id": "e0059",
+      "label": "she | smile | \u2205",
+      "sent_id": 60,
+      "sentence": "She smiled and said, \u201cWhy have you changed your tune?",
+      "subj": "she",
+      "verb": "smile",
+      "obj": ""
+    },
+    {
+      "id": "e0060",
+      "label": "you | mock | youth",
+      "sent_id": 61,
+      "sentence": "You once mocked this bird-reared youth with the sage\u2019s locks, but now sing his praises with loud voices.\u201d",
+      "subj": "you",
+      "verb": "mock",
+      "obj": "youth"
+    },
+    {
+      "id": "e0061",
+      "label": "rodabeh | prepare | home",
+      "sent_id": 62,
+      "sentence": "Rodabeh secretly prepared her home to honor a guest, adorning it with brocades from Rome and silks from India, perfumed with musk and ambergris, and blossoming with flowers.",
+      "subj": "rodabeh",
+      "verb": "prepare",
+      "obj": "home"
+    },
+    {
+      "id": "e0062",
+      "label": "all | be | \u2205",
+      "sent_id": 63,
+      "sentence": "As night fell, a slave came to Zal, whispering, \u201cCome, all is ready.\u201d",
+      "subj": "all",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0063",
+      "label": "he | follow | she",
+      "sent_id": 64,
+      "sentence": "He followed her.",
+      "subj": "he",
+      "verb": "follow",
+      "obj": "she"
+    },
+    {
+      "id": "e0064",
+      "label": "zal | see | house",
+      "sent_id": 65,
+      "sentence": "At the women\u2019s house, Zal saw Rodabeh standing on the roof.",
+      "subj": "zal",
+      "verb": "see",
+      "obj": "house"
+    },
+    {
+      "id": "e0065",
+      "label": "beauty | be | cypress",
+      "sent_id": 66,
+      "sentence": "Her beauty was like a cypress under a full moon.",
+      "subj": "beauty",
+      "verb": "be",
+      "obj": "cypress"
+    },
+    {
+      "id": "e0066",
+      "label": "she | welcome | he",
+      "sent_id": 67,
+      "sentence": "She welcomed him: \u201cO young man, son of a hero, Heaven\u2019s blessings upon you!\u201d",
+      "subj": "she",
+      "verb": "welcome",
+      "obj": "he"
+    },
+    {
+      "id": "e0067",
+      "label": "zal | reply | prayer",
+      "sent_id": 68,
+      "sentence": "Zal replied with prayers to meet her more closely, for she was above on the roof, and he below.",
+      "subj": "zal",
+      "verb": "reply",
+      "obj": "prayer"
+    },
+    {
+      "id": "e0068",
+      "label": "rodabeh | let | hair",
+      "sent_id": 69,
+      "sentence": "Rodabeh let down her long hair, saying, \u201cHere is a flawless rope.",
+      "subj": "rodabeh",
+      "verb": "let",
+      "obj": "hair"
+    },
+    {
+      "id": "e0069",
+      "label": "climb | ensnare | you",
+      "sent_id": 70,
+      "sentence": "Climb, O warrior, and seize my dark locks; it is fitting I ensnare you.\u201d",
+      "subj": "climb",
+      "verb": "ensnare",
+      "obj": "you"
+    },
+    {
+      "id": "e0070",
+      "label": "i | become | you",
+      "sent_id": 71,
+      "sentence": "Zal replied, \u201cNo, fair one; I would ill become you if I harmed you.\u201d",
+      "subj": "i",
+      "verb": "become",
+      "obj": "you"
+    },
+    {
+      "id": "e0071",
+      "label": "he | kiss | hair",
+      "sent_id": 72,
+      "sentence": "He kissed her hair, called for a rope, tied a running knot, threw it up, and climbed to the roof.",
+      "subj": "he",
+      "verb": "kiss",
+      "obj": "hair"
+    },
+    {
+      "id": "e0072",
+      "label": "they | enter | chamber",
+      "sent_id": 73,
+      "sentence": "Hand in hand, they entered the golden chambers, surrounded by slaves.",
+      "subj": "they",
+      "verb": "enter",
+      "obj": "chamber"
+    },
+    {
+      "id": "e0073",
+      "label": "they | gaze | one",
+      "sent_id": 74,
+      "sentence": "They gazed upon one another, recognizing great beauty, and hours passed with sweet conversation as love grew.",
+      "subj": "they",
+      "verb": "gaze",
+      "obj": "one"
+    },
+    {
+      "id": "e0074",
+      "label": "zal | say | \u2205",
+      "sent_id": 75,
+      "sentence": "Zal said, \u201cO cypress, scented with musk, when Minuchihr and Sam learn this, they will be angry, accusing me of forgetting God and lifting their hands against me.",
+      "subj": "zal",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0075",
+      "label": "i | swear | \u2205",
+      "sent_id": 76,
+      "sentence": "But I swear this life is worthless if not spent with you.",
+      "subj": "i",
+      "verb": "swear",
+      "obj": ""
+    },
+    {
+      "id": "e0076",
+      "label": "i | call | heaven",
+      "sent_id": 77,
+      "sentence": "I call upon Heaven to hear me: none",
+      "subj": "i",
+      "verb": "call",
+      "obj": "heaven"
+    },
+    {
+      "id": "e0077",
+      "label": "you | be | bride",
+      "sent_id": 78,
+      "sentence": "but you shall be my bride.\u201d",
+      "subj": "you",
+      "verb": "be",
+      "obj": "bride"
+    },
+    {
+      "id": "e0078",
+      "label": "rodabeh | swear | oath",
+      "sent_id": 79,
+      "sentence": "Rodabeh swore the same oath.",
+      "subj": "rodabeh",
+      "verb": "swear",
+      "obj": "oath"
+    },
+    {
+      "id": "e0079",
+      "label": "drum | sound | tent",
+      "sent_id": 80,
+      "sentence": "Dawn\u2019s drums sounded from the King\u2019s tents, announcing the day\u2019s arrival.",
+      "subj": "drum",
+      "verb": "sound",
+      "obj": "tent"
+    },
+    {
+      "id": "e0080",
+      "label": "zal | cry | glory",
+      "sent_id": 81,
+      "sentence": "Zal and Rodabeh cried together, \u201cO glory of the world, stay a while, do not come so quickly!\u201d",
+      "subj": "zal",
+      "verb": "cry",
+      "obj": "glory"
+    },
+    {
+      "id": "e0081",
+      "label": "sun | pay | heed",
+      "sent_id": 82,
+      "sentence": "But the sun paid no heed, and it was time to part.",
+      "subj": "sun",
+      "verb": "pay",
+      "obj": "heed"
+    },
+    {
+      "id": "e0082",
+      "label": "zal | let | \u2205",
+      "sent_id": 83,
+      "sentence": "Zal let himself down from the battlements and left his beloved\u2019s house.",
+      "subj": "zal",
+      "verb": "let",
+      "obj": ""
+    },
+    {
+      "id": "e0083",
+      "label": "zal | receive | greeting",
+      "sent_id": 84,
+      "sentence": "When daylight filled the earth, Zal received the usual greetings from nobles and chiefs.",
+      "subj": "zal",
+      "verb": "receive",
+      "obj": "greeting"
+    },
+    {
+      "id": "e0084",
+      "label": "he | gather | mubid",
+      "sent_id": 85,
+      "sentence": "He gathered his Mubids (wise men) and told them of his love for a daughter of the serpent lineage.",
+      "subj": "he",
+      "verb": "gather",
+      "obj": "mubid"
+    },
+    {
+      "id": "e0085",
+      "label": "none | wish | \u2205",
+      "sent_id": 86,
+      "sentence": "The Mubids were troubled and kept silent; none wished to poison the sweetness of this love.",
+      "subj": "none",
+      "verb": "wish",
+      "obj": ""
+    },
+    {
+      "id": "e0086",
+      "label": "zal | urge | they",
+      "sent_id": 87,
+      "sentence": "Zal urged them to speak, promising rich gifts.",
+      "subj": "zal",
+      "verb": "urge",
+      "obj": "they"
+    },
+    {
+      "id": "e0087",
+      "label": "they | say | \u2205",
+      "sent_id": 88,
+      "sentence": "They said a king\u2019s honor is not hurt by a woman, and though Mihrab was descended from Zohak, he was noble and brave.",
+      "subj": "they",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0088",
+      "label": "they | advise | zal",
+      "sent_id": 89,
+      "sentence": "They advised Zal to write to his father and ask Sam to appear before the Shah.",
+      "subj": "they",
+      "verb": "advise",
+      "obj": "zal"
+    },
+    {
+      "id": "e0089",
+      "label": "zal | call | scribe",
+      "sent_id": 90,
+      "sentence": "Zal called a scribe and dictated his letter.",
+      "subj": "zal",
+      "verb": "call",
+      "obj": "scribe"
+    },
+    {
+      "id": "e0090",
+      "label": "he | tell | sam",
+      "sent_id": 91,
+      "sentence": "He told Sam of his love and fears, reminded him of being cast out at birth, raised by a bird in a nest beneath the sun, while his father lived in silk.",
+      "subj": "he",
+      "verb": "tell",
+      "obj": "sam"
+    },
+    {
+      "id": "e0091",
+      "label": "\u2205 | recall | promise",
+      "sent_id": 92,
+      "sentence": "He did not defend what happened, only recalled Sam\u2019s promise.",
+      "subj": "",
+      "verb": "recall",
+      "obj": "promise"
+    },
+    {
+      "id": "e0092",
+      "label": "he | give | letter",
+      "sent_id": 93,
+      "sentence": "He gave the letter to a messenger to ride swiftly to Sam.",
+      "subj": "he",
+      "verb": "give",
+      "obj": "letter"
+    },
+    {
+      "id": "e0093",
+      "label": "sam | trouble | \u2205",
+      "sent_id": 94,
+      "sentence": "Sam was troubled when he heard.",
+      "subj": "sam",
+      "verb": "trouble",
+      "obj": ""
+    },
+    {
+      "id": "e0094",
+      "label": "woe | be | i",
+      "sent_id": 95,
+      "sentence": "\u201cWoe is me.",
+      "subj": "woe",
+      "verb": "be",
+      "obj": "i"
+    },
+    {
+      "id": "e0095",
+      "label": "fosterling | seek | \u2205",
+      "sent_id": 96,
+      "sentence": "The wild bird\u2019s fosterling seeks to unite with a cursed race.\u201d",
+      "subj": "fosterling",
+      "verb": "seek",
+      "obj": ""
+    },
+    {
+      "id": "e0096",
+      "label": "what | come | union",
+      "sent_id": 97,
+      "sentence": "He pondered his reply: if he forbade Zal\u2019s desire, he\u2019d break his oath; if he allowed it, what could come from the union of a Deev and a bird\u2019s son?",
+      "subj": "what",
+      "verb": "come",
+      "obj": "union"
+    },
+    {
+      "id": "e0097",
+      "label": "he | call | mubid",
+      "sent_id": 98,
+      "sentence": "Burdened, he called his Mubids to read the stars, for blending fire and water could bring disaster.",
+      "subj": "he",
+      "verb": "call",
+      "obj": "mubid"
+    },
+    {
+      "id": "e0098",
+      "label": "they | cast | horoscope",
+      "sent_id": 99,
+      "sentence": "All day they cast the horoscope for Zal and Rodabeh.",
+      "subj": "they",
+      "verb": "cast",
+      "obj": "horoscope"
+    },
+    {
+      "id": "e0099",
+      "label": "they | return | dusk",
+      "sent_id": 100,
+      "sentence": "At dusk, they returned rejoicing.",
+      "subj": "they",
+      "verb": "return",
+      "obj": "dusk"
+    },
+    {
+      "id": "e0100",
+      "label": "spring | bring | son",
+      "sent_id": 101,
+      "sentence": "To Sam they said, \u201cHail, Sam, for we have read the skies; A clear spring will bring a son to Zal, a hero unmatched in power and glory in Iran.\u201d",
+      "subj": "spring",
+      "verb": "bring",
+      "obj": "son"
+    },
+    {
+      "id": "e0101",
+      "label": "heart | lift | \u2205",
+      "sent_id": 102,
+      "sentence": "Sam\u2019s heart lifted.",
+      "subj": "heart",
+      "verb": "lift",
+      "obj": ""
+    },
+    {
+      "id": "e0102",
+      "label": "he | reward | man",
+      "sent_id": 103,
+      "sentence": "He rewarded the wise men and sent the messenger back to Zal with words: \u201cI find your passion folly, son, but bound by oath, it shall be fulfilled.",
+      "subj": "he",
+      "verb": "reward",
+      "obj": "man"
+    },
+    {
+      "id": "e0103",
+      "label": "i | go | iran",
+      "sent_id": 104,
+      "sentence": "I go to Iran to plead your case to the Shah.\u201d",
+      "subj": "i",
+      "verb": "go",
+      "obj": "iran"
+    },
+    {
+      "id": "e0104",
+      "label": "sam | assemble | army",
+      "sent_id": 105,
+      "sentence": "Sam assembled his army and set out to Iran with trumpets and cymbals heralding his arrival.",
+      "subj": "sam",
+      "verb": "assemble",
+      "obj": "army"
+    },
+    {
+      "id": "e0105",
+      "label": "he | praise | god",
+      "sent_id": 106,
+      "sentence": "When the messenger returned to Zal, he praised God and gave gifts to the poor and his servants.",
+      "subj": "he",
+      "verb": "praise",
+      "obj": "god"
+    },
+    {
+      "id": "e0106",
+      "label": "soul | burn | longing",
+      "sent_id": 107,
+      "sentence": "Yet no sleep touched Zal\u2019s eyes, nor could he find rest; his soul burned with longing.",
+      "subj": "soul",
+      "verb": "burn",
+      "obj": "longing"
+    },
+    {
+      "id": "e0107",
+      "label": "slave | come | letter",
+      "sent_id": 108,
+      "sentence": "One day, a slave came with Sam\u2019s letter for Rodabeh.",
+      "subj": "slave",
+      "verb": "come",
+      "obj": "letter"
+    },
+    {
+      "id": "e0108",
+      "label": "she | rejoice | \u2205",
+      "sent_id": 109,
+      "sentence": "She rejoiced and sent back a precious crown and ring.",
+      "subj": "she",
+      "verb": "rejoice",
+      "obj": ""
+    },
+    {
+      "id": "e0109",
+      "label": "she | meet | sindokht",
+      "sent_id": 110,
+      "sentence": "On leaving her chamber, she met Queen Sindokht, who questioned her sharply about her comings and goings.",
+      "subj": "she",
+      "verb": "meet",
+      "obj": "sindokht"
+    },
+    {
+      "id": "e0110",
+      "label": "trembling | lie | \u2205",
+      "sent_id": 111,
+      "sentence": "The slave, trembling, lied that she sold jewels and robes.",
+      "subj": "trembling",
+      "verb": "lie",
+      "obj": ""
+    },
+    {
+      "id": "e0111",
+      "label": "sindokht | demand | proof",
+      "sent_id": 112,
+      "sentence": "Sindokht demanded proof and found the tiara Rodabeh had embroidered in the slave\u2019s sleeve.",
+      "subj": "sindokht",
+      "verb": "demand",
+      "obj": "proof"
+    },
+    {
+      "id": "e0112",
+      "label": "sindokht | order | slave",
+      "sent_id": 113,
+      "sentence": "Angered, Sindokht ordered the slave chained and called her daughter.",
+      "subj": "sindokht",
+      "verb": "order",
+      "obj": "slave"
+    },
+    {
+      "id": "e0113",
+      "label": "she | say | rodabeh",
+      "sent_id": 114,
+      "sentence": "To Rodabeh she said, \u201cO moon of noble race, blind to all but goodness, how have you strayed on evil paths?",
+      "subj": "she",
+      "verb": "say",
+      "obj": "rodabeh"
+    },
+    {
+      "id": "e0114",
+      "label": "man | mean | which",
+      "sent_id": 117,
+      "sentence": "For which man are they meant?\u201d",
+      "subj": "man",
+      "verb": "mean",
+      "obj": "which"
+    },
+    {
+      "id": "e0115",
+      "label": "rodabeh | ashame | \u2205",
+      "sent_id": 118,
+      "sentence": "Rodabeh, ashamed, confessed all.",
+      "subj": "rodabeh",
+      "verb": "ashame",
+      "obj": ""
+    },
+    {
+      "id": "e0116",
+      "label": "sindokht | fear | wrath",
+      "sent_id": 119,
+      "sentence": "Sindokht feared the Shah\u2019s wrath and wept alone in sorrow.",
+      "subj": "sindokht",
+      "verb": "fear",
+      "obj": "wrath"
+    },
+    {
+      "id": "e0117",
+      "label": "mihrab | enter | \u2205",
+      "sent_id": 120,
+      "sentence": "Mihrab entered and found her grieving.",
+      "subj": "mihrab",
+      "verb": "enter",
+      "obj": ""
+    },
+    {
+      "id": "e0118",
+      "label": "she | tell | he",
+      "sent_id": 121,
+      "sentence": "She told him of Rodabeh\u2019s love for Zal.",
+      "subj": "she",
+      "verb": "tell",
+      "obj": "he"
+    },
+    {
+      "id": "e0119",
+      "label": "heart | trouble | \u2205",
+      "sent_id": 122,
+      "sentence": "Mihrab\u2019s heart troubled as well, knowing Kabul could not withstand the Shah\u2019s might.",
+      "subj": "heart",
+      "verb": "trouble",
+      "obj": ""
+    },
+    {
+      "id": "e0120",
+      "label": "minuchihr | disturb | \u2205",
+      "sent_id": 123,
+      "sentence": "Minuchihr, too, was disturbed, fearing this union was Ahriman\u2019s evil plot.",
+      "subj": "minuchihr",
+      "verb": "disturb",
+      "obj": ""
+    },
+    {
+      "id": "e0121",
+      "label": "he | order | nauder",
+      "sent_id": 124,
+      "sentence": "He ordered Nauder to summon Sam.",
+      "subj": "he",
+      "verb": "order",
+      "obj": "nauder"
+    },
+    {
+      "id": "e0122",
+      "label": "sam | come | shah",
+      "sent_id": 125,
+      "sentence": "Sam came gladly before the Shah, kissing the ground and blessing him.",
+      "subj": "sam",
+      "verb": "come",
+      "obj": "shah"
+    },
+    {
+      "id": "e0123",
+      "label": "minuchihr | welcome | he",
+      "sent_id": 126,
+      "sentence": "Minuchihr welcomed him, asked of the wars and the Mazinderan Deevs, and Sam told his battles.",
+      "subj": "minuchihr",
+      "verb": "welcome",
+      "obj": "he"
+    },
+    {
+      "id": "e0124",
+      "label": "shah | rejoice | valor",
+      "sent_id": 127,
+      "sentence": "The Shah rejoiced at his valor, praised him, and called for a feast where heroes drank and feasted through the night.",
+      "subj": "shah",
+      "verb": "rejoice",
+      "obj": "valor"
+    },
+    {
+      "id": "e0125",
+      "label": "court | open | dawn",
+      "sent_id": 128,
+      "sentence": "At dawn, the king\u2019s court opened for petitioners.",
+      "subj": "court",
+      "verb": "open",
+      "obj": "dawn"
+    },
+    {
+      "id": "e0126",
+      "label": "sam | come | \u2205",
+      "sent_id": 129,
+      "sentence": "Sam came first to speak of Zal\u2019s love, but Minuchihr would not let him speak fully.",
+      "subj": "sam",
+      "verb": "come",
+      "obj": ""
+    },
+    {
+      "id": "e0127",
+      "label": "he | command | \u2205",
+      "sent_id": 130,
+      "sentence": "Instead, he commanded: \u201cGo with your army.",
+      "subj": "he",
+      "verb": "command",
+      "obj": ""
+    },
+    {
+      "id": "e0128",
+      "label": "\u2205 | let | \u2205",
+      "sent_id": 131,
+      "sentence": "March on Kabul, burn Mihrab\u2019s house, destroy the serpent\u2019s seed; let none survive.",
+      "subj": "",
+      "verb": "let",
+      "obj": ""
+    },
+    {
+      "id": "e0129",
+      "label": "earth | rid | brood",
+      "sent_id": 132,
+      "sentence": "The earth must be rid of this brood.\u201d",
+      "subj": "earth",
+      "verb": "rid",
+      "obj": "brood"
+    },
+    {
+      "id": "e0130",
+      "label": "sam | see | anger",
+      "sent_id": 133,
+      "sentence": "Sam saw the Shah\u2019s anger and knew words would not help.",
+      "subj": "sam",
+      "verb": "see",
+      "obj": "anger"
+    },
+    {
+      "id": "e0131",
+      "label": "he | bow | earth",
+      "sent_id": 134,
+      "sentence": "He bowed on the earth and said, \u201cI obey.\u201d",
+      "subj": "he",
+      "verb": "bow",
+      "obj": "earth"
+    },
+    {
+      "id": "e0132",
+      "label": "army | advance | \u2205",
+      "sent_id": 135,
+      "sentence": "His army advanced, shaking the land.",
+      "subj": "army",
+      "verb": "advance",
+      "obj": ""
+    },
+    {
+      "id": "e0133",
+      "label": "news | bring | despair",
+      "sent_id": 136,
+      "sentence": "News of Sam\u2019s approach brought despair to Kabul.",
+      "subj": "news",
+      "verb": "bring",
+      "obj": "despair"
+    },
+    {
+      "id": "e0134",
+      "label": "house | fill | weeping",
+      "sent_id": 137,
+      "sentence": "Mihrab\u2019s house was filled with weeping.",
+      "subj": "house",
+      "verb": "fill",
+      "obj": "weeping"
+    },
+    {
+      "id": "e0135",
+      "label": "zal | be | \u2205",
+      "sent_id": 138,
+      "sentence": "But Zal was angry and went to his father\u2019s camp, asking for an audience.",
+      "subj": "zal",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0136",
+      "label": "sam | grant | it",
+      "sent_id": 139,
+      "sentence": "Sam granted it.",
+      "subj": "sam",
+      "verb": "grant",
+      "obj": "it"
+    },
+    {
+      "id": "e0137",
+      "label": "zal | remind | sam",
+      "sent_id": 140,
+      "sentence": "Zal reminded Sam of his oath, begging mercy for Kabul\u2019s innocents.",
+      "subj": "zal",
+      "verb": "remind",
+      "obj": "sam"
+    },
+    {
+      "id": "e0138",
+      "label": "heart | move | \u2205",
+      "sent_id": 141,
+      "sentence": "Sam\u2019s heart moved.",
+      "subj": "heart",
+      "verb": "move",
+      "obj": ""
+    },
+    {
+      "id": "e0139",
+      "label": "you | speak | \u2205",
+      "sent_id": 142,
+      "sentence": "\u201cYou speak rightly, my son.",
+      "subj": "you",
+      "verb": "speak",
+      "obj": ""
+    },
+    {
+      "id": "e0140",
+      "label": "i | be | birth",
+      "sent_id": 143,
+      "sentence": "I have been unjust to you since birth.",
+      "subj": "i",
+      "verb": "be",
+      "obj": "birth"
+    },
+    {
+      "id": "e0141",
+      "label": "i | find | remedy",
+      "sent_id": 144,
+      "sentence": "Hold your wrath; I will find a remedy.",
+      "subj": "i",
+      "verb": "find",
+      "obj": "remedy"
+    },
+    {
+      "id": "e0142",
+      "label": "you | bear | letter",
+      "sent_id": 145,
+      "sentence": "You shall bear a letter to the Shah, and when he sees you, his heart will soften.\u201d",
+      "subj": "you",
+      "verb": "bear",
+      "obj": "letter"
+    },
+    {
+      "id": "e0143",
+      "label": "zal | kiss | hand",
+      "sent_id": 146,
+      "sentence": "Zal kissed his father\u2019s hand and received blessings.",
+      "subj": "zal",
+      "verb": "kiss",
+      "obj": "hand"
+    },
+    {
+      "id": "e0144",
+      "label": "sam | write | letter",
+      "sent_id": 147,
+      "sentence": "Sam wrote the letter recounting his deeds for Iran, his wars, his slaying of the dragon, and the peace he brought.",
+      "subj": "sam",
+      "verb": "write",
+      "obj": "letter"
+    },
+    {
+      "id": "e0145",
+      "label": "he | fight | \u2205",
+      "sent_id": 148,
+      "sentence": "Growing old, he could no longer fight, but his brave son followed him.",
+      "subj": "he",
+      "verb": "fight",
+      "obj": ""
+    },
+    {
+      "id": "e0146",
+      "label": "heart | consume | \u2205",
+      "sent_id": 149,
+      "sentence": "Yet his son\u2019s heart was consumed by love\u2014a longing that might kill him if denied.",
+      "subj": "heart",
+      "verb": "consume",
+      "obj": ""
+    },
+    {
+      "id": "e0147",
+      "label": "sam | entrust | matter",
+      "sent_id": 150,
+      "sentence": "Sam entrusted the matter to the Shah\u2019s wisdom.",
+      "subj": "sam",
+      "verb": "entrust",
+      "obj": "matter"
+    },
+    {
+      "id": "e0148",
+      "label": "zal | set | letter",
+      "sent_id": 151,
+      "sentence": "Zal set out with the letter, accompanied by the kingdom\u2019s finest.",
+      "subj": "zal",
+      "verb": "set",
+      "obj": "letter"
+    },
+    {
+      "id": "e0149",
+      "label": "mihrab | wonder | \u2205",
+      "sent_id": 152,
+      "sentence": "Fear gripped Kabul; Mihrab wondered how to calm the King.",
+      "subj": "mihrab",
+      "verb": "wonder",
+      "obj": ""
+    },
+    {
+      "id": "e0150",
+      "label": "he | say | sindokht",
+      "sent_id": 153,
+      "sentence": "He said to Sindokht, \u201cThe King is enraged because of you and Rodabeh.",
+      "subj": "he",
+      "verb": "say",
+      "obj": "sindokht"
+    },
+    {
+      "id": "e0151",
+      "label": "i | lead | rodabeh",
+      "sent_id": 154,
+      "sentence": "Since I cannot face him, I will lead Rodabeh to his court and kill her before his eyes.",
+      "subj": "i",
+      "verb": "lead",
+      "obj": "rodabeh"
+    },
+    {
+      "id": "e0152",
+      "label": "wrath | ease | \u2205",
+      "sent_id": 155,
+      "sentence": "Perhaps his wrath will ease thus.\u201d",
+      "subj": "wrath",
+      "verb": "ease",
+      "obj": ""
+    },
+    {
+      "id": "e0153",
+      "label": "sindokht | keep | \u2205",
+      "sent_id": 156,
+      "sentence": "Sindokht, quick-witted, kept silent, then asked for the treasury key.",
+      "subj": "sindokht",
+      "verb": "keep",
+      "obj": ""
+    },
+    {
+      "id": "e0154",
+      "label": "\u2205 | let | \u2205",
+      "sent_id": 157,
+      "sentence": "\u201cLet me take what I need and go to Sam.",
+      "subj": "",
+      "verb": "let",
+      "obj": ""
+    },
+    {
+      "id": "e0155",
+      "label": "i | sway | he",
+      "sent_id": 158,
+      "sentence": "Perhaps I can sway him to spare Kabul.\u201d",
+      "subj": "i",
+      "verb": "sway",
+      "obj": "he"
+    },
+    {
+      "id": "e0156",
+      "label": "mihrab | agree | \u2205",
+      "sent_id": 159,
+      "sentence": "Mihrab, distraught, agreed.",
+      "subj": "mihrab",
+      "verb": "agree",
+      "obj": ""
+    },
+    {
+      "id": "e0157",
+      "label": "sindokht | leave | \u2205",
+      "sent_id": 160,
+      "sentence": "Sindokht left, bringing with her immense gifts: three hundred thousand gold coins, sixty silver-trimmed horses with slaves bearing cups of musk and precious stones, two hundred camels, and four elephants from India laden with brocade and carpets.",
+      "subj": "sindokht",
+      "verb": "leave",
+      "obj": ""
+    },
+    {
+      "id": "e0158",
+      "label": "retinue | stretch | mile",
+      "sent_id": 161,
+      "sentence": "Her retinue stretched two miles beyond Kabul\u2019s gates.",
+      "subj": "retinue",
+      "verb": "stretch",
+      "obj": "mile"
+    },
+    {
+      "id": "e0159",
+      "label": "sindokht | ask | guard",
+      "sent_id": 162,
+      "sentence": "In Seistan, Sindokht asked Sam\u2019s guards for entrance.",
+      "subj": "sindokht",
+      "verb": "ask",
+      "obj": "guard"
+    },
+    {
+      "id": "e0160",
+      "label": "sam | welcome | she",
+      "sent_id": 163,
+      "sentence": "Sam welcomed her, and she bowed, blessing him.",
+      "subj": "sam",
+      "verb": "welcome",
+      "obj": "she"
+    },
+    {
+      "id": "e0161",
+      "label": "she | lay | treasure",
+      "sent_id": 164,
+      "sentence": "She laid out the treasures, marveling at their worth.",
+      "subj": "she",
+      "verb": "lay",
+      "obj": "treasure"
+    },
+    {
+      "id": "e0162",
+      "label": "sam | wonder | \u2205",
+      "sent_id": 165,
+      "sentence": "Sam wondered why a woman bore gifts of such value from a land so rich.",
+      "subj": "sam",
+      "verb": "wonder",
+      "obj": ""
+    },
+    {
+      "id": "e0163",
+      "label": "he | say | \u2205",
+      "sent_id": 166,
+      "sentence": "Accepting the gifts, he said, \u201cLet these be given to my son\u2019s treasurer.\u201d",
+      "subj": "he",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0164",
+      "label": "\u2205 | ask | sam",
+      "sent_id": 167,
+      "sentence": "Sindokht, encouraged, asked Sam why he wished to destroy Kabul.",
+      "subj": "",
+      "verb": "ask",
+      "obj": "sam"
+    },
+    {
+      "id": "e0165",
+      "label": "sam | demand | \u2205",
+      "sent_id": 168,
+      "sentence": "Sam demanded, \u201cAre you Mihrab\u2019s slave or wife?",
+      "subj": "sam",
+      "verb": "demand",
+      "obj": ""
+    },
+    {
+      "id": "e0166",
+      "label": "she | be | daughter",
+      "sent_id": 169,
+      "sentence": "Is she really your daughter whom Zal saw?",
+      "subj": "she",
+      "verb": "be",
+      "obj": "daughter"
+    },
+    {
+      "id": "e0167",
+      "label": "\u2205 | tell | i",
+      "sent_id": 170,
+      "sentence": "Tell me of her beauty that I may judge if she is worthy of my son.\u201d",
+      "subj": "",
+      "verb": "tell",
+      "obj": "i"
+    },
+    {
+      "id": "e0168",
+      "label": "sindokht | reply | \u2205",
+      "sent_id": 171,
+      "sentence": "Sindokht replied, \u201cSwear to me first that you will spare my life and those dear to me.\u201d",
+      "subj": "sindokht",
+      "verb": "reply",
+      "obj": ""
+    },
+    {
+      "id": "e0169",
+      "label": "sam | take | hand",
+      "sent_id": 172,
+      "sentence": "Sam took her hand and swore a solemn oath.",
+      "subj": "sam",
+      "verb": "take",
+      "obj": "hand"
+    },
+    {
+      "id": "e0170",
+      "label": "sindokht | reveal | all",
+      "sent_id": 173,
+      "sentence": "Freed of fear, Sindokht revealed all: her lineage from Zohak, her marriage to Mihrab, and her daughter Rodabeh\u2019s love for Zal.",
+      "subj": "sindokht",
+      "verb": "reveal",
+      "obj": "all"
+    },
+    {
+      "id": "e0171",
+      "label": "she | ask | sam",
+      "sent_id": 174,
+      "sentence": "She asked Sam to punish only the wicked in Kabul and spare the innocent, lest day turn to night.",
+      "subj": "she",
+      "verb": "ask",
+      "obj": "sam"
+    },
+    {
+      "id": "e0172",
+      "label": "sam | vow | \u2205",
+      "sent_id": 175,
+      "sentence": "Sam vowed, \u201cBy my life and oath, I shall protect you and your people.",
+      "subj": "sam",
+      "verb": "vow",
+      "obj": ""
+    },
+    {
+      "id": "e0173",
+      "label": "zal | marry | rodabeh",
+      "sent_id": 176,
+      "sentence": "Zal shall marry Rodabeh, though she be from a foreign race.\u201d",
+      "subj": "zal",
+      "verb": "marry",
+      "obj": "rodabeh"
+    },
+    {
+      "id": "e0174",
+      "label": "he | tell | sindokht",
+      "sent_id": 177,
+      "sentence": "He told Sindokht about his letter to the Shah pleading Zal\u2019s case and that Zal was away delivering it.",
+      "subj": "he",
+      "verb": "tell",
+      "obj": "sindokht"
+    },
+    {
+      "id": "e0175",
+      "label": "he | plead | \u2205",
+      "sent_id": 178,
+      "sentence": "\u201cTell me of Rodabeh,\u201d he pleaded.",
+      "subj": "he",
+      "verb": "plead",
+      "obj": ""
+    },
+    {
+      "id": "e0176",
+      "label": "sindokht | say | \u2205",
+      "sent_id": 179,
+      "sentence": "Sindokht said, \u201cIf Zal wishes to gladden our hearts, he must come himself and see our moon with his own eyes.\u201d",
+      "subj": "sindokht",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0177",
+      "label": "all | end | \u2205",
+      "sent_id": 180,
+      "sentence": "Sam smiled and replied, \u201cRest easy; all will end as you desire.\u201d",
+      "subj": "all",
+      "verb": "end",
+      "obj": ""
+    },
+    {
+      "id": "e0178",
+      "label": "he | load | she",
+      "sent_id": 181,
+      "sentence": "He loaded her with gifts and sent her away.",
+      "subj": "he",
+      "verb": "load",
+      "obj": "she"
+    },
+    {
+      "id": "e0179",
+      "label": "face | shine | hope",
+      "sent_id": 182,
+      "sentence": "Sindokht\u2019s face shone with hope.",
+      "subj": "face",
+      "verb": "shine",
+      "obj": "hope"
+    },
+    {
+      "id": "e0180",
+      "label": "zal | arrive | court",
+      "sent_id": 183,
+      "sentence": "Meanwhile, Zal arrived at Minuchihr\u2019s court.",
+      "subj": "zal",
+      "verb": "arrive",
+      "obj": "court"
+    },
+    {
+      "id": "e0181",
+      "label": "he | kneel | \u2205",
+      "sent_id": 184,
+      "sentence": "He knelt and kissed the ground before the Shah.",
+      "subj": "he",
+      "verb": "kneel",
+      "obj": ""
+    },
+    {
+      "id": "e0182",
+      "label": "minuchihr | order | musk",
+      "sent_id": 185,
+      "sentence": "Moved, Minuchihr ordered musk sprinkled before him and raised him to his side.",
+      "subj": "minuchihr",
+      "verb": "order",
+      "obj": "musk"
+    },
+    {
+      "id": "e0183",
+      "label": "zal | give | letter",
+      "sent_id": 186,
+      "sentence": "Zal gave the Shah Sam\u2019s letter.",
+      "subj": "zal",
+      "verb": "give",
+      "obj": "letter"
+    },
+    {
+      "id": "e0184",
+      "label": "king | pain | \u2205",
+      "sent_id": 187,
+      "sentence": "Reading it, the king was pained but promised to fulfill Zal\u2019s wish.",
+      "subj": "king",
+      "verb": "pain",
+      "obj": ""
+    },
+    {
+      "id": "e0185",
+      "label": "he | ask | he",
+      "sent_id": 188,
+      "sentence": "He asked him to remain a while for counsel.",
+      "subj": "he",
+      "verb": "ask",
+      "obj": "he"
+    },
+    {
+      "id": "e0186",
+      "label": "noble | feast | \u2205",
+      "sent_id": 189,
+      "sentence": "The nobles and Shah feasted all night.",
+      "subj": "noble",
+      "verb": "feast",
+      "obj": ""
+    },
+    {
+      "id": "e0187",
+      "label": "zal | present | himself",
+      "sent_id": 190,
+      "sentence": "At dawn, Zal presented himself for audience.",
+      "subj": "zal",
+      "verb": "present",
+      "obj": "himself"
+    },
+    {
+      "id": "e0188",
+      "label": "man | study | star",
+      "sent_id": 191,
+      "sentence": "The Shah\u2019s wise men studied the stars for three days, then declared joyfully: \u201cThe son of Sam and daughter of Mihrab shall be a glorious pair.",
+      "subj": "man",
+      "verb": "study",
+      "obj": "star"
+    },
+    {
+      "id": "e0189",
+      "label": "son | be | warrior",
+      "sent_id": 192,
+      "sentence": "Their son will be a mighty warrior who will expand Iran\u2019s glory, defeat evildoers, and bring prosperity.\u201d",
+      "subj": "son",
+      "verb": "be",
+      "obj": "warrior"
+    },
+    {
+      "id": "e0190",
+      "label": "minuchihr | command | secrecy",
+      "sent_id": 193,
+      "sentence": "Minuchihr commanded secrecy.",
+      "subj": "minuchihr",
+      "verb": "command",
+      "obj": "secrecy"
+    },
+    {
+      "id": "e0191",
+      "label": "he | test | wisdom",
+      "sent_id": 194,
+      "sentence": "He tested Zal\u2019s wisdom with riddles asked by the wise men.",
+      "subj": "he",
+      "verb": "test",
+      "obj": "wisdom"
+    },
+    {
+      "id": "e0192",
+      "label": "zal | answer | each",
+      "sent_id": 195,
+      "sentence": "Zal answered each with insight, impressing all.",
+      "subj": "zal",
+      "verb": "answer",
+      "obj": "each"
+    },
+    {
+      "id": "e0193",
+      "label": "shah | test | strength",
+      "sent_id": 196,
+      "sentence": "The Shah then tested Zal\u2019s strength.",
+      "subj": "shah",
+      "verb": "test",
+      "obj": "strength"
+    },
+    {
+      "id": "e0194",
+      "label": "he | see | \u2205",
+      "sent_id": 197,
+      "sentence": "Watching from his palace roof, he saw Zal outperform all in archery, spear-throwing, and wrestling.",
+      "subj": "he",
+      "verb": "see",
+      "obj": ""
+    },
+    {
+      "id": "e0195",
+      "label": "minuchihr | shower | zal",
+      "sent_id": 198,
+      "sentence": "The nobles cheered; Minuchihr showered Zal with gifts.",
+      "subj": "minuchihr",
+      "verb": "shower",
+      "obj": "zal"
+    },
+    {
+      "id": "e0196",
+      "label": "shah | reply | letter",
+      "sent_id": 199,
+      "sentence": "The Shah replied to Sam\u2019s letter: \u201cO brave hero, I have seen your son and find him worthy.",
+      "subj": "shah",
+      "verb": "reply",
+      "obj": "letter"
+    },
+    {
+      "id": "e0197",
+      "label": "i | grant | wish",
+      "sent_id": 200,
+      "sentence": "I grant your wish and send him back to you satisfied.",
+      "subj": "i",
+      "verb": "grant",
+      "obj": "wish"
+    },
+    {
+      "id": "e0198",
+      "label": "enemy | harm | he",
+      "sent_id": 201,
+      "sentence": "May no enemy harm him.\u201d\n\nAfter receiving the king\u2019s leave, Zal returned proudly.",
+      "subj": "enemy",
+      "verb": "harm",
+      "obj": "he"
+    },
+    {
+      "id": "e0199",
+      "label": "sam | rejoice | \u2205",
+      "sent_id": 202,
+      "sentence": "Sam rejoiced upon receiving the letter.",
+      "subj": "sam",
+      "verb": "rejoice",
+      "obj": ""
+    },
+    {
+      "id": "e0200",
+      "label": "messenger | send | mihrab",
+      "sent_id": 203,
+      "sentence": "The army prepared to march; a messenger was sent to Mihrab telling him that Sam and Zal were coming to Kabul.",
+      "subj": "messenger",
+      "verb": "send",
+      "obj": "mihrab"
+    },
+    {
+      "id": "e0201",
+      "label": "mihrab | relax | news",
+      "sent_id": 204,
+      "sentence": "At the news, Mihrab relaxed and ordered his army to dress festively.",
+      "subj": "mihrab",
+      "verb": "relax",
+      "obj": "news"
+    },
+    {
+      "id": "e0202",
+      "label": "banner | fill | city",
+      "sent_id": 205,
+      "sentence": "Silk banners and music filled the city.",
+      "subj": "banner",
+      "verb": "fill",
+      "obj": "city"
+    },
+    {
+      "id": "e0203",
+      "label": "sindokht | share | news",
+      "sent_id": 206,
+      "sentence": "Sindokht shared the good news with Rodabeh, and they adorned the house as a paradise with golden carpets, ivory thrones, and scented floors.",
+      "subj": "sindokht",
+      "verb": "share",
+      "obj": "news"
+    },
+    {
+      "id": "e0204",
+      "label": "mihrab | go | \u2205",
+      "sent_id": 207,
+      "sentence": "As the guests neared Kabul, Mihrab went out to meet them and crowned Zal with diamonds.",
+      "subj": "mihrab",
+      "verb": "go",
+      "obj": ""
+    },
+    {
+      "id": "e0205",
+      "label": "they | enter | city",
+      "sent_id": 208,
+      "sentence": "They entered the city triumphantly.",
+      "subj": "they",
+      "verb": "enter",
+      "obj": "city"
+    },
+    {
+      "id": "e0206",
+      "label": "people | bow | they",
+      "sent_id": 209,
+      "sentence": "The people bowed before them.",
+      "subj": "people",
+      "verb": "bow",
+      "obj": "they"
+    },
+    {
+      "id": "e0207",
+      "label": "sindokht | meet | they",
+      "sent_id": 210,
+      "sentence": "Sindokht met them at the palace, scattering musk and jewels.",
+      "subj": "sindokht",
+      "verb": "meet",
+      "obj": "they"
+    },
+    {
+      "id": "e0208",
+      "label": "sam | smile | \u2205",
+      "sent_id": 211,
+      "sentence": "Sam, receiving their homage, smiled and asked Sindokht, \u201cHow much longer will you hide Rodabeh from us?\u201d",
+      "subj": "sam",
+      "verb": "smile",
+      "obj": ""
+    },
+    {
+      "id": "e0209",
+      "label": "sindokht | reply | \u2205",
+      "sent_id": 212,
+      "sentence": "Sindokht replied, \u201cWhat will you give to see the sun?\u201d",
+      "subj": "sindokht",
+      "verb": "reply",
+      "obj": ""
+    },
+    {
+      "id": "e0210",
+      "label": "sam | answer | anything",
+      "sent_id": 213,
+      "sentence": "Sam answered, \u201cAnything you wish\u2014my slaves and throne as well.\u201d",
+      "subj": "sam",
+      "verb": "answer",
+      "obj": "anything"
+    },
+    {
+      "id": "e0211",
+      "label": "sindokht | lead | he",
+      "sent_id": 214,
+      "sentence": "Sindokht led him inside.",
+      "subj": "sindokht",
+      "verb": "lead",
+      "obj": "he"
+    },
+    {
+      "id": "e0212",
+      "label": "sam | strike | speechless",
+      "sent_id": 215,
+      "sentence": "Sam beheld Rodabeh and was struck speechless by her beauty, beyond all dreams.",
+      "subj": "sam",
+      "verb": "strike",
+      "obj": "speechless"
+    },
+    {
+      "id": "e0213",
+      "label": "he | ask | mihrab",
+      "sent_id": 216,
+      "sentence": "He asked Mihrab for her hand, and the marriage was arranged according to custom.",
+      "subj": "he",
+      "verb": "ask",
+      "obj": "mihrab"
+    },
+    {
+      "id": "e0214",
+      "label": "lover | sit | throne",
+      "sent_id": 217,
+      "sentence": "The lovers sat upon a throne as Mihrab read an endless list of gifts.",
+      "subj": "lover",
+      "verb": "sit",
+      "obj": "throne"
+    },
+    {
+      "id": "e0215",
+      "label": "they | feast | day",
+      "sent_id": 218,
+      "sentence": "They feasted joyfully for seven days.",
+      "subj": "they",
+      "verb": "feast",
+      "obj": "day"
+    },
+    {
+      "id": "e0216",
+      "label": "sam | return | month",
+      "sent_id": 219,
+      "sentence": "After a month, Sam returned to Seistan with Zal and Rodabeh following.",
+      "subj": "sam",
+      "verb": "return",
+      "obj": "month"
+    },
+    {
+      "id": "e0217",
+      "label": "sam | go | war",
+      "sent_id": 220,
+      "sentence": "Soon Sam went again to war, leaving the kingdom to his son.",
+      "subj": "sam",
+      "verb": "go",
+      "obj": "war"
+    },
+    {
+      "id": "e0218",
+      "label": "zal | rule | rodabeh",
+      "sent_id": 221,
+      "sentence": "Zal ruled wisely beside Rodabeh, who wore a golden crown and sat as queen at his side.",
+      "subj": "zal",
+      "verb": "rule",
+      "obj": "rodabeh"
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    },
+    {
+      "source": "e0029",
+      "target": "e0030",
+      "relation": "next"
+    },
+    {
+      "source": "e0030",
+      "target": "e0031",
+      "relation": "next"
+    },
+    {
+      "source": "e0031",
+      "target": "e0032",
+      "relation": "next"
+    },
+    {
+      "source": "e0032",
+      "target": "e0033",
+      "relation": "next"
+    },
+    {
+      "source": "e0033",
+      "target": "e0034",
+      "relation": "next"
+    },
+    {
+      "source": "e0034",
+      "target": "e0035",
+      "relation": "next"
+    },
+    {
+      "source": "e0035",
+      "target": "e0036",
+      "relation": "next"
+    },
+    {
+      "source": "e0036",
+      "target": "e0037",
+      "relation": "next"
+    },
+    {
+      "source": "e0037",
+      "target": "e0038",
+      "relation": "next"
+    },
+    {
+      "source": "e0038",
+      "target": "e0039",
+      "relation": "next"
+    },
+    {
+      "source": "e0039",
+      "target": "e0040",
+      "relation": "next"
+    },
+    {
+      "source": "e0040",
+      "target": "e0041",
+      "relation": "next"
+    },
+    {
+      "source": "e0041",
+      "target": "e0042",
+      "relation": "next"
+    },
+    {
+      "source": "e0042",
+      "target": "e0043",
+      "relation": "next"
+    },
+    {
+      "source": "e0043",
+      "target": "e0044",
+      "relation": "next"
+    },
+    {
+      "source": "e0044",
+      "target": "e0045",
+      "relation": "next"
+    },
+    {
+      "source": "e0045",
+      "target": "e0046",
+      "relation": "next"
+    },
+    {
+      "source": "e0046",
+      "target": "e0047",
+      "relation": "next"
+    },
+    {
+      "source": "e0047",
+      "target": "e0048",
+      "relation": "next"
+    },
+    {
+      "source": "e0048",
+      "target": "e0049",
+      "relation": "next"
+    },
+    {
+      "source": "e0049",
+      "target": "e0050",
+      "relation": "next"
+    },
+    {
+      "source": "e0050",
+      "target": "e0051",
+      "relation": "next"
+    },
+    {
+      "source": "e0051",
+      "target": "e0052",
+      "relation": "next"
+    },
+    {
+      "source": "e0052",
+      "target": "e0053",
+      "relation": "next"
+    },
+    {
+      "source": "e0053",
+      "target": "e0054",
+      "relation": "next"
+    },
+    {
+      "source": "e0054",
+      "target": "e0055",
+      "relation": "next"
+    },
+    {
+      "source": "e0055",
+      "target": "e0056",
+      "relation": "next"
+    },
+    {
+      "source": "e0056",
+      "target": "e0057",
+      "relation": "next"
+    },
+    {
+      "source": "e0057",
+      "target": "e0058",
+      "relation": "next"
+    },
+    {
+      "source": "e0058",
+      "target": "e0059",
+      "relation": "next"
+    },
+    {
+      "source": "e0059",
+      "target": "e0060",
+      "relation": "next"
+    },
+    {
+      "source": "e0060",
+      "target": "e0061",
+      "relation": "next"
+    },
+    {
+      "source": "e0061",
+      "target": "e0062",
+      "relation": "next"
+    },
+    {
+      "source": "e0062",
+      "target": "e0063",
+      "relation": "next"
+    },
+    {
+      "source": "e0063",
+      "target": "e0064",
+      "relation": "next"
+    },
+    {
+      "source": "e0064",
+      "target": "e0065",
+      "relation": "next"
+    },
+    {
+      "source": "e0065",
+      "target": "e0066",
+      "relation": "next"
+    },
+    {
+      "source": "e0066",
+      "target": "e0067",
+      "relation": "next"
+    },
+    {
+      "source": "e0067",
+      "target": "e0068",
+      "relation": "next"
+    },
+    {
+      "source": "e0068",
+      "target": "e0069",
+      "relation": "next"
+    },
+    {
+      "source": "e0069",
+      "target": "e0070",
+      "relation": "next"
+    },
+    {
+      "source": "e0070",
+      "target": "e0071",
+      "relation": "next"
+    },
+    {
+      "source": "e0071",
+      "target": "e0072",
+      "relation": "next"
+    },
+    {
+      "source": "e0072",
+      "target": "e0073",
+      "relation": "next"
+    },
+    {
+      "source": "e0073",
+      "target": "e0074",
+      "relation": "next"
+    },
+    {
+      "source": "e0074",
+      "target": "e0075",
+      "relation": "next"
+    },
+    {
+      "source": "e0075",
+      "target": "e0076",
+      "relation": "next"
+    },
+    {
+      "source": "e0076",
+      "target": "e0077",
+      "relation": "next"
+    },
+    {
+      "source": "e0077",
+      "target": "e0078",
+      "relation": "next"
+    },
+    {
+      "source": "e0078",
+      "target": "e0079",
+      "relation": "next"
+    },
+    {
+      "source": "e0079",
+      "target": "e0080",
+      "relation": "next"
+    },
+    {
+      "source": "e0080",
+      "target": "e0081",
+      "relation": "next"
+    },
+    {
+      "source": "e0081",
+      "target": "e0082",
+      "relation": "next"
+    },
+    {
+      "source": "e0082",
+      "target": "e0083",
+      "relation": "next"
+    },
+    {
+      "source": "e0083",
+      "target": "e0084",
+      "relation": "next"
+    },
+    {
+      "source": "e0084",
+      "target": "e0085",
+      "relation": "next"
+    },
+    {
+      "source": "e0085",
+      "target": "e0086",
+      "relation": "next"
+    },
+    {
+      "source": "e0086",
+      "target": "e0087",
+      "relation": "next"
+    },
+    {
+      "source": "e0087",
+      "target": "e0088",
+      "relation": "next"
+    },
+    {
+      "source": "e0088",
+      "target": "e0089",
+      "relation": "next"
+    },
+    {
+      "source": "e0089",
+      "target": "e0090",
+      "relation": "next"
+    },
+    {
+      "source": "e0090",
+      "target": "e0091",
+      "relation": "next"
+    },
+    {
+      "source": "e0091",
+      "target": "e0092",
+      "relation": "next"
+    },
+    {
+      "source": "e0092",
+      "target": "e0093",
+      "relation": "next"
+    },
+    {
+      "source": "e0093",
+      "target": "e0094",
+      "relation": "next"
+    },
+    {
+      "source": "e0094",
+      "target": "e0095",
+      "relation": "next"
+    },
+    {
+      "source": "e0095",
+      "target": "e0096",
+      "relation": "next"
+    },
+    {
+      "source": "e0096",
+      "target": "e0097",
+      "relation": "next"
+    },
+    {
+      "source": "e0097",
+      "target": "e0098",
+      "relation": "next"
+    },
+    {
+      "source": "e0098",
+      "target": "e0099",
+      "relation": "next"
+    },
+    {
+      "source": "e0099",
+      "target": "e0100",
+      "relation": "next"
+    },
+    {
+      "source": "e0100",
+      "target": "e0101",
+      "relation": "next"
+    },
+    {
+      "source": "e0101",
+      "target": "e0102",
+      "relation": "next"
+    },
+    {
+      "source": "e0102",
+      "target": "e0103",
+      "relation": "next"
+    },
+    {
+      "source": "e0103",
+      "target": "e0104",
+      "relation": "next"
+    },
+    {
+      "source": "e0104",
+      "target": "e0105",
+      "relation": "next"
+    },
+    {
+      "source": "e0105",
+      "target": "e0106",
+      "relation": "next"
+    },
+    {
+      "source": "e0106",
+      "target": "e0107",
+      "relation": "next"
+    },
+    {
+      "source": "e0107",
+      "target": "e0108",
+      "relation": "next"
+    },
+    {
+      "source": "e0108",
+      "target": "e0109",
+      "relation": "next"
+    },
+    {
+      "source": "e0109",
+      "target": "e0110",
+      "relation": "next"
+    },
+    {
+      "source": "e0110",
+      "target": "e0111",
+      "relation": "next"
+    },
+    {
+      "source": "e0111",
+      "target": "e0112",
+      "relation": "next"
+    },
+    {
+      "source": "e0112",
+      "target": "e0113",
+      "relation": "next"
+    },
+    {
+      "source": "e0113",
+      "target": "e0114",
+      "relation": "next"
+    },
+    {
+      "source": "e0114",
+      "target": "e0115",
+      "relation": "next"
+    },
+    {
+      "source": "e0115",
+      "target": "e0116",
+      "relation": "next"
+    },
+    {
+      "source": "e0116",
+      "target": "e0117",
+      "relation": "next"
+    },
+    {
+      "source": "e0117",
+      "target": "e0118",
+      "relation": "next"
+    },
+    {
+      "source": "e0118",
+      "target": "e0119",
+      "relation": "next"
+    },
+    {
+      "source": "e0119",
+      "target": "e0120",
+      "relation": "next"
+    },
+    {
+      "source": "e0120",
+      "target": "e0121",
+      "relation": "next"
+    },
+    {
+      "source": "e0121",
+      "target": "e0122",
+      "relation": "next"
+    },
+    {
+      "source": "e0122",
+      "target": "e0123",
+      "relation": "next"
+    },
+    {
+      "source": "e0123",
+      "target": "e0124",
+      "relation": "next"
+    },
+    {
+      "source": "e0124",
+      "target": "e0125",
+      "relation": "next"
+    },
+    {
+      "source": "e0125",
+      "target": "e0126",
+      "relation": "next"
+    },
+    {
+      "source": "e0126",
+      "target": "e0127",
+      "relation": "next"
+    },
+    {
+      "source": "e0127",
+      "target": "e0128",
+      "relation": "next"
+    },
+    {
+      "source": "e0128",
+      "target": "e0129",
+      "relation": "next"
+    },
+    {
+      "source": "e0129",
+      "target": "e0130",
+      "relation": "next"
+    },
+    {
+      "source": "e0130",
+      "target": "e0131",
+      "relation": "next"
+    },
+    {
+      "source": "e0131",
+      "target": "e0132",
+      "relation": "next"
+    },
+    {
+      "source": "e0132",
+      "target": "e0133",
+      "relation": "next"
+    },
+    {
+      "source": "e0133",
+      "target": "e0134",
+      "relation": "next"
+    },
+    {
+      "source": "e0134",
+      "target": "e0135",
+      "relation": "next"
+    },
+    {
+      "source": "e0135",
+      "target": "e0136",
+      "relation": "next"
+    },
+    {
+      "source": "e0136",
+      "target": "e0137",
+      "relation": "next"
+    },
+    {
+      "source": "e0137",
+      "target": "e0138",
+      "relation": "next"
+    },
+    {
+      "source": "e0138",
+      "target": "e0139",
+      "relation": "next"
+    },
+    {
+      "source": "e0139",
+      "target": "e0140",
+      "relation": "next"
+    },
+    {
+      "source": "e0140",
+      "target": "e0141",
+      "relation": "next"
+    },
+    {
+      "source": "e0141",
+      "target": "e0142",
+      "relation": "next"
+    },
+    {
+      "source": "e0142",
+      "target": "e0143",
+      "relation": "next"
+    },
+    {
+      "source": "e0143",
+      "target": "e0144",
+      "relation": "next"
+    },
+    {
+      "source": "e0144",
+      "target": "e0145",
+      "relation": "next"
+    },
+    {
+      "source": "e0145",
+      "target": "e0146",
+      "relation": "next"
+    },
+    {
+      "source": "e0146",
+      "target": "e0147",
+      "relation": "next"
+    },
+    {
+      "source": "e0147",
+      "target": "e0148",
+      "relation": "next"
+    },
+    {
+      "source": "e0148",
+      "target": "e0149",
+      "relation": "next"
+    },
+    {
+      "source": "e0149",
+      "target": "e0150",
+      "relation": "next"
+    },
+    {
+      "source": "e0150",
+      "target": "e0151",
+      "relation": "next"
+    },
+    {
+      "source": "e0151",
+      "target": "e0152",
+      "relation": "next"
+    },
+    {
+      "source": "e0152",
+      "target": "e0153",
+      "relation": "next"
+    },
+    {
+      "source": "e0153",
+      "target": "e0154",
+      "relation": "next"
+    },
+    {
+      "source": "e0154",
+      "target": "e0155",
+      "relation": "next"
+    },
+    {
+      "source": "e0155",
+      "target": "e0156",
+      "relation": "next"
+    },
+    {
+      "source": "e0156",
+      "target": "e0157",
+      "relation": "next"
+    },
+    {
+      "source": "e0157",
+      "target": "e0158",
+      "relation": "next"
+    },
+    {
+      "source": "e0158",
+      "target": "e0159",
+      "relation": "next"
+    },
+    {
+      "source": "e0159",
+      "target": "e0160",
+      "relation": "next"
+    },
+    {
+      "source": "e0160",
+      "target": "e0161",
+      "relation": "next"
+    },
+    {
+      "source": "e0161",
+      "target": "e0162",
+      "relation": "next"
+    },
+    {
+      "source": "e0162",
+      "target": "e0163",
+      "relation": "next"
+    },
+    {
+      "source": "e0163",
+      "target": "e0164",
+      "relation": "next"
+    },
+    {
+      "source": "e0164",
+      "target": "e0165",
+      "relation": "next"
+    },
+    {
+      "source": "e0165",
+      "target": "e0166",
+      "relation": "next"
+    },
+    {
+      "source": "e0166",
+      "target": "e0167",
+      "relation": "next"
+    },
+    {
+      "source": "e0167",
+      "target": "e0168",
+      "relation": "next"
+    },
+    {
+      "source": "e0168",
+      "target": "e0169",
+      "relation": "next"
+    },
+    {
+      "source": "e0169",
+      "target": "e0170",
+      "relation": "next"
+    },
+    {
+      "source": "e0170",
+      "target": "e0171",
+      "relation": "next"
+    },
+    {
+      "source": "e0171",
+      "target": "e0172",
+      "relation": "next"
+    },
+    {
+      "source": "e0172",
+      "target": "e0173",
+      "relation": "next"
+    },
+    {
+      "source": "e0173",
+      "target": "e0174",
+      "relation": "next"
+    },
+    {
+      "source": "e0174",
+      "target": "e0175",
+      "relation": "next"
+    },
+    {
+      "source": "e0175",
+      "target": "e0176",
+      "relation": "next"
+    },
+    {
+      "source": "e0176",
+      "target": "e0177",
+      "relation": "next"
+    },
+    {
+      "source": "e0177",
+      "target": "e0178",
+      "relation": "next"
+    },
+    {
+      "source": "e0178",
+      "target": "e0179",
+      "relation": "next"
+    },
+    {
+      "source": "e0179",
+      "target": "e0180",
+      "relation": "next"
+    },
+    {
+      "source": "e0180",
+      "target": "e0181",
+      "relation": "next"
+    },
+    {
+      "source": "e0181",
+      "target": "e0182",
+      "relation": "next"
+    },
+    {
+      "source": "e0182",
+      "target": "e0183",
+      "relation": "next"
+    },
+    {
+      "source": "e0183",
+      "target": "e0184",
+      "relation": "next"
+    },
+    {
+      "source": "e0184",
+      "target": "e0185",
+      "relation": "next"
+    },
+    {
+      "source": "e0185",
+      "target": "e0186",
+      "relation": "next"
+    },
+    {
+      "source": "e0186",
+      "target": "e0187",
+      "relation": "next"
+    },
+    {
+      "source": "e0187",
+      "target": "e0188",
+      "relation": "next"
+    },
+    {
+      "source": "e0188",
+      "target": "e0189",
+      "relation": "next"
+    },
+    {
+      "source": "e0189",
+      "target": "e0190",
+      "relation": "next"
+    },
+    {
+      "source": "e0190",
+      "target": "e0191",
+      "relation": "next"
+    },
+    {
+      "source": "e0191",
+      "target": "e0192",
+      "relation": "next"
+    },
+    {
+      "source": "e0192",
+      "target": "e0193",
+      "relation": "next"
+    },
+    {
+      "source": "e0193",
+      "target": "e0194",
+      "relation": "next"
+    },
+    {
+      "source": "e0194",
+      "target": "e0195",
+      "relation": "next"
+    },
+    {
+      "source": "e0195",
+      "target": "e0196",
+      "relation": "next"
+    },
+    {
+      "source": "e0196",
+      "target": "e0197",
+      "relation": "next"
+    },
+    {
+      "source": "e0197",
+      "target": "e0198",
+      "relation": "next"
+    },
+    {
+      "source": "e0198",
+      "target": "e0199",
+      "relation": "next"
+    },
+    {
+      "source": "e0199",
+      "target": "e0200",
+      "relation": "next"
+    },
+    {
+      "source": "e0200",
+      "target": "e0201",
+      "relation": "next"
+    },
+    {
+      "source": "e0201",
+      "target": "e0202",
+      "relation": "next"
+    },
+    {
+      "source": "e0202",
+      "target": "e0203",
+      "relation": "next"
+    },
+    {
+      "source": "e0203",
+      "target": "e0204",
+      "relation": "next"
+    },
+    {
+      "source": "e0204",
+      "target": "e0205",
+      "relation": "next"
+    },
+    {
+      "source": "e0205",
+      "target": "e0206",
+      "relation": "next"
+    },
+    {
+      "source": "e0206",
+      "target": "e0207",
+      "relation": "next"
+    },
+    {
+      "source": "e0207",
+      "target": "e0208",
+      "relation": "next"
+    },
+    {
+      "source": "e0208",
+      "target": "e0209",
+      "relation": "next"
+    },
+    {
+      "source": "e0209",
+      "target": "e0210",
+      "relation": "next"
+    },
+    {
+      "source": "e0210",
+      "target": "e0211",
+      "relation": "next"
+    },
+    {
+      "source": "e0211",
+      "target": "e0212",
+      "relation": "next"
+    },
+    {
+      "source": "e0212",
+      "target": "e0213",
+      "relation": "next"
+    },
+    {
+      "source": "e0213",
+      "target": "e0214",
+      "relation": "next"
+    },
+    {
+      "source": "e0214",
+      "target": "e0215",
+      "relation": "next"
+    },
+    {
+      "source": "e0215",
+      "target": "e0216",
+      "relation": "next"
+    },
+    {
+      "source": "e0216",
+      "target": "e0217",
+      "relation": "next"
+    },
+    {
+      "source": "e0217",
+      "target": "e0218",
+      "relation": "next"
+    }
+  ]
+}

@@ -1,0 +1,930 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "",
+    "verb": "be",
+    "obj": "athlete",
+    "label": "\u2205 | be | athlete",
+    "sentence": "There was once an athlete whose life had fallen into great hardship."
+  },
+  {
+    "sent_id": 1,
+    "subj": "throat",
+    "verb": "be",
+    "obj": "",
+    "label": "throat | be | \u2205",
+    "sentence": "His throat was large but his hands could not fill it."
+  },
+  {
+    "sent_id": 2,
+    "subj": "he",
+    "verb": "turn",
+    "obj": "father",
+    "label": "he | turn | father",
+    "sentence": "Frustrated, he turned to his father and asked for permission to travel, hoping to earn a living by the strength of his arm."
+  },
+  {
+    "sent_id": 4,
+    "subj": "father",
+    "verb": "answer",
+    "obj": "",
+    "label": "father | answer | \u2205",
+    "sentence": "His father answered: \u201cMy son, abandon this foolish idea and embrace contentment, for wise men say happiness is not found in endless effort, but in moderating one\u2019s desires."
+  },
+  {
+    "sent_id": 5,
+    "subj": "one",
+    "verb": "seize",
+    "obj": "luck",
+    "label": "one | seize | luck",
+    "sentence": "No one can seize luck by force."
+  },
+  {
+    "sent_id": 6,
+    "subj": "",
+    "verb": "be",
+    "obj": "",
+    "label": "\u2205 | be | \u2205",
+    "sentence": "Putting ointment on a bald man\u2019s forehead is useless."
+  },
+  {
+    "sent_id": 7,
+    "subj": "they",
+    "verb": "mean",
+    "obj": "nothing",
+    "label": "they | mean | nothing",
+    "sentence": "Even if you had two hundred talents for each hair on your head, they mean nothing if fortune does not favor you."
+  },
+  {
+    "sent_id": 8,
+    "subj": "athlete",
+    "verb": "do",
+    "obj": "what",
+    "label": "athlete | do | what",
+    "sentence": "What can an athlete do against bad luck?"
+  },
+  {
+    "sent_id": 9,
+    "subj": "arm",
+    "verb": "be",
+    "obj": "",
+    "label": "arm | be | \u2205",
+    "sentence": "The arm of fortune is stronger than the arm of strength.\u201d"
+  },
+  {
+    "sent_id": 10,
+    "subj": "son",
+    "verb": "reply",
+    "obj": "",
+    "label": "son | reply | \u2205",
+    "sentence": "The son replied: \u201cFather, traveling offers many benefits: refreshing the mind, hearing strange tales, exploring new cities, meeting friends, gaining rank and wealth, learning judgment, and experiencing the world."
+  },
+  {
+    "sent_id": 11,
+    "subj": "you",
+    "verb": "become",
+    "obj": "man",
+    "label": "you | become | man",
+    "sentence": "As the travelers in the Tariqat say:\n\nAs long as you roam just your shop or home,\nYou\u2019ll never truly become a man, O raw youth."
+  },
+  {
+    "sent_id": 12,
+    "subj": "",
+    "verb": "go",
+    "obj": "",
+    "label": "\u2205 | go | \u2205",
+    "sentence": "Go travel the world\nBefore your time to leave arrives.\u201d"
+  },
+  {
+    "sent_id": 13,
+    "subj": "father",
+    "verb": "respond",
+    "obj": "",
+    "label": "father | respond | \u2205",
+    "sentence": "The father responded: \u201cIndeed, travel has many advantages, but they benefit especially five types of men."
+  },
+  {
+    "sent_id": 15,
+    "subj": "he",
+    "verb": "pitch",
+    "obj": "tent",
+    "label": "he | pitch | tent",
+    "sentence": "The rich man feels at home even in mountains or deserts,\nWherever he goes, he pitches his tent."
+  },
+  {
+    "sent_id": 16,
+    "subj": "man",
+    "verb": "be",
+    "obj": "stranger",
+    "label": "man | be | stranger",
+    "sentence": "But the poor man, lacking worldly goods,\nIs a stranger even in his own land."
+  },
+  {
+    "sent_id": 18,
+    "subj": "man",
+    "verb": "be",
+    "obj": "gold",
+    "label": "man | be | gold",
+    "sentence": "A learned man is like pure gold,\nValued wherever he travels."
+  },
+  {
+    "sent_id": 19,
+    "subj": "noble",
+    "verb": "be",
+    "obj": "shahrua",
+    "label": "noble | be | shahrua",
+    "sentence": "But an ignorant noble is like Shahrua,\nRejected in any foreign land."
+  },
+  {
+    "sent_id": 20,
+    "subj": "third",
+    "verb": "be",
+    "obj": "",
+    "label": "third | be | \u2205",
+    "sentence": "Third, handsome young men who inspire devotion in pious hearts, for even a little beauty is better than great wealth."
+  },
+  {
+    "sent_id": 21,
+    "subj": "face",
+    "verb": "meet",
+    "obj": "honor",
+    "label": "face | meet | honor",
+    "sentence": "A beautiful face opens locked doors and wins respect everywhere:\n\nA beautiful face meets honor everywhere,\nThough he may be driven away by his own parents."
+  },
+  {
+    "sent_id": 22,
+    "subj": "i",
+    "verb": "see",
+    "obj": "feather",
+    "label": "i | see | feather",
+    "sentence": "I once saw a peacock feather inside the Quran\u2019s leaves,\nAnd said, \u2018Your place is higher than your merits.\u2019"
+  },
+  {
+    "sent_id": 23,
+    "subj": "it",
+    "verb": "reply",
+    "obj": "",
+    "label": "it | reply | \u2205",
+    "sentence": "It replied, \u2018Hush\u2014he who has beauty,\nWherever he steps, hands reach out to greet him.\u2019"
+  },
+  {
+    "sent_id": 24,
+    "subj": "disowning",
+    "verb": "matter",
+    "obj": "",
+    "label": "disowning | matter | \u2205",
+    "sentence": "When a boy is striking and heart-stealing,\nHis father\u2019s disowning matters little."
+  },
+  {
+    "sent_id": 25,
+    "subj": "pearl",
+    "verb": "desire",
+    "obj": "",
+    "label": "pearl | desire | \u2205",
+    "sentence": "He is a jewel that should not stay hidden,\nA precious pearl all desire to buy."
+  },
+  {
+    "sent_id": 27,
+    "subj": "voice",
+    "verb": "capture",
+    "obj": "heart",
+    "label": "voice | capture | heart",
+    "sentence": "Their voices capture hearts, and pious men enjoy their company."
+  },
+  {
+    "sent_id": 28,
+    "subj": "ear",
+    "verb": "delight",
+    "obj": "music",
+    "label": "ear | delight | music",
+    "sentence": "My ear delights in beautiful music."
+  },
+  {
+    "sent_id": 29,
+    "subj": "who",
+    "verb": "play",
+    "obj": "instrument",
+    "label": "who | play | instrument",
+    "sentence": "Who plays so well on the double-stringed instrument?"
+  },
+  {
+    "sent_id": 30,
+    "subj": "song",
+    "verb": "be",
+    "obj": "",
+    "label": "song | be | \u2205",
+    "sentence": "How pleasant is the gentle, soft song\nTo companions who drink morning wine."
+  },
+  {
+    "sent_id": 31,
+    "subj": "",
+    "verb": "be",
+    "obj": "voice",
+    "label": "\u2205 | be | voice",
+    "sentence": "Better than a handsome face is a pleasant voice:"
+  },
+  {
+    "sent_id": 32,
+    "subj": "voice",
+    "verb": "feed",
+    "obj": "soul",
+    "label": "voice | feed | soul",
+    "sentence": "The face pleases the senses, the voice feeds the soul."
+  },
+  {
+    "sent_id": 34,
+    "subj": "tailor",
+    "verb": "face",
+    "obj": "hardship",
+    "label": "tailor | face | hardship",
+    "sentence": "If he ventures beyond his town,\nThe tailor faces no hardship."
+  },
+  {
+    "sent_id": 35,
+    "subj": "king",
+    "verb": "sleep",
+    "obj": "",
+    "label": "king | sleep | \u2205",
+    "sentence": "But if the government fails,\nEven the king of Nimruz will sleep hungry."
+  },
+  {
+    "sent_id": 36,
+    "subj": "quality",
+    "verb": "make",
+    "obj": "",
+    "label": "quality | make | \u2205",
+    "sentence": "These qualities make travel pleasing and rewarding, but one who has none goes with empty dreams, and no one ever hears their name."
+  },
+  {
+    "sent_id": 37,
+    "subj": "",
+    "verb": "turn",
+    "obj": "those",
+    "label": "\u2205 | turn | those",
+    "sentence": "The world\u2019s turning wheel turns against those it will afflict."
+  },
+  {
+    "sent_id": 38,
+    "subj": "pigeon",
+    "verb": "carry",
+    "obj": "",
+    "label": "pigeon | carry | \u2205",
+    "sentence": "A pigeon not destined for its nest\nWill be carried by fate toward grain and a trap.\u201d"
+  },
+  {
+    "sent_id": 39,
+    "subj": "son",
+    "verb": "ask",
+    "obj": "",
+    "label": "son | ask | \u2205",
+    "sentence": "The son asked: \u201cFather, how can I ignore the wise who say that while fate provides food, effort is required to obtain it, and though calamity is decreed, people must guard the gates it uses to enter?\n\nThough daily bread comes without warning,\nIt\u2019s wise to seek it outside."
+  },
+  {
+    "sent_id": 40,
+    "subj": "one",
+    "verb": "rush",
+    "obj": "jaw",
+    "label": "one | rush | jaw",
+    "sentence": "Though none dies without fate\u2019s decree,\nOne must not rush into the jaws of a dragon."
+  },
+  {
+    "sent_id": 41,
+    "subj": "i",
+    "verb": "wrestle",
+    "obj": "elephant",
+    "label": "i | wrestle | elephant",
+    "sentence": "I can wrestle a mad elephant and a furious lion."
+  },
+  {
+    "sent_id": 42,
+    "subj": "i",
+    "verb": "travel",
+    "obj": "",
+    "label": "i | travel | \u2205",
+    "sentence": "Therefore, father, I must travel, for I cannot bear misery any longer."
+  },
+  {
+    "sent_id": 43,
+    "subj": "grief",
+    "verb": "keep",
+    "obj": "",
+    "label": "grief | keep | \u2205",
+    "sentence": "When a man has fallen from his place,\nWhy must grief keep feeding him?"
+  },
+  {
+    "sent_id": 44,
+    "subj": "world",
+    "verb": "be",
+    "obj": "home",
+    "label": "world | be | home",
+    "sentence": "The whole world is his home."
+  },
+  {
+    "sent_id": 45,
+    "subj": "man",
+    "verb": "stay",
+    "obj": "night",
+    "label": "man | stay | night",
+    "sentence": "At night, every rich man stays at an inn."
+  },
+  {
+    "sent_id": 46,
+    "subj": "inn",
+    "verb": "be",
+    "obj": "",
+    "label": "inn | be | \u2205",
+    "sentence": "The dervish\u2019s inn is wherever night finds him.\u201d"
+  },
+  {
+    "sent_id": 47,
+    "subj": "he",
+    "verb": "ask",
+    "obj": "blessing",
+    "label": "he | ask | blessing",
+    "sentence": "After speaking thus, he asked his father\u2019s blessing, said goodbye, and set off, thinking:\n\n\u201cA skilled man whose luck fails him\nGoes where his name is unknown.\u201d"
+  },
+  {
+    "sent_id": 48,
+    "subj": "he",
+    "verb": "reach",
+    "obj": "bank",
+    "label": "he | reach | bank",
+    "sentence": "He reached the banks of a roaring river, so fierce it threw stones against each other, its noise heard far away."
+  },
+  {
+    "sent_id": 49,
+    "subj": "wave",
+    "verb": "whirl",
+    "obj": "millstone",
+    "label": "wave | whirl | millstone",
+    "sentence": "No aquatic bird was safe in its waters; even a small wave could whirl a millstone away."
+  },
+  {
+    "sent_id": 50,
+    "subj": "he",
+    "verb": "see",
+    "obj": "people",
+    "label": "he | see | people",
+    "sentence": "He saw many people, each sitting at the crossing with a coin in hand."
+  },
+  {
+    "sent_id": 51,
+    "subj": "he",
+    "verb": "praise",
+    "obj": "",
+    "label": "he | praise | \u2205",
+    "sentence": "His own hands empty, he praised and pleaded, but no one listened."
+  },
+  {
+    "sent_id": 52,
+    "subj": "they",
+    "verb": "say",
+    "obj": "",
+    "label": "they | say | \u2205",
+    "sentence": "\u201cNo one crosses without money,\u201d they said."
+  },
+  {
+    "sent_id": 53,
+    "subj": "force",
+    "verb": "help",
+    "obj": "coin",
+    "label": "force | help | coin",
+    "sentence": "\u201cNo force helps without coin.\u201d"
+  },
+  {
+    "sent_id": 54,
+    "subj": "boatman",
+    "verb": "laugh",
+    "obj": "",
+    "label": "boatman | laugh | \u2205",
+    "sentence": "An unkind boatman laughed and said,\n\n\u201cIf you have no money, how will you cross by force?"
+  },
+  {
+    "sent_id": 55,
+    "subj": "strength",
+    "verb": "be",
+    "obj": "good",
+    "label": "strength | be | good",
+    "sentence": "What good is the strength of ten men?"
+  },
+  {
+    "sent_id": 56,
+    "subj": "",
+    "verb": "pay",
+    "obj": "",
+    "label": "\u2205 | pay | \u2205",
+    "sentence": "Pay up.\u201d"
+  },
+  {
+    "sent_id": 57,
+    "subj": "insult",
+    "verb": "hurt",
+    "obj": "man",
+    "label": "insult | hurt | man",
+    "sentence": "The insult hurt the young man, who longed to strike back."
+  },
+  {
+    "sent_id": 58,
+    "subj": "he",
+    "verb": "shout",
+    "obj": "",
+    "label": "he | shout | \u2205",
+    "sentence": "When the boat started leaving, he shouted, \u201cIf you\u2019ll take the robe I wear, I\u2019ll give it to you.\u201d"
+  },
+  {
+    "sent_id": 59,
+    "subj": "greedy",
+    "verb": "turn",
+    "obj": "",
+    "label": "greedy | turn | \u2205",
+    "sentence": "Greedy, the boatman turned back."
+  },
+  {
+    "sent_id": 61,
+    "subj": "he",
+    "verb": "knock",
+    "obj": "he",
+    "label": "he | knock | he",
+    "sentence": "The moment the youth could grab the boatman\u2019s beard and collar, he knocked him down."
+  },
+  {
+    "sent_id": 62,
+    "subj": "man",
+    "verb": "come",
+    "obj": "",
+    "label": "man | come | \u2205",
+    "sentence": "Another man came to help the boatman and got the same treatment, retreating quickly."
+  },
+  {
+    "sent_id": 63,
+    "subj": "people",
+    "verb": "calm",
+    "obj": "youth",
+    "label": "people | calm | youth",
+    "sentence": "People then calmed the youth and paid his fare."
+  },
+  {
+    "sent_id": 64,
+    "subj": "",
+    "verb": "be",
+    "obj": "",
+    "label": "\u2205 | be | \u2205",
+    "sentence": "When you witness a quarrel, be patient,\nFor gentlemen close the door on strife."
+  },
+  {
+    "sent_id": 65,
+    "subj": "",
+    "verb": "use",
+    "obj": "kindness",
+    "label": "\u2205 | use | kindness",
+    "sentence": "Use kindness to ease contention."
+  },
+  {
+    "sent_id": 66,
+    "subj": "sword",
+    "verb": "cut",
+    "obj": "silk",
+    "label": "sword | cut | silk",
+    "sentence": "A sharp sword cannot cut soft silk."
+  },
+  {
+    "sent_id": 67,
+    "subj": "you",
+    "verb": "lead",
+    "obj": "elephant",
+    "label": "you | lead | elephant",
+    "sentence": "With a sweet tongue and grace,\nYou can lead an elephant by a single hair.\u201d"
+  },
+  {
+    "sent_id": 68,
+    "subj": "crowd",
+    "verb": "bow",
+    "obj": "",
+    "label": "crowd | bow | \u2205",
+    "sentence": "The crowd bowed, begged forgiveness, kissed his head and eyes hypocritically, helped him into the boat, and they set off."
+  },
+  {
+    "sent_id": 69,
+    "subj": "they",
+    "verb": "reach",
+    "obj": "pillar",
+    "label": "they | reach | pillar",
+    "sentence": "Soon they reached a Greek-style pillar standing in the water."
+  },
+  {
+    "sent_id": 70,
+    "subj": "boatman",
+    "verb": "warn",
+    "obj": "",
+    "label": "boatman | warn | \u2205",
+    "sentence": "The boatman warned: \u201cThe boat is in danger."
+  },
+  {
+    "sent_id": 71,
+    "subj": "man",
+    "verb": "climb",
+    "obj": "pillar",
+    "label": "man | climb | pillar",
+    "sentence": "One strong man must climb the pillar and secure the boat\u2019s rope.\u201d"
+  },
+  {
+    "sent_id": 72,
+    "subj": "youth",
+    "verb": "ignore",
+    "obj": "warning",
+    "label": "youth | ignore | warning",
+    "sentence": "Living in pride, the youth ignored the wise warning:\n\n\u201cIf you offend a man once,\nA hundred kindnesses won\u2019t erase it."
+  },
+  {
+    "sent_id": 73,
+    "subj": "boatman",
+    "verb": "snatch",
+    "obj": "it",
+    "label": "boatman | snatch | it",
+    "sentence": "Though a spear\u2019s tip breaks,\nAn offended heart remembers.\u201d\n\nAs he climbed and took the rope, the boatman snatched it away and pushed the boat off."
+  },
+  {
+    "sent_id": 74,
+    "subj": "man",
+    "verb": "strand",
+    "obj": "",
+    "label": "man | strand | \u2205",
+    "sentence": "The young man was stranded, spending two days in misery."
+  },
+  {
+    "sent_id": 75,
+    "subj": "sleep",
+    "verb": "overcome",
+    "obj": "he",
+    "label": "sleep | overcome | he",
+    "sentence": "On the third, sleep overcame him and he fell into the water."
+  },
+  {
+    "sent_id": 76,
+    "subj": "he",
+    "verb": "wash",
+    "obj": "day",
+    "label": "he | wash | day",
+    "sentence": "After a day and night, he washed ashore, barely alive."
+  },
+  {
+    "sent_id": 77,
+    "subj": "he",
+    "verb": "eat",
+    "obj": "leaf",
+    "label": "he | eat | leaf",
+    "sentence": "He ate leaves and roots to regain strength, then headed for the desert."
+  },
+  {
+    "sent_id": 78,
+    "subj": "thirst",
+    "verb": "torment",
+    "obj": "he",
+    "label": "thirst | torment | he",
+    "sentence": "Thirst tormented him until he reached a well where people drank."
+  },
+  {
+    "sent_id": 79,
+    "subj": "he",
+    "verb": "ask",
+    "obj": "coin",
+    "label": "he | ask | coin",
+    "sentence": "He asked for a coin, but they showed no mercy."
+  },
+  {
+    "sent_id": 80,
+    "subj": "he",
+    "verb": "insult",
+    "obj": "they",
+    "label": "he | insult | they",
+    "sentence": "Angered, he insulted them, then struck several men, but was eventually overpowered and wounded."
+  },
+  {
+    "sent_id": 81,
+    "subj": "swarm",
+    "verb": "overwhelm",
+    "obj": "elephant",
+    "label": "swarm | overwhelm | elephant",
+    "sentence": "A swarm of gnats can overwhelm an elephant,\nNo matter how fierce and brave."
+  },
+  {
+    "sent_id": 82,
+    "subj": "he",
+    "verb": "lag",
+    "obj": "caravan",
+    "label": "he | lag | caravan",
+    "sentence": "When little ants unite,\nThey tear a furious lion\u2019s skin.\u201d\n\nOut of necessity, he lagged behind a caravan."
+  },
+  {
+    "sent_id": 83,
+    "subj": "they",
+    "verb": "camp",
+    "obj": "night",
+    "label": "they | camp | night",
+    "sentence": "At night, they camped in a dangerous area known for thieves."
+  },
+  {
+    "sent_id": 84,
+    "subj": "folk",
+    "verb": "tremble",
+    "obj": "",
+    "label": "folk | tremble | \u2205",
+    "sentence": "The caravan folk trembled, but he boasted:\n\n\u201cFear nothing, for I can face fifty men alone,\nAnd the others will back me.\u201d"
+  },
+  {
+    "sent_id": 85,
+    "subj": "they",
+    "verb": "welcome",
+    "obj": "he",
+    "label": "they | welcome | he",
+    "sentence": "His words comforted them; they welcomed him and supplied food and water."
+  },
+  {
+    "sent_id": 86,
+    "subj": "he",
+    "verb": "eat",
+    "obj": "",
+    "label": "he | eat | \u2205",
+    "sentence": "His hunger subdued, he ate and drank, then fell asleep."
+  },
+  {
+    "sent_id": 87,
+    "subj": "man",
+    "verb": "warn",
+    "obj": "",
+    "label": "man | warn | \u2205",
+    "sentence": "An old man warned:\n\n\u201cI fear this guard more than the thieves."
+  },
+  {
+    "sent_id": 88,
+    "subj": "",
+    "verb": "\u2019",
+    "obj": "story",
+    "label": "\u2205 | \u2019 | story",
+    "sentence": "There\u2019s a story of a stranger with money\nWho feared the Luris and invited a friend for company."
+  },
+  {
+    "sent_id": 89,
+    "subj": "he",
+    "verb": "leave",
+    "obj": "friend",
+    "label": "he | leave | friend",
+    "sentence": "He left the friend alone,\nOnly to find him gone with his money."
+  },
+  {
+    "sent_id": 90,
+    "subj": "he",
+    "verb": "say",
+    "obj": "",
+    "label": "he | say | \u2205",
+    "sentence": "When asked, he said,\n\u2018It wasn\u2019t the thieves, but the guard who stole it.\u2019"
+  },
+  {
+    "sent_id": 91,
+    "subj": "i",
+    "verb": "feel",
+    "obj": "",
+    "label": "i | feel | \u2205",
+    "sentence": "I never felt safe from a serpent\nUntil I learned its nature."
+  },
+  {
+    "sent_id": 93,
+    "subj": "who",
+    "verb": "know",
+    "obj": "",
+    "label": "who | know | \u2205",
+    "sentence": "\u201cWho knows if he\u2019s not a spy for the thieves?"
+  },
+  {
+    "sent_id": 94,
+    "subj": "i",
+    "verb": "say",
+    "obj": "",
+    "label": "i | say | \u2205",
+    "sentence": "I say we leave him and let him sleep.\u201d"
+  },
+  {
+    "sent_id": 95,
+    "subj": "youth",
+    "verb": "agree",
+    "obj": "",
+    "label": "youth | agree | \u2205",
+    "sentence": "The youths agreed, took their baggage, and left while the young man slept."
+  },
+  {
+    "sent_id": 96,
+    "subj": "he",
+    "verb": "wake",
+    "obj": "sun",
+    "label": "he | wake | sun",
+    "sentence": "He woke with the sun, saw the caravan gone, and wandered thirsty and lost, eventually sitting down, heartbroken."
+  },
+  {
+    "sent_id": 97,
+    "subj": "camel",
+    "verb": "be",
+    "obj": "",
+    "label": "camel | be | \u2205",
+    "sentence": "\u201cWho will speak to me now the camels are gone?"
+  },
+  {
+    "sent_id": 98,
+    "subj": "stranger",
+    "verb": "have",
+    "obj": "companion",
+    "label": "stranger | have | companion",
+    "sentence": "A stranger has no companion but a stranger."
+  },
+  {
+    "sent_id": 99,
+    "subj": "stranger",
+    "verb": "be",
+    "obj": "prince",
+    "label": "stranger | be | prince",
+    "sentence": "The stranger is harsh to strangers\nWho has not suffered exile.\u201d\n\nWhile he spoke, a prince on a hunting trip, who had strayed from his men, overheard him."
+  },
+  {
+    "sent_id": 100,
+    "subj": "prince",
+    "verb": "ask",
+    "obj": "",
+    "label": "prince | ask | \u2205",
+    "sentence": "Seeing his noble appearance but wretched condition, the prince asked where he came from and what had happened."
+  },
+  {
+    "sent_id": 101,
+    "subj": "man",
+    "verb": "tell",
+    "obj": "story",
+    "label": "man | tell | story",
+    "sentence": "The young man quickly told his story."
+  },
+  {
+    "sent_id": 102,
+    "subj": "prince",
+    "verb": "give",
+    "obj": "robe",
+    "label": "prince | give | robe",
+    "sentence": "Feeling pity, the royal prince gave him a robe of honor and a large sum of money, then sent a trusted servant to guide him back home."
+  },
+  {
+    "sent_id": 103,
+    "subj": "he",
+    "verb": "reach",
+    "obj": "house",
+    "label": "he | reach | house",
+    "sentence": "At last, he reached his father\u2019s house, who was glad and thankful for his safe return."
+  },
+  {
+    "sent_id": 104,
+    "subj": "son",
+    "verb": "recount",
+    "obj": "ordeal",
+    "label": "son | recount | ordeal",
+    "sentence": "That evening, the son recounted all his ordeals: the boat and boatman\u2019s violence, the cruel villagers at the well, and the caravan\u2019s betrayal."
+  },
+  {
+    "sent_id": 105,
+    "subj": "father",
+    "verb": "say",
+    "obj": "",
+    "label": "father | say | \u2205",
+    "sentence": "The father said:\n\n\u201cDid I not tell you at your departure that a brave hand without means is like a lion\u2019s broken paw?\n\nHow true the saying:\n\u2018A grain of gold is worth more than fifty mann of strength.\u2019\u201d"
+  },
+  {
+    "sent_id": 106,
+    "subj": "son",
+    "verb": "answer",
+    "obj": "",
+    "label": "son | answer | \u2205",
+    "sentence": "The son answered:\n\n\u201cFather, treasure never comes without trouble."
+  },
+  {
+    "sent_id": 107,
+    "subj": "you",
+    "verb": "defeat",
+    "obj": "enemy",
+    "label": "you | defeat | enemy",
+    "sentence": "You cannot defeat your enemy without risking life,\nNor reap a harvest without casting seeds."
+  },
+  {
+    "sent_id": 108,
+    "subj": "you",
+    "verb": "see",
+    "obj": "",
+    "label": "you | see | \u2205",
+    "sentence": "Do you not see how much comfort I gained\nFor the small troubles I faced,\nAnd what honey I brought back for the sting I was stung with?"
+  },
+  {
+    "sent_id": 109,
+    "subj": "effort",
+    "verb": "be",
+    "obj": "",
+    "label": "effort | be | \u2205",
+    "sentence": "Though fate rules what can be had,\nNeglecting effort is shameful."
+  },
+  {
+    "sent_id": 110,
+    "subj": "he",
+    "verb": "catch",
+    "obj": "pearl",
+    "label": "he | catch | pearl",
+    "sentence": "If a diver fears the crocodile\u2019s jaws,\nHe\u2019ll never catch the precious pearl."
+  },
+  {
+    "sent_id": 111,
+    "subj": "millstone",
+    "verb": "move",
+    "obj": "",
+    "label": "millstone | move | \u2205",
+    "sentence": "The lower millstone does not move,\nSo it must bear heavy loads."
+  },
+  {
+    "sent_id": 112,
+    "subj": "lion",
+    "verb": "feed",
+    "obj": "what",
+    "label": "lion | feed | what",
+    "sentence": "What will a fierce lion feed on in its den?"
+  },
+  {
+    "sent_id": 114,
+    "subj": "you",
+    "verb": "have",
+    "obj": "hand",
+    "label": "you | have | hand",
+    "sentence": "If you want to catch game at home,\nYou must have hands and feet like a spider.\u201d"
+  },
+  {
+    "sent_id": 115,
+    "subj": "father",
+    "verb": "reply",
+    "obj": "",
+    "label": "father | reply | \u2205",
+    "sentence": "The father replied:\n\n\u201cThis time, fate was kind,\nAnd luck was with you,\nAs a royal met you, gave gifts,\nAnd healed your wounds."
+  },
+  {
+    "sent_id": 116,
+    "subj": "event",
+    "verb": "count",
+    "obj": "",
+    "label": "event | count | \u2205",
+    "sentence": "But such rare events cannot be counted on."
+  },
+  {
+    "sent_id": 117,
+    "subj": "hunter",
+    "verb": "catch",
+    "obj": "jackal",
+    "label": "hunter | catch | jackal",
+    "sentence": "The hunter does not catch jackals every time."
+  },
+  {
+    "sent_id": 118,
+    "subj": "he",
+    "verb": "eat",
+    "obj": "",
+    "label": "he | eat | \u2205",
+    "sentence": "Someday, he may be eaten by a tiger.\u201d"
+  },
+  {
+    "sent_id": 119,
+    "subj": "they",
+    "verb": "recall",
+    "obj": "tale",
+    "label": "they | recall | tale",
+    "sentence": "They recalled a tale of a Persian king who once, for sport with close courtiers, placed his costly ring atop the dome of Asad in Shiraz, promising to give it to anyone who could shoot an arrow through it."
+  },
+  {
+    "sent_id": 120,
+    "subj": "archer",
+    "verb": "miss",
+    "obj": "",
+    "label": "archer | miss | \u2205",
+    "sentence": "Four hundred archers all missed, but a young boy playing on a monastery roof, shooting arrows randomly, was lucky when the morning breeze pushed one through the ring."
+  },
+  {
+    "sent_id": 121,
+    "subj": "boy",
+    "verb": "claim",
+    "obj": "ring",
+    "label": "boy | claim | ring",
+    "sentence": "The boy claimed the ring, a robe, and money, then burned his bow and arrows, saying, \u201cSo that my first glory may last forever.\u201d"
+  },
+  {
+    "sent_id": 122,
+    "subj": "sage",
+    "verb": "fail",
+    "obj": "",
+    "label": "sage | fail | \u2205",
+    "sentence": "Sometimes even a wise sage fails,\nAnd sometimes a foolish child,"
+  },
+  {
+    "sent_id": 123,
+    "subj": "",
+    "verb": "hit",
+    "obj": "mark",
+    "label": "\u2205 | hit | mark",
+    "sentence": "By chance,\nHits the mark."
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "traveler",
+    "verb": "be",
+    "obj": "journey",
+    "label": "traveler | be | journey",
+    "sentence": "Several travelers were on a journey together, sharing each other's hardships and comforts equally."
+  },
+  {
+    "sent_id": 1,
+    "subj": "i",
+    "verb": "wish",
+    "obj": "",
+    "label": "i | wish | \u2205",
+    "sentence": "I wished to join them, but they refused."
+  },
+  {
+    "sent_id": 2,
+    "subj": "i",
+    "verb": "say",
+    "obj": "",
+    "label": "i | say | \u2205",
+    "sentence": "I said, \"It is not the way of noble men to turn away from the company of the poor and lose the chance to benefit from them."
+  },
+  {
+    "sent_id": 3,
+    "subj": "i",
+    "verb": "consider",
+    "obj": "",
+    "label": "i | consider | \u2205",
+    "sentence": "I consider myself strong and able to help, not a burden."
+  },
+  {
+    "sent_id": 4,
+    "subj": "i",
+    "verb": "assist",
+    "obj": "",
+    "label": "i | assist | \u2205",
+    "sentence": "Even if I do not ride an animal, I can assist in carrying the blankets.\""
+  },
+  {
+    "sent_id": 5,
+    "subj": "one",
+    "verb": "reply",
+    "obj": "",
+    "label": "one | reply | \u2205",
+    "sentence": "One of them replied, \"Do not be upset by what you hear."
+  },
+  {
+    "sent_id": 6,
+    "subj": "thief",
+    "verb": "come",
+    "obj": "",
+    "label": "thief | come | \u2205",
+    "sentence": "Some days ago, a thief disguised as a dervish came and joined us."
+  },
+  {
+    "sent_id": 7,
+    "subj": "people",
+    "verb": "know",
+    "obj": "nature",
+    "label": "people | know | nature",
+    "sentence": "\"\n\nHow can people know a person\u2019s true nature by their clothes?"
+  },
+  {
+    "sent_id": 8,
+    "subj": "writer",
+    "verb": "know",
+    "obj": "",
+    "label": "writer | know | \u2205",
+    "sentence": "The writer knows what is truly inside the book."
+  },
+  {
+    "sent_id": 9,
+    "subj": "other",
+    "verb": "have",
+    "obj": "suspicion",
+    "label": "other | have | suspicion",
+    "sentence": "Since dervishes are known for their humble appearance, the others had no suspicion and welcomed the thief as a friend."
+  },
+  {
+    "sent_id": 10,
+    "subj": "appearance",
+    "verb": "be",
+    "obj": "clothing",
+    "label": "appearance | be | clothing",
+    "sentence": "The outward appearance of the seekers of truth is their patched clothing, which is enough to show who they are to others."
+  },
+  {
+    "sent_id": 11,
+    "subj": "",
+    "verb": "strive",
+    "obj": "",
+    "label": "\u2205 | strive | \u2205",
+    "sentence": "But strive to be good in your deeds, no matter what you wear."
+  },
+  {
+    "sent_id": 12,
+    "subj": "holiness",
+    "verb": "lie",
+    "obj": "",
+    "label": "holiness | lie | \u2205",
+    "sentence": "Put a crown on your head or a flag on your back if you wish; true holiness lies in abandoning the world, lust, and desire\u2014not just in wearing a robe."
+  },
+  {
+    "sent_id": 13,
+    "subj": "man",
+    "verb": "show",
+    "obj": "courage",
+    "label": "man | show | courage",
+    "sentence": "A man must show courage and strength in battle."
+  },
+  {
+    "sent_id": 14,
+    "subj": "weapon",
+    "verb": "be",
+    "obj": "good",
+    "label": "weapon | be | good",
+    "sentence": "What good are weapons to someone who lacks true manhood?"
+  },
+  {
+    "sent_id": 15,
+    "subj": "we",
+    "verb": "travel",
+    "obj": "nightfall",
+    "label": "we | travel | nightfall",
+    "sentence": "We traveled until nightfall and camped near a fort."
+  },
+  {
+    "sent_id": 16,
+    "subj": "thief",
+    "verb": "take",
+    "obj": "pot",
+    "label": "thief | take | pot",
+    "sentence": "The shameless thief took a companion\u2019s water pot, pretending he was going to perform ablutions, but he left to steal."
+  },
+  {
+    "sent_id": 17,
+    "subj": "saint",
+    "verb": "turn",
+    "obj": "robe",
+    "label": "saint | turn | robe",
+    "sentence": "A fake saint who wears the dervish\u2019s garb has turned the sacred robes of the Ka'bah into a cover for a donkey."
+  },
+  {
+    "sent_id": 18,
+    "subj": "he",
+    "verb": "reach",
+    "obj": "tower",
+    "label": "he | reach | tower",
+    "sentence": "After slipping away unseen by the dervishes, he reached a tower and stole a chest."
+  },
+  {
+    "sent_id": 19,
+    "subj": "man",
+    "verb": "flee",
+    "obj": "dawn",
+    "label": "man | flee | dawn",
+    "sentence": "By dawn, the evil man had fled far away."
+  },
+  {
+    "sent_id": 20,
+    "subj": "they",
+    "verb": "arrest",
+    "obj": "",
+    "label": "they | arrest | \u2205",
+    "sentence": "When the others awoke, innocent and unaware, they were all arrested and thrown into prison at the fort."
+  },
+  {
+    "sent_id": 21,
+    "subj": "we",
+    "verb": "give",
+    "obj": "",
+    "label": "we | give | \u2205",
+    "sentence": "From then on, we gave up traveling in company and chose the path of solitude, following the saying: Safety lies in being alone."
+  },
+  {
+    "sent_id": 22,
+    "subj": "honor",
+    "verb": "remain",
+    "obj": "anyone",
+    "label": "honor | remain | anyone",
+    "sentence": "When one from a group does wrong, no honor remains for anyone, whether low or high."
+  },
+  {
+    "sent_id": 23,
+    "subj": "you",
+    "verb": "see",
+    "obj": "",
+    "label": "you | see | \u2205",
+    "sentence": "Don\u2019t you see how one ox in the pasture can stain all the oxen in the village?"
+  },
+  {
+    "sent_id": 24,
+    "subj": "i",
+    "verb": "deny",
+    "obj": "benefit",
+    "label": "i | deny | benefit",
+    "sentence": "I replied, \"Thanks be to God, I have not been denied the benefits that dervishes enjoy, even though I have left their company."
+  },
+  {
+    "sent_id": 25,
+    "subj": "",
+    "verb": "be",
+    "obj": "",
+    "label": "\u2205 | be | \u2205",
+    "sentence": "What you have told me is valuable, and this warning will serve those like me throughout life."
+  },
+  {
+    "sent_id": 26,
+    "subj": "heart",
+    "verb": "sadden",
+    "obj": "man",
+    "label": "heart | sadden | man",
+    "sentence": "\"\n\nFor one rude man in a gathering, the hearts of wise men are deeply saddened."
+  },
+  {
+    "sent_id": 27,
+    "subj": "dog",
+    "verb": "pollute",
+    "obj": "whole",
+    "label": "dog | pollute | whole",
+    "sentence": "If a tank is filled with rose water, a dog falling into it will pollute the whole."
+  }
+]

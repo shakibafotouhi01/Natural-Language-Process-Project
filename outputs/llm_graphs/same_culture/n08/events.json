@@ -1,0 +1,562 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "gauda",
+    "verb": "punish",
+    "obj": "",
+    "label": "gauda | punish | \u2205",
+    "sentence": "Long ago, Aggo Dah Gauda was punished for once using his foot against a respected medicine man."
+  },
+  {
+    "sent_id": 1,
+    "subj": "one",
+    "verb": "tie",
+    "obj": "thigh",
+    "label": "one | tie | thigh",
+    "sentence": "One of his legs was tied up to his thigh, forcing him to hop wherever he went."
+  },
+  {
+    "sent_id": 2,
+    "subj": "he",
+    "verb": "become",
+    "obj": "practice",
+    "label": "he | become | practice",
+    "sentence": "With practice, he became very skilled at hopping and could leap with amazing agility."
+  },
+  {
+    "sent_id": 3,
+    "subj": "aggo",
+    "verb": "have",
+    "obj": "daughter",
+    "label": "aggo | have | daughter",
+    "sentence": "Aggo had a beautiful daughter."
+  },
+  {
+    "sent_id": 4,
+    "subj": "concern",
+    "verb": "be",
+    "obj": "",
+    "label": "concern | be | \u2205",
+    "sentence": "His greatest concern was to protect her from being taken by the king of the buffalos, the powerful ruler of all the buffalo herds who commanded them completely."
+  },
+  {
+    "sent_id": 5,
+    "subj": "gauda",
+    "verb": "be",
+    "obj": "right",
+    "label": "gauda | be | right",
+    "sentence": "Dah Gauda himself was important in his own right, living in a grand log house with a courtyard stretching as far west as he wished to claim."
+  },
+  {
+    "sent_id": 6,
+    "subj": "he",
+    "verb": "warn",
+    "obj": "daughter",
+    "label": "he | warn | daughter",
+    "sentence": "Despite his vast domain, he warned his daughter to stay inside the lodge, never wandering far, because he was certain the buffalo-king was always lurking nearby, waiting to seize her."
+  },
+  {
+    "sent_id": 7,
+    "subj": "aggo",
+    "verb": "prepare",
+    "obj": "cloud",
+    "label": "aggo | prepare | cloud",
+    "sentence": "One bright morning, with a few gentle clouds drifting across the sky, Aggo prepared to go fishing."
+  },
+  {
+    "sent_id": 8,
+    "subj": "he",
+    "verb": "remind",
+    "obj": "daughter",
+    "label": "he | remind | daughter",
+    "sentence": "Before leaving, he reminded his daughter about the dangerous stranger she had never seen."
+  },
+  {
+    "sent_id": 9,
+    "subj": "daughter",
+    "verb": "go",
+    "obj": "",
+    "label": "daughter | go | \u2205",
+    "sentence": "\u201cMy daughter,\u201d he said, \u201cI\u2019m going out to fish."
+  },
+  {
+    "sent_id": 10,
+    "subj": "day",
+    "verb": "be",
+    "obj": "",
+    "label": "day | be | \u2205",
+    "sentence": "The day will be fine, but remember our enemy is near, watching with eyes that never close."
+  },
+  {
+    "sent_id": 11,
+    "subj": "",
+    "verb": "show",
+    "obj": "yourself",
+    "label": "\u2205 | show | yourself",
+    "sentence": "Do not show yourself outside the lodge.\u201d\n\nWith that advice, Aggo hopped away happily."
+  },
+  {
+    "sent_id": 12,
+    "subj": "he",
+    "verb": "hear",
+    "obj": "song",
+    "label": "he | hear | song",
+    "sentence": "Soon after reaching the fishing spot, he heard a strange song carried on the wind:\n\nMan with the leg tied up, \nMan with the leg tied up, \nBroken hip\u2014hip\u2014 \nHipped."
+  },
+  {
+    "sent_id": 13,
+    "subj": "man",
+    "verb": "tie",
+    "obj": "",
+    "label": "man | tie | \u2205",
+    "sentence": "Man with the leg tied up, \nMan with the leg tied up, \nBroken leg\u2014leg\u2014 \nLegged."
+  },
+  {
+    "sent_id": 14,
+    "subj": "one",
+    "verb": "be",
+    "obj": "",
+    "label": "one | be | \u2205",
+    "sentence": "No one was visible, but Aggo clearly heard the words."
+  },
+  {
+    "sent_id": 15,
+    "subj": "he",
+    "verb": "hurry",
+    "obj": "",
+    "label": "he | hurry | \u2205",
+    "sentence": "Knowing this must be the work of his enemies, the buffalos, he hurried home as fast as his one leg could carry him."
+  },
+  {
+    "sent_id": 16,
+    "subj": "daughter",
+    "verb": "think",
+    "obj": "herself",
+    "label": "daughter | think | herself",
+    "sentence": "Meanwhile, left alone inside the lodge, the daughter thought to herself, \u201cIt\u2019s so hard always staying inside."
+  },
+  {
+    "sent_id": 17,
+    "subj": "father",
+    "verb": "say",
+    "obj": "",
+    "label": "father | say | \u2205",
+    "sentence": "But father says it\u2019s dangerous to go out."
+  },
+  {
+    "sent_id": 19,
+    "subj": "i",
+    "verb": "comb",
+    "obj": "hair",
+    "label": "i | comb | hair",
+    "sentence": "There I can comb my hair, and no one can harm me.\u201d"
+  },
+  {
+    "sent_id": 20,
+    "subj": "she",
+    "verb": "climb",
+    "obj": "roof",
+    "label": "she | climb | roof",
+    "sentence": "She climbed to the roof and began untying and combing her long, beautiful hair."
+  },
+  {
+    "sent_id": 21,
+    "subj": "hair",
+    "verb": "be",
+    "obj": "",
+    "label": "hair | be | \u2205",
+    "sentence": "Her hair was truly remarkable\u2014not only shiny and fine but so long that it draped over the eaves and touched the ground as she sat there grooming it."
+  },
+  {
+    "sent_id": 22,
+    "subj": "she",
+    "verb": "be",
+    "obj": "",
+    "label": "she | be | \u2205",
+    "sentence": "She was so focused on this that she didn\u2019t notice the buffalo-king rushing in with his herd."
+  },
+  {
+    "sent_id": 23,
+    "subj": "he",
+    "verb": "grab",
+    "obj": "she",
+    "label": "he | grab | she",
+    "sentence": "He grabbed her by her cascading hair, placed her on the back of one of his chosen buffaloes, and galloped across the plains."
+  },
+  {
+    "sent_id": 24,
+    "subj": "he",
+    "verb": "carry",
+    "obj": "she",
+    "label": "he | carry | she",
+    "sentence": "Splashing through a river at the edge of his land, he carried her safely to his lodge on the far shore."
+  },
+  {
+    "sent_id": 26,
+    "subj": "it",
+    "verb": "be",
+    "obj": "",
+    "label": "it | be | \u2205",
+    "sentence": "It might have been smarter to try this before taking her, but now his efforts were mostly in vain."
+  },
+  {
+    "sent_id": 27,
+    "subj": "she",
+    "verb": "sit",
+    "obj": "female",
+    "label": "she | sit | female",
+    "sentence": "Although he spoke kindly to her and treated her with great care, she sat silent and sorrowful among the other females, showing no interest in the king or his household."
+  },
+  {
+    "sent_id": 28,
+    "subj": "she",
+    "verb": "be",
+    "obj": "he",
+    "label": "she | be | he",
+    "sentence": "To him, she was as still and quiet as a bush by her father\u2019s door when the summer wind has died away."
+  },
+  {
+    "sent_id": 29,
+    "subj": "king",
+    "verb": "command",
+    "obj": "everyone",
+    "label": "king | command | everyone",
+    "sentence": "The king commanded everyone in the lodge, under threat of death, to give her everything she wanted and never upset her."
+  },
+  {
+    "sent_id": 30,
+    "subj": "they",
+    "verb": "bring",
+    "obj": "food",
+    "label": "they | bring | food",
+    "sentence": "They brought her the finest food and gave her the place of honor."
+  },
+  {
+    "sent_id": 31,
+    "subj": "king",
+    "verb": "go",
+    "obj": "",
+    "label": "king | go | \u2205",
+    "sentence": "The king himself went hunting for the best meats and birds to please her."
+  },
+  {
+    "sent_id": 32,
+    "subj": "he",
+    "verb": "take",
+    "obj": "she",
+    "label": "he | take | she",
+    "sentence": "Each morning he took her on a gentle ride on a royal buffalo, whose calm gait didn\u2019t disturb a single strand of her magnificent hair."
+  },
+  {
+    "sent_id": 33,
+    "subj": "king",
+    "verb": "fast",
+    "obj": "time",
+    "label": "king | fast | time",
+    "sentence": "At times, the king would fast to clear his spirit and warm his voice."
+  },
+  {
+    "sent_id": 34,
+    "subj": "he",
+    "verb": "pour",
+    "obj": "feeling",
+    "label": "he | pour | feeling",
+    "sentence": "Then sitting before the lodge with an Indian flute, he poured out his feelings in lonely song:\n\nMy sweetheart, \nMy sweetheart, \nAh me!"
+  },
+  {
+    "sent_id": 35,
+    "subj": "i",
+    "verb": "think",
+    "obj": "you",
+    "label": "i | think | you",
+    "sentence": "When I think of you, \nWhen I think of you, \nAh me!"
+  },
+  {
+    "sent_id": 36,
+    "subj": "i",
+    "verb": "do",
+    "obj": "what",
+    "label": "i | do | what",
+    "sentence": "What can I do, do, do?"
+  },
+  {
+    "sent_id": 37,
+    "subj": "i",
+    "verb": "love",
+    "obj": "you",
+    "label": "i | love | you",
+    "sentence": "How I love you, \nHow I love you, \nAh me!"
+  },
+  {
+    "sent_id": 38,
+    "subj": "",
+    "verb": "hate",
+    "obj": "i",
+    "label": "\u2205 | hate | i",
+    "sentence": "Do not hate me, \nDo not hate me, \nAh me!"
+  },
+  {
+    "sent_id": 39,
+    "subj": "speak",
+    "verb": "scold",
+    "obj": "i",
+    "label": "speak | scold | i",
+    "sentence": "Speak\u2014even scold me."
+  },
+  {
+    "sent_id": 40,
+    "subj": "i",
+    "verb": "think",
+    "obj": "you",
+    "label": "i | think | you",
+    "sentence": "When I think of you, \nAh me!"
+  },
+  {
+    "sent_id": 41,
+    "subj": "i",
+    "verb": "do",
+    "obj": "what",
+    "label": "i | do | what",
+    "sentence": "What can I do, do, do?"
+  },
+  {
+    "sent_id": 42,
+    "subj": "gauda",
+    "verb": "return",
+    "obj": "",
+    "label": "gauda | return | \u2205",
+    "sentence": "Meanwhile, Aggo Dah Gauda returned home to find his daughter missing."
+  },
+  {
+    "sent_id": 43,
+    "subj": "anger",
+    "verb": "flare",
+    "obj": "",
+    "label": "anger | flare | \u2205",
+    "sentence": "His anger flared fiercely."
+  },
+  {
+    "sent_id": 44,
+    "subj": "he",
+    "verb": "want",
+    "obj": "",
+    "label": "he | want | \u2205",
+    "sentence": "He wanted to tear out his hair, but being bald that was impossible."
+  },
+  {
+    "sent_id": 45,
+    "subj": "he",
+    "verb": "hop",
+    "obj": "direction",
+    "label": "he | hop | direction",
+    "sentence": "So, to vent, he hopped off half a mile in every direction\u2014east, west, north, and south\u2014searching for her until his one leg tired out."
+  },
+  {
+    "sent_id": 46,
+    "subj": "he",
+    "verb": "rest",
+    "obj": "lodge",
+    "label": "he | rest | lodge",
+    "sentence": "Then he rested in his lodge and vowed his single leg would never rest again until he found and brought her home."
+  },
+  {
+    "sent_id": 47,
+    "subj": "he",
+    "verb": "set",
+    "obj": "determination",
+    "label": "he | set | determination",
+    "sentence": "With determination, he set out."
+  },
+  {
+    "sent_id": 48,
+    "subj": "aggo",
+    "verb": "track",
+    "obj": "king",
+    "label": "aggo | track | king",
+    "sentence": "Going more slowly now, Aggo tracked the buffalo-king to the riverbank where wild buffalo had crossed."
+  },
+  {
+    "sent_id": 49,
+    "subj": "water",
+    "verb": "freeze",
+    "obj": "night",
+    "label": "water | freeze | night",
+    "sentence": "But after a few cold nights, the water was frozen with thin ice too fragile for him."
+  },
+  {
+    "sent_id": 50,
+    "subj": "he",
+    "verb": "camp",
+    "obj": "",
+    "label": "he | camp | \u2205",
+    "sentence": "He camped nearby until the ice was strong enough to cross and then followed the trail."
+  },
+  {
+    "sent_id": 51,
+    "subj": "he",
+    "verb": "find",
+    "obj": "branch",
+    "label": "he | find | branch",
+    "sentence": "Along the way, he found broken branches scattered behind him."
+  },
+  {
+    "sent_id": 52,
+    "subj": "these",
+    "verb": "be",
+    "obj": "sign",
+    "label": "these | be | sign",
+    "sentence": "These were signs his daughter left, for, when caught, her loose long hair had caught on branches, and she had snapped off twigs to mark the path."
+  },
+  {
+    "sent_id": 53,
+    "subj": "aggo",
+    "verb": "come",
+    "obj": "lodge",
+    "label": "aggo | come | lodge",
+    "sentence": "Finally, Aggo came upon the buffalo-king\u2019s lodge at evening."
+  },
+  {
+    "sent_id": 54,
+    "subj": "he",
+    "verb": "see",
+    "obj": "",
+    "label": "he | see | \u2205",
+    "sentence": "Peeking inside, he saw his daughter sitting silently."
+  },
+  {
+    "sent_id": 55,
+    "subj": "she",
+    "verb": "ask",
+    "obj": "dipper",
+    "label": "she | ask | dipper",
+    "sentence": "When their eyes met, she recognized him and, her heart softening, she asked for the royal dipper, saying, \u201cI will go get the king some water.\u201d"
+  },
+  {
+    "sent_id": 57,
+    "subj": "she",
+    "verb": "slip",
+    "obj": "sound",
+    "label": "she | slip | sound",
+    "sentence": "But she slipped away without a sound."
+  },
+  {
+    "sent_id": 58,
+    "subj": "king",
+    "verb": "call",
+    "obj": "herd",
+    "label": "king | call | herd",
+    "sentence": "The king called his herd and they set off across the plains."
+  },
+  {
+    "sent_id": 59,
+    "subj": "they",
+    "verb": "spot",
+    "obj": "gauda",
+    "label": "they | spot | gauda",
+    "sentence": "Under the moonlight, they spotted Aggo Dah Gauda, who carried his daughter in his arms, hopping swiftly to the west."
+  },
+  {
+    "sent_id": 60,
+    "subj": "buffalos",
+    "verb": "give",
+    "obj": "shout",
+    "label": "buffalos | give | shout",
+    "sentence": "The buffalos gave a loud shout and chased after him, sure they would catch him quickly."
+  },
+  {
+    "sent_id": 61,
+    "subj": "it",
+    "verb": "be",
+    "obj": "",
+    "label": "it | be | \u2205",
+    "sentence": "But although Aggo had only one leg, it was so strong and swift that for every step they took, he hopped the length of a cedar tree."
+  },
+  {
+    "sent_id": 62,
+    "subj": "king",
+    "verb": "determine",
+    "obj": "",
+    "label": "king | determine | \u2205",
+    "sentence": "The buffalo-king was determined not to be outrun by a man with a tied-up leg."
+  },
+  {
+    "sent_id": 63,
+    "subj": "he",
+    "verb": "send",
+    "obj": "buffalo",
+    "label": "he | send | buffalo",
+    "sentence": "Shouting and urging, he sent his fastest buffaloes ahead with strict orders to capture Aggo dead or alive."
+  },
+  {
+    "sent_id": 64,
+    "subj": "aggo",
+    "verb": "leap",
+    "obj": "side",
+    "label": "aggo | leap | side",
+    "sentence": "It was a strange sight: when one buffalo nearly reached him, Aggo would leap far off to the side, putting himself out of reach."
+  },
+  {
+    "sent_id": 65,
+    "subj": "he",
+    "verb": "hop",
+    "obj": "",
+    "label": "he | hop | \u2205",
+    "sentence": "This brought him close to another buffalo, then he\u2019d hop away again, zigzagging across the plain."
+  },
+  {
+    "sent_id": 66,
+    "subj": "buffalos",
+    "verb": "grow",
+    "obj": "",
+    "label": "buffalos | grow | \u2205",
+    "sentence": "The buffalos grew confused and frantic."
+  },
+  {
+    "sent_id": 67,
+    "subj": "they",
+    "verb": "roar",
+    "obj": "",
+    "label": "they | roar | \u2205",
+    "sentence": "They roared, flicked their tails, and foamed, as if trying to scare the old man in the moon watching from above the prairie."
+  },
+  {
+    "sent_id": 68,
+    "subj": "king",
+    "verb": "lose",
+    "obj": "patience",
+    "label": "king | lose | patience",
+    "sentence": "Finally, the frustrated king lost patience."
+  },
+  {
+    "sent_id": 69,
+    "subj": "he",
+    "verb": "call",
+    "obj": "",
+    "label": "he | call | \u2205",
+    "sentence": "Chasing a one-legged man all night seemed ridiculous, so he called off the hunt and fled west, never to return to that land."
+  },
+  {
+    "sent_id": 70,
+    "subj": "aggo",
+    "verb": "hop",
+    "obj": "stream",
+    "label": "aggo | hop | stream",
+    "sentence": "Free from pursuit, Aggo hopped swiftly across a stream and brought his daughter safely home."
+  },
+  {
+    "sent_id": 71,
+    "subj": "daughter",
+    "verb": "marry",
+    "obj": "warrior",
+    "label": "daughter | marry | warrior",
+    "sentence": "Later, Aggo\u2019s beautiful daughter married a fine young warrior who was no buffalo-king and owned nothing but a splendid buffalo skin robe, worn proudly over his shoulders on their wedding day."
+  },
+  {
+    "sent_id": 72,
+    "subj": "gauda",
+    "verb": "hop",
+    "obj": "day",
+    "label": "gauda | hop | day",
+    "sentence": "On that day, Aggo Dah Gauda hopped about on his one leg more lively than ever before."
+  }
+]

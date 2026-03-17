@@ -1,0 +1,940 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "\u2205 | be | man",
+      "sent_id": 0,
+      "sentence": "There was a man with three sons.",
+      "subj": "",
+      "verb": "be",
+      "obj": "man"
+    },
+    {
+      "id": "e0001",
+      "label": "young | call | dummling",
+      "sent_id": 1,
+      "sentence": "The youngest was called Dummling, and everyone looked down on him, mocked and sneered at him whenever they could.",
+      "subj": "young",
+      "verb": "call",
+      "obj": "dummling"
+    },
+    {
+      "id": "e0002",
+      "label": "son | want | \u2205",
+      "sent_id": 2,
+      "sentence": "One day, the eldest son wanted to go into the forest to chop wood.",
+      "subj": "son",
+      "verb": "want",
+      "obj": ""
+    },
+    {
+      "id": "e0003",
+      "label": "mother | give | cake",
+      "sent_id": 3,
+      "sentence": "Before he left, his mother gave him a beautiful sweet cake and a bottle of wine so he wouldn\u2019t go hungry or thirsty.",
+      "subj": "mother",
+      "verb": "give",
+      "obj": "cake"
+    },
+    {
+      "id": "e0004",
+      "label": "he | meet | man",
+      "sent_id": 4,
+      "sentence": "In the forest, he met a little old grey-haired man who greeted him and asked if he could have a piece of the cake and a sip of wine because he was very hungry and thirsty.",
+      "subj": "he",
+      "verb": "meet",
+      "obj": "man"
+    },
+    {
+      "id": "e0005",
+      "label": "son | reply | \u2205",
+      "sent_id": 5,
+      "sentence": "But the eldest son replied, \u201cIf I give you my cake and wine, I\u2019ll have none left for myself.",
+      "subj": "son",
+      "verb": "reply",
+      "obj": ""
+    },
+    {
+      "id": "e0006",
+      "label": "\u2205 | get | \u2205",
+      "sent_id": 6,
+      "sentence": "Get lost,\u201d and left the old man standing there.",
+      "subj": "",
+      "verb": "get",
+      "obj": ""
+    },
+    {
+      "id": "e0007",
+      "label": "he | swing | axe",
+      "sent_id": 7,
+      "sentence": "Soon after, while chopping a tree, he swung his axe the wrong way and cut his arm.",
+      "subj": "he",
+      "verb": "swing",
+      "obj": "axe"
+    },
+    {
+      "id": "e0008",
+      "label": "he | have | \u2205",
+      "sent_id": 8,
+      "sentence": "He had to go home and get it bandaged.",
+      "subj": "he",
+      "verb": "have",
+      "obj": ""
+    },
+    {
+      "id": "e0009",
+      "label": "accident | be | do",
+      "sent_id": 9,
+      "sentence": "This accident was the old man\u2019s doing.",
+      "subj": "accident",
+      "verb": "be",
+      "obj": "do"
+    },
+    {
+      "id": "e0010",
+      "label": "son | go | forest",
+      "sent_id": 10,
+      "sentence": "Next, the second son went into the forest.",
+      "subj": "son",
+      "verb": "go",
+      "obj": "forest"
+    },
+    {
+      "id": "e0011",
+      "label": "mother | give | cake",
+      "sent_id": 11,
+      "sentence": "His mother gave him the same cake and bottle of wine.",
+      "subj": "mother",
+      "verb": "give",
+      "obj": "cake"
+    },
+    {
+      "id": "e0012",
+      "label": "man | meet | he",
+      "sent_id": 12,
+      "sentence": "The little grey man met him as well and asked for some cake and wine, but the second son answered just as sensibly: \u201cIf I give you mine, I won\u2019t have any for myself\u2014go away!\u201d and left him standing there.",
+      "subj": "man",
+      "verb": "meet",
+      "obj": "he"
+    },
+    {
+      "id": "e0013",
+      "label": "son | strike | leg",
+      "sent_id": 13,
+      "sentence": "The second son struck his leg with the axe soon after and was so hurt he had to be carried home.",
+      "subj": "son",
+      "verb": "strike",
+      "obj": "leg"
+    },
+    {
+      "id": "e0014",
+      "label": "dummling | say | \u2205",
+      "sent_id": 14,
+      "sentence": "Then Dummling said, \u201cFather, let me go cut wood.\u201d",
+      "subj": "dummling",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0015",
+      "label": "you | know | \u2205",
+      "sent_id": 15,
+      "sentence": "His father replied, \u201cYour brothers hurt themselves, leave it alone\u2014you don\u2019t know what you\u2019re doing.\u201d",
+      "subj": "you",
+      "verb": "know",
+      "obj": ""
+    },
+    {
+      "id": "e0016",
+      "label": "dummling | beg | \u2205",
+      "sent_id": 16,
+      "sentence": "But Dummling begged so much that at last his father said, \u201cAlright, go then; you might learn something by getting hurt.\u201d",
+      "subj": "dummling",
+      "verb": "beg",
+      "obj": ""
+    },
+    {
+      "id": "e0017",
+      "label": "mother | give | cake",
+      "sent_id": 17,
+      "sentence": "His mother gave him a cake made with water and baked in ashes, along with a bottle of sour beer.",
+      "subj": "mother",
+      "verb": "give",
+      "obj": "cake"
+    },
+    {
+      "id": "e0018",
+      "label": "man | greet | he",
+      "sent_id": 18,
+      "sentence": "When Dummling reached the forest, the little old grey man greeted him and asked for some cake and a drink.",
+      "subj": "man",
+      "verb": "greet",
+      "obj": "he"
+    },
+    {
+      "id": "e0019",
+      "label": "dummling | say | \u2205",
+      "sent_id": 19,
+      "sentence": "Dummling said, \u201cAll I have is cinder-cake and sour beer\u2014if you don\u2019t mind, we\u2019ll sit down and share it.\u201d",
+      "subj": "dummling",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0020",
+      "label": "they | sit | \u2205",
+      "sent_id": 20,
+      "sentence": "They sat, and when Dummling pulled out his cake, it was actually a fine sweet cake, and the sour beer had turned into good wine.",
+      "subj": "they",
+      "verb": "sit",
+      "obj": ""
+    },
+    {
+      "id": "e0021",
+      "label": "man | say | \u2205",
+      "sent_id": 21,
+      "sentence": "After they ate and drank, the old man said, \u201cBecause you have a good heart and are willing to share, I\u2019ll give you good luck.",
+      "subj": "man",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0022",
+      "label": "\u2205 | see | tree",
+      "sent_id": 22,
+      "sentence": "See that old tree?",
+      "subj": "",
+      "verb": "see",
+      "obj": "tree"
+    },
+    {
+      "id": "e0023",
+      "label": "\u2205 | cut | it",
+      "sent_id": 23,
+      "sentence": "Cut it down, and you\u2019ll find something at its roots.\u201d",
+      "subj": "",
+      "verb": "cut",
+      "obj": "it"
+    },
+    {
+      "id": "e0024",
+      "label": "he | leave | \u2205",
+      "sent_id": 24,
+      "sentence": "Then he left.",
+      "subj": "he",
+      "verb": "leave",
+      "obj": ""
+    },
+    {
+      "id": "e0025",
+      "label": "dummle | cut | tree",
+      "sent_id": 25,
+      "sentence": "Dummling cut down the tree, and when it fell, a goose with pure golden feathers was sitting among the roots.",
+      "subj": "dummle",
+      "verb": "cut",
+      "obj": "tree"
+    },
+    {
+      "id": "e0026",
+      "label": "he | pick | she",
+      "sent_id": 26,
+      "sentence": "He picked her up and took her to an inn where he planned to spend the night.",
+      "subj": "he",
+      "verb": "pick",
+      "obj": "she"
+    },
+    {
+      "id": "e0027",
+      "label": "the | have | daughter",
+      "sent_id": 27,
+      "sentence": "The innkeeper had three daughters who saw the golden goose and were curious, each wanting a golden feather.",
+      "subj": "the",
+      "verb": "have",
+      "obj": "daughter"
+    },
+    {
+      "id": "e0028",
+      "label": "daughter | think | \u2205",
+      "sent_id": 28,
+      "sentence": "The eldest daughter thought, \u201cI\u2019ll find a chance to pull out a feather,\u201d and as soon as Dummling stepped outside, she grabbed the goose\u2019s wing\u2014but her hand stuck fast and wouldn\u2019t let go.",
+      "subj": "daughter",
+      "verb": "think",
+      "obj": ""
+    },
+    {
+      "id": "e0029",
+      "label": "daughter | come | \u2205",
+      "sent_id": 29,
+      "sentence": "Soon the second daughter came, hoping to get a feather, but when she touched her sister, she too got stuck fast.",
+      "subj": "daughter",
+      "verb": "come",
+      "obj": ""
+    },
+    {
+      "id": "e0030",
+      "label": "daughter | come | \u2205",
+      "sent_id": 30,
+      "sentence": "Finally, the third daughter came.",
+      "subj": "daughter",
+      "verb": "come",
+      "obj": ""
+    },
+    {
+      "id": "e0031",
+      "label": "other | warn | she",
+      "sent_id": 31,
+      "sentence": "The others warned her to keep away, but she didn\u2019t understand why and ran to them.",
+      "subj": "other",
+      "verb": "warn",
+      "obj": "she"
+    },
+    {
+      "id": "e0032",
+      "label": "she | stick | \u2205",
+      "sent_id": 32,
+      "sentence": "When she touched her sister, she got stuck as well.",
+      "subj": "she",
+      "verb": "stick",
+      "obj": ""
+    },
+    {
+      "id": "e0033",
+      "label": "they | have | \u2205",
+      "sent_id": 33,
+      "sentence": "So they had to spend the night attached to the goose.",
+      "subj": "they",
+      "verb": "have",
+      "obj": ""
+    },
+    {
+      "id": "e0034",
+      "label": "dummling | take | goose",
+      "sent_id": 34,
+      "sentence": "The next morning, Dummling took the goose under his arm and set off, ignoring the three girls clinging to her.",
+      "subj": "dummling",
+      "verb": "take",
+      "obj": "goose"
+    },
+    {
+      "id": "e0035",
+      "label": "they | have | \u2205",
+      "sent_id": 35,
+      "sentence": "They had to follow wherever he went, left or right.",
+      "subj": "they",
+      "verb": "have",
+      "obj": ""
+    },
+    {
+      "id": "e0036",
+      "label": "parson | see | procession",
+      "sent_id": 36,
+      "sentence": "Out in the fields, a parson saw this odd procession and scolded the girls for running after the young man in such a way.",
+      "subj": "parson",
+      "verb": "see",
+      "obj": "procession"
+    },
+    {
+      "id": "e0037",
+      "label": "he | stick | \u2205",
+      "sent_id": 37,
+      "sentence": "When he grabbed the youngest girl's hand to pull her away, he got stuck too and had to follow along.",
+      "subj": "he",
+      "verb": "stick",
+      "obj": ""
+    },
+    {
+      "id": "e0038",
+      "label": "sexton | pass | \u2205",
+      "sent_id": 38,
+      "sentence": "Not long after, the sexton passed by and, seeing his parson running with the three girls, called out and ran after him, grabbing his sleeve\u2014and was held fast as well.",
+      "subj": "sexton",
+      "verb": "pass",
+      "obj": ""
+    },
+    {
+      "id": "e0039",
+      "label": "laborer | come | field",
+      "sent_id": 39,
+      "sentence": "While the five of them ran one after the other, two laborers came from the fields with hoes.",
+      "subj": "laborer",
+      "verb": "come",
+      "obj": "field"
+    },
+    {
+      "id": "e0040",
+      "label": "parson | beg | they",
+      "sent_id": 40,
+      "sentence": "The parson begged them to free him and the sexton, but the moment they touched the sexton, they too got stuck.",
+      "subj": "parson",
+      "verb": "beg",
+      "obj": "they"
+    },
+    {
+      "id": "e0041",
+      "label": "people | run | dummling",
+      "sent_id": 41,
+      "sentence": "Now seven people were running behind Dummling and the golden goose.",
+      "subj": "people",
+      "verb": "run",
+      "obj": "dummling"
+    },
+    {
+      "id": "e0042",
+      "label": "they | reach | city",
+      "sent_id": 42,
+      "sentence": "Soon they reached a city ruled by a king whose daughter was so serious that no one could make her laugh.",
+      "subj": "they",
+      "verb": "reach",
+      "obj": "city"
+    },
+    {
+      "id": "e0043",
+      "label": "he | declare | \u2205",
+      "sent_id": 43,
+      "sentence": "He had declared that anyone who made her laugh could marry her.",
+      "subj": "he",
+      "verb": "declare",
+      "obj": ""
+    },
+    {
+      "id": "e0044",
+      "label": "he | go | princess",
+      "sent_id": 44,
+      "sentence": "When Dummling heard this, he went before the princess with the goose and all the people stuck to it.",
+      "subj": "he",
+      "verb": "go",
+      "obj": "princess"
+    },
+    {
+      "id": "e0045",
+      "label": "she | laugh | \u2205",
+      "sent_id": 45,
+      "sentence": "When she saw the odd sight of the seven people running one behind the other, she laughed out loud, as if she could never stop.",
+      "subj": "she",
+      "verb": "laugh",
+      "obj": ""
+    },
+    {
+      "id": "e0046",
+      "label": "dummling | produce | man",
+      "sent_id": 46,
+      "sentence": "Dummling asked to marry her, but the king disapproved of him and made a difficult demand: Dummling must first produce a man who could drink an entire cellar of wine.",
+      "subj": "dummling",
+      "verb": "produce",
+      "obj": "man"
+    },
+    {
+      "id": "e0047",
+      "label": "dummle | think | man",
+      "sent_id": 47,
+      "sentence": "Dummling thought of the little grey man who had helped him before.",
+      "subj": "dummle",
+      "verb": "think",
+      "obj": "man"
+    },
+    {
+      "id": "e0048",
+      "label": "he | go | \u2205",
+      "sent_id": 48,
+      "sentence": "He went back into the forest and found a man sitting sadly nearby.",
+      "subj": "he",
+      "verb": "go",
+      "obj": ""
+    },
+    {
+      "id": "e0049",
+      "label": "dummling | ask | \u2205",
+      "sent_id": 49,
+      "sentence": "Dummling asked why he was so down, and the man explained, \u201cI\u2019m terribly thirsty and can\u2019t quench it.",
+      "subj": "dummling",
+      "verb": "ask",
+      "obj": ""
+    },
+    {
+      "id": "e0050",
+      "label": "dummle | say | \u2205",
+      "sent_id": 50,
+      "sentence": "I\u2019ve just emptied a barrel of wine, but it was like a drop on a hot stone.\u201d\n\n\u201cCome with me,\u201d said Dummling.",
+      "subj": "dummle",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0051",
+      "label": "they | go | cellar",
+      "sent_id": 51,
+      "sentence": "They went to the king\u2019s cellar, and the man drank and drank until all the barrels were empty and his back hurt.",
+      "subj": "they",
+      "verb": "go",
+      "obj": "cellar"
+    },
+    {
+      "id": "e0052",
+      "label": "dummling | ask | \u2205",
+      "sent_id": 52,
+      "sentence": "Then Dummling asked to marry the princess again.",
+      "subj": "dummling",
+      "verb": "ask",
+      "obj": ""
+    },
+    {
+      "id": "e0053",
+      "label": "dummling | find | man",
+      "sent_id": 53,
+      "sentence": "The king was angry, but set a new challenge: Dummling must find a man who could eat a whole mountain of bread.",
+      "subj": "dummling",
+      "verb": "find",
+      "obj": "man"
+    },
+    {
+      "id": "e0054",
+      "label": "dummle | return | forest",
+      "sent_id": 54,
+      "sentence": "Dummling returned to the forest, where he found a man tying a strap tight around his belly, making a painful face.",
+      "subj": "dummle",
+      "verb": "return",
+      "obj": "forest"
+    },
+    {
+      "id": "e0055",
+      "label": "i | eat | ovenful",
+      "sent_id": 55,
+      "sentence": "\u201cI\u2019ve eaten an ovenful of rolls, but I\u2019m still starving.",
+      "subj": "i",
+      "verb": "eat",
+      "obj": "ovenful"
+    },
+    {
+      "id": "e0056",
+      "label": "i | have | \u2205",
+      "sent_id": 56,
+      "sentence": "I have to tie myself up or I\u2019ll die from hunger.\u201d",
+      "subj": "i",
+      "verb": "have",
+      "obj": ""
+    },
+    {
+      "id": "e0057",
+      "label": "dummling | say | \u2205",
+      "sent_id": 57,
+      "sentence": "Dummling said, \u201cGet up and come with me\u2014you\u2019ll be full soon.\u201d",
+      "subj": "dummling",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0058",
+      "label": "he | lead | he",
+      "sent_id": 58,
+      "sentence": "He led him to the king\u2019s palace, where a huge mountain of bread was baked from all the flour in the kingdom.",
+      "subj": "he",
+      "verb": "lead",
+      "obj": "he"
+    },
+    {
+      "id": "e0059",
+      "label": "man | eat | \u2205",
+      "sent_id": 59,
+      "sentence": "The man ate until the entire mountain was gone by the end of the day.",
+      "subj": "man",
+      "verb": "eat",
+      "obj": ""
+    },
+    {
+      "id": "e0060",
+      "label": "he | bring | ship",
+      "sent_id": 60,
+      "sentence": "Dummling asked again for the princess\u2019s hand, but once more the king made a new demand: he must bring a ship that could sail on land and water.",
+      "subj": "he",
+      "verb": "bring",
+      "obj": "ship"
+    },
+    {
+      "id": "e0061",
+      "label": "you | have | daughter",
+      "sent_id": 61,
+      "sentence": "\u201cWhen you return in it,\u201d the king said, \u201cyou\u2019ll have my daughter.\u201d",
+      "subj": "you",
+      "verb": "have",
+      "obj": "daughter"
+    },
+    {
+      "id": "e0062",
+      "label": "dummling | go | \u2205",
+      "sent_id": 62,
+      "sentence": "Dummling went back to the forest, where the little grey man was waiting.",
+      "subj": "dummling",
+      "verb": "go",
+      "obj": ""
+    },
+    {
+      "id": "e0063",
+      "label": "man | say | \u2205",
+      "sent_id": 63,
+      "sentence": "When Dummling told him what he needed, the old man said, \u201cBecause you shared with me before, I\u2019ll give you the ship.\u201d",
+      "subj": "man",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0064",
+      "label": "he | hand | ship",
+      "sent_id": 64,
+      "sentence": "He handed over the marvelous ship that could sail both on land and on water.",
+      "subj": "he",
+      "verb": "hand",
+      "obj": "ship"
+    },
+    {
+      "id": "e0065",
+      "label": "he | refuse | marriage",
+      "sent_id": 65,
+      "sentence": "When the king saw this, he could no longer refuse Dummling\u2019s marriage to his daughter.",
+      "subj": "he",
+      "verb": "refuse",
+      "obj": "marriage"
+    },
+    {
+      "id": "e0066",
+      "label": "they | celebrate | wedding",
+      "sent_id": 66,
+      "sentence": "They celebrated the wedding, and after the king died, Dummling inherited the kingdom and lived happily for many years with his wife.",
+      "subj": "they",
+      "verb": "celebrate",
+      "obj": "wedding"
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    },
+    {
+      "source": "e0029",
+      "target": "e0030",
+      "relation": "next"
+    },
+    {
+      "source": "e0030",
+      "target": "e0031",
+      "relation": "next"
+    },
+    {
+      "source": "e0031",
+      "target": "e0032",
+      "relation": "next"
+    },
+    {
+      "source": "e0032",
+      "target": "e0033",
+      "relation": "next"
+    },
+    {
+      "source": "e0033",
+      "target": "e0034",
+      "relation": "next"
+    },
+    {
+      "source": "e0034",
+      "target": "e0035",
+      "relation": "next"
+    },
+    {
+      "source": "e0035",
+      "target": "e0036",
+      "relation": "next"
+    },
+    {
+      "source": "e0036",
+      "target": "e0037",
+      "relation": "next"
+    },
+    {
+      "source": "e0037",
+      "target": "e0038",
+      "relation": "next"
+    },
+    {
+      "source": "e0038",
+      "target": "e0039",
+      "relation": "next"
+    },
+    {
+      "source": "e0039",
+      "target": "e0040",
+      "relation": "next"
+    },
+    {
+      "source": "e0040",
+      "target": "e0041",
+      "relation": "next"
+    },
+    {
+      "source": "e0041",
+      "target": "e0042",
+      "relation": "next"
+    },
+    {
+      "source": "e0042",
+      "target": "e0043",
+      "relation": "next"
+    },
+    {
+      "source": "e0043",
+      "target": "e0044",
+      "relation": "next"
+    },
+    {
+      "source": "e0044",
+      "target": "e0045",
+      "relation": "next"
+    },
+    {
+      "source": "e0045",
+      "target": "e0046",
+      "relation": "next"
+    },
+    {
+      "source": "e0046",
+      "target": "e0047",
+      "relation": "next"
+    },
+    {
+      "source": "e0047",
+      "target": "e0048",
+      "relation": "next"
+    },
+    {
+      "source": "e0048",
+      "target": "e0049",
+      "relation": "next"
+    },
+    {
+      "source": "e0049",
+      "target": "e0050",
+      "relation": "next"
+    },
+    {
+      "source": "e0050",
+      "target": "e0051",
+      "relation": "next"
+    },
+    {
+      "source": "e0051",
+      "target": "e0052",
+      "relation": "next"
+    },
+    {
+      "source": "e0052",
+      "target": "e0053",
+      "relation": "next"
+    },
+    {
+      "source": "e0053",
+      "target": "e0054",
+      "relation": "next"
+    },
+    {
+      "source": "e0054",
+      "target": "e0055",
+      "relation": "next"
+    },
+    {
+      "source": "e0055",
+      "target": "e0056",
+      "relation": "next"
+    },
+    {
+      "source": "e0056",
+      "target": "e0057",
+      "relation": "next"
+    },
+    {
+      "source": "e0057",
+      "target": "e0058",
+      "relation": "next"
+    },
+    {
+      "source": "e0058",
+      "target": "e0059",
+      "relation": "next"
+    },
+    {
+      "source": "e0059",
+      "target": "e0060",
+      "relation": "next"
+    },
+    {
+      "source": "e0060",
+      "target": "e0061",
+      "relation": "next"
+    },
+    {
+      "source": "e0061",
+      "target": "e0062",
+      "relation": "next"
+    },
+    {
+      "source": "e0062",
+      "target": "e0063",
+      "relation": "next"
+    },
+    {
+      "source": "e0063",
+      "target": "e0064",
+      "relation": "next"
+    },
+    {
+      "source": "e0064",
+      "target": "e0065",
+      "relation": "next"
+    },
+    {
+      "source": "e0065",
+      "target": "e0066",
+      "relation": "next"
+    }
+  ]
+}

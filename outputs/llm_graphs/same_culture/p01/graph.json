@@ -1,0 +1,226 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "\u2205 | be | dervish",
+      "sent_id": 0,
+      "sentence": "Once, there was a wandering dervish known for his deep faith and devotion.",
+      "subj": "",
+      "verb": "be",
+      "obj": "dervish"
+    },
+    {
+      "id": "e0001",
+      "label": "he | lose | desert",
+      "sent_id": 1,
+      "sentence": "He was lost in the desert, starving and desperate for food.",
+      "subj": "he",
+      "verb": "lose",
+      "obj": "desert"
+    },
+    {
+      "id": "e0002",
+      "label": "he | spot | sack",
+      "sent_id": 2,
+      "sentence": "As he walked along an old path, he spotted an empty fruit sack left by someone who had passed before.",
+      "subj": "he",
+      "verb": "spot",
+      "obj": "sack"
+    },
+    {
+      "id": "e0003",
+      "label": "he | pick | it",
+      "sent_id": 3,
+      "sentence": "Gratefully, he picked it up, slung it over his shoulder, and prayed aloud, \u201cThank God for giving a starving man an empty fruit sack,\u201d before continuing on.",
+      "subj": "he",
+      "verb": "pick",
+      "obj": "it"
+    },
+    {
+      "id": "e0004",
+      "label": "he | find | bow",
+      "sent_id": 4,
+      "sentence": "A little farther ahead, he found an old hunting bow on the ground, but its string was broken.",
+      "subj": "he",
+      "verb": "find",
+      "obj": "bow"
+    },
+    {
+      "id": "e0005",
+      "label": "he | place | bow",
+      "sent_id": 5,
+      "sentence": "He placed the bow into his sack and again gave thanks aloud, \u201cThank God for giving a starving man a hunting bow with a broken string.\u201d",
+      "subj": "he",
+      "verb": "place",
+      "obj": "bow"
+    },
+    {
+      "id": "e0006",
+      "label": "he | see | tree",
+      "sent_id": 6,
+      "sentence": "Further along the road, he saw a dead tree with no fruit.",
+      "subj": "he",
+      "verb": "see",
+      "obj": "tree"
+    },
+    {
+      "id": "e0007",
+      "label": "he | break | branch",
+      "sent_id": 7,
+      "sentence": "He broke off some dry branches and added them to his sack, once more praying aloud, \u201cThank God for guiding a starving man to a dead fruit tree.\u201d",
+      "subj": "he",
+      "verb": "break",
+      "obj": "branch"
+    },
+    {
+      "id": "e0008",
+      "label": "he | discover | pot",
+      "sent_id": 8,
+      "sentence": "As he walked on, he discovered a battered cooking pot lying on the ground.",
+      "subj": "he",
+      "verb": "discover",
+      "obj": "pot"
+    },
+    {
+      "id": "e0009",
+      "label": "he | put | it",
+      "sent_id": 9,
+      "sentence": "After blowing off the dust, he put it into his sack and thanked God aloud again, \u201cThank God for giving a starving man a dented old pot full of dust.\u201d",
+      "subj": "he",
+      "verb": "put",
+      "obj": "it"
+    },
+    {
+      "id": "e0010",
+      "label": "he | find | hook",
+      "sent_id": 10,
+      "sentence": "Later, he found a lone fishing hook but no pole to go with it.",
+      "subj": "he",
+      "verb": "find",
+      "obj": "hook"
+    },
+    {
+      "id": "e0011",
+      "label": "he | pick | hook",
+      "sent_id": 11,
+      "sentence": "He picked up the hook, dropped it into his sack, and reiterated his gratitude loudly, \u201cThank God for giving a starving man a fishing hook without a fishing pole.\u201d",
+      "subj": "he",
+      "verb": "pick",
+      "obj": "hook"
+    },
+    {
+      "id": "e0012",
+      "label": "path | bring | he",
+      "sent_id": 12,
+      "sentence": "After many days of wandering, the path finally brought him to a vast river, so wide he could not see the opposite shore.",
+      "subj": "path",
+      "verb": "bring",
+      "obj": "he"
+    },
+    {
+      "id": "e0013",
+      "label": "dervish | sink | knee",
+      "sent_id": 13,
+      "sentence": "The old dervish sank to his knees by the water\u2019s edge and prayed loudly, \u201cThank God for leading a starving man to a river so wide that crossing it seems impossible.\u201d",
+      "subj": "dervish",
+      "verb": "sink",
+      "obj": "knee"
+    },
+    {
+      "id": "e0014",
+      "label": "he | tie | hook",
+      "sent_id": 14,
+      "sentence": "Then, with his calm spirit and faith, he tied the fishing hook to the broken bowstring, using the bow as a makeshift fishing rod.",
+      "subj": "he",
+      "verb": "tie",
+      "obj": "hook"
+    },
+    {
+      "id": "e0015",
+      "label": "he | build | fire",
+      "sent_id": 15,
+      "sentence": "Using the dry branches, he built a fire and cooked the fish he caught in the old pot, finally nourishing himself with a meal born of patience and trust.",
+      "subj": "he",
+      "verb": "build",
+      "obj": "fire"
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    }
+  ]
+}

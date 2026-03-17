@@ -1,0 +1,1218 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "",
+    "verb": "listen",
+    "obj": "tale",
+    "label": "\u2205 | listen | tale",
+    "sentence": "Listen now to the tale of the battle between Sohrab and Rostam, though it is filled with sorrow."
+  },
+  {
+    "sent_id": 1,
+    "subj": "rostam",
+    "verb": "rise",
+    "obj": "",
+    "label": "rostam | rise | \u2205",
+    "sentence": "One day, Rostam rose early, troubled by a heavy feeling in his heart."
+  },
+  {
+    "sent_id": 2,
+    "subj": "he",
+    "verb": "set",
+    "obj": "hunt",
+    "label": "he | set | hunt",
+    "sentence": "To clear his mind, he set out for a hunt."
+  },
+  {
+    "sent_id": 3,
+    "subj": "he",
+    "verb": "saddle",
+    "obj": "horse",
+    "label": "he | saddle | horse",
+    "sentence": "He saddled his horse, Rakhsh, and armed himself with arrows, heading toward the wild lands near Turan, close to Samangan city."
+  },
+  {
+    "sent_id": 4,
+    "subj": "he",
+    "verb": "frighten",
+    "obj": "herd",
+    "label": "he | frighten | herd",
+    "sentence": "Near there, he frightened a herd of wild donkeys and played among them until he grew tired."
+  },
+  {
+    "sent_id": 5,
+    "subj": "he",
+    "verb": "capture",
+    "obj": "one",
+    "label": "he | capture | one",
+    "sentence": "He captured one, killed it, roasted it for his meal, ate, broke the bones to suck the marrow, then lay down to rest while Rakhsh grazed nearby."
+  },
+  {
+    "sent_id": 7,
+    "subj": "they",
+    "verb": "covet",
+    "obj": "steed",
+    "label": "they | covet | steed",
+    "sentence": "They coveted the mighty steed and threw ropes to capture him."
+  },
+  {
+    "sent_id": 8,
+    "subj": "rakhsh",
+    "verb": "stomp",
+    "obj": "",
+    "label": "rakhsh | stomp | \u2205",
+    "sentence": "Rakhsh, sensing their trap, stomped angrily and charged them like he had a lion before."
+  },
+  {
+    "sent_id": 9,
+    "subj": "he",
+    "verb": "bite",
+    "obj": "head",
+    "label": "he | bite | head",
+    "sentence": "He bit off one man\u2019s head and trampled another, almost overcoming them all, but the knights were too many."
+  },
+  {
+    "sent_id": 10,
+    "subj": "they",
+    "verb": "trap",
+    "obj": "rakhsh",
+    "label": "they | trap | rakhsh",
+    "sentence": "They trapped Rakhsh and led him into the city, proud of their prize."
+  },
+  {
+    "sent_id": 11,
+    "subj": "he",
+    "verb": "fill",
+    "obj": "despair",
+    "label": "he | fill | despair",
+    "sentence": "When Rostam woke and found his horse missing, he was filled with despair and wondered how he could face the Turks alone."
+  },
+  {
+    "sent_id": 12,
+    "subj": "he",
+    "verb": "search",
+    "obj": "print",
+    "label": "he | search | print",
+    "sentence": "He searched for Rakhsh\u2019s hoof prints and followed them right to the city gates."
+  },
+  {
+    "sent_id": 13,
+    "subj": "king",
+    "verb": "come",
+    "obj": "city",
+    "label": "king | come | city",
+    "sentence": "Inside the city, the king and his nobles came out when they saw Rostam on foot."
+  },
+  {
+    "sent_id": 14,
+    "subj": "they",
+    "verb": "ask",
+    "obj": "",
+    "label": "they | ask | \u2205",
+    "sentence": "They asked what had happened, and Rostam told them about Rakhsh\u2019s capture during his sleep."
+  },
+  {
+    "sent_id": 15,
+    "subj": "he",
+    "verb": "swear",
+    "obj": "oath",
+    "label": "he | swear | oath",
+    "sentence": "He swore a fierce oath that if his horse was not returned, many heads would roll."
+  },
+  {
+    "sent_id": 16,
+    "subj": "king",
+    "verb": "comfort",
+    "obj": "he",
+    "label": "king | comfort | he",
+    "sentence": "The king, seeing Rostam\u2019s anger, comforted him and promised that none of his people would harm the hero."
+  },
+  {
+    "sent_id": 17,
+    "subj": "he",
+    "verb": "urge",
+    "obj": "rostam",
+    "label": "he | urge | rostam",
+    "sentence": "He urged Rostam to stay in his palace while they searched, saying surely Rakhsh was not hidden far."
+  },
+  {
+    "sent_id": 18,
+    "subj": "rostam",
+    "verb": "accept",
+    "obj": "",
+    "label": "rostam | accept | \u2205",
+    "sentence": "Rostam accepted and entered the king\u2019s home."
+  },
+  {
+    "sent_id": 19,
+    "subj": "they",
+    "verb": "feast",
+    "obj": "wine",
+    "label": "they | feast | wine",
+    "sentence": "They feasted with wine and enjoyed the company of singers and honor until night fell."
+  },
+  {
+    "sent_id": 20,
+    "subj": "king",
+    "verb": "give",
+    "obj": "musky",
+    "label": "king | give | musky",
+    "sentence": "The king gave Rostam a musky, rose-scented couch to rest on and wished him sweet sleep."
+  },
+  {
+    "sent_id": 21,
+    "subj": "door",
+    "verb": "open",
+    "obj": "",
+    "label": "door | open | \u2205",
+    "sentence": "Later into the night, as the morning star rose high, Rostam\u2019s chamber door opened quietly."
+  },
+  {
+    "sent_id": 22,
+    "subj": "servant",
+    "verb": "enter",
+    "obj": "",
+    "label": "servant | enter | \u2205",
+    "sentence": "A servant entered holding a lamp scented with amber, followed by a veiled woman whose robes scattered musk as she moved."
+  },
+  {
+    "sent_id": 23,
+    "subj": "she",
+    "verb": "approach",
+    "obj": "bed",
+    "label": "she | approach | bed",
+    "sentence": "She approached Rostam\u2019s bed, and he, barely awake from wine and sleep, asked who she was and what she wanted."
+  },
+  {
+    "sent_id": 24,
+    "subj": "she",
+    "verb": "reveal",
+    "obj": "herself",
+    "label": "she | reveal | herself",
+    "sentence": "She revealed herself as Tahmineh, daughter of Samangan\u2019s king, descended from proud bloodlines of leopards and lions."
+  },
+  {
+    "sent_id": 25,
+    "subj": "she",
+    "verb": "explain",
+    "obj": "",
+    "label": "she | explain | \u2205",
+    "sentence": "She explained she\u2019d never been unveiled before and no prince was worthy of her, but her heart ached with desire for Rostam."
+  },
+  {
+    "sent_id": 26,
+    "subj": "she",
+    "verb": "speak",
+    "obj": "deed",
+    "label": "she | speak | deed",
+    "sentence": "She spoke of his brave deeds\u2014how he feared no demon or beast, how he had ventured alone into deadly lands, how even wild asses fled him, and men dared not fight him."
+  },
+  {
+    "sent_id": 27,
+    "subj": "she",
+    "verb": "long",
+    "obj": "",
+    "label": "she | long | \u2205",
+    "sentence": "Hearing all this, she longed to see his face."
+  },
+  {
+    "sent_id": 28,
+    "subj": "fate",
+    "verb": "bring",
+    "obj": "he",
+    "label": "fate | bring | he",
+    "sentence": "Now fate had brought him near, and she offered herself to him."
+  },
+  {
+    "sent_id": 29,
+    "subj": "she",
+    "verb": "lead",
+    "obj": "rakhsh",
+    "label": "she | lead | rakhsh",
+    "sentence": "If he agreed, she would lead Rakhsh out to him and place the land of Samangan beneath his feet."
+  },
+  {
+    "sent_id": 30,
+    "subj": "she",
+    "verb": "dream",
+    "obj": "son",
+    "label": "she | dream | son",
+    "sentence": "She dreamed of a son like Rostam, a mighty ruler of the world."
+  },
+  {
+    "sent_id": 31,
+    "subj": "rostam",
+    "verb": "see",
+    "obj": "beauty",
+    "label": "rostam | see | beauty",
+    "sentence": "Rostam saw her beauty and wisdom and was convinced."
+  },
+  {
+    "sent_id": 32,
+    "subj": "he",
+    "verb": "send",
+    "obj": "messenger",
+    "label": "he | send | messenger",
+    "sentence": "He sent a messenger to ask her father for her hand."
+  },
+  {
+    "sent_id": 33,
+    "subj": "king",
+    "verb": "rejoice",
+    "obj": "",
+    "label": "king | rejoice | \u2205",
+    "sentence": "The king rejoiced and agreed, giving his daughter to Rostam with all the customs and rites."
+  },
+  {
+    "sent_id": 34,
+    "subj": "city",
+    "verb": "celebrate",
+    "obj": "",
+    "label": "city | celebrate | \u2205",
+    "sentence": "The city celebrated, blessing Rostam."
+  },
+  {
+    "sent_id": 35,
+    "subj": "rostam",
+    "verb": "give",
+    "obj": "ring",
+    "label": "rostam | give | ring",
+    "sentence": "When alone, Rostam gave Tahmineh his famous onyx ring."
+  },
+  {
+    "sent_id": 36,
+    "subj": "he",
+    "verb": "tell",
+    "obj": "she",
+    "label": "he | tell | she",
+    "sentence": "He told her if she bore a daughter, to fasten it in her hair for protection, and if a son, to bind it on his arm so he might carry it like his father\u2014a son strong as heroes of old, noble and eloquent."
+  },
+  {
+    "sent_id": 37,
+    "subj": "tahmineh",
+    "verb": "be",
+    "obj": "",
+    "label": "tahmineh | be | \u2205",
+    "sentence": "Tahmineh was happy, but as the day passed, the king informed Rostam that Rakhsh was soon to return."
+  },
+  {
+    "sent_id": 38,
+    "subj": "rostam",
+    "verb": "rush",
+    "obj": "",
+    "label": "rostam | rush | \u2205",
+    "sentence": "Filled with joy, Rostam rushed to greet his horse, saddled him with his own hands, and thanked Ormuzd for restoring his happiness."
+  },
+  {
+    "sent_id": 39,
+    "subj": "he",
+    "verb": "embrace",
+    "obj": "tahmineh",
+    "label": "he | embrace | tahmineh",
+    "sentence": "Knowing his time to leave had come, he embraced Tahmineh, kissed her tear-streaked face and hair, then galloped swiftly away."
+  },
+  {
+    "sent_id": 40,
+    "subj": "both",
+    "verb": "be",
+    "obj": "",
+    "label": "both | be | \u2205",
+    "sentence": "Both were heavy-hearted as they parted, but Rostam kept silent about what had happened."
+  },
+  {
+    "sent_id": 41,
+    "subj": "tahmineh",
+    "verb": "bear",
+    "obj": "",
+    "label": "tahmineh | bear | \u2205",
+    "sentence": "Nine moons later, Tahmineh bore a son who resembled Rostam."
+  },
+  {
+    "sent_id": 42,
+    "subj": "they",
+    "verb": "name",
+    "obj": "he",
+    "label": "they | name | he",
+    "sentence": "They named him Sohrab."
+  },
+  {
+    "sent_id": 43,
+    "subj": "he",
+    "verb": "seem",
+    "obj": "large",
+    "label": "he | seem | large",
+    "sentence": "From birth, Sohrab was strong and smiling; at one month old he seemed as large as a twelve-month child, and by five, skilled in arms and war arts."
+  },
+  {
+    "sent_id": 44,
+    "subj": "none",
+    "verb": "match",
+    "obj": "he",
+    "label": "none | match | he",
+    "sentence": "By ten, none could match him in strength."
+  },
+  {
+    "sent_id": 45,
+    "subj": "he",
+    "verb": "demand",
+    "obj": "",
+    "label": "he | demand | \u2205",
+    "sentence": "One day, he demanded his mother tell him of his lineage and his father\u2019s name, threatening to strike her if she refused."
+  },
+  {
+    "sent_id": 46,
+    "subj": "tahmineh",
+    "verb": "smile",
+    "obj": "boldness",
+    "label": "tahmineh | smile | boldness",
+    "sentence": "Tahmineh smiled at his boldness and revealed the truth, telling him he descended from Rostam, son of Zal and heroes before them."
+  },
+  {
+    "sent_id": 47,
+    "subj": "she",
+    "verb": "show",
+    "obj": "letter",
+    "label": "she | show | letter",
+    "sentence": "She showed him a letter Rostam had sent and his gifts."
+  },
+  {
+    "sent_id": 48,
+    "subj": "she",
+    "verb": "warn",
+    "obj": "sohrab",
+    "label": "she | warn | sohrab",
+    "sentence": "She warned Sohrab to keep this secret because Turan groaned under Afrasiyab\u2019s tyranny, who hated Rostam and would seek to destroy his son."
+  },
+  {
+    "sent_id": 49,
+    "subj": "she",
+    "verb": "fear",
+    "obj": "grief",
+    "label": "she | fear | grief",
+    "sentence": "She also feared Rostam\u2019s grief if he learned Sohrab had grown strong and might be taken from her."
+  },
+  {
+    "sent_id": 50,
+    "subj": "sohrab",
+    "verb": "be",
+    "obj": "",
+    "label": "sohrab | be | \u2205",
+    "sentence": "But Sohrab was fierce."
+  },
+  {
+    "sent_id": 51,
+    "subj": "he",
+    "verb": "say",
+    "obj": "",
+    "label": "he | say | \u2205",
+    "sentence": "He said the world would soon praise him, and he would lead brave Turks to invade Iran, overthrow King Kai Kawous, crown Rostam king of the Kaianides, and together rule the world."
+  },
+  {
+    "sent_id": 52,
+    "subj": "he",
+    "verb": "long",
+    "obj": "war",
+    "label": "he | long | war",
+    "sentence": "He longed for war and glory, but first he needed a strong horse to bear him in battle."
+  },
+  {
+    "sent_id": 53,
+    "subj": "tahmineh",
+    "verb": "rejoice",
+    "obj": "bravery",
+    "label": "tahmineh | rejoice | bravery",
+    "sentence": "Tahmineh rejoiced at his bravery and had her helpers bring out horses for Sohrab."
+  },
+  {
+    "sent_id": 54,
+    "subj": "he",
+    "verb": "test",
+    "obj": "many",
+    "label": "he | test | many",
+    "sentence": "He tested many but was not satisfied, until someone told him of a foal born of Rakhsh."
+  },
+  {
+    "sent_id": 55,
+    "subj": "sohrab",
+    "verb": "summon",
+    "obj": "foal",
+    "label": "sohrab | summon | foal",
+    "sentence": "Sohrab summoned the foal, found it strong, and mounted it, exclaiming the world would soon grow dark under his power."
+  },
+  {
+    "sent_id": 56,
+    "subj": "he",
+    "verb": "prepare",
+    "obj": "war",
+    "label": "he | prepare | war",
+    "sentence": "He prepared for war, gathering nobles and warriors."
+  },
+  {
+    "sent_id": 57,
+    "subj": "sohrab",
+    "verb": "seek",
+    "obj": "advice",
+    "label": "sohrab | seek | advice",
+    "sentence": "Before leaving, Sohrab sought advice from his grandfather, the king of Samangan, who gladly provided wealth and honored him like a king."
+  },
+  {
+    "sent_id": 58,
+    "subj": "afrasiyab",
+    "verb": "learn",
+    "obj": "army",
+    "label": "afrasiyab | learn | army",
+    "sentence": "Meanwhile, Afrasiyab learned of Sohrab\u2019s rising army and praised his courage to Hooman and Barman."
+  },
+  {
+    "sent_id": 59,
+    "subj": "afrasiyab",
+    "verb": "order",
+    "obj": "they",
+    "label": "afrasiyab | order | they",
+    "sentence": "Afrasiyab secretly ordered them to join Sohrab\u2019s ranks but kill him without revealing his identity to Rostam."
+  },
+  {
+    "sent_id": 60,
+    "subj": "afrasiyab",
+    "verb": "hop",
+    "obj": "",
+    "label": "afrasiyab | hop | \u2205",
+    "sentence": "Afrasiyab hoped Rostam would be killed by his own son, leaving Iran defenseless."
+  },
+  {
+    "sent_id": 61,
+    "subj": "they",
+    "verb": "capture",
+    "obj": "sohrab",
+    "label": "they | capture | sohrab",
+    "sentence": "If not, they would capture Sohrab after defeating Rostam."
+  },
+  {
+    "sent_id": 62,
+    "subj": "they",
+    "verb": "carry",
+    "obj": "gift",
+    "label": "they | carry | gift",
+    "sentence": "They carried gifts and a flattering letter from Afrasiyab, promising unions and peace among Turan, Iran, and Samangan if Sohrab succeeded."
+  },
+  {
+    "sent_id": 63,
+    "subj": "sohrab",
+    "verb": "rejoice",
+    "obj": "",
+    "label": "sohrab | rejoice | \u2205",
+    "sentence": "Sohrab rejoiced to find such support and led his army into Iran, leaving fire and ruin in his path, until they reached the White Castle, Iran\u2019s stronghold, guarded by old Hujir and his daughter Gurdafrid, a fierce warrior maiden."
+  },
+  {
+    "sent_id": 64,
+    "subj": "hujir",
+    "verb": "come",
+    "obj": "",
+    "label": "hujir | come | \u2205",
+    "sentence": "Hujir came out alone to meet the invaders."
+  },
+  {
+    "sent_id": 65,
+    "subj": "sohrab",
+    "verb": "challenge",
+    "obj": "he",
+    "label": "sohrab | challenge | he",
+    "sentence": "Sohrab challenged him angrily and mocked his bravery."
+  },
+  {
+    "sent_id": 67,
+    "subj": "they",
+    "verb": "fight",
+    "obj": "",
+    "label": "they | fight | \u2205",
+    "sentence": "They fought fiercely, and Sohrab defeated and bound Hujir, sending him captive."
+  },
+  {
+    "sent_id": 68,
+    "subj": "armor",
+    "verb": "hide",
+    "obj": "hair",
+    "label": "armor | hide | hair",
+    "sentence": "The castle\u2019s defenders were dismayed, and Gurdafrid donned armor, hid her hair under a helmet, mounted a war horse, and challenged Sohrab\u2019s men loudly."
+  },
+  {
+    "sent_id": 70,
+    "subj": "sohrab",
+    "verb": "accept",
+    "obj": "challenge",
+    "label": "sohrab | accept | challenge",
+    "sentence": "Sohrab accepted her challenge."
+  },
+  {
+    "sent_id": 71,
+    "subj": "she",
+    "verb": "unleash",
+    "obj": "hail",
+    "label": "she | unleash | hail",
+    "sentence": "She unleashed a hail of arrows, which almost overwhelmed him."
+  },
+  {
+    "sent_id": 72,
+    "subj": "he",
+    "verb": "raise",
+    "obj": "shield",
+    "label": "he | raise | shield",
+    "sentence": "He raised his shield and charged, but she skillfully parried and nearly unseated him."
+  },
+  {
+    "sent_id": 73,
+    "subj": "sohrab",
+    "verb": "tackle",
+    "obj": "she",
+    "label": "sohrab | tackle | she",
+    "sentence": "Raging, Sohrab tackled her, tearing off her armor and throwing her down, but she broke his spear and escaped on horseback."
+  },
+  {
+    "sent_id": 74,
+    "subj": "sohrab",
+    "verb": "catch",
+    "obj": "she",
+    "label": "sohrab | catch | she",
+    "sentence": "Angered, Sohrab caught her again, pulled off her helmet to see who dared to fight him so boldly\u2014and was shocked to find a woman."
+  },
+  {
+    "sent_id": 75,
+    "subj": "he",
+    "verb": "bind",
+    "obj": "she",
+    "label": "he | bind | she",
+    "sentence": "Surprised yet admiring, he bound her with his cord, warning her to seek no escape."
+  },
+  {
+    "sent_id": 76,
+    "subj": "gurdafrid",
+    "verb": "plead",
+    "obj": "peace",
+    "label": "gurdafrid | plead | peace",
+    "sentence": "Gurdafrid pleaded for peace, reminding him that a woman\u2019s victory over him would bring shame if news spread."
+  },
+  {
+    "sent_id": 77,
+    "subj": "she",
+    "verb": "promise",
+    "obj": "",
+    "label": "she | promise | \u2205",
+    "sentence": "She promised to surrender the castle if he let her free."
+  },
+  {
+    "sent_id": 78,
+    "subj": "sohrab",
+    "verb": "agree",
+    "obj": "",
+    "label": "sohrab | agree | \u2205",
+    "sentence": "Sohrab, captivated by her words and beauty, agreed and followed her into the castle."
+  },
+  {
+    "sent_id": 79,
+    "subj": "she",
+    "verb": "shut",
+    "obj": "gate",
+    "label": "she | shut | gate",
+    "sentence": "But she shut the gates behind him and mocked him from the walls, telling him to turn back since he\u2019d been bested by a woman and would surely fall to Rostam."
+  },
+  {
+    "sent_id": 81,
+    "subj": "gustahem",
+    "verb": "send",
+    "obj": "word",
+    "label": "gustahem | send | word",
+    "sentence": "Gustahem, the old advisor, sent word to King Kai Kawous about the Turanian army and Sohrab\u2019s power, warning that the fortress might fall."
+  },
+  {
+    "sent_id": 82,
+    "subj": "king",
+    "verb": "fear",
+    "obj": "",
+    "label": "king | fear | \u2205",
+    "sentence": "The king and nobles feared and called for Rostam\u2019s aid, their greatest champion."
+  },
+  {
+    "sent_id": 83,
+    "subj": "defender",
+    "verb": "escape",
+    "obj": "tunnel",
+    "label": "defender | escape | tunnel",
+    "sentence": "Sohrab prepared to assault the castle, but found it deserted; the defenders had escaped through secret tunnels."
+  },
+  {
+    "sent_id": 84,
+    "subj": "",
+    "verb": "hear",
+    "obj": "",
+    "label": "\u2205 | hear | \u2205",
+    "sentence": "And when he sought Gurdafrid, only heard her mocking cry."
+  },
+  {
+    "sent_id": 85,
+    "subj": "kawous",
+    "verb": "call",
+    "obj": "rostam",
+    "label": "kawous | call | rostam",
+    "sentence": "The next day, Kai Kawous, alarmed, called on Rostam to help against the looming threat."
+  },
+  {
+    "sent_id": 86,
+    "subj": "noble",
+    "verb": "agree",
+    "obj": "",
+    "label": "noble | agree | \u2205",
+    "sentence": "His nobles agreed, saying none but Rostam could match Sohrab."
+  },
+  {
+    "sent_id": 87,
+    "subj": "kawous",
+    "verb": "send",
+    "obj": "geew",
+    "label": "kawous | send | geew",
+    "sentence": "Kai Kawous sent Geew with a letter urging Rostam to come without delay."
+  },
+  {
+    "sent_id": 88,
+    "subj": "geew",
+    "verb": "ride",
+    "obj": "",
+    "label": "geew | ride | \u2205",
+    "sentence": "Geew rode tirelessly until he found Rostam and explained the danger."
+  },
+  {
+    "sent_id": 89,
+    "subj": "rostam",
+    "verb": "doubt",
+    "obj": "",
+    "label": "rostam | doubt | \u2205",
+    "sentence": "Rostam doubted that a child could lead such an army, believing his own infant son in Samangan was far too young for this."
+  },
+  {
+    "sent_id": 90,
+    "subj": "guest",
+    "verb": "feed",
+    "obj": "",
+    "label": "guest | feed | \u2205",
+    "sentence": "Guests were fed and wine drunk until several days passed, but finally, Geew insisted they must go."
+  },
+  {
+    "sent_id": 91,
+    "subj": "rostam",
+    "verb": "prepare",
+    "obj": "force",
+    "label": "rostam | prepare | force",
+    "sentence": "Rostam prepared his forces and hurried toward the king\u2019s court."
+  },
+  {
+    "sent_id": 92,
+    "subj": "noble",
+    "verb": "come",
+    "obj": "",
+    "label": "noble | come | \u2205",
+    "sentence": "The nobles came to greet Rostam eagerly, but when Kai Kawous saw him, he was furious and ordered him arrested and hanged."
+  },
+  {
+    "sent_id": 93,
+    "subj": "noble",
+    "verb": "fear",
+    "obj": "rostam",
+    "label": "noble | fear | rostam",
+    "sentence": "The nobles feared for Rostam, but he spoke boldly, reminding the king all his power and throne owed to Rostam\u2019s deeds."
+  },
+  {
+    "sent_id": 94,
+    "subj": "rostam",
+    "verb": "leave",
+    "obj": "",
+    "label": "rostam | leave | \u2205",
+    "sentence": "Insulted and angry, Rostam left, vowing not to help Iran."
+  },
+  {
+    "sent_id": 95,
+    "subj": "noble",
+    "verb": "send",
+    "obj": "goodarz",
+    "label": "noble | send | goodarz",
+    "sentence": "The nobles, fearing the loss of their champion, sent Goodarz to plead with Kai Kawous to recall Rostam."
+  },
+  {
+    "sent_id": 96,
+    "subj": "goodarz",
+    "verb": "speak",
+    "obj": "",
+    "label": "goodarz | speak | \u2205",
+    "sentence": "Goodarz spoke wisely and boldly, listing Rostam\u2019s deeds and warning the land would fall without his aid."
+  },
+  {
+    "sent_id": 97,
+    "subj": "kawous",
+    "verb": "be",
+    "obj": "",
+    "label": "kawous | be | \u2205",
+    "sentence": "Kai Kawous was ashamed and agreed, sending Goodarz to bring Rostam back."
+  },
+  {
+    "sent_id": 98,
+    "subj": "he",
+    "verb": "be",
+    "obj": "",
+    "label": "he | be | \u2205",
+    "sentence": "When Rostam heard their pleas, he was bitter but considered their words."
+  },
+  {
+    "sent_id": 99,
+    "subj": "he",
+    "verb": "realize",
+    "obj": "",
+    "label": "he | realize | \u2205",
+    "sentence": "Although hurt by the king\u2019s insult, he realized Iran could not stand without him."
+  },
+  {
+    "sent_id": 100,
+    "subj": "he",
+    "verb": "ride",
+    "obj": "",
+    "label": "he | ride | \u2205",
+    "sentence": "So he rode back to Kai Kawous, who humbly asked forgiveness."
+  },
+  {
+    "sent_id": 101,
+    "subj": "they",
+    "verb": "feast",
+    "obj": "",
+    "label": "they | feast | \u2205",
+    "sentence": "They feasted and celebrated their restored alliance."
+  },
+  {
+    "sent_id": 102,
+    "subj": "horn",
+    "verb": "sound",
+    "obj": "",
+    "label": "horn | sound | \u2205",
+    "sentence": "Soon, war horns sounded as both armies prepared to face each other near the fortress."
+  },
+  {
+    "sent_id": 104,
+    "subj": "he",
+    "verb": "see",
+    "obj": "warrior",
+    "label": "he | see | warrior",
+    "sentence": "There he saw the young warrior surrounded by brave men and splendor."
+  },
+  {
+    "sent_id": 105,
+    "subj": "he",
+    "verb": "kill",
+    "obj": "zindeh",
+    "label": "he | kill | zindeh",
+    "sentence": "Before he could be discovered, he killed Zindeh, Tahmineh\u2019s brother, who had come to point out Rostam."
+  },
+  {
+    "sent_id": 106,
+    "subj": "sohrab",
+    "verb": "trouble",
+    "obj": "",
+    "label": "sohrab | trouble | \u2205",
+    "sentence": "Sohrab was troubled by Zindeh\u2019s sudden absence but continued his feast with warriors and women."
+  },
+  {
+    "sent_id": 107,
+    "subj": "sohrab",
+    "verb": "question",
+    "obj": "hujir",
+    "label": "sohrab | question | hujir",
+    "sentence": "At dawn, Sohrab questioned captive Hujir about the identity of the noble tents in the enemy camp."
+  },
+  {
+    "sent_id": 108,
+    "subj": "hujir",
+    "verb": "conceal",
+    "obj": "truth",
+    "label": "hujir | conceal | truth",
+    "sentence": "Though Sohrab suspected Rostam\u2019s tent by its signs, Hujir deliberately concealed the truth, fearing Sohrab might kill Rostam."
+  },
+  {
+    "sent_id": 109,
+    "subj": "sohrab",
+    "verb": "grow",
+    "obj": "",
+    "label": "sohrab | grow | \u2205",
+    "sentence": "Sohrab grew sad and angry but pressed for the truth."
+  },
+  {
+    "sent_id": 110,
+    "subj": "sohrab",
+    "verb": "kill",
+    "obj": "hujir",
+    "label": "sohrab | kill | hujir",
+    "sentence": "Finally, Sohrab killed Hujir for lying and prepared to storm the Iranian camp."
+  },
+  {
+    "sent_id": 111,
+    "subj": "arrival",
+    "verb": "spread",
+    "obj": "fear",
+    "label": "arrival | spread | fear",
+    "sentence": "His arrival spread fear and confusion."
+  },
+  {
+    "sent_id": 112,
+    "subj": "he",
+    "verb": "challenge",
+    "obj": "kawous",
+    "label": "he | challenge | kawous",
+    "sentence": "He challenged King Kai Kawous, but none dared accept."
+  },
+  {
+    "sent_id": 113,
+    "subj": "they",
+    "verb": "look",
+    "obj": "rostam",
+    "label": "they | look | rostam",
+    "sentence": "They looked to Rostam as their only champion."
+  },
+  {
+    "sent_id": 114,
+    "subj": "rostam",
+    "verb": "don",
+    "obj": "armor",
+    "label": "rostam | don | armor",
+    "sentence": "Rostam donned his armor and rode out to face Sohrab."
+  },
+  {
+    "sent_id": 115,
+    "subj": "rostam",
+    "verb": "suggest",
+    "obj": "",
+    "label": "rostam | suggest | \u2205",
+    "sentence": "When they met, Rostam suggested they fight apart from the armies."
+  },
+  {
+    "sent_id": 116,
+    "subj": "sohrab",
+    "verb": "agree",
+    "obj": "",
+    "label": "sohrab | agree | \u2205",
+    "sentence": "Sohrab agreed, desperate to learn Rostam\u2019s name."
+  },
+  {
+    "sent_id": 117,
+    "subj": "he",
+    "verb": "suspect",
+    "obj": "",
+    "label": "he | suspect | \u2205",
+    "sentence": "He suspected the man might be his father."
+  },
+  {
+    "sent_id": 118,
+    "subj": "rostam",
+    "verb": "deny",
+    "obj": "it",
+    "label": "rostam | deny | it",
+    "sentence": "Rostam denied it, claiming to be a common man without fame or heritage, hoping to discourage Sohrab."
+  },
+  {
+    "sent_id": 119,
+    "subj": "sohrab",
+    "verb": "fight",
+    "obj": "might",
+    "label": "sohrab | fight | might",
+    "sentence": "Heartbroken, Sohrab fought with all his might."
+  },
+  {
+    "sent_id": 120,
+    "subj": "they",
+    "verb": "wrestle",
+    "obj": "exhaustion",
+    "label": "they | wrestle | exhaustion",
+    "sentence": "Their battle was fierce and evenly matched; spears shattered, swords dulled, clubs broken, they wrestled in exhaustion yet neither gained the upper hand."
+  },
+  {
+    "sent_id": 121,
+    "subj": "rostam",
+    "verb": "marvel",
+    "obj": "",
+    "label": "rostam | marvel | \u2205",
+    "sentence": "Rostam marveled that no one, not even demons, had challenged him so before."
+  },
+  {
+    "sent_id": 122,
+    "subj": "they",
+    "verb": "rest",
+    "obj": "",
+    "label": "they | rest | \u2205",
+    "sentence": "They rested, then fought again with arrows and weapons, but still no victor emerged."
+  },
+  {
+    "sent_id": 123,
+    "subj": "sohrab",
+    "verb": "deal",
+    "obj": "blow",
+    "label": "sohrab | deal | blow",
+    "sentence": "Sohrab finally dealt a heavy blow, and Rostam reeled in pain."
+  },
+  {
+    "sent_id": 124,
+    "subj": "sohrab",
+    "verb": "mock",
+    "obj": "man",
+    "label": "sohrab | mock | man",
+    "sentence": "Sohrab mocked the old man but still rested for the night, vowing to finish the fight."
+  },
+  {
+    "sent_id": 125,
+    "subj": "warrior",
+    "verb": "covet",
+    "obj": "victory",
+    "label": "warrior | covet | victory",
+    "sentence": "Both warriors coveted victory, yet Rostam prayed to God for strength, which came so powerfully that the earth itself cracked under him."
+  },
+  {
+    "sent_id": 126,
+    "subj": "he",
+    "verb": "pray",
+    "obj": "",
+    "label": "he | pray | \u2205",
+    "sentence": "He then prayed for some of this strength to be taken back."
+  },
+  {
+    "sent_id": 127,
+    "subj": "sohrab",
+    "verb": "plead",
+    "obj": "rostam",
+    "label": "sohrab | plead | rostam",
+    "sentence": "The next day, Sohrab pleaded with Rostam to set aside their weapons, share wine, and speak honestly, hoping to avoid further bloodshed."
+  },
+  {
+    "sent_id": 128,
+    "subj": "he",
+    "verb": "ask",
+    "obj": "rostam",
+    "label": "he | ask | rostam",
+    "sentence": "He once more asked Rostam to reveal his name, convinced it was the great Rostam himself."
+  },
+  {
+    "sent_id": 129,
+    "subj": "rostam",
+    "verb": "refuse",
+    "obj": "",
+    "label": "rostam | refuse | \u2205",
+    "sentence": "Rostam refused, insisting the battle must go on, that their fate was in God\u2019s hands."
+  },
+  {
+    "sent_id": 130,
+    "subj": "they",
+    "verb": "fight",
+    "obj": "",
+    "label": "they | fight | \u2205",
+    "sentence": "They fought fiercely once more."
+  },
+  {
+    "sent_id": 131,
+    "subj": "sohrab",
+    "verb": "pin",
+    "obj": "rostam",
+    "label": "sohrab | pin | rostam",
+    "sentence": "At last, Sohrab pinned Rostam to the ground and drew his sword to kill him."
+  },
+  {
+    "sent_id": 132,
+    "subj": "warrior",
+    "verb": "kill",
+    "obj": "opponent",
+    "label": "warrior | kill | opponent",
+    "sentence": "But Rostam cleverly reminded him of the battle custom: a warrior should not kill his opponent the first time he overcomes him, but wait to fight again before delivering the final blow."
+  },
+  {
+    "sent_id": 133,
+    "subj": "sohrab",
+    "verb": "spar",
+    "obj": "he",
+    "label": "sohrab | spar | he",
+    "sentence": "Sohrab spared him, and they paused until nightfall."
+  },
+  {
+    "sent_id": 134,
+    "subj": "hooman",
+    "verb": "warn",
+    "obj": "",
+    "label": "hooman | warn | \u2205",
+    "sentence": "Hooman warned Sohrab his mercy was foolish, but Sohrab believed he would surely prevail next time."
+  },
+  {
+    "sent_id": 135,
+    "subj": "rostam",
+    "verb": "wash",
+    "obj": "anguish",
+    "label": "rostam | wash | anguish",
+    "sentence": "In anguish, Rostam washed and prayed for strength to win."
+  },
+  {
+    "sent_id": 136,
+    "subj": "battle",
+    "verb": "begin",
+    "obj": "",
+    "label": "battle | begin | \u2205",
+    "sentence": "The final battle began."
+  },
+  {
+    "sent_id": 137,
+    "subj": "sohrab",
+    "verb": "charge",
+    "obj": "elephant",
+    "label": "sohrab | charge | elephant",
+    "sentence": "Sohrab charged like a raging elephant and cursed Rostam for returning so fiercely."
+  },
+  {
+    "sent_id": 138,
+    "subj": "rostam",
+    "verb": "feel",
+    "obj": "fear",
+    "label": "rostam | feel | fear",
+    "sentence": "Rostam felt fear but hid it and prayed for strength."
+  },
+  {
+    "sent_id": 139,
+    "subj": "they",
+    "verb": "fight",
+    "obj": "",
+    "label": "they | fight | \u2205",
+    "sentence": "They fought fiercely until Rostam threw Sohrab down hard and broke his back."
+  },
+  {
+    "sent_id": 140,
+    "subj": "sohrab",
+    "verb": "gasp",
+    "obj": "word",
+    "label": "sohrab | gasp | word",
+    "sentence": "As Rostam drew his sword to kill him, Sohrab gasped his final words."
+  },
+  {
+    "sent_id": 141,
+    "subj": "he",
+    "verb": "confess",
+    "obj": "longing",
+    "label": "he | confess | longing",
+    "sentence": "He confessed his longing to find his father, told how his mother had shown him signs to recognize him, and that he died searching for Rostam\u2019s face."
+  },
+  {
+    "sent_id": 142,
+    "subj": "he",
+    "verb": "beg",
+    "obj": "rostam",
+    "label": "he | beg | rostam",
+    "sentence": "He begged Rostam to look inside his armor for a token \u2014 the onyx ring given to him at birth."
+  },
+  {
+    "sent_id": 143,
+    "subj": "rostam",
+    "verb": "open",
+    "obj": "armor",
+    "label": "rostam | open | armor",
+    "sentence": "Rostam opened the armor, saw the jewel, and was shattered by grief."
+  },
+  {
+    "sent_id": 144,
+    "subj": "he",
+    "verb": "tear",
+    "obj": "clothe",
+    "label": "he | tear | clothe",
+    "sentence": "He tore his clothes, covered his head with ashes, and wept bitterly."
+  },
+  {
+    "sent_id": 145,
+    "subj": "sohrab",
+    "verb": "comfort",
+    "obj": "he",
+    "label": "sohrab | comfort | he",
+    "sentence": "Sohrab comforted him, saying it was fate and there was no escape."
+  },
+  {
+    "sent_id": 146,
+    "subj": "noble",
+    "verb": "fear",
+    "obj": "",
+    "label": "noble | fear | \u2205",
+    "sentence": "When the sun set and Rostam didn\u2019t return, the nobles feared he was dead."
+  },
+  {
+    "sent_id": 147,
+    "subj": "they",
+    "verb": "mourn",
+    "obj": "",
+    "label": "they | mourn | \u2205",
+    "sentence": "They mourned deeply and reported to Kai Kawous, who ordered them to prepare for battle without Rostam."
+  },
+  {
+    "sent_id": 148,
+    "subj": "he",
+    "verb": "take",
+    "obj": "responsibility",
+    "label": "he | take | responsibility",
+    "sentence": "Sohrab begged Rostam not to allow the king to attack the Turanian soldiers; he took full responsibility for the invasion."
+  },
+  {
+    "sent_id": 149,
+    "subj": "rostam",
+    "verb": "promise",
+    "obj": "",
+    "label": "rostam | promise | \u2205",
+    "sentence": "Rostam promised."
+  },
+  {
+    "sent_id": 150,
+    "subj": "rostam",
+    "verb": "reveal",
+    "obj": "truth",
+    "label": "rostam | reveal | truth",
+    "sentence": "Rostam revealed the truth of what had happened to the nobles, who mourned with him."
+  },
+  {
+    "sent_id": 151,
+    "subj": "he",
+    "verb": "prepare",
+    "obj": "fit",
+    "label": "he | prepare | fit",
+    "sentence": "He prepared a tomb fit for Sohrab and laid him to rest, surrounded by gold and precious scents."
+  },
+  {
+    "sent_id": 152,
+    "subj": "grief",
+    "verb": "fill",
+    "obj": "home",
+    "label": "grief | fill | home",
+    "sentence": "Grief filled Rostam\u2019s home, and he mourned long."
+  },
+  {
+    "sent_id": 153,
+    "subj": "news",
+    "verb": "reach",
+    "obj": "turan",
+    "label": "news | reach | turan",
+    "sentence": "News reached Turan, and all mourned the fallen hero."
+  },
+  {
+    "sent_id": 154,
+    "subj": "tahmineh",
+    "verb": "devastate",
+    "obj": "",
+    "label": "tahmineh | devastate | \u2205",
+    "sentence": "Tahmineh was devastated, beating her chest, tearing her hair, and crying endlessly."
+  },
+  {
+    "sent_id": 155,
+    "subj": "she",
+    "verb": "cherish",
+    "obj": "belonging",
+    "label": "she | cherish | belonging",
+    "sentence": "She cherished Sohrab\u2019s belongings, kissed his horse, and set fire to his home."
+  },
+  {
+    "sent_id": 156,
+    "subj": "she",
+    "verb": "die",
+    "obj": "year",
+    "label": "she | die | year",
+    "sentence": "After a year of sorrow, she died, joining her son in the beyond."
+  }
+]

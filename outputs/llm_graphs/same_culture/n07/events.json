@@ -1,0 +1,626 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "people",
+    "verb": "die",
+    "obj": "",
+    "label": "people | die | \u2205",
+    "sentence": "Long ago, all the people in a certain land had died, leaving only two young children behind\u2014a baby boy and his older sister."
+  },
+  {
+    "sent_id": 1,
+    "subj": "child",
+    "verb": "be",
+    "obj": "",
+    "label": "child | be | \u2205",
+    "sentence": "When their parents passed away, the children were asleep."
+  },
+  {
+    "sent_id": 2,
+    "subj": "sister",
+    "verb": "wake",
+    "obj": "",
+    "label": "sister | wake | \u2205",
+    "sentence": "The sister woke first and looked around, but seeing no one but her little brother sleeping peacefully beside her, she quietly lay down again."
+  },
+  {
+    "sent_id": 3,
+    "subj": "boy",
+    "verb": "shift",
+    "obj": "day",
+    "label": "boy | shift | day",
+    "sentence": "After ten days, the boy shifted slightly but kept his eyes closed."
+  },
+  {
+    "sent_id": 4,
+    "subj": "he",
+    "verb": "change",
+    "obj": "position",
+    "label": "he | change | position",
+    "sentence": "Another ten days later, he changed position again, always sleeping peacefully."
+  },
+  {
+    "sent_id": 5,
+    "subj": "",
+    "verb": "surround",
+    "obj": "",
+    "label": "\u2205 | surround | \u2205",
+    "sentence": "His dreams must have been pleasant because every time his sister looked at him, he seemed surrounded by a soft glow and sparkling lights that filled their lodge with a mysterious brightness."
+  },
+  {
+    "sent_id": 6,
+    "subj": "girl",
+    "verb": "grow",
+    "obj": "woman",
+    "label": "girl | grow | woman",
+    "sentence": "The girl grew into a woman, but her brother grew very slowly."
+  },
+  {
+    "sent_id": 7,
+    "subj": "it",
+    "verb": "take",
+    "obj": "time",
+    "label": "it | take | time",
+    "sentence": "It took a long time before he could crawl, and he was quite old before he could stand."
+  },
+  {
+    "sent_id": 8,
+    "subj": "sister",
+    "verb": "give",
+    "obj": "bow",
+    "label": "sister | give | bow",
+    "sentence": "When he finally walked, his sister gave him a small bow and arrows and hung a tiny shell around his neck, saying, \u201cYou shall be called Dais Imid, or He of the Little Shell.\u201d"
+  },
+  {
+    "sent_id": 9,
+    "subj": "he",
+    "verb": "go",
+    "obj": "",
+    "label": "he | go | \u2205",
+    "sentence": "Every day, he went out hunting with his little bow."
+  },
+  {
+    "sent_id": 10,
+    "subj": "bird",
+    "verb": "be",
+    "obj": "tit",
+    "label": "bird | be | tit",
+    "sentence": "The first bird he killed was a tom-tit, which he proudly brought to his sister."
+  },
+  {
+    "sent_id": 11,
+    "subj": "she",
+    "verb": "prepare",
+    "obj": "",
+    "label": "she | prepare | \u2205",
+    "sentence": "She carefully prepared and stuffed it, keeping it safe for him."
+  },
+  {
+    "sent_id": 12,
+    "subj": "he",
+    "verb": "catch",
+    "obj": "squirrel",
+    "label": "he | catch | squirrel",
+    "sentence": "The next day he caught a red squirrel, which she saved too."
+  },
+  {
+    "sent_id": 13,
+    "subj": "he",
+    "verb": "kill",
+    "obj": "partridge",
+    "label": "he | kill | partridge",
+    "sentence": "On the third day, he killed a partridge, which they cooked for dinner."
+  },
+  {
+    "sent_id": 14,
+    "subj": "he",
+    "verb": "start",
+    "obj": "",
+    "label": "he | start | \u2205",
+    "sentence": "Growing bolder, he started traveling farther from home."
+  },
+  {
+    "sent_id": 15,
+    "subj": "skill",
+    "verb": "improve",
+    "obj": "",
+    "label": "skill | improve | \u2205",
+    "sentence": "His hunting skills improved, and he began catching deer, bear, moose, and other large animals."
+  },
+  {
+    "sent_id": 16,
+    "subj": "he",
+    "verb": "become",
+    "obj": "hunter",
+    "label": "he | become | hunter",
+    "sentence": "Though small in size, he became an excellent hunter, always bringing home what he caught and sharing it with his sister."
+  },
+  {
+    "sent_id": 18,
+    "subj": "man",
+    "verb": "wander",
+    "obj": "lake",
+    "label": "man | wander | lake",
+    "sentence": "Now a man in years but still tiny in size, one winter day he wandered near a frozen lake."
+  },
+  {
+    "sent_id": 19,
+    "subj": "he",
+    "verb": "see",
+    "obj": "beaver",
+    "label": "he | see | beaver",
+    "sentence": "On the ice, he saw a giant man busy hunting beavers."
+  },
+  {
+    "sent_id": 20,
+    "subj": "he",
+    "verb": "feel",
+    "obj": "insect",
+    "label": "he | feel | insect",
+    "sentence": "Comparing himself to the towering hunter, he felt like an insect."
+  },
+  {
+    "sent_id": 21,
+    "subj": "he",
+    "verb": "watch",
+    "obj": "",
+    "label": "he | watch | \u2205",
+    "sentence": "Sitting on the shore, he watched closely."
+  },
+  {
+    "sent_id": 22,
+    "subj": "he",
+    "verb": "load",
+    "obj": "they",
+    "label": "he | load | they",
+    "sentence": "After the giant killed many beavers, he loaded them onto a sled and began to leave."
+  },
+  {
+    "sent_id": 23,
+    "subj": "man",
+    "verb": "use",
+    "obj": "shell",
+    "label": "man | use | shell",
+    "sentence": "Quietly following, the little man used his magic shell to cut off the tail of a beaver and ran home with his prize."
+  },
+  {
+    "sent_id": 24,
+    "subj": "he",
+    "verb": "notice",
+    "obj": "",
+    "label": "he | notice | \u2205",
+    "sentence": "When the giant got back to his lodge, he noticed one beaver was missing its tail."
+  },
+  {
+    "sent_id": 25,
+    "subj": "hunter",
+    "verb": "return",
+    "obj": "lake",
+    "label": "hunter | return | lake",
+    "sentence": "The next day, the little hunter returned to the lake."
+  },
+  {
+    "sent_id": 26,
+    "subj": "giant",
+    "verb": "load",
+    "obj": "sled",
+    "label": "giant | load | sled",
+    "sentence": "The giant had already loaded his sled and was on his way home, but the small man caught up with him and snipped another tail."
+  },
+  {
+    "sent_id": 27,
+    "subj": "giant",
+    "verb": "growl",
+    "obj": "",
+    "label": "giant | growl | \u2205",
+    "sentence": "\u201cI wonder what dog dares cheat me like this,\u201d the giant growled, glaring at his catch."
+  },
+  {
+    "sent_id": 28,
+    "subj": "i",
+    "verb": "make",
+    "obj": "",
+    "label": "i | make | \u2205",
+    "sentence": "\u201cIf I found the thief, I\u2019d make him feel my spear\u2019s sting.\u201d"
+  },
+  {
+    "sent_id": 29,
+    "subj": "",
+    "verb": "be",
+    "obj": "",
+    "label": "\u2205 | be | \u2205",
+    "sentence": "What the giant didn\u2019t realize was that the dam and the beavers actually belonged to the little shell man and his sister, and the giant had taken them without asking."
+  },
+  {
+    "sent_id": 30,
+    "subj": "giant",
+    "verb": "hunt",
+    "obj": "dam",
+    "label": "giant | hunt | dam",
+    "sentence": "The next day, the giant hunted at the beaver dam again, followed once more by the little man."
+  },
+  {
+    "sent_id": 31,
+    "subj": "man",
+    "verb": "clip",
+    "obj": "tail",
+    "label": "man | clip | tail",
+    "sentence": "Though the giant was faster this time and nearly reached his lodge before the small figure caught up, the little man clipped another beaver\u2019s tail just before the sled reached shelter."
+  },
+  {
+    "sent_id": 32,
+    "subj": "patience",
+    "verb": "wear",
+    "obj": "",
+    "label": "patience | wear | \u2205",
+    "sentence": "The giant\u2019s patience wore thin."
+  },
+  {
+    "sent_id": 33,
+    "subj": "hunter",
+    "verb": "have",
+    "obj": "power",
+    "label": "hunter | have | power",
+    "sentence": "Angrily, he searched for footprints but found none\u2014the little hunter had the power to become invisible whenever he wished."
+  },
+  {
+    "sent_id": 34,
+    "subj": "giant",
+    "verb": "decide",
+    "obj": "",
+    "label": "giant | decide | \u2205",
+    "sentence": "Determined, the giant decided to arrive early the following day to catch the trickster."
+  },
+  {
+    "sent_id": 35,
+    "subj": "giant",
+    "verb": "go",
+    "obj": "",
+    "label": "giant | go | \u2205",
+    "sentence": "But when the little man reached the dam, the giant was already gone."
+  },
+  {
+    "sent_id": 36,
+    "subj": "hunter",
+    "verb": "see",
+    "obj": "giant",
+    "label": "hunter | see | giant",
+    "sentence": "Following his tracks, the little hunter saw the giant at his lodge, skinning beavers."
+  },
+  {
+    "sent_id": 38,
+    "subj": "giant",
+    "verb": "look",
+    "obj": "he",
+    "label": "giant | look | he",
+    "sentence": "The giant, a famous figure known as Manabozho, looked at him carefully and said, \u201cWho are you, little man?"
+  },
+  {
+    "sent_id": 39,
+    "subj": "i",
+    "verb": "think",
+    "obj": "",
+    "label": "i | think | \u2205",
+    "sentence": "I think I\u2019ll kill you.\u201d"
+  },
+  {
+    "sent_id": 40,
+    "subj": "hunter",
+    "verb": "answer",
+    "obj": "",
+    "label": "hunter | answer | \u2205",
+    "sentence": "The little hunter answered confidently, \u201cYou could never kill me.\u201d\n\nManabozho lunged to grab him, but the little man vanished."
+  },
+  {
+    "sent_id": 41,
+    "subj": "",
+    "verb": "shout",
+    "obj": "giant",
+    "label": "\u2205 | shout | giant",
+    "sentence": "\u201cWhere are you now?\u201d shouted the giant."
+  },
+  {
+    "sent_id": 42,
+    "subj": "voice",
+    "verb": "answer",
+    "obj": "belt",
+    "label": "voice | answer | belt",
+    "sentence": "\u201cUnder your belt,\u201d the tiny voice answered."
+  },
+  {
+    "sent_id": 43,
+    "subj": "manabozho",
+    "verb": "slap",
+    "obj": "belt",
+    "label": "manabozho | slap | belt",
+    "sentence": "Manabozho slapped his belt hard, but found nothing."
+  },
+  {
+    "sent_id": 44,
+    "subj": "reply",
+    "verb": "come",
+    "obj": "nostril",
+    "label": "reply | come | nostril",
+    "sentence": "\u201cWhere now?\u201d\n\n\u201cIn your right nostril!\u201d came the reply."
+  },
+  {
+    "sent_id": 45,
+    "subj": "giant",
+    "verb": "grab",
+    "obj": "nose",
+    "label": "giant | grab | nose",
+    "sentence": "The giant grabbed his nose and pinched it hard, only to hear the little man\u2019s voice from a distance."
+  },
+  {
+    "sent_id": 46,
+    "subj": "manabozho",
+    "verb": "fume",
+    "obj": "",
+    "label": "manabozho | fume | \u2205",
+    "sentence": "Realizing he\u2019d only hurt himself, Manabozho fumed but couldn\u2019t catch him."
+  },
+  {
+    "sent_id": 47,
+    "subj": "manabozho",
+    "verb": "call",
+    "obj": "dwarf",
+    "label": "manabozho | call | dwarf",
+    "sentence": "\u201cGoodbye, Manabozho,\u201d called the invisible dwarf."
+  },
+  {
+    "sent_id": 48,
+    "subj": "you\u2019ll",
+    "verb": "find",
+    "obj": "",
+    "label": "you\u2019ll | find | \u2205",
+    "sentence": "\u201cCount your beaver tails\u2014you\u2019ll find I\u2019ve taken another for my sister.\u201d"
+  },
+  {
+    "sent_id": 49,
+    "subj": "he",
+    "verb": "forget",
+    "obj": "",
+    "label": "he | forget | \u2205",
+    "sentence": "He never forgot to care for her, even in his mischief."
+  },
+  {
+    "sent_id": 50,
+    "subj": "he",
+    "verb": "become",
+    "obj": "light",
+    "label": "he | become | light",
+    "sentence": "As he walked away, he became visible again, a bright light shining around him that baffled even the clumsy giant."
+  },
+  {
+    "sent_id": 51,
+    "subj": "imid",
+    "verb": "tell",
+    "obj": "sister",
+    "label": "imid | tell | sister",
+    "sentence": "Back home, Dais Imid told his sister that the time had come for them to part ways."
+  },
+  {
+    "sent_id": 52,
+    "subj": "he",
+    "verb": "say",
+    "obj": "",
+    "label": "he | say | \u2205",
+    "sentence": "\u201cI must leave,\u201d he said."
+  },
+  {
+    "sent_id": 53,
+    "subj": "it",
+    "verb": "\u2019",
+    "obj": "fate",
+    "label": "it | \u2019 | fate",
+    "sentence": "\u201cIt\u2019s my fate."
+  },
+  {
+    "sent_id": 54,
+    "subj": "you",
+    "verb": "go",
+    "obj": "",
+    "label": "you | go | \u2205",
+    "sentence": "You must go soon too."
+  },
+  {
+    "sent_id": 55,
+    "subj": "",
+    "verb": "tell",
+    "obj": "i",
+    "label": "\u2205 | tell | i",
+    "sentence": "Tell me where you want to live.\u201d"
+  },
+  {
+    "sent_id": 56,
+    "subj": "she",
+    "verb": "reply",
+    "obj": "",
+    "label": "she | reply | \u2205",
+    "sentence": "She replied, \u201cI want to go toward the breaking of daylight, the East."
+  },
+  {
+    "sent_id": 57,
+    "subj": "it",
+    "verb": "\u2019s",
+    "obj": "part",
+    "label": "it | \u2019s | part",
+    "sentence": "I\u2019ve always loved the first light of dawn\u2014it\u2019s the most beautiful part of the sky."
+  },
+  {
+    "sent_id": 58,
+    "subj": "",
+    "verb": "imagine",
+    "obj": "",
+    "label": "\u2205 | imagine | \u2205",
+    "sentence": "When you see colorful clouds there, imagine me painting my face.\u201d"
+  },
+  {
+    "sent_id": 59,
+    "subj": "i",
+    "verb": "say",
+    "obj": "",
+    "label": "i | say | \u2205",
+    "sentence": "\u201cAnd I,\u201d said he, \u201cwill live among the mountains and rocks."
+  },
+  {
+    "sent_id": 60,
+    "subj": "i",
+    "verb": "see",
+    "obj": "",
+    "label": "i | see | \u2205",
+    "sentence": "There, I can see you earliest."
+  },
+  {
+    "sent_id": 61,
+    "subj": "stream",
+    "verb": "be",
+    "obj": "",
+    "label": "stream | be | \u2205",
+    "sentence": "The streams are clear, the air pure, and golden light will always shine around my head."
+  },
+  {
+    "sent_id": 62,
+    "subj": "i",
+    "verb": "call",
+    "obj": "ininee",
+    "label": "i | call | ininee",
+    "sentence": "I\u2019ll be called Puck-Ininee, the Little Wild Man of the Mountains."
+  },
+  {
+    "sent_id": 63,
+    "subj": "i",
+    "verb": "seek",
+    "obj": "spirit",
+    "label": "i | seek | spirit",
+    "sentence": "But before we part, I must seek the spirits who rule the earth and learn which of them will be friendly to us.\u201d"
+  },
+  {
+    "sent_id": 64,
+    "subj": "he",
+    "verb": "leave",
+    "obj": "sister",
+    "label": "he | leave | sister",
+    "sentence": "He left his sister and traveled across the land and deep below it."
+  },
+  {
+    "sent_id": 65,
+    "subj": "he",
+    "verb": "treat",
+    "obj": "",
+    "label": "he | treat | \u2205",
+    "sentence": "Everywhere he went, he was treated kindly."
+  },
+  {
+    "sent_id": 66,
+    "subj": "he",
+    "verb": "meet",
+    "obj": "spirit",
+    "label": "he | meet | spirit",
+    "sentence": "Finally, he met a giant spirit with a large, ever-boiling kettle."
+  },
+  {
+    "sent_id": 67,
+    "subj": "giant",
+    "verb": "hear",
+    "obj": "trick",
+    "label": "giant | hear | trick",
+    "sentence": "This giant, a distant cousin of Manabozho\u2019s, had heard of Dais Imid\u2019s tricks and eyed him with suspicion."
+  },
+  {
+    "sent_id": 68,
+    "subj": "he",
+    "verb": "grab",
+    "obj": "man",
+    "label": "he | grab | man",
+    "sentence": "Suddenly, he grabbed the little man and threw him into the boiling kettle, hoping to drown him."
+  },
+  {
+    "sent_id": 69,
+    "subj": "imid",
+    "verb": "use",
+    "obj": "shell",
+    "label": "imid | use | shell",
+    "sentence": "But Dais Imid used his magic shell to drain the water quickly, leapt out unharmed, and ran away."
+  },
+  {
+    "sent_id": 70,
+    "subj": "he",
+    "verb": "tell",
+    "obj": "she",
+    "label": "he | tell | she",
+    "sentence": "Returning to his sister, he told her about his journey and said, \u201cThere are spirits at each corner of the earth, and one great spirit above in the sky who decides where we all must go."
+  },
+  {
+    "sent_id": 71,
+    "subj": "",
+    "verb": "\u2019",
+    "obj": "one",
+    "label": "\u2205 | \u2019 | one",
+    "sentence": "There\u2019s also a wicked one living deep underground, but we must escape his reach."
+  },
+  {
+    "sent_id": 72,
+    "subj": "we",
+    "verb": "separate",
+    "obj": "",
+    "label": "we | separate | \u2205",
+    "sentence": "Now we must separate."
+  },
+  {
+    "sent_id": 73,
+    "subj": "you",
+    "verb": "carry",
+    "obj": "",
+    "label": "you | carry | \u2205",
+    "sentence": "When the winds blow from the four corners, you will be carried to where you want.\u201d"
+  },
+  {
+    "sent_id": 74,
+    "subj": "he",
+    "verb": "pick",
+    "obj": "stick",
+    "label": "he | pick | stick",
+    "sentence": "He picked up his ball-stick and ran up a high mountain, a bright light shining around his head as he sang:\n\n\u201cBlow, winds, blow!"
+  },
+  {
+    "sent_id": 75,
+    "subj": "sister",
+    "verb": "linger",
+    "obj": "home",
+    "label": "sister | linger | home",
+    "sentence": "My sister lingers \nFor her home up high, \nWhere the morning, with rosy fingers, \nPaints her cheeks in light."
+  },
+  {
+    "sent_id": 76,
+    "subj": "view",
+    "verb": "take",
+    "obj": "color",
+    "label": "view | take | color",
+    "sentence": "There my earliest view will take \nIts color from her smile, \nThrough clouds reflecting \nGuiding me by wood and water."
+  },
+  {
+    "sent_id": 77,
+    "subj": "play",
+    "verb": "raise",
+    "obj": "halloo",
+    "label": "play | raise | halloo",
+    "sentence": "While I roam the highest mountains, \nPlay in green valleys low, \nOr beside familiar springs, \nRaise my tiny wild-halloo.\u201d"
+  },
+  {
+    "sent_id": 78,
+    "subj": "sister",
+    "verb": "lift",
+    "obj": "",
+    "label": "sister | lift | \u2205",
+    "sentence": "As the winds rose, the sister was lifted and carried toward the eastern sky."
+  },
+  {
+    "sent_id": 79,
+    "subj": "she",
+    "verb": "live",
+    "obj": "",
+    "label": "she | live | \u2205",
+    "sentence": "Since then, she has lived there and is known as the Morning Star."
+  }
+]

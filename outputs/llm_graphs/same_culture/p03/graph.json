@@ -1,0 +1,1626 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "\u2205 | be | athlete",
+      "sent_id": 0,
+      "sentence": "There was once an athlete whose life had fallen into great hardship.",
+      "subj": "",
+      "verb": "be",
+      "obj": "athlete"
+    },
+    {
+      "id": "e0001",
+      "label": "throat | be | \u2205",
+      "sent_id": 1,
+      "sentence": "His throat was large but his hands could not fill it.",
+      "subj": "throat",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0002",
+      "label": "he | turn | father",
+      "sent_id": 2,
+      "sentence": "Frustrated, he turned to his father and asked for permission to travel, hoping to earn a living by the strength of his arm.",
+      "subj": "he",
+      "verb": "turn",
+      "obj": "father"
+    },
+    {
+      "id": "e0003",
+      "label": "father | answer | \u2205",
+      "sent_id": 4,
+      "sentence": "His father answered: \u201cMy son, abandon this foolish idea and embrace contentment, for wise men say happiness is not found in endless effort, but in moderating one\u2019s desires.",
+      "subj": "father",
+      "verb": "answer",
+      "obj": ""
+    },
+    {
+      "id": "e0004",
+      "label": "one | seize | luck",
+      "sent_id": 5,
+      "sentence": "No one can seize luck by force.",
+      "subj": "one",
+      "verb": "seize",
+      "obj": "luck"
+    },
+    {
+      "id": "e0005",
+      "label": "\u2205 | be | \u2205",
+      "sent_id": 6,
+      "sentence": "Putting ointment on a bald man\u2019s forehead is useless.",
+      "subj": "",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0006",
+      "label": "they | mean | nothing",
+      "sent_id": 7,
+      "sentence": "Even if you had two hundred talents for each hair on your head, they mean nothing if fortune does not favor you.",
+      "subj": "they",
+      "verb": "mean",
+      "obj": "nothing"
+    },
+    {
+      "id": "e0007",
+      "label": "athlete | do | what",
+      "sent_id": 8,
+      "sentence": "What can an athlete do against bad luck?",
+      "subj": "athlete",
+      "verb": "do",
+      "obj": "what"
+    },
+    {
+      "id": "e0008",
+      "label": "arm | be | \u2205",
+      "sent_id": 9,
+      "sentence": "The arm of fortune is stronger than the arm of strength.\u201d",
+      "subj": "arm",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0009",
+      "label": "son | reply | \u2205",
+      "sent_id": 10,
+      "sentence": "The son replied: \u201cFather, traveling offers many benefits: refreshing the mind, hearing strange tales, exploring new cities, meeting friends, gaining rank and wealth, learning judgment, and experiencing the world.",
+      "subj": "son",
+      "verb": "reply",
+      "obj": ""
+    },
+    {
+      "id": "e0010",
+      "label": "you | become | man",
+      "sent_id": 11,
+      "sentence": "As the travelers in the Tariqat say:\n\nAs long as you roam just your shop or home,\nYou\u2019ll never truly become a man, O raw youth.",
+      "subj": "you",
+      "verb": "become",
+      "obj": "man"
+    },
+    {
+      "id": "e0011",
+      "label": "\u2205 | go | \u2205",
+      "sent_id": 12,
+      "sentence": "Go travel the world\nBefore your time to leave arrives.\u201d",
+      "subj": "",
+      "verb": "go",
+      "obj": ""
+    },
+    {
+      "id": "e0012",
+      "label": "father | respond | \u2205",
+      "sent_id": 13,
+      "sentence": "The father responded: \u201cIndeed, travel has many advantages, but they benefit especially five types of men.",
+      "subj": "father",
+      "verb": "respond",
+      "obj": ""
+    },
+    {
+      "id": "e0013",
+      "label": "he | pitch | tent",
+      "sent_id": 15,
+      "sentence": "The rich man feels at home even in mountains or deserts,\nWherever he goes, he pitches his tent.",
+      "subj": "he",
+      "verb": "pitch",
+      "obj": "tent"
+    },
+    {
+      "id": "e0014",
+      "label": "man | be | stranger",
+      "sent_id": 16,
+      "sentence": "But the poor man, lacking worldly goods,\nIs a stranger even in his own land.",
+      "subj": "man",
+      "verb": "be",
+      "obj": "stranger"
+    },
+    {
+      "id": "e0015",
+      "label": "man | be | gold",
+      "sent_id": 18,
+      "sentence": "A learned man is like pure gold,\nValued wherever he travels.",
+      "subj": "man",
+      "verb": "be",
+      "obj": "gold"
+    },
+    {
+      "id": "e0016",
+      "label": "noble | be | shahrua",
+      "sent_id": 19,
+      "sentence": "But an ignorant noble is like Shahrua,\nRejected in any foreign land.",
+      "subj": "noble",
+      "verb": "be",
+      "obj": "shahrua"
+    },
+    {
+      "id": "e0017",
+      "label": "third | be | \u2205",
+      "sent_id": 20,
+      "sentence": "Third, handsome young men who inspire devotion in pious hearts, for even a little beauty is better than great wealth.",
+      "subj": "third",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0018",
+      "label": "face | meet | honor",
+      "sent_id": 21,
+      "sentence": "A beautiful face opens locked doors and wins respect everywhere:\n\nA beautiful face meets honor everywhere,\nThough he may be driven away by his own parents.",
+      "subj": "face",
+      "verb": "meet",
+      "obj": "honor"
+    },
+    {
+      "id": "e0019",
+      "label": "i | see | feather",
+      "sent_id": 22,
+      "sentence": "I once saw a peacock feather inside the Quran\u2019s leaves,\nAnd said, \u2018Your place is higher than your merits.\u2019",
+      "subj": "i",
+      "verb": "see",
+      "obj": "feather"
+    },
+    {
+      "id": "e0020",
+      "label": "it | reply | \u2205",
+      "sent_id": 23,
+      "sentence": "It replied, \u2018Hush\u2014he who has beauty,\nWherever he steps, hands reach out to greet him.\u2019",
+      "subj": "it",
+      "verb": "reply",
+      "obj": ""
+    },
+    {
+      "id": "e0021",
+      "label": "disowning | matter | \u2205",
+      "sent_id": 24,
+      "sentence": "When a boy is striking and heart-stealing,\nHis father\u2019s disowning matters little.",
+      "subj": "disowning",
+      "verb": "matter",
+      "obj": ""
+    },
+    {
+      "id": "e0022",
+      "label": "pearl | desire | \u2205",
+      "sent_id": 25,
+      "sentence": "He is a jewel that should not stay hidden,\nA precious pearl all desire to buy.",
+      "subj": "pearl",
+      "verb": "desire",
+      "obj": ""
+    },
+    {
+      "id": "e0023",
+      "label": "voice | capture | heart",
+      "sent_id": 27,
+      "sentence": "Their voices capture hearts, and pious men enjoy their company.",
+      "subj": "voice",
+      "verb": "capture",
+      "obj": "heart"
+    },
+    {
+      "id": "e0024",
+      "label": "ear | delight | music",
+      "sent_id": 28,
+      "sentence": "My ear delights in beautiful music.",
+      "subj": "ear",
+      "verb": "delight",
+      "obj": "music"
+    },
+    {
+      "id": "e0025",
+      "label": "who | play | instrument",
+      "sent_id": 29,
+      "sentence": "Who plays so well on the double-stringed instrument?",
+      "subj": "who",
+      "verb": "play",
+      "obj": "instrument"
+    },
+    {
+      "id": "e0026",
+      "label": "song | be | \u2205",
+      "sent_id": 30,
+      "sentence": "How pleasant is the gentle, soft song\nTo companions who drink morning wine.",
+      "subj": "song",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0027",
+      "label": "\u2205 | be | voice",
+      "sent_id": 31,
+      "sentence": "Better than a handsome face is a pleasant voice:",
+      "subj": "",
+      "verb": "be",
+      "obj": "voice"
+    },
+    {
+      "id": "e0028",
+      "label": "voice | feed | soul",
+      "sent_id": 32,
+      "sentence": "The face pleases the senses, the voice feeds the soul.",
+      "subj": "voice",
+      "verb": "feed",
+      "obj": "soul"
+    },
+    {
+      "id": "e0029",
+      "label": "tailor | face | hardship",
+      "sent_id": 34,
+      "sentence": "If he ventures beyond his town,\nThe tailor faces no hardship.",
+      "subj": "tailor",
+      "verb": "face",
+      "obj": "hardship"
+    },
+    {
+      "id": "e0030",
+      "label": "king | sleep | \u2205",
+      "sent_id": 35,
+      "sentence": "But if the government fails,\nEven the king of Nimruz will sleep hungry.",
+      "subj": "king",
+      "verb": "sleep",
+      "obj": ""
+    },
+    {
+      "id": "e0031",
+      "label": "quality | make | \u2205",
+      "sent_id": 36,
+      "sentence": "These qualities make travel pleasing and rewarding, but one who has none goes with empty dreams, and no one ever hears their name.",
+      "subj": "quality",
+      "verb": "make",
+      "obj": ""
+    },
+    {
+      "id": "e0032",
+      "label": "\u2205 | turn | those",
+      "sent_id": 37,
+      "sentence": "The world\u2019s turning wheel turns against those it will afflict.",
+      "subj": "",
+      "verb": "turn",
+      "obj": "those"
+    },
+    {
+      "id": "e0033",
+      "label": "pigeon | carry | \u2205",
+      "sent_id": 38,
+      "sentence": "A pigeon not destined for its nest\nWill be carried by fate toward grain and a trap.\u201d",
+      "subj": "pigeon",
+      "verb": "carry",
+      "obj": ""
+    },
+    {
+      "id": "e0034",
+      "label": "son | ask | \u2205",
+      "sent_id": 39,
+      "sentence": "The son asked: \u201cFather, how can I ignore the wise who say that while fate provides food, effort is required to obtain it, and though calamity is decreed, people must guard the gates it uses to enter?\n\nThough daily bread comes without warning,\nIt\u2019s wise to seek it outside.",
+      "subj": "son",
+      "verb": "ask",
+      "obj": ""
+    },
+    {
+      "id": "e0035",
+      "label": "one | rush | jaw",
+      "sent_id": 40,
+      "sentence": "Though none dies without fate\u2019s decree,\nOne must not rush into the jaws of a dragon.",
+      "subj": "one",
+      "verb": "rush",
+      "obj": "jaw"
+    },
+    {
+      "id": "e0036",
+      "label": "i | wrestle | elephant",
+      "sent_id": 41,
+      "sentence": "I can wrestle a mad elephant and a furious lion.",
+      "subj": "i",
+      "verb": "wrestle",
+      "obj": "elephant"
+    },
+    {
+      "id": "e0037",
+      "label": "i | travel | \u2205",
+      "sent_id": 42,
+      "sentence": "Therefore, father, I must travel, for I cannot bear misery any longer.",
+      "subj": "i",
+      "verb": "travel",
+      "obj": ""
+    },
+    {
+      "id": "e0038",
+      "label": "grief | keep | \u2205",
+      "sent_id": 43,
+      "sentence": "When a man has fallen from his place,\nWhy must grief keep feeding him?",
+      "subj": "grief",
+      "verb": "keep",
+      "obj": ""
+    },
+    {
+      "id": "e0039",
+      "label": "world | be | home",
+      "sent_id": 44,
+      "sentence": "The whole world is his home.",
+      "subj": "world",
+      "verb": "be",
+      "obj": "home"
+    },
+    {
+      "id": "e0040",
+      "label": "man | stay | night",
+      "sent_id": 45,
+      "sentence": "At night, every rich man stays at an inn.",
+      "subj": "man",
+      "verb": "stay",
+      "obj": "night"
+    },
+    {
+      "id": "e0041",
+      "label": "inn | be | \u2205",
+      "sent_id": 46,
+      "sentence": "The dervish\u2019s inn is wherever night finds him.\u201d",
+      "subj": "inn",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0042",
+      "label": "he | ask | blessing",
+      "sent_id": 47,
+      "sentence": "After speaking thus, he asked his father\u2019s blessing, said goodbye, and set off, thinking:\n\n\u201cA skilled man whose luck fails him\nGoes where his name is unknown.\u201d",
+      "subj": "he",
+      "verb": "ask",
+      "obj": "blessing"
+    },
+    {
+      "id": "e0043",
+      "label": "he | reach | bank",
+      "sent_id": 48,
+      "sentence": "He reached the banks of a roaring river, so fierce it threw stones against each other, its noise heard far away.",
+      "subj": "he",
+      "verb": "reach",
+      "obj": "bank"
+    },
+    {
+      "id": "e0044",
+      "label": "wave | whirl | millstone",
+      "sent_id": 49,
+      "sentence": "No aquatic bird was safe in its waters; even a small wave could whirl a millstone away.",
+      "subj": "wave",
+      "verb": "whirl",
+      "obj": "millstone"
+    },
+    {
+      "id": "e0045",
+      "label": "he | see | people",
+      "sent_id": 50,
+      "sentence": "He saw many people, each sitting at the crossing with a coin in hand.",
+      "subj": "he",
+      "verb": "see",
+      "obj": "people"
+    },
+    {
+      "id": "e0046",
+      "label": "he | praise | \u2205",
+      "sent_id": 51,
+      "sentence": "His own hands empty, he praised and pleaded, but no one listened.",
+      "subj": "he",
+      "verb": "praise",
+      "obj": ""
+    },
+    {
+      "id": "e0047",
+      "label": "they | say | \u2205",
+      "sent_id": 52,
+      "sentence": "\u201cNo one crosses without money,\u201d they said.",
+      "subj": "they",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0048",
+      "label": "force | help | coin",
+      "sent_id": 53,
+      "sentence": "\u201cNo force helps without coin.\u201d",
+      "subj": "force",
+      "verb": "help",
+      "obj": "coin"
+    },
+    {
+      "id": "e0049",
+      "label": "boatman | laugh | \u2205",
+      "sent_id": 54,
+      "sentence": "An unkind boatman laughed and said,\n\n\u201cIf you have no money, how will you cross by force?",
+      "subj": "boatman",
+      "verb": "laugh",
+      "obj": ""
+    },
+    {
+      "id": "e0050",
+      "label": "strength | be | good",
+      "sent_id": 55,
+      "sentence": "What good is the strength of ten men?",
+      "subj": "strength",
+      "verb": "be",
+      "obj": "good"
+    },
+    {
+      "id": "e0051",
+      "label": "\u2205 | pay | \u2205",
+      "sent_id": 56,
+      "sentence": "Pay up.\u201d",
+      "subj": "",
+      "verb": "pay",
+      "obj": ""
+    },
+    {
+      "id": "e0052",
+      "label": "insult | hurt | man",
+      "sent_id": 57,
+      "sentence": "The insult hurt the young man, who longed to strike back.",
+      "subj": "insult",
+      "verb": "hurt",
+      "obj": "man"
+    },
+    {
+      "id": "e0053",
+      "label": "he | shout | \u2205",
+      "sent_id": 58,
+      "sentence": "When the boat started leaving, he shouted, \u201cIf you\u2019ll take the robe I wear, I\u2019ll give it to you.\u201d",
+      "subj": "he",
+      "verb": "shout",
+      "obj": ""
+    },
+    {
+      "id": "e0054",
+      "label": "greedy | turn | \u2205",
+      "sent_id": 59,
+      "sentence": "Greedy, the boatman turned back.",
+      "subj": "greedy",
+      "verb": "turn",
+      "obj": ""
+    },
+    {
+      "id": "e0055",
+      "label": "he | knock | he",
+      "sent_id": 61,
+      "sentence": "The moment the youth could grab the boatman\u2019s beard and collar, he knocked him down.",
+      "subj": "he",
+      "verb": "knock",
+      "obj": "he"
+    },
+    {
+      "id": "e0056",
+      "label": "man | come | \u2205",
+      "sent_id": 62,
+      "sentence": "Another man came to help the boatman and got the same treatment, retreating quickly.",
+      "subj": "man",
+      "verb": "come",
+      "obj": ""
+    },
+    {
+      "id": "e0057",
+      "label": "people | calm | youth",
+      "sent_id": 63,
+      "sentence": "People then calmed the youth and paid his fare.",
+      "subj": "people",
+      "verb": "calm",
+      "obj": "youth"
+    },
+    {
+      "id": "e0058",
+      "label": "\u2205 | be | \u2205",
+      "sent_id": 64,
+      "sentence": "When you witness a quarrel, be patient,\nFor gentlemen close the door on strife.",
+      "subj": "",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0059",
+      "label": "\u2205 | use | kindness",
+      "sent_id": 65,
+      "sentence": "Use kindness to ease contention.",
+      "subj": "",
+      "verb": "use",
+      "obj": "kindness"
+    },
+    {
+      "id": "e0060",
+      "label": "sword | cut | silk",
+      "sent_id": 66,
+      "sentence": "A sharp sword cannot cut soft silk.",
+      "subj": "sword",
+      "verb": "cut",
+      "obj": "silk"
+    },
+    {
+      "id": "e0061",
+      "label": "you | lead | elephant",
+      "sent_id": 67,
+      "sentence": "With a sweet tongue and grace,\nYou can lead an elephant by a single hair.\u201d",
+      "subj": "you",
+      "verb": "lead",
+      "obj": "elephant"
+    },
+    {
+      "id": "e0062",
+      "label": "crowd | bow | \u2205",
+      "sent_id": 68,
+      "sentence": "The crowd bowed, begged forgiveness, kissed his head and eyes hypocritically, helped him into the boat, and they set off.",
+      "subj": "crowd",
+      "verb": "bow",
+      "obj": ""
+    },
+    {
+      "id": "e0063",
+      "label": "they | reach | pillar",
+      "sent_id": 69,
+      "sentence": "Soon they reached a Greek-style pillar standing in the water.",
+      "subj": "they",
+      "verb": "reach",
+      "obj": "pillar"
+    },
+    {
+      "id": "e0064",
+      "label": "boatman | warn | \u2205",
+      "sent_id": 70,
+      "sentence": "The boatman warned: \u201cThe boat is in danger.",
+      "subj": "boatman",
+      "verb": "warn",
+      "obj": ""
+    },
+    {
+      "id": "e0065",
+      "label": "man | climb | pillar",
+      "sent_id": 71,
+      "sentence": "One strong man must climb the pillar and secure the boat\u2019s rope.\u201d",
+      "subj": "man",
+      "verb": "climb",
+      "obj": "pillar"
+    },
+    {
+      "id": "e0066",
+      "label": "youth | ignore | warning",
+      "sent_id": 72,
+      "sentence": "Living in pride, the youth ignored the wise warning:\n\n\u201cIf you offend a man once,\nA hundred kindnesses won\u2019t erase it.",
+      "subj": "youth",
+      "verb": "ignore",
+      "obj": "warning"
+    },
+    {
+      "id": "e0067",
+      "label": "boatman | snatch | it",
+      "sent_id": 73,
+      "sentence": "Though a spear\u2019s tip breaks,\nAn offended heart remembers.\u201d\n\nAs he climbed and took the rope, the boatman snatched it away and pushed the boat off.",
+      "subj": "boatman",
+      "verb": "snatch",
+      "obj": "it"
+    },
+    {
+      "id": "e0068",
+      "label": "man | strand | \u2205",
+      "sent_id": 74,
+      "sentence": "The young man was stranded, spending two days in misery.",
+      "subj": "man",
+      "verb": "strand",
+      "obj": ""
+    },
+    {
+      "id": "e0069",
+      "label": "sleep | overcome | he",
+      "sent_id": 75,
+      "sentence": "On the third, sleep overcame him and he fell into the water.",
+      "subj": "sleep",
+      "verb": "overcome",
+      "obj": "he"
+    },
+    {
+      "id": "e0070",
+      "label": "he | wash | day",
+      "sent_id": 76,
+      "sentence": "After a day and night, he washed ashore, barely alive.",
+      "subj": "he",
+      "verb": "wash",
+      "obj": "day"
+    },
+    {
+      "id": "e0071",
+      "label": "he | eat | leaf",
+      "sent_id": 77,
+      "sentence": "He ate leaves and roots to regain strength, then headed for the desert.",
+      "subj": "he",
+      "verb": "eat",
+      "obj": "leaf"
+    },
+    {
+      "id": "e0072",
+      "label": "thirst | torment | he",
+      "sent_id": 78,
+      "sentence": "Thirst tormented him until he reached a well where people drank.",
+      "subj": "thirst",
+      "verb": "torment",
+      "obj": "he"
+    },
+    {
+      "id": "e0073",
+      "label": "he | ask | coin",
+      "sent_id": 79,
+      "sentence": "He asked for a coin, but they showed no mercy.",
+      "subj": "he",
+      "verb": "ask",
+      "obj": "coin"
+    },
+    {
+      "id": "e0074",
+      "label": "he | insult | they",
+      "sent_id": 80,
+      "sentence": "Angered, he insulted them, then struck several men, but was eventually overpowered and wounded.",
+      "subj": "he",
+      "verb": "insult",
+      "obj": "they"
+    },
+    {
+      "id": "e0075",
+      "label": "swarm | overwhelm | elephant",
+      "sent_id": 81,
+      "sentence": "A swarm of gnats can overwhelm an elephant,\nNo matter how fierce and brave.",
+      "subj": "swarm",
+      "verb": "overwhelm",
+      "obj": "elephant"
+    },
+    {
+      "id": "e0076",
+      "label": "he | lag | caravan",
+      "sent_id": 82,
+      "sentence": "When little ants unite,\nThey tear a furious lion\u2019s skin.\u201d\n\nOut of necessity, he lagged behind a caravan.",
+      "subj": "he",
+      "verb": "lag",
+      "obj": "caravan"
+    },
+    {
+      "id": "e0077",
+      "label": "they | camp | night",
+      "sent_id": 83,
+      "sentence": "At night, they camped in a dangerous area known for thieves.",
+      "subj": "they",
+      "verb": "camp",
+      "obj": "night"
+    },
+    {
+      "id": "e0078",
+      "label": "folk | tremble | \u2205",
+      "sent_id": 84,
+      "sentence": "The caravan folk trembled, but he boasted:\n\n\u201cFear nothing, for I can face fifty men alone,\nAnd the others will back me.\u201d",
+      "subj": "folk",
+      "verb": "tremble",
+      "obj": ""
+    },
+    {
+      "id": "e0079",
+      "label": "they | welcome | he",
+      "sent_id": 85,
+      "sentence": "His words comforted them; they welcomed him and supplied food and water.",
+      "subj": "they",
+      "verb": "welcome",
+      "obj": "he"
+    },
+    {
+      "id": "e0080",
+      "label": "he | eat | \u2205",
+      "sent_id": 86,
+      "sentence": "His hunger subdued, he ate and drank, then fell asleep.",
+      "subj": "he",
+      "verb": "eat",
+      "obj": ""
+    },
+    {
+      "id": "e0081",
+      "label": "man | warn | \u2205",
+      "sent_id": 87,
+      "sentence": "An old man warned:\n\n\u201cI fear this guard more than the thieves.",
+      "subj": "man",
+      "verb": "warn",
+      "obj": ""
+    },
+    {
+      "id": "e0082",
+      "label": "\u2205 | \u2019 | story",
+      "sent_id": 88,
+      "sentence": "There\u2019s a story of a stranger with money\nWho feared the Luris and invited a friend for company.",
+      "subj": "",
+      "verb": "\u2019",
+      "obj": "story"
+    },
+    {
+      "id": "e0083",
+      "label": "he | leave | friend",
+      "sent_id": 89,
+      "sentence": "He left the friend alone,\nOnly to find him gone with his money.",
+      "subj": "he",
+      "verb": "leave",
+      "obj": "friend"
+    },
+    {
+      "id": "e0084",
+      "label": "he | say | \u2205",
+      "sent_id": 90,
+      "sentence": "When asked, he said,\n\u2018It wasn\u2019t the thieves, but the guard who stole it.\u2019",
+      "subj": "he",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0085",
+      "label": "i | feel | \u2205",
+      "sent_id": 91,
+      "sentence": "I never felt safe from a serpent\nUntil I learned its nature.",
+      "subj": "i",
+      "verb": "feel",
+      "obj": ""
+    },
+    {
+      "id": "e0086",
+      "label": "who | know | \u2205",
+      "sent_id": 93,
+      "sentence": "\u201cWho knows if he\u2019s not a spy for the thieves?",
+      "subj": "who",
+      "verb": "know",
+      "obj": ""
+    },
+    {
+      "id": "e0087",
+      "label": "i | say | \u2205",
+      "sent_id": 94,
+      "sentence": "I say we leave him and let him sleep.\u201d",
+      "subj": "i",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0088",
+      "label": "youth | agree | \u2205",
+      "sent_id": 95,
+      "sentence": "The youths agreed, took their baggage, and left while the young man slept.",
+      "subj": "youth",
+      "verb": "agree",
+      "obj": ""
+    },
+    {
+      "id": "e0089",
+      "label": "he | wake | sun",
+      "sent_id": 96,
+      "sentence": "He woke with the sun, saw the caravan gone, and wandered thirsty and lost, eventually sitting down, heartbroken.",
+      "subj": "he",
+      "verb": "wake",
+      "obj": "sun"
+    },
+    {
+      "id": "e0090",
+      "label": "camel | be | \u2205",
+      "sent_id": 97,
+      "sentence": "\u201cWho will speak to me now the camels are gone?",
+      "subj": "camel",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0091",
+      "label": "stranger | have | companion",
+      "sent_id": 98,
+      "sentence": "A stranger has no companion but a stranger.",
+      "subj": "stranger",
+      "verb": "have",
+      "obj": "companion"
+    },
+    {
+      "id": "e0092",
+      "label": "stranger | be | prince",
+      "sent_id": 99,
+      "sentence": "The stranger is harsh to strangers\nWho has not suffered exile.\u201d\n\nWhile he spoke, a prince on a hunting trip, who had strayed from his men, overheard him.",
+      "subj": "stranger",
+      "verb": "be",
+      "obj": "prince"
+    },
+    {
+      "id": "e0093",
+      "label": "prince | ask | \u2205",
+      "sent_id": 100,
+      "sentence": "Seeing his noble appearance but wretched condition, the prince asked where he came from and what had happened.",
+      "subj": "prince",
+      "verb": "ask",
+      "obj": ""
+    },
+    {
+      "id": "e0094",
+      "label": "man | tell | story",
+      "sent_id": 101,
+      "sentence": "The young man quickly told his story.",
+      "subj": "man",
+      "verb": "tell",
+      "obj": "story"
+    },
+    {
+      "id": "e0095",
+      "label": "prince | give | robe",
+      "sent_id": 102,
+      "sentence": "Feeling pity, the royal prince gave him a robe of honor and a large sum of money, then sent a trusted servant to guide him back home.",
+      "subj": "prince",
+      "verb": "give",
+      "obj": "robe"
+    },
+    {
+      "id": "e0096",
+      "label": "he | reach | house",
+      "sent_id": 103,
+      "sentence": "At last, he reached his father\u2019s house, who was glad and thankful for his safe return.",
+      "subj": "he",
+      "verb": "reach",
+      "obj": "house"
+    },
+    {
+      "id": "e0097",
+      "label": "son | recount | ordeal",
+      "sent_id": 104,
+      "sentence": "That evening, the son recounted all his ordeals: the boat and boatman\u2019s violence, the cruel villagers at the well, and the caravan\u2019s betrayal.",
+      "subj": "son",
+      "verb": "recount",
+      "obj": "ordeal"
+    },
+    {
+      "id": "e0098",
+      "label": "father | say | \u2205",
+      "sent_id": 105,
+      "sentence": "The father said:\n\n\u201cDid I not tell you at your departure that a brave hand without means is like a lion\u2019s broken paw?\n\nHow true the saying:\n\u2018A grain of gold is worth more than fifty mann of strength.\u2019\u201d",
+      "subj": "father",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0099",
+      "label": "son | answer | \u2205",
+      "sent_id": 106,
+      "sentence": "The son answered:\n\n\u201cFather, treasure never comes without trouble.",
+      "subj": "son",
+      "verb": "answer",
+      "obj": ""
+    },
+    {
+      "id": "e0100",
+      "label": "you | defeat | enemy",
+      "sent_id": 107,
+      "sentence": "You cannot defeat your enemy without risking life,\nNor reap a harvest without casting seeds.",
+      "subj": "you",
+      "verb": "defeat",
+      "obj": "enemy"
+    },
+    {
+      "id": "e0101",
+      "label": "you | see | \u2205",
+      "sent_id": 108,
+      "sentence": "Do you not see how much comfort I gained\nFor the small troubles I faced,\nAnd what honey I brought back for the sting I was stung with?",
+      "subj": "you",
+      "verb": "see",
+      "obj": ""
+    },
+    {
+      "id": "e0102",
+      "label": "effort | be | \u2205",
+      "sent_id": 109,
+      "sentence": "Though fate rules what can be had,\nNeglecting effort is shameful.",
+      "subj": "effort",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0103",
+      "label": "he | catch | pearl",
+      "sent_id": 110,
+      "sentence": "If a diver fears the crocodile\u2019s jaws,\nHe\u2019ll never catch the precious pearl.",
+      "subj": "he",
+      "verb": "catch",
+      "obj": "pearl"
+    },
+    {
+      "id": "e0104",
+      "label": "millstone | move | \u2205",
+      "sent_id": 111,
+      "sentence": "The lower millstone does not move,\nSo it must bear heavy loads.",
+      "subj": "millstone",
+      "verb": "move",
+      "obj": ""
+    },
+    {
+      "id": "e0105",
+      "label": "lion | feed | what",
+      "sent_id": 112,
+      "sentence": "What will a fierce lion feed on in its den?",
+      "subj": "lion",
+      "verb": "feed",
+      "obj": "what"
+    },
+    {
+      "id": "e0106",
+      "label": "you | have | hand",
+      "sent_id": 114,
+      "sentence": "If you want to catch game at home,\nYou must have hands and feet like a spider.\u201d",
+      "subj": "you",
+      "verb": "have",
+      "obj": "hand"
+    },
+    {
+      "id": "e0107",
+      "label": "father | reply | \u2205",
+      "sent_id": 115,
+      "sentence": "The father replied:\n\n\u201cThis time, fate was kind,\nAnd luck was with you,\nAs a royal met you, gave gifts,\nAnd healed your wounds.",
+      "subj": "father",
+      "verb": "reply",
+      "obj": ""
+    },
+    {
+      "id": "e0108",
+      "label": "event | count | \u2205",
+      "sent_id": 116,
+      "sentence": "But such rare events cannot be counted on.",
+      "subj": "event",
+      "verb": "count",
+      "obj": ""
+    },
+    {
+      "id": "e0109",
+      "label": "hunter | catch | jackal",
+      "sent_id": 117,
+      "sentence": "The hunter does not catch jackals every time.",
+      "subj": "hunter",
+      "verb": "catch",
+      "obj": "jackal"
+    },
+    {
+      "id": "e0110",
+      "label": "he | eat | \u2205",
+      "sent_id": 118,
+      "sentence": "Someday, he may be eaten by a tiger.\u201d",
+      "subj": "he",
+      "verb": "eat",
+      "obj": ""
+    },
+    {
+      "id": "e0111",
+      "label": "they | recall | tale",
+      "sent_id": 119,
+      "sentence": "They recalled a tale of a Persian king who once, for sport with close courtiers, placed his costly ring atop the dome of Asad in Shiraz, promising to give it to anyone who could shoot an arrow through it.",
+      "subj": "they",
+      "verb": "recall",
+      "obj": "tale"
+    },
+    {
+      "id": "e0112",
+      "label": "archer | miss | \u2205",
+      "sent_id": 120,
+      "sentence": "Four hundred archers all missed, but a young boy playing on a monastery roof, shooting arrows randomly, was lucky when the morning breeze pushed one through the ring.",
+      "subj": "archer",
+      "verb": "miss",
+      "obj": ""
+    },
+    {
+      "id": "e0113",
+      "label": "boy | claim | ring",
+      "sent_id": 121,
+      "sentence": "The boy claimed the ring, a robe, and money, then burned his bow and arrows, saying, \u201cSo that my first glory may last forever.\u201d",
+      "subj": "boy",
+      "verb": "claim",
+      "obj": "ring"
+    },
+    {
+      "id": "e0114",
+      "label": "sage | fail | \u2205",
+      "sent_id": 122,
+      "sentence": "Sometimes even a wise sage fails,\nAnd sometimes a foolish child,",
+      "subj": "sage",
+      "verb": "fail",
+      "obj": ""
+    },
+    {
+      "id": "e0115",
+      "label": "\u2205 | hit | mark",
+      "sent_id": 123,
+      "sentence": "By chance,\nHits the mark.",
+      "subj": "",
+      "verb": "hit",
+      "obj": "mark"
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    },
+    {
+      "source": "e0029",
+      "target": "e0030",
+      "relation": "next"
+    },
+    {
+      "source": "e0030",
+      "target": "e0031",
+      "relation": "next"
+    },
+    {
+      "source": "e0031",
+      "target": "e0032",
+      "relation": "next"
+    },
+    {
+      "source": "e0032",
+      "target": "e0033",
+      "relation": "next"
+    },
+    {
+      "source": "e0033",
+      "target": "e0034",
+      "relation": "next"
+    },
+    {
+      "source": "e0034",
+      "target": "e0035",
+      "relation": "next"
+    },
+    {
+      "source": "e0035",
+      "target": "e0036",
+      "relation": "next"
+    },
+    {
+      "source": "e0036",
+      "target": "e0037",
+      "relation": "next"
+    },
+    {
+      "source": "e0037",
+      "target": "e0038",
+      "relation": "next"
+    },
+    {
+      "source": "e0038",
+      "target": "e0039",
+      "relation": "next"
+    },
+    {
+      "source": "e0039",
+      "target": "e0040",
+      "relation": "next"
+    },
+    {
+      "source": "e0040",
+      "target": "e0041",
+      "relation": "next"
+    },
+    {
+      "source": "e0041",
+      "target": "e0042",
+      "relation": "next"
+    },
+    {
+      "source": "e0042",
+      "target": "e0043",
+      "relation": "next"
+    },
+    {
+      "source": "e0043",
+      "target": "e0044",
+      "relation": "next"
+    },
+    {
+      "source": "e0044",
+      "target": "e0045",
+      "relation": "next"
+    },
+    {
+      "source": "e0045",
+      "target": "e0046",
+      "relation": "next"
+    },
+    {
+      "source": "e0046",
+      "target": "e0047",
+      "relation": "next"
+    },
+    {
+      "source": "e0047",
+      "target": "e0048",
+      "relation": "next"
+    },
+    {
+      "source": "e0048",
+      "target": "e0049",
+      "relation": "next"
+    },
+    {
+      "source": "e0049",
+      "target": "e0050",
+      "relation": "next"
+    },
+    {
+      "source": "e0050",
+      "target": "e0051",
+      "relation": "next"
+    },
+    {
+      "source": "e0051",
+      "target": "e0052",
+      "relation": "next"
+    },
+    {
+      "source": "e0052",
+      "target": "e0053",
+      "relation": "next"
+    },
+    {
+      "source": "e0053",
+      "target": "e0054",
+      "relation": "next"
+    },
+    {
+      "source": "e0054",
+      "target": "e0055",
+      "relation": "next"
+    },
+    {
+      "source": "e0055",
+      "target": "e0056",
+      "relation": "next"
+    },
+    {
+      "source": "e0056",
+      "target": "e0057",
+      "relation": "next"
+    },
+    {
+      "source": "e0057",
+      "target": "e0058",
+      "relation": "next"
+    },
+    {
+      "source": "e0058",
+      "target": "e0059",
+      "relation": "next"
+    },
+    {
+      "source": "e0059",
+      "target": "e0060",
+      "relation": "next"
+    },
+    {
+      "source": "e0060",
+      "target": "e0061",
+      "relation": "next"
+    },
+    {
+      "source": "e0061",
+      "target": "e0062",
+      "relation": "next"
+    },
+    {
+      "source": "e0062",
+      "target": "e0063",
+      "relation": "next"
+    },
+    {
+      "source": "e0063",
+      "target": "e0064",
+      "relation": "next"
+    },
+    {
+      "source": "e0064",
+      "target": "e0065",
+      "relation": "next"
+    },
+    {
+      "source": "e0065",
+      "target": "e0066",
+      "relation": "next"
+    },
+    {
+      "source": "e0066",
+      "target": "e0067",
+      "relation": "next"
+    },
+    {
+      "source": "e0067",
+      "target": "e0068",
+      "relation": "next"
+    },
+    {
+      "source": "e0068",
+      "target": "e0069",
+      "relation": "next"
+    },
+    {
+      "source": "e0069",
+      "target": "e0070",
+      "relation": "next"
+    },
+    {
+      "source": "e0070",
+      "target": "e0071",
+      "relation": "next"
+    },
+    {
+      "source": "e0071",
+      "target": "e0072",
+      "relation": "next"
+    },
+    {
+      "source": "e0072",
+      "target": "e0073",
+      "relation": "next"
+    },
+    {
+      "source": "e0073",
+      "target": "e0074",
+      "relation": "next"
+    },
+    {
+      "source": "e0074",
+      "target": "e0075",
+      "relation": "next"
+    },
+    {
+      "source": "e0075",
+      "target": "e0076",
+      "relation": "next"
+    },
+    {
+      "source": "e0076",
+      "target": "e0077",
+      "relation": "next"
+    },
+    {
+      "source": "e0077",
+      "target": "e0078",
+      "relation": "next"
+    },
+    {
+      "source": "e0078",
+      "target": "e0079",
+      "relation": "next"
+    },
+    {
+      "source": "e0079",
+      "target": "e0080",
+      "relation": "next"
+    },
+    {
+      "source": "e0080",
+      "target": "e0081",
+      "relation": "next"
+    },
+    {
+      "source": "e0081",
+      "target": "e0082",
+      "relation": "next"
+    },
+    {
+      "source": "e0082",
+      "target": "e0083",
+      "relation": "next"
+    },
+    {
+      "source": "e0083",
+      "target": "e0084",
+      "relation": "next"
+    },
+    {
+      "source": "e0084",
+      "target": "e0085",
+      "relation": "next"
+    },
+    {
+      "source": "e0085",
+      "target": "e0086",
+      "relation": "next"
+    },
+    {
+      "source": "e0086",
+      "target": "e0087",
+      "relation": "next"
+    },
+    {
+      "source": "e0087",
+      "target": "e0088",
+      "relation": "next"
+    },
+    {
+      "source": "e0088",
+      "target": "e0089",
+      "relation": "next"
+    },
+    {
+      "source": "e0089",
+      "target": "e0090",
+      "relation": "next"
+    },
+    {
+      "source": "e0090",
+      "target": "e0091",
+      "relation": "next"
+    },
+    {
+      "source": "e0091",
+      "target": "e0092",
+      "relation": "next"
+    },
+    {
+      "source": "e0092",
+      "target": "e0093",
+      "relation": "next"
+    },
+    {
+      "source": "e0093",
+      "target": "e0094",
+      "relation": "next"
+    },
+    {
+      "source": "e0094",
+      "target": "e0095",
+      "relation": "next"
+    },
+    {
+      "source": "e0095",
+      "target": "e0096",
+      "relation": "next"
+    },
+    {
+      "source": "e0096",
+      "target": "e0097",
+      "relation": "next"
+    },
+    {
+      "source": "e0097",
+      "target": "e0098",
+      "relation": "next"
+    },
+    {
+      "source": "e0098",
+      "target": "e0099",
+      "relation": "next"
+    },
+    {
+      "source": "e0099",
+      "target": "e0100",
+      "relation": "next"
+    },
+    {
+      "source": "e0100",
+      "target": "e0101",
+      "relation": "next"
+    },
+    {
+      "source": "e0101",
+      "target": "e0102",
+      "relation": "next"
+    },
+    {
+      "source": "e0102",
+      "target": "e0103",
+      "relation": "next"
+    },
+    {
+      "source": "e0103",
+      "target": "e0104",
+      "relation": "next"
+    },
+    {
+      "source": "e0104",
+      "target": "e0105",
+      "relation": "next"
+    },
+    {
+      "source": "e0105",
+      "target": "e0106",
+      "relation": "next"
+    },
+    {
+      "source": "e0106",
+      "target": "e0107",
+      "relation": "next"
+    },
+    {
+      "source": "e0107",
+      "target": "e0108",
+      "relation": "next"
+    },
+    {
+      "source": "e0108",
+      "target": "e0109",
+      "relation": "next"
+    },
+    {
+      "source": "e0109",
+      "target": "e0110",
+      "relation": "next"
+    },
+    {
+      "source": "e0110",
+      "target": "e0111",
+      "relation": "next"
+    },
+    {
+      "source": "e0111",
+      "target": "e0112",
+      "relation": "next"
+    },
+    {
+      "source": "e0112",
+      "target": "e0113",
+      "relation": "next"
+    },
+    {
+      "source": "e0113",
+      "target": "e0114",
+      "relation": "next"
+    },
+    {
+      "source": "e0114",
+      "target": "e0115",
+      "relation": "next"
+    }
+  ]
+}

@@ -1,0 +1,1094 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "people | die | \u2205",
+      "sent_id": 0,
+      "sentence": "Long ago, all the people in a certain land had died, leaving only two young children behind\u2014a baby boy and his older sister.",
+      "subj": "people",
+      "verb": "die",
+      "obj": ""
+    },
+    {
+      "id": "e0001",
+      "label": "child | be | \u2205",
+      "sent_id": 1,
+      "sentence": "When their parents passed away, the children were asleep.",
+      "subj": "child",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0002",
+      "label": "sister | wake | \u2205",
+      "sent_id": 2,
+      "sentence": "The sister woke first and looked around, but seeing no one but her little brother sleeping peacefully beside her, she quietly lay down again.",
+      "subj": "sister",
+      "verb": "wake",
+      "obj": ""
+    },
+    {
+      "id": "e0003",
+      "label": "boy | shift | day",
+      "sent_id": 3,
+      "sentence": "After ten days, the boy shifted slightly but kept his eyes closed.",
+      "subj": "boy",
+      "verb": "shift",
+      "obj": "day"
+    },
+    {
+      "id": "e0004",
+      "label": "he | change | position",
+      "sent_id": 4,
+      "sentence": "Another ten days later, he changed position again, always sleeping peacefully.",
+      "subj": "he",
+      "verb": "change",
+      "obj": "position"
+    },
+    {
+      "id": "e0005",
+      "label": "\u2205 | surround | \u2205",
+      "sent_id": 5,
+      "sentence": "His dreams must have been pleasant because every time his sister looked at him, he seemed surrounded by a soft glow and sparkling lights that filled their lodge with a mysterious brightness.",
+      "subj": "",
+      "verb": "surround",
+      "obj": ""
+    },
+    {
+      "id": "e0006",
+      "label": "girl | grow | woman",
+      "sent_id": 6,
+      "sentence": "The girl grew into a woman, but her brother grew very slowly.",
+      "subj": "girl",
+      "verb": "grow",
+      "obj": "woman"
+    },
+    {
+      "id": "e0007",
+      "label": "it | take | time",
+      "sent_id": 7,
+      "sentence": "It took a long time before he could crawl, and he was quite old before he could stand.",
+      "subj": "it",
+      "verb": "take",
+      "obj": "time"
+    },
+    {
+      "id": "e0008",
+      "label": "sister | give | bow",
+      "sent_id": 8,
+      "sentence": "When he finally walked, his sister gave him a small bow and arrows and hung a tiny shell around his neck, saying, \u201cYou shall be called Dais Imid, or He of the Little Shell.\u201d",
+      "subj": "sister",
+      "verb": "give",
+      "obj": "bow"
+    },
+    {
+      "id": "e0009",
+      "label": "he | go | \u2205",
+      "sent_id": 9,
+      "sentence": "Every day, he went out hunting with his little bow.",
+      "subj": "he",
+      "verb": "go",
+      "obj": ""
+    },
+    {
+      "id": "e0010",
+      "label": "bird | be | tit",
+      "sent_id": 10,
+      "sentence": "The first bird he killed was a tom-tit, which he proudly brought to his sister.",
+      "subj": "bird",
+      "verb": "be",
+      "obj": "tit"
+    },
+    {
+      "id": "e0011",
+      "label": "she | prepare | \u2205",
+      "sent_id": 11,
+      "sentence": "She carefully prepared and stuffed it, keeping it safe for him.",
+      "subj": "she",
+      "verb": "prepare",
+      "obj": ""
+    },
+    {
+      "id": "e0012",
+      "label": "he | catch | squirrel",
+      "sent_id": 12,
+      "sentence": "The next day he caught a red squirrel, which she saved too.",
+      "subj": "he",
+      "verb": "catch",
+      "obj": "squirrel"
+    },
+    {
+      "id": "e0013",
+      "label": "he | kill | partridge",
+      "sent_id": 13,
+      "sentence": "On the third day, he killed a partridge, which they cooked for dinner.",
+      "subj": "he",
+      "verb": "kill",
+      "obj": "partridge"
+    },
+    {
+      "id": "e0014",
+      "label": "he | start | \u2205",
+      "sent_id": 14,
+      "sentence": "Growing bolder, he started traveling farther from home.",
+      "subj": "he",
+      "verb": "start",
+      "obj": ""
+    },
+    {
+      "id": "e0015",
+      "label": "skill | improve | \u2205",
+      "sent_id": 15,
+      "sentence": "His hunting skills improved, and he began catching deer, bear, moose, and other large animals.",
+      "subj": "skill",
+      "verb": "improve",
+      "obj": ""
+    },
+    {
+      "id": "e0016",
+      "label": "he | become | hunter",
+      "sent_id": 16,
+      "sentence": "Though small in size, he became an excellent hunter, always bringing home what he caught and sharing it with his sister.",
+      "subj": "he",
+      "verb": "become",
+      "obj": "hunter"
+    },
+    {
+      "id": "e0017",
+      "label": "man | wander | lake",
+      "sent_id": 18,
+      "sentence": "Now a man in years but still tiny in size, one winter day he wandered near a frozen lake.",
+      "subj": "man",
+      "verb": "wander",
+      "obj": "lake"
+    },
+    {
+      "id": "e0018",
+      "label": "he | see | beaver",
+      "sent_id": 19,
+      "sentence": "On the ice, he saw a giant man busy hunting beavers.",
+      "subj": "he",
+      "verb": "see",
+      "obj": "beaver"
+    },
+    {
+      "id": "e0019",
+      "label": "he | feel | insect",
+      "sent_id": 20,
+      "sentence": "Comparing himself to the towering hunter, he felt like an insect.",
+      "subj": "he",
+      "verb": "feel",
+      "obj": "insect"
+    },
+    {
+      "id": "e0020",
+      "label": "he | watch | \u2205",
+      "sent_id": 21,
+      "sentence": "Sitting on the shore, he watched closely.",
+      "subj": "he",
+      "verb": "watch",
+      "obj": ""
+    },
+    {
+      "id": "e0021",
+      "label": "he | load | they",
+      "sent_id": 22,
+      "sentence": "After the giant killed many beavers, he loaded them onto a sled and began to leave.",
+      "subj": "he",
+      "verb": "load",
+      "obj": "they"
+    },
+    {
+      "id": "e0022",
+      "label": "man | use | shell",
+      "sent_id": 23,
+      "sentence": "Quietly following, the little man used his magic shell to cut off the tail of a beaver and ran home with his prize.",
+      "subj": "man",
+      "verb": "use",
+      "obj": "shell"
+    },
+    {
+      "id": "e0023",
+      "label": "he | notice | \u2205",
+      "sent_id": 24,
+      "sentence": "When the giant got back to his lodge, he noticed one beaver was missing its tail.",
+      "subj": "he",
+      "verb": "notice",
+      "obj": ""
+    },
+    {
+      "id": "e0024",
+      "label": "hunter | return | lake",
+      "sent_id": 25,
+      "sentence": "The next day, the little hunter returned to the lake.",
+      "subj": "hunter",
+      "verb": "return",
+      "obj": "lake"
+    },
+    {
+      "id": "e0025",
+      "label": "giant | load | sled",
+      "sent_id": 26,
+      "sentence": "The giant had already loaded his sled and was on his way home, but the small man caught up with him and snipped another tail.",
+      "subj": "giant",
+      "verb": "load",
+      "obj": "sled"
+    },
+    {
+      "id": "e0026",
+      "label": "giant | growl | \u2205",
+      "sent_id": 27,
+      "sentence": "\u201cI wonder what dog dares cheat me like this,\u201d the giant growled, glaring at his catch.",
+      "subj": "giant",
+      "verb": "growl",
+      "obj": ""
+    },
+    {
+      "id": "e0027",
+      "label": "i | make | \u2205",
+      "sent_id": 28,
+      "sentence": "\u201cIf I found the thief, I\u2019d make him feel my spear\u2019s sting.\u201d",
+      "subj": "i",
+      "verb": "make",
+      "obj": ""
+    },
+    {
+      "id": "e0028",
+      "label": "\u2205 | be | \u2205",
+      "sent_id": 29,
+      "sentence": "What the giant didn\u2019t realize was that the dam and the beavers actually belonged to the little shell man and his sister, and the giant had taken them without asking.",
+      "subj": "",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0029",
+      "label": "giant | hunt | dam",
+      "sent_id": 30,
+      "sentence": "The next day, the giant hunted at the beaver dam again, followed once more by the little man.",
+      "subj": "giant",
+      "verb": "hunt",
+      "obj": "dam"
+    },
+    {
+      "id": "e0030",
+      "label": "man | clip | tail",
+      "sent_id": 31,
+      "sentence": "Though the giant was faster this time and nearly reached his lodge before the small figure caught up, the little man clipped another beaver\u2019s tail just before the sled reached shelter.",
+      "subj": "man",
+      "verb": "clip",
+      "obj": "tail"
+    },
+    {
+      "id": "e0031",
+      "label": "patience | wear | \u2205",
+      "sent_id": 32,
+      "sentence": "The giant\u2019s patience wore thin.",
+      "subj": "patience",
+      "verb": "wear",
+      "obj": ""
+    },
+    {
+      "id": "e0032",
+      "label": "hunter | have | power",
+      "sent_id": 33,
+      "sentence": "Angrily, he searched for footprints but found none\u2014the little hunter had the power to become invisible whenever he wished.",
+      "subj": "hunter",
+      "verb": "have",
+      "obj": "power"
+    },
+    {
+      "id": "e0033",
+      "label": "giant | decide | \u2205",
+      "sent_id": 34,
+      "sentence": "Determined, the giant decided to arrive early the following day to catch the trickster.",
+      "subj": "giant",
+      "verb": "decide",
+      "obj": ""
+    },
+    {
+      "id": "e0034",
+      "label": "giant | go | \u2205",
+      "sent_id": 35,
+      "sentence": "But when the little man reached the dam, the giant was already gone.",
+      "subj": "giant",
+      "verb": "go",
+      "obj": ""
+    },
+    {
+      "id": "e0035",
+      "label": "hunter | see | giant",
+      "sent_id": 36,
+      "sentence": "Following his tracks, the little hunter saw the giant at his lodge, skinning beavers.",
+      "subj": "hunter",
+      "verb": "see",
+      "obj": "giant"
+    },
+    {
+      "id": "e0036",
+      "label": "giant | look | he",
+      "sent_id": 38,
+      "sentence": "The giant, a famous figure known as Manabozho, looked at him carefully and said, \u201cWho are you, little man?",
+      "subj": "giant",
+      "verb": "look",
+      "obj": "he"
+    },
+    {
+      "id": "e0037",
+      "label": "i | think | \u2205",
+      "sent_id": 39,
+      "sentence": "I think I\u2019ll kill you.\u201d",
+      "subj": "i",
+      "verb": "think",
+      "obj": ""
+    },
+    {
+      "id": "e0038",
+      "label": "hunter | answer | \u2205",
+      "sent_id": 40,
+      "sentence": "The little hunter answered confidently, \u201cYou could never kill me.\u201d\n\nManabozho lunged to grab him, but the little man vanished.",
+      "subj": "hunter",
+      "verb": "answer",
+      "obj": ""
+    },
+    {
+      "id": "e0039",
+      "label": "\u2205 | shout | giant",
+      "sent_id": 41,
+      "sentence": "\u201cWhere are you now?\u201d shouted the giant.",
+      "subj": "",
+      "verb": "shout",
+      "obj": "giant"
+    },
+    {
+      "id": "e0040",
+      "label": "voice | answer | belt",
+      "sent_id": 42,
+      "sentence": "\u201cUnder your belt,\u201d the tiny voice answered.",
+      "subj": "voice",
+      "verb": "answer",
+      "obj": "belt"
+    },
+    {
+      "id": "e0041",
+      "label": "manabozho | slap | belt",
+      "sent_id": 43,
+      "sentence": "Manabozho slapped his belt hard, but found nothing.",
+      "subj": "manabozho",
+      "verb": "slap",
+      "obj": "belt"
+    },
+    {
+      "id": "e0042",
+      "label": "reply | come | nostril",
+      "sent_id": 44,
+      "sentence": "\u201cWhere now?\u201d\n\n\u201cIn your right nostril!\u201d came the reply.",
+      "subj": "reply",
+      "verb": "come",
+      "obj": "nostril"
+    },
+    {
+      "id": "e0043",
+      "label": "giant | grab | nose",
+      "sent_id": 45,
+      "sentence": "The giant grabbed his nose and pinched it hard, only to hear the little man\u2019s voice from a distance.",
+      "subj": "giant",
+      "verb": "grab",
+      "obj": "nose"
+    },
+    {
+      "id": "e0044",
+      "label": "manabozho | fume | \u2205",
+      "sent_id": 46,
+      "sentence": "Realizing he\u2019d only hurt himself, Manabozho fumed but couldn\u2019t catch him.",
+      "subj": "manabozho",
+      "verb": "fume",
+      "obj": ""
+    },
+    {
+      "id": "e0045",
+      "label": "manabozho | call | dwarf",
+      "sent_id": 47,
+      "sentence": "\u201cGoodbye, Manabozho,\u201d called the invisible dwarf.",
+      "subj": "manabozho",
+      "verb": "call",
+      "obj": "dwarf"
+    },
+    {
+      "id": "e0046",
+      "label": "you\u2019ll | find | \u2205",
+      "sent_id": 48,
+      "sentence": "\u201cCount your beaver tails\u2014you\u2019ll find I\u2019ve taken another for my sister.\u201d",
+      "subj": "you\u2019ll",
+      "verb": "find",
+      "obj": ""
+    },
+    {
+      "id": "e0047",
+      "label": "he | forget | \u2205",
+      "sent_id": 49,
+      "sentence": "He never forgot to care for her, even in his mischief.",
+      "subj": "he",
+      "verb": "forget",
+      "obj": ""
+    },
+    {
+      "id": "e0048",
+      "label": "he | become | light",
+      "sent_id": 50,
+      "sentence": "As he walked away, he became visible again, a bright light shining around him that baffled even the clumsy giant.",
+      "subj": "he",
+      "verb": "become",
+      "obj": "light"
+    },
+    {
+      "id": "e0049",
+      "label": "imid | tell | sister",
+      "sent_id": 51,
+      "sentence": "Back home, Dais Imid told his sister that the time had come for them to part ways.",
+      "subj": "imid",
+      "verb": "tell",
+      "obj": "sister"
+    },
+    {
+      "id": "e0050",
+      "label": "he | say | \u2205",
+      "sent_id": 52,
+      "sentence": "\u201cI must leave,\u201d he said.",
+      "subj": "he",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0051",
+      "label": "it | \u2019 | fate",
+      "sent_id": 53,
+      "sentence": "\u201cIt\u2019s my fate.",
+      "subj": "it",
+      "verb": "\u2019",
+      "obj": "fate"
+    },
+    {
+      "id": "e0052",
+      "label": "you | go | \u2205",
+      "sent_id": 54,
+      "sentence": "You must go soon too.",
+      "subj": "you",
+      "verb": "go",
+      "obj": ""
+    },
+    {
+      "id": "e0053",
+      "label": "\u2205 | tell | i",
+      "sent_id": 55,
+      "sentence": "Tell me where you want to live.\u201d",
+      "subj": "",
+      "verb": "tell",
+      "obj": "i"
+    },
+    {
+      "id": "e0054",
+      "label": "she | reply | \u2205",
+      "sent_id": 56,
+      "sentence": "She replied, \u201cI want to go toward the breaking of daylight, the East.",
+      "subj": "she",
+      "verb": "reply",
+      "obj": ""
+    },
+    {
+      "id": "e0055",
+      "label": "it | \u2019s | part",
+      "sent_id": 57,
+      "sentence": "I\u2019ve always loved the first light of dawn\u2014it\u2019s the most beautiful part of the sky.",
+      "subj": "it",
+      "verb": "\u2019s",
+      "obj": "part"
+    },
+    {
+      "id": "e0056",
+      "label": "\u2205 | imagine | \u2205",
+      "sent_id": 58,
+      "sentence": "When you see colorful clouds there, imagine me painting my face.\u201d",
+      "subj": "",
+      "verb": "imagine",
+      "obj": ""
+    },
+    {
+      "id": "e0057",
+      "label": "i | say | \u2205",
+      "sent_id": 59,
+      "sentence": "\u201cAnd I,\u201d said he, \u201cwill live among the mountains and rocks.",
+      "subj": "i",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0058",
+      "label": "i | see | \u2205",
+      "sent_id": 60,
+      "sentence": "There, I can see you earliest.",
+      "subj": "i",
+      "verb": "see",
+      "obj": ""
+    },
+    {
+      "id": "e0059",
+      "label": "stream | be | \u2205",
+      "sent_id": 61,
+      "sentence": "The streams are clear, the air pure, and golden light will always shine around my head.",
+      "subj": "stream",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0060",
+      "label": "i | call | ininee",
+      "sent_id": 62,
+      "sentence": "I\u2019ll be called Puck-Ininee, the Little Wild Man of the Mountains.",
+      "subj": "i",
+      "verb": "call",
+      "obj": "ininee"
+    },
+    {
+      "id": "e0061",
+      "label": "i | seek | spirit",
+      "sent_id": 63,
+      "sentence": "But before we part, I must seek the spirits who rule the earth and learn which of them will be friendly to us.\u201d",
+      "subj": "i",
+      "verb": "seek",
+      "obj": "spirit"
+    },
+    {
+      "id": "e0062",
+      "label": "he | leave | sister",
+      "sent_id": 64,
+      "sentence": "He left his sister and traveled across the land and deep below it.",
+      "subj": "he",
+      "verb": "leave",
+      "obj": "sister"
+    },
+    {
+      "id": "e0063",
+      "label": "he | treat | \u2205",
+      "sent_id": 65,
+      "sentence": "Everywhere he went, he was treated kindly.",
+      "subj": "he",
+      "verb": "treat",
+      "obj": ""
+    },
+    {
+      "id": "e0064",
+      "label": "he | meet | spirit",
+      "sent_id": 66,
+      "sentence": "Finally, he met a giant spirit with a large, ever-boiling kettle.",
+      "subj": "he",
+      "verb": "meet",
+      "obj": "spirit"
+    },
+    {
+      "id": "e0065",
+      "label": "giant | hear | trick",
+      "sent_id": 67,
+      "sentence": "This giant, a distant cousin of Manabozho\u2019s, had heard of Dais Imid\u2019s tricks and eyed him with suspicion.",
+      "subj": "giant",
+      "verb": "hear",
+      "obj": "trick"
+    },
+    {
+      "id": "e0066",
+      "label": "he | grab | man",
+      "sent_id": 68,
+      "sentence": "Suddenly, he grabbed the little man and threw him into the boiling kettle, hoping to drown him.",
+      "subj": "he",
+      "verb": "grab",
+      "obj": "man"
+    },
+    {
+      "id": "e0067",
+      "label": "imid | use | shell",
+      "sent_id": 69,
+      "sentence": "But Dais Imid used his magic shell to drain the water quickly, leapt out unharmed, and ran away.",
+      "subj": "imid",
+      "verb": "use",
+      "obj": "shell"
+    },
+    {
+      "id": "e0068",
+      "label": "he | tell | she",
+      "sent_id": 70,
+      "sentence": "Returning to his sister, he told her about his journey and said, \u201cThere are spirits at each corner of the earth, and one great spirit above in the sky who decides where we all must go.",
+      "subj": "he",
+      "verb": "tell",
+      "obj": "she"
+    },
+    {
+      "id": "e0069",
+      "label": "\u2205 | \u2019 | one",
+      "sent_id": 71,
+      "sentence": "There\u2019s also a wicked one living deep underground, but we must escape his reach.",
+      "subj": "",
+      "verb": "\u2019",
+      "obj": "one"
+    },
+    {
+      "id": "e0070",
+      "label": "we | separate | \u2205",
+      "sent_id": 72,
+      "sentence": "Now we must separate.",
+      "subj": "we",
+      "verb": "separate",
+      "obj": ""
+    },
+    {
+      "id": "e0071",
+      "label": "you | carry | \u2205",
+      "sent_id": 73,
+      "sentence": "When the winds blow from the four corners, you will be carried to where you want.\u201d",
+      "subj": "you",
+      "verb": "carry",
+      "obj": ""
+    },
+    {
+      "id": "e0072",
+      "label": "he | pick | stick",
+      "sent_id": 74,
+      "sentence": "He picked up his ball-stick and ran up a high mountain, a bright light shining around his head as he sang:\n\n\u201cBlow, winds, blow!",
+      "subj": "he",
+      "verb": "pick",
+      "obj": "stick"
+    },
+    {
+      "id": "e0073",
+      "label": "sister | linger | home",
+      "sent_id": 75,
+      "sentence": "My sister lingers \nFor her home up high, \nWhere the morning, with rosy fingers, \nPaints her cheeks in light.",
+      "subj": "sister",
+      "verb": "linger",
+      "obj": "home"
+    },
+    {
+      "id": "e0074",
+      "label": "view | take | color",
+      "sent_id": 76,
+      "sentence": "There my earliest view will take \nIts color from her smile, \nThrough clouds reflecting \nGuiding me by wood and water.",
+      "subj": "view",
+      "verb": "take",
+      "obj": "color"
+    },
+    {
+      "id": "e0075",
+      "label": "play | raise | halloo",
+      "sent_id": 77,
+      "sentence": "While I roam the highest mountains, \nPlay in green valleys low, \nOr beside familiar springs, \nRaise my tiny wild-halloo.\u201d",
+      "subj": "play",
+      "verb": "raise",
+      "obj": "halloo"
+    },
+    {
+      "id": "e0076",
+      "label": "sister | lift | \u2205",
+      "sent_id": 78,
+      "sentence": "As the winds rose, the sister was lifted and carried toward the eastern sky.",
+      "subj": "sister",
+      "verb": "lift",
+      "obj": ""
+    },
+    {
+      "id": "e0077",
+      "label": "she | live | \u2205",
+      "sent_id": 79,
+      "sentence": "Since then, she has lived there and is known as the Morning Star.",
+      "subj": "she",
+      "verb": "live",
+      "obj": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    },
+    {
+      "source": "e0029",
+      "target": "e0030",
+      "relation": "next"
+    },
+    {
+      "source": "e0030",
+      "target": "e0031",
+      "relation": "next"
+    },
+    {
+      "source": "e0031",
+      "target": "e0032",
+      "relation": "next"
+    },
+    {
+      "source": "e0032",
+      "target": "e0033",
+      "relation": "next"
+    },
+    {
+      "source": "e0033",
+      "target": "e0034",
+      "relation": "next"
+    },
+    {
+      "source": "e0034",
+      "target": "e0035",
+      "relation": "next"
+    },
+    {
+      "source": "e0035",
+      "target": "e0036",
+      "relation": "next"
+    },
+    {
+      "source": "e0036",
+      "target": "e0037",
+      "relation": "next"
+    },
+    {
+      "source": "e0037",
+      "target": "e0038",
+      "relation": "next"
+    },
+    {
+      "source": "e0038",
+      "target": "e0039",
+      "relation": "next"
+    },
+    {
+      "source": "e0039",
+      "target": "e0040",
+      "relation": "next"
+    },
+    {
+      "source": "e0040",
+      "target": "e0041",
+      "relation": "next"
+    },
+    {
+      "source": "e0041",
+      "target": "e0042",
+      "relation": "next"
+    },
+    {
+      "source": "e0042",
+      "target": "e0043",
+      "relation": "next"
+    },
+    {
+      "source": "e0043",
+      "target": "e0044",
+      "relation": "next"
+    },
+    {
+      "source": "e0044",
+      "target": "e0045",
+      "relation": "next"
+    },
+    {
+      "source": "e0045",
+      "target": "e0046",
+      "relation": "next"
+    },
+    {
+      "source": "e0046",
+      "target": "e0047",
+      "relation": "next"
+    },
+    {
+      "source": "e0047",
+      "target": "e0048",
+      "relation": "next"
+    },
+    {
+      "source": "e0048",
+      "target": "e0049",
+      "relation": "next"
+    },
+    {
+      "source": "e0049",
+      "target": "e0050",
+      "relation": "next"
+    },
+    {
+      "source": "e0050",
+      "target": "e0051",
+      "relation": "next"
+    },
+    {
+      "source": "e0051",
+      "target": "e0052",
+      "relation": "next"
+    },
+    {
+      "source": "e0052",
+      "target": "e0053",
+      "relation": "next"
+    },
+    {
+      "source": "e0053",
+      "target": "e0054",
+      "relation": "next"
+    },
+    {
+      "source": "e0054",
+      "target": "e0055",
+      "relation": "next"
+    },
+    {
+      "source": "e0055",
+      "target": "e0056",
+      "relation": "next"
+    },
+    {
+      "source": "e0056",
+      "target": "e0057",
+      "relation": "next"
+    },
+    {
+      "source": "e0057",
+      "target": "e0058",
+      "relation": "next"
+    },
+    {
+      "source": "e0058",
+      "target": "e0059",
+      "relation": "next"
+    },
+    {
+      "source": "e0059",
+      "target": "e0060",
+      "relation": "next"
+    },
+    {
+      "source": "e0060",
+      "target": "e0061",
+      "relation": "next"
+    },
+    {
+      "source": "e0061",
+      "target": "e0062",
+      "relation": "next"
+    },
+    {
+      "source": "e0062",
+      "target": "e0063",
+      "relation": "next"
+    },
+    {
+      "source": "e0063",
+      "target": "e0064",
+      "relation": "next"
+    },
+    {
+      "source": "e0064",
+      "target": "e0065",
+      "relation": "next"
+    },
+    {
+      "source": "e0065",
+      "target": "e0066",
+      "relation": "next"
+    },
+    {
+      "source": "e0066",
+      "target": "e0067",
+      "relation": "next"
+    },
+    {
+      "source": "e0067",
+      "target": "e0068",
+      "relation": "next"
+    },
+    {
+      "source": "e0068",
+      "target": "e0069",
+      "relation": "next"
+    },
+    {
+      "source": "e0069",
+      "target": "e0070",
+      "relation": "next"
+    },
+    {
+      "source": "e0070",
+      "target": "e0071",
+      "relation": "next"
+    },
+    {
+      "source": "e0071",
+      "target": "e0072",
+      "relation": "next"
+    },
+    {
+      "source": "e0072",
+      "target": "e0073",
+      "relation": "next"
+    },
+    {
+      "source": "e0073",
+      "target": "e0074",
+      "relation": "next"
+    },
+    {
+      "source": "e0074",
+      "target": "e0075",
+      "relation": "next"
+    },
+    {
+      "source": "e0075",
+      "target": "e0076",
+      "relation": "next"
+    },
+    {
+      "source": "e0076",
+      "target": "e0077",
+      "relation": "next"
+    }
+  ]
+}

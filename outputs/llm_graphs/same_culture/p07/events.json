@@ -1,0 +1,482 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "",
+    "verb": "be",
+    "obj": "valley",
+    "label": "\u2205 | be | valley",
+    "sentence": "Far away from here, there was once a beautiful valley covered in trees, surrounded by tall mountains."
+  },
+  {
+    "sent_id": 1,
+    "subj": "river",
+    "verb": "flow",
+    "obj": "valley",
+    "label": "river | flow | valley",
+    "sentence": "A powerful river flowed through this valley, watering all the different trees and plants that grew there."
+  },
+  {
+    "sent_id": 2,
+    "subj": "animal",
+    "verb": "live",
+    "obj": "valley",
+    "label": "animal | live | valley",
+    "sentence": "Many animals lived in this peaceful valley\u2014rabbits, birds, squirrels, and deer."
+  },
+  {
+    "sent_id": 3,
+    "subj": "they",
+    "verb": "live",
+    "obj": "",
+    "label": "they | live | \u2205",
+    "sentence": "They all lived happily because no wolves or lions lived there to hunt them."
+  },
+  {
+    "sent_id": 4,
+    "subj": "",
+    "verb": "climb",
+    "obj": "",
+    "label": "\u2205 | climb | \u2205",
+    "sentence": "One day, however, a wolf climbed down from the mountains and entered the valley."
+  },
+  {
+    "sent_id": 5,
+    "subj": "he",
+    "verb": "begin",
+    "obj": "",
+    "label": "he | begin | \u2205",
+    "sentence": "As soon as he arrived, he began chasing the helpless animals, eating them one by one."
+  },
+  {
+    "sent_id": 6,
+    "subj": "animal",
+    "verb": "manage",
+    "obj": "",
+    "label": "animal | manage | \u2205",
+    "sentence": "Only rarely did any animal manage to run away unharmed, but all the others feared it would soon be their turn."
+  },
+  {
+    "sent_id": 7,
+    "subj": "animal",
+    "verb": "turn",
+    "obj": "owl",
+    "label": "animal | turn | owl",
+    "sentence": "Worried, the animals turned to the wise old owl and asked him to find a way to get rid of the wolf."
+  },
+  {
+    "sent_id": 8,
+    "subj": "owl",
+    "verb": "say",
+    "obj": "",
+    "label": "owl | say | \u2205",
+    "sentence": "The owl said there was no way to fight the wolf; his sharp teeth and powerful paws were stronger than any other animal in the valley."
+  },
+  {
+    "sent_id": 9,
+    "subj": "owl",
+    "verb": "advise",
+    "obj": "they",
+    "label": "owl | advise | they",
+    "sentence": "The owl advised them to learn to live with the wolf."
+  },
+  {
+    "sent_id": 10,
+    "subj": "they",
+    "verb": "make",
+    "obj": "plan",
+    "label": "they | make | plan",
+    "sentence": "The animals protested they couldn\u2019t live in constant fear, so they made a desperate plan: each day, one animal would be chosen to go to the wolf and be eaten."
+  },
+  {
+    "sent_id": 11,
+    "subj": "rest",
+    "verb": "live",
+    "obj": "peace",
+    "label": "rest | live | peace",
+    "sentence": "That way, the rest could live in peace, knowing the wolf had already had his meal for the day."
+  },
+  {
+    "sent_id": 12,
+    "subj": "wolf",
+    "verb": "agree",
+    "obj": "plan",
+    "label": "wolf | agree | plan",
+    "sentence": "The wolf, tired of the chase and pleased with the idea of food coming to him, agreed to this plan without hesitation."
+  },
+  {
+    "sent_id": 13,
+    "subj": "animal",
+    "verb": "gather",
+    "obj": "",
+    "label": "animal | gather | \u2205",
+    "sentence": "The next morning, the animals gathered and decided that the little rabbit\u2014the smallest and weakest in the valley\u2014would be the one to be given to the wolf."
+  },
+  {
+    "sent_id": 14,
+    "subj": "rabbit",
+    "verb": "try",
+    "obj": "",
+    "label": "rabbit | try | \u2205",
+    "sentence": "Terrified, the rabbit first tried to run away but soon realized there was nowhere to hide."
+  },
+  {
+    "sent_id": 15,
+    "subj": "he",
+    "verb": "think",
+    "obj": "",
+    "label": "he | think | \u2205",
+    "sentence": "He thought about fighting but knew the wolf was far too strong."
+  },
+  {
+    "sent_id": 16,
+    "subj": "he",
+    "verb": "walk",
+    "obj": "den",
+    "label": "he | walk | den",
+    "sentence": "So he quietly walked to the wolf\u2019s den and called out, \u201cOh wolf!"
+  },
+  {
+    "sent_id": 18,
+    "subj": "",
+    "verb": "come",
+    "obj": "",
+    "label": "\u2205 | come | \u2205",
+    "sentence": "Come out of your lair, for I am your supper today.\u201d"
+  },
+  {
+    "sent_id": 19,
+    "subj": "wolf",
+    "verb": "come",
+    "obj": "",
+    "label": "wolf | come | \u2205",
+    "sentence": "The wolf came out and sniffed the rabbit hungrily."
+  },
+  {
+    "sent_id": 20,
+    "subj": "wolf",
+    "verb": "say",
+    "obj": "",
+    "label": "wolf | say | \u2205",
+    "sentence": "\u201cWhat a delicious little meal you will make!\u201d said the wolf."
+  },
+  {
+    "sent_id": 21,
+    "subj": "i",
+    "verb": "believe",
+    "obj": "luck",
+    "label": "i | believe | luck",
+    "sentence": "\u201cI can\u2019t believe my luck to find a valley where animals bring themselves to me.\u201d\n\n\u201cIt\u2019s true,\u201d the rabbit sighed."
+  },
+  {
+    "sent_id": 22,
+    "subj": "i",
+    "verb": "come",
+    "obj": "foot",
+    "label": "i | come | foot",
+    "sentence": "\u201cI came here on my own four feet because I know I can\u2019t escape my fate."
+  },
+  {
+    "sent_id": 23,
+    "subj": "scary",
+    "verb": "be",
+    "obj": "",
+    "label": "scary | be | \u2205",
+    "sentence": "Besides, a mighty wolf like you\u2014though not the scariest or strongest in this valley\u2014is still hard to escape.\u201d"
+  },
+  {
+    "sent_id": 24,
+    "subj": "wolf",
+    "verb": "stun",
+    "obj": "",
+    "label": "wolf | stun | \u2205",
+    "sentence": "The vain wolf was stunned."
+  },
+  {
+    "sent_id": 26,
+    "subj": "i",
+    "verb": "\u2019m",
+    "obj": "scary",
+    "label": "i | \u2019m | scary",
+    "sentence": "I\u2019m not the scariest or strongest?"
+  },
+  {
+    "sent_id": 27,
+    "subj": "i",
+    "verb": "\u2019m",
+    "obj": "wolf",
+    "label": "i | \u2019m | wolf",
+    "sentence": "I\u2019m the only wolf here!"
+  },
+  {
+    "sent_id": 28,
+    "subj": "",
+    "verb": "\u2019",
+    "obj": "wolf",
+    "label": "\u2205 | \u2019 | wolf",
+    "sentence": "There\u2019s no other wolf in this valley!\u201d"
+  },
+  {
+    "sent_id": 29,
+    "subj": "he",
+    "verb": "cry",
+    "obj": "",
+    "label": "he | cry | \u2205",
+    "sentence": "he cried angrily."
+  },
+  {
+    "sent_id": 30,
+    "subj": "rabbit",
+    "verb": "say",
+    "obj": "",
+    "label": "rabbit | say | \u2205",
+    "sentence": "\u201cYou don\u2019t know about the other wolf,\u201d said the rabbit."
+  },
+  {
+    "sent_id": 31,
+    "subj": "you",
+    "verb": "eat",
+    "obj": "i",
+    "label": "you | eat | i",
+    "sentence": "\u201cAnyway, you should eat me now, because even if I escape you, no animal could escape the other, scarier wolf.\u201d"
+  },
+  {
+    "sent_id": 32,
+    "subj": "rabbit",
+    "verb": "try",
+    "obj": "",
+    "label": "rabbit | try | \u2205",
+    "sentence": "Then the rabbit tried to climb into the wolf\u2019s mouth."
+  },
+  {
+    "sent_id": 33,
+    "subj": "wolf",
+    "verb": "offend",
+    "obj": "",
+    "label": "wolf | offend | \u2205",
+    "sentence": "The wolf was offended and shook the rabbit out."
+  },
+  {
+    "sent_id": 34,
+    "subj": "he",
+    "verb": "say",
+    "obj": "",
+    "label": "he | say | \u2205",
+    "sentence": "\u201cTake me to this other wolf,\u201d he said, \u201cand I will spare you for today, tasty morsel."
+  },
+  {
+    "sent_id": 35,
+    "subj": "",
+    "verb": "show",
+    "obj": "i",
+    "label": "\u2205 | show | i",
+    "sentence": "Show me where this wolf lives who thinks he\u2019s better than me.\u201d"
+  },
+  {
+    "sent_id": 36,
+    "subj": "rabbit",
+    "verb": "sigh",
+    "obj": "",
+    "label": "rabbit | sigh | \u2205",
+    "sentence": "The rabbit sighed and said, \u201cWhat does it matter?"
+  },
+  {
+    "sent_id": 37,
+    "subj": "i",
+    "verb": "eat",
+    "obj": "end",
+    "label": "i | eat | end",
+    "sentence": "In the end, I will be eaten by a wolf\u2014whether it\u2019s you or the other with bigger teeth and stronger legs."
+  },
+  {
+    "sent_id": 38,
+    "subj": "wolf",
+    "verb": "say",
+    "obj": "",
+    "label": "wolf | say | \u2205",
+    "sentence": "Follow me.\u201d\n\n\u201cHmph!\u201d said the wolf."
+  },
+  {
+    "sent_id": 39,
+    "subj": "we",
+    "verb": "see",
+    "obj": "",
+    "label": "we | see | \u2205",
+    "sentence": "\u201cWe\u2019ll see who\u2019s stronger."
+  },
+  {
+    "sent_id": 40,
+    "subj": "",
+    "verb": "lead",
+    "obj": "",
+    "label": "\u2205 | lead | \u2205",
+    "sentence": "Lead the way!\u201d"
+  },
+  {
+    "sent_id": 41,
+    "subj": "wolf",
+    "verb": "follow",
+    "obj": "rabbit",
+    "label": "wolf | follow | rabbit",
+    "sentence": "The wolf followed the rabbit until they reached an old, abandoned well."
+  },
+  {
+    "sent_id": 42,
+    "subj": "",
+    "verb": "be",
+    "obj": "lair",
+    "label": "\u2205 | be | lair",
+    "sentence": "\u201cThere,\u201d said the rabbit, \u201cis the lair of the other wolf, who is stronger and fiercer than you."
+  },
+  {
+    "sent_id": 43,
+    "subj": "",
+    "verb": "look",
+    "obj": "well",
+    "label": "\u2205 | look | well",
+    "sentence": "Just look down into the well and you\u2019ll see him resting after his last meal.\u201d"
+  },
+  {
+    "sent_id": 44,
+    "subj": "wolf",
+    "verb": "jump",
+    "obj": "edge",
+    "label": "wolf | jump | edge",
+    "sentence": "The wolf jumped up on the edge of the well and peered down into the darkness."
+  },
+  {
+    "sent_id": 45,
+    "subj": "it",
+    "verb": "\u2019",
+    "obj": "",
+    "label": "it | \u2019 | \u2205",
+    "sentence": "\u201cI don\u2019t see anything; it\u2019s too dark!\u201d"
+  },
+  {
+    "sent_id": 46,
+    "subj": "he",
+    "verb": "say",
+    "obj": "",
+    "label": "he | say | \u2205",
+    "sentence": "he said."
+  },
+  {
+    "sent_id": 47,
+    "subj": "rabbit",
+    "verb": "say",
+    "obj": "",
+    "label": "rabbit | say | \u2205",
+    "sentence": "\u201cYou have to look closer,\u201d the rabbit said."
+  },
+  {
+    "sent_id": 48,
+    "subj": "",
+    "verb": "put",
+    "obj": "head",
+    "label": "\u2205 | put | head",
+    "sentence": "\u201cPut your whole head down into the well and you\u2019ll see him looking back.\u201d"
+  },
+  {
+    "sent_id": 49,
+    "subj": "wolf",
+    "verb": "bent",
+    "obj": "",
+    "label": "wolf | bent | \u2205",
+    "sentence": "So the wolf bent over and stuck his head into the well."
+  },
+  {
+    "sent_id": 50,
+    "subj": "eye",
+    "verb": "adjust",
+    "obj": "moment",
+    "label": "eye | adjust | moment",
+    "sentence": "After a moment, his eyes adjusted and he saw his own reflection in the water below, as if another wolf was staring back."
+  },
+  {
+    "sent_id": 52,
+    "subj": "i",
+    "verb": "see",
+    "obj": "you",
+    "label": "i | see | you",
+    "sentence": "Now I see you, you coward!\u201d"
+  },
+  {
+    "sent_id": 53,
+    "subj": "wolf",
+    "verb": "shout",
+    "obj": "well",
+    "label": "wolf | shout | well",
+    "sentence": "the wolf shouted into the well."
+  },
+  {
+    "sent_id": 54,
+    "subj": "voice",
+    "verb": "echo",
+    "obj": "",
+    "label": "voice | echo | \u2205",
+    "sentence": "His voice echoed back to him."
+  },
+  {
+    "sent_id": 55,
+    "subj": "you",
+    "verb": "call",
+    "obj": "i",
+    "label": "you | call | i",
+    "sentence": "\u201cDid you just call me a coward?"
+  },
+  {
+    "sent_id": 56,
+    "subj": "you",
+    "verb": "dare",
+    "obj": "",
+    "label": "you | dare | \u2205",
+    "sentence": "How dare you!"
+  },
+  {
+    "sent_id": 57,
+    "subj": "",
+    "verb": "come",
+    "obj": "",
+    "label": "\u2205 | come | \u2205",
+    "sentence": "Come out, and we\u2019ll see who\u2019s the fiercer wolf!\u201d"
+  },
+  {
+    "sent_id": 58,
+    "subj": "wolf",
+    "verb": "yell",
+    "obj": "",
+    "label": "wolf | yell | \u2205",
+    "sentence": "the wolf yelled, but again the echo returned."
+  },
+  {
+    "sent_id": 59,
+    "subj": "rabbit",
+    "verb": "watch",
+    "obj": "",
+    "label": "rabbit | watch | \u2205",
+    "sentence": "The rabbit watched the wolf argue with himself and said, \u201cI don\u2019t think he\u2019s coming out."
+  },
+  {
+    "sent_id": 60,
+    "subj": "wolf",
+    "verb": "chase",
+    "obj": "one",
+    "label": "wolf | chase | one",
+    "sentence": "Of course, the bigger, scarier wolf will chase the smaller, less scary one.\u201d"
+  },
+  {
+    "sent_id": 61,
+    "subj": "wolf",
+    "verb": "jump",
+    "obj": "well",
+    "label": "wolf | jump | well",
+    "sentence": "The wolf, believing this, jumped into the well to catch his \u201cenemy.\u201d"
+  },
+  {
+    "sent_id": 62,
+    "subj": "he",
+    "verb": "come",
+    "obj": "",
+    "label": "he | come | \u2205",
+    "sentence": "But because he could not swim, he never came out, and the valley was freed from the evil wolf\u2014all thanks to a small, clever rabbit."
+  }
+]

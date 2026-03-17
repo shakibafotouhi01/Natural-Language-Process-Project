@@ -1,0 +1,538 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "",
+    "verb": "be",
+    "obj": "man",
+    "label": "\u2205 | be | man",
+    "sentence": "There was a man with three sons."
+  },
+  {
+    "sent_id": 1,
+    "subj": "young",
+    "verb": "call",
+    "obj": "dummling",
+    "label": "young | call | dummling",
+    "sentence": "The youngest was called Dummling, and everyone looked down on him, mocked and sneered at him whenever they could."
+  },
+  {
+    "sent_id": 2,
+    "subj": "son",
+    "verb": "want",
+    "obj": "",
+    "label": "son | want | \u2205",
+    "sentence": "One day, the eldest son wanted to go into the forest to chop wood."
+  },
+  {
+    "sent_id": 3,
+    "subj": "mother",
+    "verb": "give",
+    "obj": "cake",
+    "label": "mother | give | cake",
+    "sentence": "Before he left, his mother gave him a beautiful sweet cake and a bottle of wine so he wouldn\u2019t go hungry or thirsty."
+  },
+  {
+    "sent_id": 4,
+    "subj": "he",
+    "verb": "meet",
+    "obj": "man",
+    "label": "he | meet | man",
+    "sentence": "In the forest, he met a little old grey-haired man who greeted him and asked if he could have a piece of the cake and a sip of wine because he was very hungry and thirsty."
+  },
+  {
+    "sent_id": 5,
+    "subj": "son",
+    "verb": "reply",
+    "obj": "",
+    "label": "son | reply | \u2205",
+    "sentence": "But the eldest son replied, \u201cIf I give you my cake and wine, I\u2019ll have none left for myself."
+  },
+  {
+    "sent_id": 6,
+    "subj": "",
+    "verb": "get",
+    "obj": "",
+    "label": "\u2205 | get | \u2205",
+    "sentence": "Get lost,\u201d and left the old man standing there."
+  },
+  {
+    "sent_id": 7,
+    "subj": "he",
+    "verb": "swing",
+    "obj": "axe",
+    "label": "he | swing | axe",
+    "sentence": "Soon after, while chopping a tree, he swung his axe the wrong way and cut his arm."
+  },
+  {
+    "sent_id": 8,
+    "subj": "he",
+    "verb": "have",
+    "obj": "",
+    "label": "he | have | \u2205",
+    "sentence": "He had to go home and get it bandaged."
+  },
+  {
+    "sent_id": 9,
+    "subj": "accident",
+    "verb": "be",
+    "obj": "do",
+    "label": "accident | be | do",
+    "sentence": "This accident was the old man\u2019s doing."
+  },
+  {
+    "sent_id": 10,
+    "subj": "son",
+    "verb": "go",
+    "obj": "forest",
+    "label": "son | go | forest",
+    "sentence": "Next, the second son went into the forest."
+  },
+  {
+    "sent_id": 11,
+    "subj": "mother",
+    "verb": "give",
+    "obj": "cake",
+    "label": "mother | give | cake",
+    "sentence": "His mother gave him the same cake and bottle of wine."
+  },
+  {
+    "sent_id": 12,
+    "subj": "man",
+    "verb": "meet",
+    "obj": "he",
+    "label": "man | meet | he",
+    "sentence": "The little grey man met him as well and asked for some cake and wine, but the second son answered just as sensibly: \u201cIf I give you mine, I won\u2019t have any for myself\u2014go away!\u201d and left him standing there."
+  },
+  {
+    "sent_id": 13,
+    "subj": "son",
+    "verb": "strike",
+    "obj": "leg",
+    "label": "son | strike | leg",
+    "sentence": "The second son struck his leg with the axe soon after and was so hurt he had to be carried home."
+  },
+  {
+    "sent_id": 14,
+    "subj": "dummling",
+    "verb": "say",
+    "obj": "",
+    "label": "dummling | say | \u2205",
+    "sentence": "Then Dummling said, \u201cFather, let me go cut wood.\u201d"
+  },
+  {
+    "sent_id": 15,
+    "subj": "you",
+    "verb": "know",
+    "obj": "",
+    "label": "you | know | \u2205",
+    "sentence": "His father replied, \u201cYour brothers hurt themselves, leave it alone\u2014you don\u2019t know what you\u2019re doing.\u201d"
+  },
+  {
+    "sent_id": 16,
+    "subj": "dummling",
+    "verb": "beg",
+    "obj": "",
+    "label": "dummling | beg | \u2205",
+    "sentence": "But Dummling begged so much that at last his father said, \u201cAlright, go then; you might learn something by getting hurt.\u201d"
+  },
+  {
+    "sent_id": 17,
+    "subj": "mother",
+    "verb": "give",
+    "obj": "cake",
+    "label": "mother | give | cake",
+    "sentence": "His mother gave him a cake made with water and baked in ashes, along with a bottle of sour beer."
+  },
+  {
+    "sent_id": 18,
+    "subj": "man",
+    "verb": "greet",
+    "obj": "he",
+    "label": "man | greet | he",
+    "sentence": "When Dummling reached the forest, the little old grey man greeted him and asked for some cake and a drink."
+  },
+  {
+    "sent_id": 19,
+    "subj": "dummling",
+    "verb": "say",
+    "obj": "",
+    "label": "dummling | say | \u2205",
+    "sentence": "Dummling said, \u201cAll I have is cinder-cake and sour beer\u2014if you don\u2019t mind, we\u2019ll sit down and share it.\u201d"
+  },
+  {
+    "sent_id": 20,
+    "subj": "they",
+    "verb": "sit",
+    "obj": "",
+    "label": "they | sit | \u2205",
+    "sentence": "They sat, and when Dummling pulled out his cake, it was actually a fine sweet cake, and the sour beer had turned into good wine."
+  },
+  {
+    "sent_id": 21,
+    "subj": "man",
+    "verb": "say",
+    "obj": "",
+    "label": "man | say | \u2205",
+    "sentence": "After they ate and drank, the old man said, \u201cBecause you have a good heart and are willing to share, I\u2019ll give you good luck."
+  },
+  {
+    "sent_id": 22,
+    "subj": "",
+    "verb": "see",
+    "obj": "tree",
+    "label": "\u2205 | see | tree",
+    "sentence": "See that old tree?"
+  },
+  {
+    "sent_id": 23,
+    "subj": "",
+    "verb": "cut",
+    "obj": "it",
+    "label": "\u2205 | cut | it",
+    "sentence": "Cut it down, and you\u2019ll find something at its roots.\u201d"
+  },
+  {
+    "sent_id": 24,
+    "subj": "he",
+    "verb": "leave",
+    "obj": "",
+    "label": "he | leave | \u2205",
+    "sentence": "Then he left."
+  },
+  {
+    "sent_id": 25,
+    "subj": "dummle",
+    "verb": "cut",
+    "obj": "tree",
+    "label": "dummle | cut | tree",
+    "sentence": "Dummling cut down the tree, and when it fell, a goose with pure golden feathers was sitting among the roots."
+  },
+  {
+    "sent_id": 26,
+    "subj": "he",
+    "verb": "pick",
+    "obj": "she",
+    "label": "he | pick | she",
+    "sentence": "He picked her up and took her to an inn where he planned to spend the night."
+  },
+  {
+    "sent_id": 27,
+    "subj": "the",
+    "verb": "have",
+    "obj": "daughter",
+    "label": "the | have | daughter",
+    "sentence": "The innkeeper had three daughters who saw the golden goose and were curious, each wanting a golden feather."
+  },
+  {
+    "sent_id": 28,
+    "subj": "daughter",
+    "verb": "think",
+    "obj": "",
+    "label": "daughter | think | \u2205",
+    "sentence": "The eldest daughter thought, \u201cI\u2019ll find a chance to pull out a feather,\u201d and as soon as Dummling stepped outside, she grabbed the goose\u2019s wing\u2014but her hand stuck fast and wouldn\u2019t let go."
+  },
+  {
+    "sent_id": 29,
+    "subj": "daughter",
+    "verb": "come",
+    "obj": "",
+    "label": "daughter | come | \u2205",
+    "sentence": "Soon the second daughter came, hoping to get a feather, but when she touched her sister, she too got stuck fast."
+  },
+  {
+    "sent_id": 30,
+    "subj": "daughter",
+    "verb": "come",
+    "obj": "",
+    "label": "daughter | come | \u2205",
+    "sentence": "Finally, the third daughter came."
+  },
+  {
+    "sent_id": 31,
+    "subj": "other",
+    "verb": "warn",
+    "obj": "she",
+    "label": "other | warn | she",
+    "sentence": "The others warned her to keep away, but she didn\u2019t understand why and ran to them."
+  },
+  {
+    "sent_id": 32,
+    "subj": "she",
+    "verb": "stick",
+    "obj": "",
+    "label": "she | stick | \u2205",
+    "sentence": "When she touched her sister, she got stuck as well."
+  },
+  {
+    "sent_id": 33,
+    "subj": "they",
+    "verb": "have",
+    "obj": "",
+    "label": "they | have | \u2205",
+    "sentence": "So they had to spend the night attached to the goose."
+  },
+  {
+    "sent_id": 34,
+    "subj": "dummling",
+    "verb": "take",
+    "obj": "goose",
+    "label": "dummling | take | goose",
+    "sentence": "The next morning, Dummling took the goose under his arm and set off, ignoring the three girls clinging to her."
+  },
+  {
+    "sent_id": 35,
+    "subj": "they",
+    "verb": "have",
+    "obj": "",
+    "label": "they | have | \u2205",
+    "sentence": "They had to follow wherever he went, left or right."
+  },
+  {
+    "sent_id": 36,
+    "subj": "parson",
+    "verb": "see",
+    "obj": "procession",
+    "label": "parson | see | procession",
+    "sentence": "Out in the fields, a parson saw this odd procession and scolded the girls for running after the young man in such a way."
+  },
+  {
+    "sent_id": 37,
+    "subj": "he",
+    "verb": "stick",
+    "obj": "",
+    "label": "he | stick | \u2205",
+    "sentence": "When he grabbed the youngest girl's hand to pull her away, he got stuck too and had to follow along."
+  },
+  {
+    "sent_id": 38,
+    "subj": "sexton",
+    "verb": "pass",
+    "obj": "",
+    "label": "sexton | pass | \u2205",
+    "sentence": "Not long after, the sexton passed by and, seeing his parson running with the three girls, called out and ran after him, grabbing his sleeve\u2014and was held fast as well."
+  },
+  {
+    "sent_id": 39,
+    "subj": "laborer",
+    "verb": "come",
+    "obj": "field",
+    "label": "laborer | come | field",
+    "sentence": "While the five of them ran one after the other, two laborers came from the fields with hoes."
+  },
+  {
+    "sent_id": 40,
+    "subj": "parson",
+    "verb": "beg",
+    "obj": "they",
+    "label": "parson | beg | they",
+    "sentence": "The parson begged them to free him and the sexton, but the moment they touched the sexton, they too got stuck."
+  },
+  {
+    "sent_id": 41,
+    "subj": "people",
+    "verb": "run",
+    "obj": "dummling",
+    "label": "people | run | dummling",
+    "sentence": "Now seven people were running behind Dummling and the golden goose."
+  },
+  {
+    "sent_id": 42,
+    "subj": "they",
+    "verb": "reach",
+    "obj": "city",
+    "label": "they | reach | city",
+    "sentence": "Soon they reached a city ruled by a king whose daughter was so serious that no one could make her laugh."
+  },
+  {
+    "sent_id": 43,
+    "subj": "he",
+    "verb": "declare",
+    "obj": "",
+    "label": "he | declare | \u2205",
+    "sentence": "He had declared that anyone who made her laugh could marry her."
+  },
+  {
+    "sent_id": 44,
+    "subj": "he",
+    "verb": "go",
+    "obj": "princess",
+    "label": "he | go | princess",
+    "sentence": "When Dummling heard this, he went before the princess with the goose and all the people stuck to it."
+  },
+  {
+    "sent_id": 45,
+    "subj": "she",
+    "verb": "laugh",
+    "obj": "",
+    "label": "she | laugh | \u2205",
+    "sentence": "When she saw the odd sight of the seven people running one behind the other, she laughed out loud, as if she could never stop."
+  },
+  {
+    "sent_id": 46,
+    "subj": "dummling",
+    "verb": "produce",
+    "obj": "man",
+    "label": "dummling | produce | man",
+    "sentence": "Dummling asked to marry her, but the king disapproved of him and made a difficult demand: Dummling must first produce a man who could drink an entire cellar of wine."
+  },
+  {
+    "sent_id": 47,
+    "subj": "dummle",
+    "verb": "think",
+    "obj": "man",
+    "label": "dummle | think | man",
+    "sentence": "Dummling thought of the little grey man who had helped him before."
+  },
+  {
+    "sent_id": 48,
+    "subj": "he",
+    "verb": "go",
+    "obj": "",
+    "label": "he | go | \u2205",
+    "sentence": "He went back into the forest and found a man sitting sadly nearby."
+  },
+  {
+    "sent_id": 49,
+    "subj": "dummling",
+    "verb": "ask",
+    "obj": "",
+    "label": "dummling | ask | \u2205",
+    "sentence": "Dummling asked why he was so down, and the man explained, \u201cI\u2019m terribly thirsty and can\u2019t quench it."
+  },
+  {
+    "sent_id": 50,
+    "subj": "dummle",
+    "verb": "say",
+    "obj": "",
+    "label": "dummle | say | \u2205",
+    "sentence": "I\u2019ve just emptied a barrel of wine, but it was like a drop on a hot stone.\u201d\n\n\u201cCome with me,\u201d said Dummling."
+  },
+  {
+    "sent_id": 51,
+    "subj": "they",
+    "verb": "go",
+    "obj": "cellar",
+    "label": "they | go | cellar",
+    "sentence": "They went to the king\u2019s cellar, and the man drank and drank until all the barrels were empty and his back hurt."
+  },
+  {
+    "sent_id": 52,
+    "subj": "dummling",
+    "verb": "ask",
+    "obj": "",
+    "label": "dummling | ask | \u2205",
+    "sentence": "Then Dummling asked to marry the princess again."
+  },
+  {
+    "sent_id": 53,
+    "subj": "dummling",
+    "verb": "find",
+    "obj": "man",
+    "label": "dummling | find | man",
+    "sentence": "The king was angry, but set a new challenge: Dummling must find a man who could eat a whole mountain of bread."
+  },
+  {
+    "sent_id": 54,
+    "subj": "dummle",
+    "verb": "return",
+    "obj": "forest",
+    "label": "dummle | return | forest",
+    "sentence": "Dummling returned to the forest, where he found a man tying a strap tight around his belly, making a painful face."
+  },
+  {
+    "sent_id": 55,
+    "subj": "i",
+    "verb": "eat",
+    "obj": "ovenful",
+    "label": "i | eat | ovenful",
+    "sentence": "\u201cI\u2019ve eaten an ovenful of rolls, but I\u2019m still starving."
+  },
+  {
+    "sent_id": 56,
+    "subj": "i",
+    "verb": "have",
+    "obj": "",
+    "label": "i | have | \u2205",
+    "sentence": "I have to tie myself up or I\u2019ll die from hunger.\u201d"
+  },
+  {
+    "sent_id": 57,
+    "subj": "dummling",
+    "verb": "say",
+    "obj": "",
+    "label": "dummling | say | \u2205",
+    "sentence": "Dummling said, \u201cGet up and come with me\u2014you\u2019ll be full soon.\u201d"
+  },
+  {
+    "sent_id": 58,
+    "subj": "he",
+    "verb": "lead",
+    "obj": "he",
+    "label": "he | lead | he",
+    "sentence": "He led him to the king\u2019s palace, where a huge mountain of bread was baked from all the flour in the kingdom."
+  },
+  {
+    "sent_id": 59,
+    "subj": "man",
+    "verb": "eat",
+    "obj": "",
+    "label": "man | eat | \u2205",
+    "sentence": "The man ate until the entire mountain was gone by the end of the day."
+  },
+  {
+    "sent_id": 60,
+    "subj": "he",
+    "verb": "bring",
+    "obj": "ship",
+    "label": "he | bring | ship",
+    "sentence": "Dummling asked again for the princess\u2019s hand, but once more the king made a new demand: he must bring a ship that could sail on land and water."
+  },
+  {
+    "sent_id": 61,
+    "subj": "you",
+    "verb": "have",
+    "obj": "daughter",
+    "label": "you | have | daughter",
+    "sentence": "\u201cWhen you return in it,\u201d the king said, \u201cyou\u2019ll have my daughter.\u201d"
+  },
+  {
+    "sent_id": 62,
+    "subj": "dummling",
+    "verb": "go",
+    "obj": "",
+    "label": "dummling | go | \u2205",
+    "sentence": "Dummling went back to the forest, where the little grey man was waiting."
+  },
+  {
+    "sent_id": 63,
+    "subj": "man",
+    "verb": "say",
+    "obj": "",
+    "label": "man | say | \u2205",
+    "sentence": "When Dummling told him what he needed, the old man said, \u201cBecause you shared with me before, I\u2019ll give you the ship.\u201d"
+  },
+  {
+    "sent_id": 64,
+    "subj": "he",
+    "verb": "hand",
+    "obj": "ship",
+    "label": "he | hand | ship",
+    "sentence": "He handed over the marvelous ship that could sail both on land and on water."
+  },
+  {
+    "sent_id": 65,
+    "subj": "he",
+    "verb": "refuse",
+    "obj": "marriage",
+    "label": "he | refuse | marriage",
+    "sentence": "When the king saw this, he could no longer refuse Dummling\u2019s marriage to his daughter."
+  },
+  {
+    "sent_id": 66,
+    "subj": "they",
+    "verb": "celebrate",
+    "obj": "wedding",
+    "label": "they | celebrate | wedding",
+    "sentence": "They celebrated the wedding, and after the king died, Dummling inherited the kingdom and lived happily for many years with his wife."
+  }
+]

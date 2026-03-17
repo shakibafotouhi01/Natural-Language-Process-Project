@@ -1,0 +1,366 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "stirring | get | well",
+      "sent_id": 0,
+      "sentence": "Despite the many warnings from the esteemed Sheikh Abulfaraj Ben Juzi to avoid musical entertainments and choose solitude and retirement instead, the stirrings of my youth got the better of me.",
+      "subj": "stirring",
+      "verb": "get",
+      "obj": "well"
+    },
+    {
+      "id": "e0001",
+      "label": "i | take | step",
+      "sent_id": 1,
+      "sentence": "My desires were stirred, and unable to resist, I took a few steps against my tutor\u2019s advice, enjoying music and lively gatherings.",
+      "subj": "i",
+      "verb": "take",
+      "obj": "step"
+    },
+    {
+      "id": "e0002",
+      "label": "i | think | \u2205",
+      "sent_id": 2,
+      "sentence": "When my sheikh\u2019s counsel came to mind, I thought:\n\nIf the qazi were here, he would clap his hands.",
+      "subj": "i",
+      "verb": "think",
+      "obj": ""
+    },
+    {
+      "id": "e0003",
+      "label": "he | pardon | drunk",
+      "sent_id": 3,
+      "sentence": "If the muhtasib found drunkenness, he might pardon the drunk.",
+      "subj": "he",
+      "verb": "pardon",
+      "obj": "drunk"
+    },
+    {
+      "id": "e0004",
+      "label": "i | live | this",
+      "sent_id": 4,
+      "sentence": "So I lived on like this until one night I visited a gathering where I saw a musician playing.",
+      "subj": "i",
+      "verb": "live",
+      "obj": "this"
+    },
+    {
+      "id": "e0005",
+      "label": "you | say | \u2205",
+      "sent_id": 5,
+      "sentence": "You would have said he was pulling at the very pulse of life with his fiddle-bow.",
+      "subj": "you",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0006",
+      "label": "voice | be | \u2205",
+      "sent_id": 6,
+      "sentence": "His voice was more grating than the cries of one mourning a lost father.",
+      "subj": "voice",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0007",
+      "label": "listener | cover | ear",
+      "sent_id": 7,
+      "sentence": "The listeners covered their ears with their fingers, then pressed them to their lips to hush him.",
+      "subj": "listener",
+      "verb": "cover",
+      "obj": "ear"
+    },
+    {
+      "id": "e0008",
+      "label": "we | find | joy",
+      "sent_id": 8,
+      "sentence": "We found joy in sweet melodies, but you are such a singer that when you fall silent, we are pleased.",
+      "subj": "we",
+      "verb": "find",
+      "obj": "joy"
+    },
+    {
+      "id": "e0009",
+      "label": "you | please | we",
+      "sent_id": 9,
+      "sentence": "No one enjoys your music \nExcept when it ends, then you please us.",
+      "subj": "you",
+      "verb": "please",
+      "obj": "we"
+    },
+    {
+      "id": "e0010",
+      "label": "i | whisper | host",
+      "sent_id": 10,
+      "sentence": "When that harper began to sing, I whispered to the host, \u201cPlease, put mercury in my ear so I won\u2019t hear, or open the door so I can leave.\u201d",
+      "subj": "i",
+      "verb": "whisper",
+      "obj": "host"
+    },
+    {
+      "id": "e0011",
+      "label": "i | try | \u2205",
+      "sent_id": 11,
+      "sentence": "Still, I tried to please my friends, and with much effort, I managed to stay the whole night.",
+      "subj": "i",
+      "verb": "try",
+      "obj": ""
+    },
+    {
+      "id": "e0012",
+      "label": "muezzin | call | prayer",
+      "sent_id": 12,
+      "sentence": "The muezzin called to prayer at the wrong hour, not realizing how much of the night had passed.",
+      "subj": "muezzin",
+      "verb": "call",
+      "obj": "prayer"
+    },
+    {
+      "id": "e0013",
+      "label": "sleep | touch | eye",
+      "sent_id": 13,
+      "sentence": "Ask my eyelids the length of the night; \nSleep never touched my eyes for a moment.",
+      "subj": "sleep",
+      "verb": "touch",
+      "obj": "eye"
+    },
+    {
+      "id": "e0014",
+      "label": "i | take | turban",
+      "sent_id": 14,
+      "sentence": "At dawn, I took my turban from my head, and one dinar I had at my belt, as a token of thanks, and placed them before the musician.",
+      "subj": "i",
+      "verb": "take",
+      "obj": "turban"
+    },
+    {
+      "id": "e0015",
+      "label": "i | embrace | he",
+      "sent_id": 15,
+      "sentence": "I embraced him and expressed my gratitude.",
+      "subj": "i",
+      "verb": "embrace",
+      "obj": "he"
+    },
+    {
+      "id": "e0016",
+      "label": "friend | assume | \u2205",
+      "sent_id": 16,
+      "sentence": "My friends, seeing my unusual appreciation, assumed I was being foolish and laughed quietly.",
+      "subj": "friend",
+      "verb": "assume",
+      "obj": ""
+    },
+    {
+      "id": "e0017",
+      "label": "one | criticize | i",
+      "sent_id": 17,
+      "sentence": "One of them boldly criticized me, saying I had acted foolishly by giving part of my professional dress to a musician who had never held even a single dirhem in his hand or had silver or gold coins on his drum.",
+      "subj": "one",
+      "verb": "criticize",
+      "obj": "i"
+    },
+    {
+      "id": "e0018",
+      "label": "one | see | he",
+      "sent_id": 20,
+      "sentence": "No one ever saw him in the same spot twice.",
+      "subj": "one",
+      "verb": "see",
+      "obj": "he"
+    },
+    {
+      "id": "e0019",
+      "label": "hair | stand | end",
+      "sent_id": 21,
+      "sentence": "As soon as he shouted his song, \nThe hair stood on end across the crowd.",
+      "subj": "hair",
+      "verb": "stand",
+      "obj": "end"
+    },
+    {
+      "id": "e0020",
+      "label": "bird | fly | \u2205",
+      "sent_id": 22,
+      "sentence": "Even the household birds, scared by him, flew away \nWhile he distracted our senses and tore his throat.",
+      "subj": "bird",
+      "verb": "fly",
+      "obj": ""
+    },
+    {
+      "id": "e0021",
+      "label": "i | say | \u2205",
+      "sent_id": 23,
+      "sentence": "I said, \u201cIt\u2019s best to silence this criticism, for his talent has become clear to me.\u201d",
+      "subj": "i",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0022",
+      "label": "he | ask | i",
+      "sent_id": 24,
+      "sentence": "He asked me to explain so the company might understand and apologize for mocking me.",
+      "subj": "he",
+      "verb": "ask",
+      "obj": "i"
+    },
+    {
+      "id": "e0023",
+      "label": "i | reply | \u2205",
+      "sent_id": 25,
+      "sentence": "I replied, \u201cThough my sheikh often told me to avoid music, on this night my lucky stars and good fortune led me here.",
+      "subj": "i",
+      "verb": "reply",
+      "obj": ""
+    },
+    {
+      "id": "e0024",
+      "label": "i | repent | \u2205",
+      "sent_id": 26,
+      "sentence": "Hearing this musician\u2019s play, I repented and vowed never again to attend singing and parties.\u201d",
+      "subj": "i",
+      "verb": "repent",
+      "obj": ""
+    },
+    {
+      "id": "e0025",
+      "label": "voice | enchant | heart",
+      "sent_id": 27,
+      "sentence": "A pleasant voice, from sweet lips and a fine palate, \nWhether singing or not, enchants the heart.",
+      "subj": "voice",
+      "verb": "enchant",
+      "obj": "heart"
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    }
+  ]
+}

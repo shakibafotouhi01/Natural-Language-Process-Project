@@ -1,0 +1,394 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "traveler | be | journey",
+      "sent_id": 0,
+      "sentence": "Several travelers were on a journey together, sharing each other's hardships and comforts equally.",
+      "subj": "traveler",
+      "verb": "be",
+      "obj": "journey"
+    },
+    {
+      "id": "e0001",
+      "label": "i | wish | \u2205",
+      "sent_id": 1,
+      "sentence": "I wished to join them, but they refused.",
+      "subj": "i",
+      "verb": "wish",
+      "obj": ""
+    },
+    {
+      "id": "e0002",
+      "label": "i | say | \u2205",
+      "sent_id": 2,
+      "sentence": "I said, \"It is not the way of noble men to turn away from the company of the poor and lose the chance to benefit from them.",
+      "subj": "i",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0003",
+      "label": "i | consider | \u2205",
+      "sent_id": 3,
+      "sentence": "I consider myself strong and able to help, not a burden.",
+      "subj": "i",
+      "verb": "consider",
+      "obj": ""
+    },
+    {
+      "id": "e0004",
+      "label": "i | assist | \u2205",
+      "sent_id": 4,
+      "sentence": "Even if I do not ride an animal, I can assist in carrying the blankets.\"",
+      "subj": "i",
+      "verb": "assist",
+      "obj": ""
+    },
+    {
+      "id": "e0005",
+      "label": "one | reply | \u2205",
+      "sent_id": 5,
+      "sentence": "One of them replied, \"Do not be upset by what you hear.",
+      "subj": "one",
+      "verb": "reply",
+      "obj": ""
+    },
+    {
+      "id": "e0006",
+      "label": "thief | come | \u2205",
+      "sent_id": 6,
+      "sentence": "Some days ago, a thief disguised as a dervish came and joined us.",
+      "subj": "thief",
+      "verb": "come",
+      "obj": ""
+    },
+    {
+      "id": "e0007",
+      "label": "people | know | nature",
+      "sent_id": 7,
+      "sentence": "\"\n\nHow can people know a person\u2019s true nature by their clothes?",
+      "subj": "people",
+      "verb": "know",
+      "obj": "nature"
+    },
+    {
+      "id": "e0008",
+      "label": "writer | know | \u2205",
+      "sent_id": 8,
+      "sentence": "The writer knows what is truly inside the book.",
+      "subj": "writer",
+      "verb": "know",
+      "obj": ""
+    },
+    {
+      "id": "e0009",
+      "label": "other | have | suspicion",
+      "sent_id": 9,
+      "sentence": "Since dervishes are known for their humble appearance, the others had no suspicion and welcomed the thief as a friend.",
+      "subj": "other",
+      "verb": "have",
+      "obj": "suspicion"
+    },
+    {
+      "id": "e0010",
+      "label": "appearance | be | clothing",
+      "sent_id": 10,
+      "sentence": "The outward appearance of the seekers of truth is their patched clothing, which is enough to show who they are to others.",
+      "subj": "appearance",
+      "verb": "be",
+      "obj": "clothing"
+    },
+    {
+      "id": "e0011",
+      "label": "\u2205 | strive | \u2205",
+      "sent_id": 11,
+      "sentence": "But strive to be good in your deeds, no matter what you wear.",
+      "subj": "",
+      "verb": "strive",
+      "obj": ""
+    },
+    {
+      "id": "e0012",
+      "label": "holiness | lie | \u2205",
+      "sent_id": 12,
+      "sentence": "Put a crown on your head or a flag on your back if you wish; true holiness lies in abandoning the world, lust, and desire\u2014not just in wearing a robe.",
+      "subj": "holiness",
+      "verb": "lie",
+      "obj": ""
+    },
+    {
+      "id": "e0013",
+      "label": "man | show | courage",
+      "sent_id": 13,
+      "sentence": "A man must show courage and strength in battle.",
+      "subj": "man",
+      "verb": "show",
+      "obj": "courage"
+    },
+    {
+      "id": "e0014",
+      "label": "weapon | be | good",
+      "sent_id": 14,
+      "sentence": "What good are weapons to someone who lacks true manhood?",
+      "subj": "weapon",
+      "verb": "be",
+      "obj": "good"
+    },
+    {
+      "id": "e0015",
+      "label": "we | travel | nightfall",
+      "sent_id": 15,
+      "sentence": "We traveled until nightfall and camped near a fort.",
+      "subj": "we",
+      "verb": "travel",
+      "obj": "nightfall"
+    },
+    {
+      "id": "e0016",
+      "label": "thief | take | pot",
+      "sent_id": 16,
+      "sentence": "The shameless thief took a companion\u2019s water pot, pretending he was going to perform ablutions, but he left to steal.",
+      "subj": "thief",
+      "verb": "take",
+      "obj": "pot"
+    },
+    {
+      "id": "e0017",
+      "label": "saint | turn | robe",
+      "sent_id": 17,
+      "sentence": "A fake saint who wears the dervish\u2019s garb has turned the sacred robes of the Ka'bah into a cover for a donkey.",
+      "subj": "saint",
+      "verb": "turn",
+      "obj": "robe"
+    },
+    {
+      "id": "e0018",
+      "label": "he | reach | tower",
+      "sent_id": 18,
+      "sentence": "After slipping away unseen by the dervishes, he reached a tower and stole a chest.",
+      "subj": "he",
+      "verb": "reach",
+      "obj": "tower"
+    },
+    {
+      "id": "e0019",
+      "label": "man | flee | dawn",
+      "sent_id": 19,
+      "sentence": "By dawn, the evil man had fled far away.",
+      "subj": "man",
+      "verb": "flee",
+      "obj": "dawn"
+    },
+    {
+      "id": "e0020",
+      "label": "they | arrest | \u2205",
+      "sent_id": 20,
+      "sentence": "When the others awoke, innocent and unaware, they were all arrested and thrown into prison at the fort.",
+      "subj": "they",
+      "verb": "arrest",
+      "obj": ""
+    },
+    {
+      "id": "e0021",
+      "label": "we | give | \u2205",
+      "sent_id": 21,
+      "sentence": "From then on, we gave up traveling in company and chose the path of solitude, following the saying: Safety lies in being alone.",
+      "subj": "we",
+      "verb": "give",
+      "obj": ""
+    },
+    {
+      "id": "e0022",
+      "label": "honor | remain | anyone",
+      "sent_id": 22,
+      "sentence": "When one from a group does wrong, no honor remains for anyone, whether low or high.",
+      "subj": "honor",
+      "verb": "remain",
+      "obj": "anyone"
+    },
+    {
+      "id": "e0023",
+      "label": "you | see | \u2205",
+      "sent_id": 23,
+      "sentence": "Don\u2019t you see how one ox in the pasture can stain all the oxen in the village?",
+      "subj": "you",
+      "verb": "see",
+      "obj": ""
+    },
+    {
+      "id": "e0024",
+      "label": "i | deny | benefit",
+      "sent_id": 24,
+      "sentence": "I replied, \"Thanks be to God, I have not been denied the benefits that dervishes enjoy, even though I have left their company.",
+      "subj": "i",
+      "verb": "deny",
+      "obj": "benefit"
+    },
+    {
+      "id": "e0025",
+      "label": "\u2205 | be | \u2205",
+      "sent_id": 25,
+      "sentence": "What you have told me is valuable, and this warning will serve those like me throughout life.",
+      "subj": "",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0026",
+      "label": "heart | sadden | man",
+      "sent_id": 26,
+      "sentence": "\"\n\nFor one rude man in a gathering, the hearts of wise men are deeply saddened.",
+      "subj": "heart",
+      "verb": "sadden",
+      "obj": "man"
+    },
+    {
+      "id": "e0027",
+      "label": "dog | pollute | whole",
+      "sent_id": 27,
+      "sentence": "If a tank is filled with rose water, a dog falling into it will pollute the whole.",
+      "subj": "dog",
+      "verb": "pollute",
+      "obj": "whole"
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    }
+  ]
+}

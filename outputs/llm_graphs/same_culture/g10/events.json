@@ -1,0 +1,906 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "",
+    "verb": "be",
+    "obj": "queen",
+    "label": "\u2205 | be | queen",
+    "sentence": "Once there was a queen who had a little daughter, too young to walk on her own."
+  },
+  {
+    "sent_id": 1,
+    "subj": "child",
+    "verb": "be",
+    "obj": "",
+    "label": "child | be | \u2205",
+    "sentence": "One day, the child was very difficult to calm, no matter what her mother did."
+  },
+  {
+    "sent_id": 2,
+    "subj": "queen",
+    "verb": "look",
+    "obj": "window",
+    "label": "queen | look | window",
+    "sentence": "Growing impatient, the queen looked out the window and saw the ravens flying around the castle."
+  },
+  {
+    "sent_id": 3,
+    "subj": "she",
+    "verb": "say",
+    "obj": "",
+    "label": "she | say | \u2205",
+    "sentence": "She said, \u201cI wish you were a raven and would just fly away so I could have some peace.\u201d"
+  },
+  {
+    "sent_id": 4,
+    "subj": "she",
+    "verb": "speak",
+    "obj": "child",
+    "label": "she | speak | child",
+    "sentence": "No sooner had she spoken than the child she held was turned into a raven and flew out the window."
+  },
+  {
+    "sent_id": 5,
+    "subj": "bird",
+    "verb": "fly",
+    "obj": "forest",
+    "label": "bird | fly | forest",
+    "sentence": "The bird flew to a dark forest and stayed there a long time, while the parents heard nothing from their daughter."
+  },
+  {
+    "sent_id": 6,
+    "subj": "man",
+    "verb": "walk",
+    "obj": "forest",
+    "label": "man | walk | forest",
+    "sentence": "Long afterward, a man was walking through the forest when he heard a raven\u2019s call and followed the sound."
+  },
+  {
+    "sent_id": 7,
+    "subj": "raven",
+    "verb": "say",
+    "obj": "",
+    "label": "raven | say | \u2205",
+    "sentence": "As he got closer, the raven said, \u201cI was born a king\u2019s daughter, but now I am under a curse."
+  },
+  {
+    "sent_id": 8,
+    "subj": "you",
+    "verb": "free",
+    "obj": "i",
+    "label": "you | free | i",
+    "sentence": "You can free me.\u201d"
+  },
+  {
+    "sent_id": 9,
+    "subj": "i",
+    "verb": "do",
+    "obj": "what",
+    "label": "i | do | what",
+    "sentence": "\u201cWhat must I do?\u201d"
+  },
+  {
+    "sent_id": 10,
+    "subj": "man",
+    "verb": "ask",
+    "obj": "",
+    "label": "man | ask | \u2205",
+    "sentence": "the man asked."
+  },
+  {
+    "sent_id": 11,
+    "subj": "she",
+    "verb": "tell",
+    "obj": "he",
+    "label": "she | tell | he",
+    "sentence": "She told him, \u201cGo deeper into the forest until you find a house where an old woman lives."
+  },
+  {
+    "sent_id": 12,
+    "subj": "she",
+    "verb": "offer",
+    "obj": "food",
+    "label": "she | offer | food",
+    "sentence": "She will offer you food and drink, but you must not accept either, or you will fall into a deep sleep and won\u2019t be able to help me."
+  },
+  {
+    "sent_id": 13,
+    "subj": "",
+    "verb": "be",
+    "obj": "heap",
+    "label": "\u2205 | be | heap",
+    "sentence": "Behind the house is a big tan heap, and you must stand there watching for me."
+  },
+  {
+    "sent_id": 14,
+    "subj": "i",
+    "verb": "come",
+    "obj": "day",
+    "label": "i | come | day",
+    "sentence": "For three days in a row, I will come in my carriage at two o\u2019clock in the afternoon."
+  },
+  {
+    "sent_id": 15,
+    "subj": "it",
+    "verb": "draw",
+    "obj": "",
+    "label": "it | draw | \u2205",
+    "sentence": "The first day, it will be drawn by four white horses; the second day by four chestnut horses; and the third by four black horses."
+  },
+  {
+    "sent_id": 16,
+    "subj": "i",
+    "verb": "free",
+    "obj": "",
+    "label": "i | free | \u2205",
+    "sentence": "But if you fall asleep any day, I won\u2019t be freed.\u201d"
+  },
+  {
+    "sent_id": 17,
+    "subj": "man",
+    "verb": "promise",
+    "obj": "",
+    "label": "man | promise | \u2205",
+    "sentence": "The man promised to do as she said, but the raven sighed, \u201cI fear even now that you will take something from the woman and fail to save me.\u201d"
+  },
+  {
+    "sent_id": 18,
+    "subj": "he",
+    "verb": "promise",
+    "obj": "",
+    "label": "he | promise | \u2205",
+    "sentence": "He once again promised not to eat or drink anything."
+  },
+  {
+    "sent_id": 19,
+    "subj": "woman",
+    "verb": "greet",
+    "obj": "he",
+    "label": "woman | greet | he",
+    "sentence": "When the man entered the house, the old woman greeted him, saying, \u201cYou look so tired!"
+  },
+  {
+    "sent_id": 20,
+    "subj": "",
+    "verb": "let",
+    "obj": "",
+    "label": "\u2205 | let | \u2205",
+    "sentence": "Come and rest; let me give you some food and drink.\u201d"
+  },
+  {
+    "sent_id": 21,
+    "subj": "he",
+    "verb": "reply",
+    "obj": "",
+    "label": "he | reply | \u2205",
+    "sentence": "\u201cNo,\u201d he replied, \u201cI won\u2019t eat or drink.\u201d"
+  },
+  {
+    "sent_id": 22,
+    "subj": "she",
+    "verb": "keep",
+    "obj": "",
+    "label": "she | keep | \u2205",
+    "sentence": "But she kept urging him, \u201cIf you won\u2019t eat, at least have a sip of wine; one drink won\u2019t matter.\u201d"
+  },
+  {
+    "sent_id": 23,
+    "subj": "he",
+    "verb": "give",
+    "obj": "",
+    "label": "he | give | \u2205",
+    "sentence": "Eventually, he gave in and drank."
+  },
+  {
+    "sent_id": 24,
+    "subj": "he",
+    "verb": "go",
+    "obj": "garden",
+    "label": "he | go | garden",
+    "sentence": "As the appointed hour approached, he went out to the garden and climbed the tan heap to watch for the raven."
+  },
+  {
+    "sent_id": 25,
+    "subj": "he",
+    "verb": "feel",
+    "obj": "",
+    "label": "he | feel | \u2205",
+    "sentence": "Suddenly, he felt very tired and, despite his determination to stay awake, lay down."
+  },
+  {
+    "sent_id": 26,
+    "subj": "eye",
+    "verb": "close",
+    "obj": "moment",
+    "label": "eye | close | moment",
+    "sentence": "Within moments his eyes closed and he fell into a deep sleep no noise could break."
+  },
+  {
+    "sent_id": 27,
+    "subj": "she",
+    "verb": "sigh",
+    "obj": "",
+    "label": "she | sigh | \u2205",
+    "sentence": "When the raven\u2019s carriage arrived, drawn by four white horses, she sighed, \u201cI know he has fallen asleep.\u201d"
+  },
+  {
+    "sent_id": 28,
+    "subj": "she",
+    "verb": "find",
+    "obj": "",
+    "label": "she | find | \u2205",
+    "sentence": "She found him sleeping on the tan heap, called to and shook him, but in vain."
+  },
+  {
+    "sent_id": 29,
+    "subj": "woman",
+    "verb": "offer",
+    "obj": "food",
+    "label": "woman | offer | food",
+    "sentence": "The next day, at noon, the old woman offered him food and drink again, which he again refused at first."
+  },
+  {
+    "sent_id": 30,
+    "subj": "he",
+    "verb": "take",
+    "obj": "drink",
+    "label": "he | take | drink",
+    "sentence": "Yet tired by her persistence, he eventually took another drink."
+  },
+  {
+    "sent_id": 31,
+    "subj": "he",
+    "verb": "go",
+    "obj": "o\u2019clock",
+    "label": "he | go | o\u2019clock",
+    "sentence": "At two o\u2019clock, he went to the tan heap to watch for the raven but again felt overwhelmingly tired and fell asleep."
+  },
+  {
+    "sent_id": 32,
+    "subj": "",
+    "verb": "find",
+    "obj": "",
+    "label": "\u2205 | find | \u2205",
+    "sentence": "The raven arrived with her four chestnut horses and sadly admitted, \u201cI know he\u2019s fallen asleep,\u201d then found him asleep and could not wake him."
+  },
+  {
+    "sent_id": 33,
+    "subj": "woman",
+    "verb": "ask",
+    "obj": "day",
+    "label": "woman | ask | day",
+    "sentence": "On the third day, the old woman asked, \u201cWhy won\u2019t you eat or drink?"
+  },
+  {
+    "sent_id": 34,
+    "subj": "you",
+    "verb": "try",
+    "obj": "",
+    "label": "you | try | \u2205",
+    "sentence": "Are you trying to harm yourself?\u201d"
+  },
+  {
+    "sent_id": 35,
+    "subj": "he",
+    "verb": "reply",
+    "obj": "",
+    "label": "he | reply | \u2205",
+    "sentence": "He replied firmly that he would neither eat nor drink."
+  },
+  {
+    "sent_id": 36,
+    "subj": "he",
+    "verb": "smell",
+    "obj": "wine",
+    "label": "he | smell | wine",
+    "sentence": "But when she set down food and wine again, though he tried to resist, he smelled the wine and couldn\u2019t help drinking deeply."
+  },
+  {
+    "sent_id": 37,
+    "subj": "he",
+    "verb": "go",
+    "obj": "heap",
+    "label": "he | go | heap",
+    "sentence": "When the time came, he once more went to the tan heap, but he felt even more exhausted than before and fell into an even deeper sleep."
+  },
+  {
+    "sent_id": 38,
+    "subj": "carriage",
+    "verb": "draw",
+    "obj": "",
+    "label": "carriage | draw | \u2205",
+    "sentence": "This time the raven\u2019s carriage was drawn by black horses."
+  },
+  {
+    "sent_id": 39,
+    "subj": "she",
+    "verb": "be",
+    "obj": "",
+    "label": "she | be | \u2205",
+    "sentence": "She was more sorrowful than ever as she said, \u201cI know he has fallen asleep and won\u2019t be able to free me.\u201d"
+  },
+  {
+    "sent_id": 40,
+    "subj": "she",
+    "verb": "find",
+    "obj": "",
+    "label": "she | find | \u2205",
+    "sentence": "She found him deeply asleep, and nothing she tried could wake him."
+  },
+  {
+    "sent_id": 41,
+    "subj": "she",
+    "verb": "place",
+    "obj": "loaf",
+    "label": "she | place | loaf",
+    "sentence": "Then she placed beside him a loaf, some meat, and a flask of wine that never grew any less, no matter how much he ate or drank."
+  },
+  {
+    "sent_id": 42,
+    "subj": "she",
+    "verb": "take",
+    "obj": "ring",
+    "label": "she | take | ring",
+    "sentence": "She took a gold ring from her finger, engraved with her name, and put it on his finger."
+  },
+  {
+    "sent_id": 43,
+    "subj": "she",
+    "verb": "lay",
+    "obj": "letter",
+    "label": "she | lay | letter",
+    "sentence": "Finally, she laid a letter near him, explaining what she had left and writing, \u201cI see you won\u2019t free me as long as you stay here."
+  },
+  {
+    "sent_id": 44,
+    "subj": "it",
+    "verb": "\u2019",
+    "obj": "power",
+    "label": "it | \u2019 | power",
+    "sentence": "But if you still want to help me, come to the golden castle of Stromberg; it\u2019s well within your power.\u201d"
+  },
+  {
+    "sent_id": 45,
+    "subj": "she",
+    "verb": "return",
+    "obj": "carriage",
+    "label": "she | return | carriage",
+    "sentence": "Then she returned to her carriage and drove to the golden castle of Stromberg."
+  },
+  {
+    "sent_id": 46,
+    "subj": "he",
+    "verb": "feel",
+    "obj": "",
+    "label": "he | feel | \u2205",
+    "sentence": "When the man woke and realized how long he'd slept, he felt sad."
+  },
+  {
+    "sent_id": 47,
+    "subj": "she",
+    "verb": "be",
+    "obj": "",
+    "label": "she | be | \u2205",
+    "sentence": "\u201cShe must have been here and left."
+  },
+  {
+    "sent_id": 48,
+    "subj": "it",
+    "verb": "\u2019",
+    "obj": "",
+    "label": "it | \u2019 | \u2205",
+    "sentence": "It\u2019s too late now to save her.\u201d"
+  },
+  {
+    "sent_id": 49,
+    "subj": "eye",
+    "verb": "land",
+    "obj": "loaf",
+    "label": "eye | land | loaf",
+    "sentence": "His eyes landed on the loaf, meat, wine, ring, and letter."
+  },
+  {
+    "sent_id": 50,
+    "subj": "he",
+    "verb": "understand",
+    "obj": "everything",
+    "label": "he | understand | everything",
+    "sentence": "Reading the letter, he understood everything."
+  },
+  {
+    "sent_id": 51,
+    "subj": "he",
+    "verb": "get",
+    "obj": "",
+    "label": "he | get | \u2205",
+    "sentence": "He got up immediately, eager to set out for Stromberg, though he didn\u2019t know which way to go."
+  },
+  {
+    "sent_id": 52,
+    "subj": "he",
+    "verb": "travel",
+    "obj": "time",
+    "label": "he | travel | time",
+    "sentence": "He traveled for a long time, finally reaching a dark forest."
+  },
+  {
+    "sent_id": 53,
+    "subj": "he",
+    "verb": "walk",
+    "obj": "it",
+    "label": "he | walk | it",
+    "sentence": "He walked through it for fourteen days but couldn\u2019t find a way out."
+  },
+  {
+    "sent_id": 54,
+    "subj": "he",
+    "verb": "sleep",
+    "obj": "bush",
+    "label": "he | sleep | bush",
+    "sentence": "One night, exhausted, he slept under a bush."
+  },
+  {
+    "sent_id": 55,
+    "subj": "he",
+    "verb": "hear",
+    "obj": "",
+    "label": "he | hear | \u2205",
+    "sentence": "The next day, while looking for a place to rest, he heard howling and crying that kept him awake."
+  },
+  {
+    "sent_id": 56,
+    "subj": "he",
+    "verb": "see",
+    "obj": "light",
+    "label": "he | see | light",
+    "sentence": "When it grew darker and people began lighting their homes, he saw a faint light ahead and went toward it."
+  },
+  {
+    "sent_id": 57,
+    "subj": "he",
+    "verb": "find",
+    "obj": "house",
+    "label": "he | find | house",
+    "sentence": "He found a house that looked smaller than it really was compared to a huge giant standing in front of it."
+  },
+  {
+    "sent_id": 58,
+    "subj": "he",
+    "verb": "think",
+    "obj": "",
+    "label": "he | think | \u2205",
+    "sentence": "He thought, \u201cIf the giant sees me entering, my life might be at risk.\u201d"
+  },
+  {
+    "sent_id": 59,
+    "subj": "he",
+    "verb": "gather",
+    "obj": "courage",
+    "label": "he | gather | courage",
+    "sentence": "Still, he gathered courage and went on."
+  },
+  {
+    "sent_id": 60,
+    "subj": "giant",
+    "verb": "shout",
+    "obj": "",
+    "label": "giant | shout | \u2205",
+    "sentence": "The giant shouted, \u201cLucky you came!"
+  },
+  {
+    "sent_id": 61,
+    "subj": "i",
+    "verb": "starve",
+    "obj": "",
+    "label": "i | starve | \u2205",
+    "sentence": "I\u2019m starving and could make you my supper.\u201d"
+  },
+  {
+    "sent_id": 62,
+    "subj": "man",
+    "verb": "say",
+    "obj": "",
+    "label": "man | say | \u2205",
+    "sentence": "\u201cI\u2019d rather you didn\u2019t,\u201d said the man."
+  },
+  {
+    "sent_id": 63,
+    "subj": "i",
+    "verb": "give",
+    "obj": "myself",
+    "label": "i | give | myself",
+    "sentence": "\u201cI won\u2019t just give myself up."
+  },
+  {
+    "sent_id": 64,
+    "subj": "i",
+    "verb": "have",
+    "obj": "food",
+    "label": "i | have | food",
+    "sentence": "But if you\u2019re hungry, I have enough food and drink to satisfy you.\u201d"
+  },
+  {
+    "sent_id": 65,
+    "subj": "i",
+    "verb": "leave",
+    "obj": "you",
+    "label": "i | leave | you",
+    "sentence": "\u201cIf that\u2019s true,\u201d the giant said, \u201cI\u2019ll leave you alone."
+  },
+  {
+    "sent_id": 66,
+    "subj": "i",
+    "verb": "think",
+    "obj": "",
+    "label": "i | think | \u2205",
+    "sentence": "I only thought of eating you because I was so hungry.\u201d\n\nInside, the man brought out the endless bread, meat, and wine."
+  },
+  {
+    "sent_id": 67,
+    "subj": "giant",
+    "verb": "eat",
+    "obj": "",
+    "label": "giant | eat | \u2205",
+    "sentence": "The giant ate and drank heartily and was very pleased."
+  },
+  {
+    "sent_id": 68,
+    "subj": "man",
+    "verb": "ask",
+    "obj": "",
+    "label": "man | ask | \u2205",
+    "sentence": "Afterward, the man asked if the giant could show him the castle of Stromberg."
+  },
+  {
+    "sent_id": 69,
+    "subj": "giant",
+    "verb": "say",
+    "obj": "",
+    "label": "giant | say | \u2205",
+    "sentence": "The giant said he\u2019d check his map, which showed all towns and villages."
+  },
+  {
+    "sent_id": 70,
+    "subj": "he",
+    "verb": "find",
+    "obj": "castle",
+    "label": "he | find | castle",
+    "sentence": "But he couldn\u2019t find the castle."
+  },
+  {
+    "sent_id": 71,
+    "subj": "he",
+    "verb": "say",
+    "obj": "",
+    "label": "he | say | \u2205",
+    "sentence": "\u201cNo problem,\u201d he said."
+  },
+  {
+    "sent_id": 72,
+    "subj": "i",
+    "verb": "have",
+    "obj": "map",
+    "label": "i | have | map",
+    "sentence": "\u201cI have larger maps upstairs.\u201d"
+  },
+  {
+    "sent_id": 73,
+    "subj": "they",
+    "verb": "search",
+    "obj": "those",
+    "label": "they | search | those",
+    "sentence": "They searched those but still found no sign of it."
+  },
+  {
+    "sent_id": 74,
+    "subj": "man",
+    "verb": "want",
+    "obj": "",
+    "label": "man | want | \u2205",
+    "sentence": "The man wanted to continue his journey, but the giant asked him to stay a day or two until his brother returned from gathering food."
+  },
+  {
+    "sent_id": 75,
+    "subj": "they",
+    "verb": "ask",
+    "obj": "he",
+    "label": "they | ask | he",
+    "sentence": "When the brother came back, they asked him about the castle."
+  },
+  {
+    "sent_id": 76,
+    "subj": "he",
+    "verb": "say",
+    "obj": "",
+    "label": "he | say | \u2205",
+    "sentence": "He said he\u2019d look after eating."
+  },
+  {
+    "sent_id": 77,
+    "subj": "they",
+    "verb": "go",
+    "obj": "room",
+    "label": "they | go | room",
+    "sentence": "Once fed, they all went to his room to search through more maps."
+  },
+  {
+    "sent_id": 78,
+    "subj": "they",
+    "verb": "find",
+    "obj": "castle",
+    "label": "they | find | castle",
+    "sentence": "After some time, they found the castle, but it was thousands of miles away."
+  },
+  {
+    "sent_id": 79,
+    "subj": "i",
+    "verb": "reach",
+    "obj": "it",
+    "label": "i | reach | it",
+    "sentence": "\u201cHow will I reach it?\u201d"
+  },
+  {
+    "sent_id": 80,
+    "subj": "man",
+    "verb": "ask",
+    "obj": "",
+    "label": "man | ask | \u2205",
+    "sentence": "the man asked."
+  },
+  {
+    "sent_id": 81,
+    "subj": "giant",
+    "verb": "offer",
+    "obj": "",
+    "label": "giant | offer | \u2205",
+    "sentence": "\u201cI\u2019ve two hours free,\u201d the giant offered."
+  },
+  {
+    "sent_id": 82,
+    "subj": "i",
+    "verb": "return",
+    "obj": "",
+    "label": "i | return | \u2205",
+    "sentence": "\u201cI\u2019ll carry you close to the castle, then I must return to care for the child we\u2019re watching.\u201d"
+  },
+  {
+    "sent_id": 83,
+    "subj": "giant",
+    "verb": "carry",
+    "obj": "man",
+    "label": "giant | carry | man",
+    "sentence": "The giant carried the man to within about a hundred leagues of Stromberg castle, then left him, saying, \u201cYou can walk the rest yourself.\u201d"
+  },
+  {
+    "sent_id": 84,
+    "subj": "man",
+    "verb": "travel",
+    "obj": "",
+    "label": "man | travel | \u2205",
+    "sentence": "The man traveled day and night until he reached the golden castle, which sat atop a glass mountain."
+  },
+  {
+    "sent_id": 85,
+    "subj": "he",
+    "verb": "see",
+    "obj": "",
+    "label": "he | see | \u2205",
+    "sentence": "Looking up, he saw the cursed maiden driving around her castle before going inside."
+  },
+  {
+    "sent_id": 86,
+    "subj": "attempt",
+    "verb": "make",
+    "obj": "",
+    "label": "attempt | make | \u2205",
+    "sentence": "He was overjoyed but couldn\u2019t climb the slippery mountain; every attempt made him fall back."
+  },
+  {
+    "sent_id": 87,
+    "subj": "he",
+    "verb": "decide",
+    "obj": "",
+    "label": "he | decide | \u2205",
+    "sentence": "Saddened, he decided to wait for her and built a small hut to live in, watching her daily for a whole year."
+  },
+  {
+    "sent_id": 88,
+    "subj": "he",
+    "verb": "see",
+    "obj": "robber",
+    "label": "he | see | robber",
+    "sentence": "One day, from his hut, he saw three robbers fighting and called out, \u201cGod be with you.\u201d"
+  },
+  {
+    "sent_id": 89,
+    "subj": "they",
+    "verb": "stop",
+    "obj": "",
+    "label": "they | stop | \u2205",
+    "sentence": "They stopped temporarily, looked around, then returned to fighting more fiercely."
+  },
+  {
+    "sent_id": 90,
+    "subj": "he",
+    "verb": "call",
+    "obj": "more",
+    "label": "he | call | more",
+    "sentence": "He called again twice more, and the third time, curious, he went out and asked why they were fighting."
+  },
+  {
+    "sent_id": 91,
+    "subj": "one",
+    "verb": "say",
+    "obj": "",
+    "label": "one | say | \u2205",
+    "sentence": "One said he had found a stick that could open any door by striking it."
+  },
+  {
+    "sent_id": 92,
+    "subj": "another",
+    "verb": "have",
+    "obj": "cloak",
+    "label": "another | have | cloak",
+    "sentence": "Another had a cloak making its wearer invisible."
+  },
+  {
+    "sent_id": 93,
+    "subj": "third",
+    "verb": "catch",
+    "obj": "horse",
+    "label": "third | catch | horse",
+    "sentence": "The third caught a horse that could overcome any obstacle, even climb glass mountains."
+  },
+  {
+    "sent_id": 94,
+    "subj": "they",
+    "verb": "agree",
+    "obj": "",
+    "label": "they | agree | \u2205",
+    "sentence": "They couldn\u2019t agree whether to keep these treasures together or split up."
+  },
+  {
+    "sent_id": 95,
+    "subj": "man",
+    "verb": "say",
+    "obj": "",
+    "label": "man | say | \u2205",
+    "sentence": "The man said, \u201cI\u2019ll trade you something far more valuable\u2014not money, since I have none, but something better."
+  },
+  {
+    "sent_id": 96,
+    "subj": "i",
+    "verb": "test",
+    "obj": "",
+    "label": "i | test | \u2205",
+    "sentence": "First, I\u2019ll test if your things really work.\u201d"
+  },
+  {
+    "sent_id": 97,
+    "subj": "robber",
+    "verb": "give",
+    "obj": "horse",
+    "label": "robber | give | horse",
+    "sentence": "The robbers gave him the horse, stick, and cloak."
+  },
+  {
+    "sent_id": 98,
+    "subj": "he",
+    "verb": "vanish",
+    "obj": "sight",
+    "label": "he | vanish | sight",
+    "sentence": "Putting on the cloak, he vanished from sight."
+  },
+  {
+    "sent_id": 99,
+    "subj": "he",
+    "verb": "strike",
+    "obj": "they",
+    "label": "he | strike | they",
+    "sentence": "Then he struck at them with the stick, beating them one by one, shouting, \u201cThere, you lazy scoundrels, now are you satisfied?\u201d"
+  },
+  {
+    "sent_id": 100,
+    "subj": "he",
+    "verb": "mount",
+    "obj": "horse",
+    "label": "he | mount | horse",
+    "sentence": "He mounted the horse and rode up the glass mountain."
+  },
+  {
+    "sent_id": 101,
+    "subj": "he",
+    "verb": "find",
+    "obj": "gate",
+    "label": "he | find | gate",
+    "sentence": "At the castle gate, he found it closed but struck it with the stick, and the door flew open."
+  },
+  {
+    "sent_id": 102,
+    "subj": "he",
+    "verb": "climb",
+    "obj": "step",
+    "label": "he | climb | step",
+    "sentence": "He climbed the steps and entered the room where the maiden sat with a golden goblet of wine."
+  },
+  {
+    "sent_id": 103,
+    "subj": "he",
+    "verb": "throw",
+    "obj": "ring",
+    "label": "he | throw | ring",
+    "sentence": "Still invisible under the cloak, he threw the ring she had given him into her cup."
+  },
+  {
+    "sent_id": 104,
+    "subj": "that",
+    "verb": "\u2019",
+    "obj": "ring",
+    "label": "that | \u2019 | ring",
+    "sentence": "\u201cThat\u2019s my own ring!\u201d"
+  },
+  {
+    "sent_id": 105,
+    "subj": "she",
+    "verb": "exclaim",
+    "obj": "",
+    "label": "she | exclaim | \u2205",
+    "sentence": "she exclaimed."
+  },
+  {
+    "sent_id": 106,
+    "subj": "",
+    "verb": "be",
+    "obj": "",
+    "label": "\u2205 | be | \u2205",
+    "sentence": "\u201cIf that\u2019s true, then the man destined to free me must be here.\u201d"
+  },
+  {
+    "sent_id": 107,
+    "subj": "she",
+    "verb": "search",
+    "obj": "",
+    "label": "she | search | \u2205",
+    "sentence": "She searched everywhere but couldn\u2019t find him."
+  },
+  {
+    "sent_id": 108,
+    "subj": "he",
+    "verb": "go",
+    "obj": "",
+    "label": "he | go | \u2205",
+    "sentence": "Meanwhile, he had gone outside, mounted the horse, and removed his cloak."
+  },
+  {
+    "sent_id": 109,
+    "subj": "she",
+    "verb": "see",
+    "obj": "he",
+    "label": "she | see | he",
+    "sentence": "When she reached the castle gate, she saw him and cried for joy."
+  },
+  {
+    "sent_id": 110,
+    "subj": "he",
+    "verb": "get",
+    "obj": "horse",
+    "label": "he | get | horse",
+    "sentence": "He got off the horse, took her in his arms, and she kissed him."
+  },
+  {
+    "sent_id": 111,
+    "subj": "she",
+    "verb": "say",
+    "obj": "",
+    "label": "she | say | \u2205",
+    "sentence": "\u201cNow you have truly freed me,\u201d she said."
+  },
+  {
+    "sent_id": 112,
+    "subj": "we",
+    "verb": "celebrate",
+    "obj": "wedding",
+    "label": "we | celebrate | wedding",
+    "sentence": "\u201cTomorrow we will celebrate our wedding.\u201d"
+  }
+]

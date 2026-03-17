@@ -1,0 +1,856 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "\u2205 | be | fox",
+      "sent_id": 0,
+      "sentence": "Once there was a fox who lived near a garden.",
+      "subj": "",
+      "verb": "be",
+      "obj": "fox"
+    },
+    {
+      "id": "e0001",
+      "label": "he | slip | hole",
+      "sent_id": 1,
+      "sentence": "Every day, he would slip through a hole in the garden wall and feast on the delicious fruit growing there\u2014juicy persimmons, sweet peaches, and ripe tangerines.",
+      "subj": "he",
+      "verb": "slip",
+      "obj": "hole"
+    },
+    {
+      "id": "e0002",
+      "label": "he | try | \u2205",
+      "sent_id": 2,
+      "sentence": "After filling himself with fruit, he\u2019d try to catch a chicken or two for dinner.",
+      "subj": "he",
+      "verb": "try",
+      "obj": ""
+    },
+    {
+      "id": "e0003",
+      "label": "this | go | morning",
+      "sent_id": 3,
+      "sentence": "This went on until one morning when the gardener spotted the fox and began chasing him with a broomstick.",
+      "subj": "this",
+      "verb": "go",
+      "obj": "morning"
+    },
+    {
+      "id": "e0004",
+      "label": "fox | try | \u2205",
+      "sent_id": 4,
+      "sentence": "The fox tried to escape through the usual hole, but found it sealed with fresh mud plaster.",
+      "subj": "fox",
+      "verb": "try",
+      "obj": ""
+    },
+    {
+      "id": "e0005",
+      "label": "fox | decide | \u2205",
+      "sent_id": 5,
+      "sentence": "Trapped and seeing the gardener coming closer with a large stick, the fox decided to feign death.",
+      "subj": "fox",
+      "verb": "decide",
+      "obj": ""
+    },
+    {
+      "id": "e0006",
+      "label": "he | drop | ground",
+      "sent_id": 6,
+      "sentence": "He dropped to the ground, rolled onto his back, and closed his eyes tightly.",
+      "subj": "he",
+      "verb": "drop",
+      "obj": "ground"
+    },
+    {
+      "id": "e0007",
+      "label": "gardener | reach | fox",
+      "sent_id": 7,
+      "sentence": "The gardener reached the fox and, seeing him lying still, poked him with his stick, but the fox didn\u2019t move.",
+      "subj": "gardener",
+      "verb": "reach",
+      "obj": "fox"
+    },
+    {
+      "id": "e0008",
+      "label": "gardener | pick | he",
+      "sent_id": 8,
+      "sentence": "Thinking the fox had died of fright, the gardener picked him up and threw him out of the garden.",
+      "subj": "gardener",
+      "verb": "pick",
+      "obj": "he"
+    },
+    {
+      "id": "e0009",
+      "label": "day | pass | \u2205",
+      "sent_id": 9,
+      "sentence": "Days passed, and the fox found no way back into the garden.",
+      "subj": "day",
+      "verb": "pass",
+      "obj": ""
+    },
+    {
+      "id": "e0010",
+      "label": "he | devise | plan",
+      "sent_id": 10,
+      "sentence": "Starving, he devised a new plan.",
+      "subj": "he",
+      "verb": "devise",
+      "obj": "plan"
+    },
+    {
+      "id": "e0011",
+      "label": "he | decide | \u2205",
+      "sent_id": 11,
+      "sentence": "He decided to visit a lion he knew living in a nearby forest, hoping to scavenge some leftovers from the lion\u2019s meal.",
+      "subj": "he",
+      "verb": "decide",
+      "obj": ""
+    },
+    {
+      "id": "e0012",
+      "label": "he | arrive | den",
+      "sent_id": 12,
+      "sentence": "After walking a long way, he arrived at the den\u2014a cave near the forest\u2014and called out, \u201cHello, lion!",
+      "subj": "he",
+      "verb": "arrive",
+      "obj": "den"
+    },
+    {
+      "id": "e0013",
+      "label": "it | \u2019 | friend",
+      "sent_id": 13,
+      "sentence": "It\u2019s your old friend, the fox, here to visit you!\u201d",
+      "subj": "it",
+      "verb": "\u2019",
+      "obj": "friend"
+    },
+    {
+      "id": "e0014",
+      "label": "lion | come | \u2205",
+      "sent_id": 14,
+      "sentence": "The lion came out and roared, \u201cHello, fox!",
+      "subj": "lion",
+      "verb": "come",
+      "obj": ""
+    },
+    {
+      "id": "e0015",
+      "label": "what | bring | you",
+      "sent_id": 15,
+      "sentence": "What brings you here?",
+      "subj": "what",
+      "verb": "bring",
+      "obj": "you"
+    },
+    {
+      "id": "e0016",
+      "label": "you | be | \u2205",
+      "sent_id": 16,
+      "sentence": "How have you been?\u201d",
+      "subj": "you",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0017",
+      "label": "fox | reply | \u2205",
+      "sent_id": 17,
+      "sentence": "The fox replied sadly, \u201cI traveled all this way just to see you, because what are friends for if not to visit each other?",
+      "subj": "fox",
+      "verb": "reply",
+      "obj": ""
+    },
+    {
+      "id": "e0018",
+      "label": "\u2205 | ask | \u2205",
+      "sent_id": 18,
+      "sentence": "But don\u2019t ask how I am\u2014I carry many burdens and much sadness today.\u201d",
+      "subj": "",
+      "verb": "ask",
+      "obj": ""
+    },
+    {
+      "id": "e0019",
+      "label": "fox | say | \u2205",
+      "sent_id": 19,
+      "sentence": "The lion asked gently, \u201cWhat\u2019s wrong, fox?\u201d\n\n\u201cI haven\u2019t eaten in days,\u201d the fox said.",
+      "subj": "fox",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0020",
+      "label": "belly | be | \u2205",
+      "sent_id": 20,
+      "sentence": "\u201cMy belly is empty because I couldn\u2019t find any food on the way here.",
+      "subj": "belly",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0021",
+      "label": "you | have | anything",
+      "sent_id": 21,
+      "sentence": "Do you have anything to share?\u201d",
+      "subj": "you",
+      "verb": "have",
+      "obj": "anything"
+    },
+    {
+      "id": "e0022",
+      "label": "lion | reply | \u2205",
+      "sent_id": 22,
+      "sentence": "The lion replied, \u201cI\u2019m sorry, fox.",
+      "subj": "lion",
+      "verb": "reply",
+      "obj": ""
+    },
+    {
+      "id": "e0023",
+      "label": "i | catch | boar",
+      "sent_id": 23,
+      "sentence": "I recently caught a fat boar, but I ate it all myself and have nothing left.",
+      "subj": "i",
+      "verb": "catch",
+      "obj": "boar"
+    },
+    {
+      "id": "e0024",
+      "label": "i | hunt | \u2205",
+      "sent_id": 24,
+      "sentence": "If you can wait, I\u2019ll hunt again tomorrow.\u201d",
+      "subj": "i",
+      "verb": "hunt",
+      "obj": ""
+    },
+    {
+      "id": "e0025",
+      "label": "fox | be | \u2205",
+      "sent_id": 25,
+      "sentence": "But the fox was too hungry to wait.",
+      "subj": "fox",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0026",
+      "label": "he | say | \u2205",
+      "sent_id": 26,
+      "sentence": "\u201cNo trouble,\u201d he said.",
+      "subj": "he",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0027",
+      "label": "i | know | camel",
+      "sent_id": 27,
+      "sentence": "\u201cI know a foolish camel who works at a grain mill nearby.",
+      "subj": "i",
+      "verb": "know",
+      "obj": "camel"
+    },
+    {
+      "id": "e0028",
+      "label": "we | eat | \u2205",
+      "sent_id": 28,
+      "sentence": "Maybe I can trick him into coming here, so we both can eat!\u201d",
+      "subj": "we",
+      "verb": "eat",
+      "obj": ""
+    },
+    {
+      "id": "e0029",
+      "label": "lion | agree | \u2205",
+      "sent_id": 29,
+      "sentence": "The lion agreed and said he\u2019d wait for the camel.",
+      "subj": "lion",
+      "verb": "agree",
+      "obj": ""
+    },
+    {
+      "id": "e0030",
+      "label": "fox | travel | village",
+      "sent_id": 30,
+      "sentence": "The fox traveled to the neighboring village where the camel worked, turning the millstone day after day to grind wheat and oats into flour.",
+      "subj": "fox",
+      "verb": "travel",
+      "obj": "village"
+    },
+    {
+      "id": "e0031",
+      "label": "camel | greet | he",
+      "sent_id": 31,
+      "sentence": "When the fox approached, the camel greeted him, \u201cHello, fox!",
+      "subj": "camel",
+      "verb": "greet",
+      "obj": "he"
+    },
+    {
+      "id": "e0032",
+      "label": "fox | say | \u2205",
+      "sent_id": 32,
+      "sentence": "What brings you here?\u201d\n\n\u201cI\u2019ve come a long way to visit you, old friend,\u201d said the fox happily.",
+      "subj": "fox",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0033",
+      "label": "camel | ask | \u2205",
+      "sent_id": 33,
+      "sentence": "\u201cWhat are friends for if not to visit one another?\u201d\n\nThe camel asked how the fox was, and the fox said he was happier than ever because he was on his way to a secret land where the grass is always green, there\u2019s plenty to eat, and no one has to work.",
+      "subj": "camel",
+      "verb": "ask",
+      "obj": ""
+    },
+    {
+      "id": "e0034",
+      "label": "fox | ask | \u2205",
+      "sent_id": 34,
+      "sentence": "Lowering his voice, the fox asked, \u201cWhy do you spend your days walking in circles?",
+      "subj": "fox",
+      "verb": "ask",
+      "obj": ""
+    },
+    {
+      "id": "e0035",
+      "label": "that | be | \u2205",
+      "sent_id": 35,
+      "sentence": "Is that how you want to waste your life?\u201d",
+      "subj": "that",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0036",
+      "label": "camel | say | \u2205",
+      "sent_id": 36,
+      "sentence": "The camel said he needed to work to earn food and shelter provided by the miller and, though the work was hard, he was content.",
+      "subj": "camel",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0037",
+      "label": "fox | pretend | \u2205",
+      "sent_id": 37,
+      "sentence": "The fox pretended to think deeply, flicking his tail, then exclaimed, \u201cI have an idea!",
+      "subj": "fox",
+      "verb": "pretend",
+      "obj": ""
+    },
+    {
+      "id": "e0038",
+      "label": "\u2205 | come | i",
+      "sent_id": 38,
+      "sentence": "Come with me to my secret land.",
+      "subj": "",
+      "verb": "come",
+      "obj": "i"
+    },
+    {
+      "id": "e0039",
+      "label": "i | want | company",
+      "sent_id": 39,
+      "sentence": "I want your company, and there you\u2019ll never have to grind a millstone again!\u201d",
+      "subj": "i",
+      "verb": "want",
+      "obj": "company"
+    },
+    {
+      "id": "e0040",
+      "label": "camel | think | \u2205",
+      "sent_id": 40,
+      "sentence": "The camel thought it over and agreed.",
+      "subj": "camel",
+      "verb": "think",
+      "obj": ""
+    },
+    {
+      "id": "e0041",
+      "label": "fox | say | \u2205",
+      "sent_id": 42,
+      "sentence": "Then the fox said, \u201cSince I\u2019ve been walking for a long time, may I ride your back as you guide me to this secret land?\u201d",
+      "subj": "fox",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0042",
+      "label": "camel | agree | \u2205",
+      "sent_id": 43,
+      "sentence": "The camel, easygoing, agreed, and the fox jumped on his back.",
+      "subj": "camel",
+      "verb": "agree",
+      "obj": ""
+    },
+    {
+      "id": "e0043",
+      "label": "fox | whisper | lie",
+      "sent_id": 44,
+      "sentence": "As they traveled toward the forest, the fox whispered lies about the secret land to keep the camel distracted.",
+      "subj": "fox",
+      "verb": "whisper",
+      "obj": "lie"
+    },
+    {
+      "id": "e0044",
+      "label": "camel | spot | lion",
+      "sent_id": 45,
+      "sentence": "When they neared the lion\u2019s den, the camel spotted the lion hiding in the bushes and realized it was a trap.",
+      "subj": "camel",
+      "verb": "spot",
+      "obj": "lion"
+    },
+    {
+      "id": "e0045",
+      "label": "he | think | \u2205",
+      "sent_id": 46,
+      "sentence": "\u201cHow can I walk myself to doom?\u201d he thought.",
+      "subj": "he",
+      "verb": "think",
+      "obj": ""
+    },
+    {
+      "id": "e0046",
+      "label": "he | turn | \u2205",
+      "sent_id": 47,
+      "sentence": "He turned around and started heading back to the mill.",
+      "subj": "he",
+      "verb": "turn",
+      "obj": ""
+    },
+    {
+      "id": "e0047",
+      "label": "fox | ask | \u2205",
+      "sent_id": 48,
+      "sentence": "The fox asked, \u201cWhy are you turning back, camel?\u201d\n\n\u201cOh no!",
+      "subj": "fox",
+      "verb": "ask",
+      "obj": ""
+    },
+    {
+      "id": "e0048",
+      "label": "i | go | it",
+      "sent_id": 49,
+      "sentence": "I forgot something important and must fetch it immediately\u2014I can\u2019t go anywhere without it!\u201d",
+      "subj": "i",
+      "verb": "go",
+      "obj": "it"
+    },
+    {
+      "id": "e0049",
+      "label": "camel | say | \u2205",
+      "sent_id": 50,
+      "sentence": "the camel said.",
+      "subj": "camel",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0050",
+      "label": "what | be | \u2205",
+      "sent_id": 51,
+      "sentence": "\u201cWhat could be so important?\u201d",
+      "subj": "what",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0051",
+      "label": "fox | demand | \u2205",
+      "sent_id": 52,
+      "sentence": "the fox demanded.",
+      "subj": "fox",
+      "verb": "demand",
+      "obj": ""
+    },
+    {
+      "id": "e0052",
+      "label": "camel | say | \u2205",
+      "sent_id": 54,
+      "sentence": "I must sleep with it under my pillow every night or else I have bad dreams,\u201d the camel said, quickening his pace to escape.",
+      "subj": "camel",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0053",
+      "label": "fox | suggest | \u2205",
+      "sent_id": 55,
+      "sentence": "The fox, unable to stop him, suggested, \u201cNo worries.",
+      "subj": "fox",
+      "verb": "suggest",
+      "obj": ""
+    },
+    {
+      "id": "e0054",
+      "label": "we | get | book",
+      "sent_id": 56,
+      "sentence": "We\u2019ll get your book, and come back tomorrow.",
+      "subj": "we",
+      "verb": "get",
+      "obj": "book"
+    },
+    {
+      "id": "e0055",
+      "label": "\u2205 | tell | i",
+      "sent_id": 57,
+      "sentence": "But tell me, what advice did your father write down that\u2019s so important?\u201d\n\nThe camel, catching his breath, said, \u201cThere were five pieces of advice.",
+      "subj": "",
+      "verb": "tell",
+      "obj": "i"
+    },
+    {
+      "id": "e0056",
+      "label": "i | forget | other",
+      "sent_id": 59,
+      "sentence": "I forgot the others but will remember them once I\u2019m back at the mill.\u201d",
+      "subj": "i",
+      "verb": "forget",
+      "obj": "other"
+    },
+    {
+      "id": "e0057",
+      "label": "\u2205 | \u2019 | shame",
+      "sent_id": 60,
+      "sentence": "Once safely back, the camel sighed and recited the rest: \u201cSecond, \u2018There\u2019s no shame in honest work.\u2019",
+      "subj": "",
+      "verb": "\u2019",
+      "obj": "shame"
+    },
+    {
+      "id": "e0058",
+      "label": "\u2205 | be | \u2205",
+      "sent_id": 61,
+      "sentence": "Third, \u2018Be thankful for what you have.\u2019",
+      "subj": "",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0059",
+      "label": "\u2205 | be | friend",
+      "sent_id": 62,
+      "sentence": "Fourth, \u2018Never be friends with tricksters, for in the end they will trick you too.\u2019",
+      "subj": "",
+      "verb": "be",
+      "obj": "friend"
+    },
+    {
+      "id": "e0060",
+      "label": "camel | shake | fox",
+      "sent_id": 63,
+      "sentence": "And the fifth, most important, \u2018Don\u2019t go near lions!\u2019\u201d\n\nWith that, the camel shook the fox off his back and returned to his millstone.",
+      "subj": "camel",
+      "verb": "shake",
+      "obj": "fox"
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    },
+    {
+      "source": "e0029",
+      "target": "e0030",
+      "relation": "next"
+    },
+    {
+      "source": "e0030",
+      "target": "e0031",
+      "relation": "next"
+    },
+    {
+      "source": "e0031",
+      "target": "e0032",
+      "relation": "next"
+    },
+    {
+      "source": "e0032",
+      "target": "e0033",
+      "relation": "next"
+    },
+    {
+      "source": "e0033",
+      "target": "e0034",
+      "relation": "next"
+    },
+    {
+      "source": "e0034",
+      "target": "e0035",
+      "relation": "next"
+    },
+    {
+      "source": "e0035",
+      "target": "e0036",
+      "relation": "next"
+    },
+    {
+      "source": "e0036",
+      "target": "e0037",
+      "relation": "next"
+    },
+    {
+      "source": "e0037",
+      "target": "e0038",
+      "relation": "next"
+    },
+    {
+      "source": "e0038",
+      "target": "e0039",
+      "relation": "next"
+    },
+    {
+      "source": "e0039",
+      "target": "e0040",
+      "relation": "next"
+    },
+    {
+      "source": "e0040",
+      "target": "e0041",
+      "relation": "next"
+    },
+    {
+      "source": "e0041",
+      "target": "e0042",
+      "relation": "next"
+    },
+    {
+      "source": "e0042",
+      "target": "e0043",
+      "relation": "next"
+    },
+    {
+      "source": "e0043",
+      "target": "e0044",
+      "relation": "next"
+    },
+    {
+      "source": "e0044",
+      "target": "e0045",
+      "relation": "next"
+    },
+    {
+      "source": "e0045",
+      "target": "e0046",
+      "relation": "next"
+    },
+    {
+      "source": "e0046",
+      "target": "e0047",
+      "relation": "next"
+    },
+    {
+      "source": "e0047",
+      "target": "e0048",
+      "relation": "next"
+    },
+    {
+      "source": "e0048",
+      "target": "e0049",
+      "relation": "next"
+    },
+    {
+      "source": "e0049",
+      "target": "e0050",
+      "relation": "next"
+    },
+    {
+      "source": "e0050",
+      "target": "e0051",
+      "relation": "next"
+    },
+    {
+      "source": "e0051",
+      "target": "e0052",
+      "relation": "next"
+    },
+    {
+      "source": "e0052",
+      "target": "e0053",
+      "relation": "next"
+    },
+    {
+      "source": "e0053",
+      "target": "e0054",
+      "relation": "next"
+    },
+    {
+      "source": "e0054",
+      "target": "e0055",
+      "relation": "next"
+    },
+    {
+      "source": "e0055",
+      "target": "e0056",
+      "relation": "next"
+    },
+    {
+      "source": "e0056",
+      "target": "e0057",
+      "relation": "next"
+    },
+    {
+      "source": "e0057",
+      "target": "e0058",
+      "relation": "next"
+    },
+    {
+      "source": "e0058",
+      "target": "e0059",
+      "relation": "next"
+    },
+    {
+      "source": "e0059",
+      "target": "e0060",
+      "relation": "next"
+    }
+  ]
+}

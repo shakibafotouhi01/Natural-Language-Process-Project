@@ -1,0 +1,1150 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "waupee | call | hawk",
+      "sent_id": 0,
+      "sentence": "Waupee, called the White Hawk, lived deep in the forest where animals were plentiful.",
+      "subj": "waupee",
+      "verb": "call",
+      "obj": "hawk"
+    },
+    {
+      "id": "e0001",
+      "label": "he | return | \u2205",
+      "sent_id": 1,
+      "sentence": "Every day he returned from hunting with a hefty catch, for he was one of the most skilled and lucky hunters in his tribe.",
+      "subj": "he",
+      "verb": "return",
+      "obj": ""
+    },
+    {
+      "id": "e0002",
+      "label": "eye | shine | fire",
+      "sent_id": 2,
+      "sentence": "His body was strong like cedar, his eyes shone with youthful fire, and no forest was too dark for him to explore.",
+      "subj": "eye",
+      "verb": "shine",
+      "obj": "fire"
+    },
+    {
+      "id": "e0003",
+      "label": "he | follow | trail",
+      "sent_id": 3,
+      "sentence": "He could follow any trail, whether made by bird or beast.",
+      "subj": "he",
+      "verb": "follow",
+      "obj": "trail"
+    },
+    {
+      "id": "e0004",
+      "label": "he | travel | \u2205",
+      "sent_id": 4,
+      "sentence": "One day, he traveled farther than ever before, moving through an open woodland that let him see across a great distance.",
+      "subj": "he",
+      "verb": "travel",
+      "obj": ""
+    },
+    {
+      "id": "e0005",
+      "label": "he | spot | light",
+      "sent_id": 5,
+      "sentence": "Ahead, he spotted light shining through distant trees, and knew he was near a wide prairie.",
+      "subj": "he",
+      "verb": "spot",
+      "obj": "light"
+    },
+    {
+      "id": "e0006",
+      "label": "\u2205 | stretch | \u2205",
+      "sent_id": 6,
+      "sentence": "The plain stretched far, covered in tall blue grass and bright with flowers in every color.",
+      "subj": "",
+      "verb": "stretch",
+      "obj": ""
+    },
+    {
+      "id": "e0007",
+      "label": "he | come | ring",
+      "sent_id": 7,
+      "sentence": "Walking without a path, enjoying the breeze and the open land, he suddenly came upon a ring worn into the grass and flowers, as if footsteps had danced lightly around and around.",
+      "subj": "he",
+      "verb": "come",
+      "obj": "ring"
+    },
+    {
+      "id": "e0008",
+      "label": "it | be | \u2205",
+      "sent_id": 8,
+      "sentence": "But it was strange\u2014so strange that the White Hawk stopped to stare closely.",
+      "subj": "it",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0009",
+      "label": "\u2205 | be | path",
+      "sent_id": 9,
+      "sentence": "There was no path leading to the circle, not a crushed leaf, broken branch, or any sign of a footprint coming or going.",
+      "subj": "",
+      "verb": "be",
+      "obj": "path"
+    },
+    {
+      "id": "e0010",
+      "label": "he | decide | \u2205",
+      "sent_id": 10,
+      "sentence": "Curious, he decided to hide nearby and wait to see what this circle was about.",
+      "subj": "he",
+      "verb": "decide",
+      "obj": ""
+    },
+    {
+      "id": "e0011",
+      "label": "he | see | \u2205",
+      "sent_id": 12,
+      "sentence": "Looking up toward the sound, he saw a small, cloud-like basket drifting down from above.",
+      "subj": "he",
+      "verb": "see",
+      "obj": ""
+    },
+    {
+      "id": "e0012",
+      "label": "it | seem | tiny",
+      "sent_id": 13,
+      "sentence": "At first it seemed tiny, barely more than a wisp that the wind could blow away.",
+      "subj": "it",
+      "verb": "seem",
+      "obj": "tiny"
+    },
+    {
+      "id": "e0013",
+      "label": "it | grow | \u2205",
+      "sent_id": 14,
+      "sentence": "But as it neared, it grew larger, and the music rang clearer and sweeter.",
+      "subj": "it",
+      "verb": "grow",
+      "obj": ""
+    },
+    {
+      "id": "e0014",
+      "label": "it | look | basket",
+      "sent_id": 15,
+      "sentence": "When it touched the ground, it looked like a basket holding twelve sisters\u2014each more beautiful and graceful than any he had ever seen.",
+      "subj": "it",
+      "verb": "look",
+      "obj": "basket"
+    },
+    {
+      "id": "e0015",
+      "label": "sister | leapt | \u2205",
+      "sent_id": 16,
+      "sentence": "The moment the basket landed, the sisters leapt out and began to dance joyfully in the magical ring, striking a shining ball that sang the loveliest melodies and kept time with their steps.",
+      "subj": "sister",
+      "verb": "leapt",
+      "obj": ""
+    },
+    {
+      "id": "e0016",
+      "label": "hawk | watch | place",
+      "sent_id": 17,
+      "sentence": "From his hiding place, White Hawk watched, captivated by their movements and beauty.",
+      "subj": "hawk",
+      "verb": "watch",
+      "obj": "place"
+    },
+    {
+      "id": "e0017",
+      "label": "he | admire | \u2205",
+      "sent_id": 18,
+      "sentence": "He admired all, but the youngest sister caught his heart most.",
+      "subj": "he",
+      "verb": "admire",
+      "obj": ""
+    },
+    {
+      "id": "e0018",
+      "label": "he | long | \u2205",
+      "sent_id": 19,
+      "sentence": "He longed to be near her, to hold her, to call her his own.",
+      "subj": "he",
+      "verb": "long",
+      "obj": ""
+    },
+    {
+      "id": "e0019",
+      "label": "he | dash | \u2205",
+      "sent_id": 20,
+      "sentence": "Unable to remain silent any longer, he dashed forward to seize the twelfth beauty who had enchanted him.",
+      "subj": "he",
+      "verb": "dash",
+      "obj": ""
+    },
+    {
+      "id": "e0020",
+      "label": "sister | spot | he",
+      "sent_id": 21,
+      "sentence": "But the sisters, quick as birds, spotted him and jumped back into the basket, which floated swiftly upward, carrying them away.",
+      "subj": "sister",
+      "verb": "spot",
+      "obj": "he"
+    },
+    {
+      "id": "e0021",
+      "label": "waupee | star | \u2205",
+      "sent_id": 22,
+      "sentence": "Grieving his bad luck, Waupee stared longingly as the basket rose and vanished into the sky.",
+      "subj": "waupee",
+      "verb": "star",
+      "obj": ""
+    },
+    {
+      "id": "e0022",
+      "label": "he | say | \u2205",
+      "sent_id": 23,
+      "sentence": "\"They are gone,\" he said sadly, \"and I shall never see them again.\"",
+      "subj": "he",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0023",
+      "label": "he | return | lodge",
+      "sent_id": 24,
+      "sentence": "He returned to his lonely lodge but found no peace.",
+      "subj": "he",
+      "verb": "return",
+      "obj": "lodge"
+    },
+    {
+      "id": "e0024",
+      "label": "he | watch | sky",
+      "sent_id": 25,
+      "sentence": "Outside, he could only watch the sky, which had taken away the only one he had ever loved.",
+      "subj": "he",
+      "verb": "watch",
+      "obj": "sky"
+    },
+    {
+      "id": "e0025",
+      "label": "hawk | return | time",
+      "sent_id": 26,
+      "sentence": "The next day, at the same time, White Hawk returned to the prairie and took his place near the ring.",
+      "subj": "hawk",
+      "verb": "return",
+      "obj": "time"
+    },
+    {
+      "id": "e0026",
+      "label": "he | change | opossum",
+      "sent_id": 27,
+      "sentence": "To trick the sisters, he changed into an opossum, sitting among the grass as if chewing quietly.",
+      "subj": "he",
+      "verb": "change",
+      "obj": "opossum"
+    },
+    {
+      "id": "e0027",
+      "label": "basket | appear | \u2205",
+      "sent_id": 28,
+      "sentence": "Soon the basket appeared again, descending with its sweet music.",
+      "subj": "basket",
+      "verb": "appear",
+      "obj": ""
+    },
+    {
+      "id": "e0028",
+      "label": "he | creep | circle",
+      "sent_id": 29,
+      "sentence": "He crept toward the circle, but the moment the sisters saw him, they jumped up startled and climbed into their basket.",
+      "subj": "he",
+      "verb": "creep",
+      "obj": "circle"
+    },
+    {
+      "id": "e0029",
+      "label": "it | rise | \u2205",
+      "sent_id": 30,
+      "sentence": "It rose a little before one of the elder sisters said, \u201cMaybe it\u2019s come to show us how mortals play this game.\u201d",
+      "subj": "it",
+      "verb": "rise",
+      "obj": ""
+    },
+    {
+      "id": "e0030",
+      "label": "\u2205 | reply | \u2205",
+      "sent_id": 31,
+      "sentence": "The youngest replied, \u201cNo, quick, let\u2019s go up,\u201d and together they rose out of sight.",
+      "subj": "",
+      "verb": "reply",
+      "obj": ""
+    },
+    {
+      "id": "e0031",
+      "label": "hawk | shed | disguise",
+      "sent_id": 32,
+      "sentence": "White Hawk shed his disguise and slowly walked back to his lodge, sorrow filling his heart.",
+      "subj": "hawk",
+      "verb": "shed",
+      "obj": "disguise"
+    },
+    {
+      "id": "e0032",
+      "label": "night | seem | \u2205",
+      "sent_id": 33,
+      "sentence": "The night that followed seemed unbearably long to the lonely hunter.",
+      "subj": "night",
+      "verb": "seem",
+      "obj": ""
+    },
+    {
+      "id": "e0033",
+      "label": "thought | stay | sister",
+      "sent_id": 34,
+      "sentence": "His thoughts stayed with the beautiful youngest sister.",
+      "subj": "thought",
+      "verb": "stay",
+      "obj": "sister"
+    },
+    {
+      "id": "e0034",
+      "label": "he | return | spot",
+      "sent_id": 35,
+      "sentence": "Early the next day, he returned once more to the enchanted spot, both hopeful and afraid, his soul heavy with longing.",
+      "subj": "he",
+      "verb": "return",
+      "obj": "spot"
+    },
+    {
+      "id": "e0035",
+      "label": "he | know | \u2205",
+      "sent_id": 36,
+      "sentence": "He knew a third failure would be his end.",
+      "subj": "he",
+      "verb": "know",
+      "obj": ""
+    },
+    {
+      "id": "e0036",
+      "label": "he | find | stump",
+      "sent_id": 37,
+      "sentence": "Nearby he found an old moss-covered stump, home to some traveling mice resting on their way to visit relatives beyond the prairie.",
+      "subj": "he",
+      "verb": "find",
+      "obj": "stump"
+    },
+    {
+      "id": "e0037",
+      "label": "he | charm | \u2205",
+      "sent_id": 38,
+      "sentence": "He was so charmed by their small, neat forms that he decided to become a mouse.",
+      "subj": "he",
+      "verb": "charm",
+      "obj": ""
+    },
+    {
+      "id": "e0038",
+      "label": "he | change | \u2205",
+      "sent_id": 39,
+      "sentence": "After setting the stump close to the ring, he quietly changed and scurried about, blending with the other mice, but always keeping an eye and ear trained on the sky.",
+      "subj": "he",
+      "verb": "change",
+      "obj": ""
+    },
+    {
+      "id": "e0039",
+      "label": "sister | arrive | \u2205",
+      "sent_id": 40,
+      "sentence": "Soon the sisters arrived, and as usual they began their dance.",
+      "subj": "sister",
+      "verb": "arrive",
+      "obj": ""
+    },
+    {
+      "id": "e0040",
+      "label": "young | say | \u2205",
+      "sent_id": 41,
+      "sentence": "\u201cLook,\u201d said the youngest, \u201cthat stump wasn\u2019t here before.\u201d",
+      "subj": "young",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0041",
+      "label": "\u2205 | frighten | \u2205",
+      "sent_id": 42,
+      "sentence": "She ran toward the basket, frightened.",
+      "subj": "",
+      "verb": "frighten",
+      "obj": ""
+    },
+    {
+      "id": "e0042",
+      "label": "sister | smile | \u2205",
+      "sent_id": 43,
+      "sentence": "The other sisters only smiled and gathered around the stump, tapping it playfully\u2014when suddenly the mice scattered.",
+      "subj": "sister",
+      "verb": "smile",
+      "obj": ""
+    },
+    {
+      "id": "e0043",
+      "label": "waupee | be | they",
+      "sent_id": 44,
+      "sentence": "Among them was Waupee in mouse form.",
+      "subj": "waupee",
+      "verb": "be",
+      "obj": "they"
+    },
+    {
+      "id": "e0044",
+      "label": "sister | catch | \u2205",
+      "sent_id": 45,
+      "sentence": "The sisters caught and killed all the mice except one, which the youngest chased.",
+      "subj": "sister",
+      "verb": "catch",
+      "obj": ""
+    },
+    {
+      "id": "e0045",
+      "label": "hawk | appear | form",
+      "sent_id": 46,
+      "sentence": "Just as she raised a silver stick to finish it, the White Hawk appeared in his true form and caught the little sister in his arms.",
+      "subj": "hawk",
+      "verb": "appear",
+      "obj": "form"
+    },
+    {
+      "id": "e0046",
+      "label": "eleven | jump | basket",
+      "sent_id": 47,
+      "sentence": "The other eleven jumped back into the basket and quickly rose to the heavens.",
+      "subj": "eleven",
+      "verb": "jump",
+      "obj": "basket"
+    },
+    {
+      "id": "e0047",
+      "label": "waupee | devote | himself",
+      "sent_id": 48,
+      "sentence": "Waupee devoted himself to winning his bride\u2019s affection.",
+      "subj": "waupee",
+      "verb": "devote",
+      "obj": "himself"
+    },
+    {
+      "id": "e0048",
+      "label": "he | wipe | tear",
+      "sent_id": 49,
+      "sentence": "He wiped her tears, told stories of his hunting adventures, and spoke of the wonders of life on earth.",
+      "subj": "he",
+      "verb": "wipe",
+      "obj": "tear"
+    },
+    {
+      "id": "e0049",
+      "label": "he | stay | \u2205",
+      "sent_id": 50,
+      "sentence": "He stayed close, gently leading her toward his home.",
+      "subj": "he",
+      "verb": "stay",
+      "obj": ""
+    },
+    {
+      "id": "e0050",
+      "label": "heart | swell | joy",
+      "sent_id": 51,
+      "sentence": "His heart swelled with joy as he entered their lodge with her, becoming one of the happiest men alive.",
+      "subj": "heart",
+      "verb": "swell",
+      "obj": "joy"
+    },
+    {
+      "id": "e0051",
+      "label": "season | pass | \u2205",
+      "sent_id": 52,
+      "sentence": "Seasons passed swiftly, and when spring came again, their happiness grew with the birth of a beautiful boy.",
+      "subj": "season",
+      "verb": "pass",
+      "obj": ""
+    },
+    {
+      "id": "e0052",
+      "label": "blessing | bring | what",
+      "sent_id": 53,
+      "sentence": "What more could an earthly blessing bring?",
+      "subj": "blessing",
+      "verb": "bring",
+      "obj": "what"
+    },
+    {
+      "id": "e0053",
+      "label": "wife | be | daughter",
+      "sent_id": 54,
+      "sentence": "His wife was the daughter of a star, and as the earth grew familiar, she began to long for her father\u2019s home.",
+      "subj": "wife",
+      "verb": "be",
+      "obj": "daughter"
+    },
+    {
+      "id": "e0054",
+      "label": "she | keep | secret",
+      "sent_id": 55,
+      "sentence": "But she kept this secret from Waupee.",
+      "subj": "she",
+      "verb": "keep",
+      "obj": "secret"
+    },
+    {
+      "id": "e0055",
+      "label": "she | remember | magic",
+      "sent_id": 56,
+      "sentence": "She remembered the magic that once carried her down, and while her husband was away hunting, she quietly made a wicker basket and gathered rare earth treasures and fine foods to please her father.",
+      "subj": "she",
+      "verb": "remember",
+      "obj": "magic"
+    },
+    {
+      "id": "e0056",
+      "label": "she | take | son",
+      "sent_id": 57,
+      "sentence": "One day, when Waupee was gone and all was prepared, she took their son to the enchanted ring, climbed into the basket, and began her magic song.",
+      "subj": "she",
+      "verb": "take",
+      "obj": "son"
+    },
+    {
+      "id": "e0057",
+      "label": "melody | recognize | \u2205",
+      "sent_id": 58,
+      "sentence": "The basket rose slowly, the sad, low melody carried on the wind\u2014one her husband recognized instantly.",
+      "subj": "melody",
+      "verb": "recognize",
+      "obj": ""
+    },
+    {
+      "id": "e0058",
+      "label": "he | run | prairie",
+      "sent_id": 59,
+      "sentence": "He ran to the prairie, but despite his fastest pace, he could not reach the ring before his wife and child rose beyond his grasp.",
+      "subj": "he",
+      "verb": "run",
+      "obj": "prairie"
+    },
+    {
+      "id": "e0059",
+      "label": "he | call | they",
+      "sent_id": 60,
+      "sentence": "He called after them with desperate cries, but they only drifted farther away until the basket became a speck and vanished.",
+      "subj": "he",
+      "verb": "call",
+      "obj": "they"
+    },
+    {
+      "id": "e0060",
+      "label": "waupee | feel | break",
+      "sent_id": 61,
+      "sentence": "His head bowed low, Waupee felt his heart break.",
+      "subj": "waupee",
+      "verb": "feel",
+      "obj": "break"
+    },
+    {
+      "id": "e0061",
+      "label": "waupee | spend | winter",
+      "sent_id": 62,
+      "sentence": "Waupee spent the long winter and summer mourning, but found no comfort.",
+      "subj": "waupee",
+      "verb": "spend",
+      "obj": "winter"
+    },
+    {
+      "id": "e0062",
+      "label": "spirit | come | \u2205",
+      "sent_id": 63,
+      "sentence": "The beautiful spirit had come and gone, and he would see her no more.",
+      "subj": "spirit",
+      "verb": "come",
+      "obj": ""
+    },
+    {
+      "id": "e0063",
+      "label": "he | grieve | loss",
+      "sent_id": 64,
+      "sentence": "He grieved the loss of his wife deeply\u2014and even more, their son, who had his mother\u2019s beauty and his own strength.",
+      "subj": "he",
+      "verb": "grieve",
+      "obj": "loss"
+    },
+    {
+      "id": "e0064",
+      "label": "wife | return | star",
+      "sent_id": 65,
+      "sentence": "Meanwhile, his wife had returned to the stars.",
+      "subj": "wife",
+      "verb": "return",
+      "obj": "star"
+    },
+    {
+      "id": "e0065",
+      "label": "she | forget | life",
+      "sent_id": 66,
+      "sentence": "Busy with joyful tasks in her father\u2019s realm, she had nearly forgotten her life on earth.",
+      "subj": "she",
+      "verb": "forget",
+      "obj": "life"
+    },
+    {
+      "id": "e0066",
+      "label": "son | grow | father",
+      "sent_id": 67,
+      "sentence": "But her son grew restless, more like his father every day, and longed to visit where he was born.",
+      "subj": "son",
+      "verb": "grow",
+      "obj": "father"
+    },
+    {
+      "id": "e0067",
+      "label": "chief | tell | daughter",
+      "sent_id": 68,
+      "sentence": "One day the Star Chief told his daughter, \u201cGo, my child, and take your son down to his father.",
+      "subj": "chief",
+      "verb": "tell",
+      "obj": "daughter"
+    },
+    {
+      "id": "e0068",
+      "label": "\u2205 | ask | he",
+      "sent_id": 69,
+      "sentence": "Ask him to come with you to live among us, but tell him he must bring a gift\u2014a piece of every kind of bird and animal he has hunted.\u201d",
+      "subj": "",
+      "verb": "ask",
+      "obj": "he"
+    },
+    {
+      "id": "e0069",
+      "label": "she | take | boy",
+      "sent_id": 70,
+      "sentence": "She took the boy and descended to earth.",
+      "subj": "she",
+      "verb": "take",
+      "obj": "boy"
+    },
+    {
+      "id": "e0070",
+      "label": "hawk | hear | \u2205",
+      "sent_id": 71,
+      "sentence": "White Hawk, often near the magic spot, heard her voice coming from the sky.",
+      "subj": "hawk",
+      "verb": "hear",
+      "obj": ""
+    },
+    {
+      "id": "e0071",
+      "label": "he | hold | wife",
+      "sent_id": 72,
+      "sentence": "His heart leapt as he saw the two; soon he held his wife and son once more.",
+      "subj": "he",
+      "verb": "hold",
+      "obj": "wife"
+    },
+    {
+      "id": "e0072",
+      "label": "he | hear | message",
+      "sent_id": 73,
+      "sentence": "He heard the message from the Star Chief and began hunting with great eagerness, working day and night to collect every curious and beautiful animal and bird.",
+      "subj": "he",
+      "verb": "hear",
+      "obj": "message"
+    },
+    {
+      "id": "e0073",
+      "label": "he | save | foot",
+      "sent_id": 74,
+      "sentence": "He saved only a foot, a wing, or a tail from each.",
+      "subj": "he",
+      "verb": "save",
+      "obj": "foot"
+    },
+    {
+      "id": "e0074",
+      "label": "waupee | visit | place",
+      "sent_id": 75,
+      "sentence": "When his gifts were ready, Waupee visited every favorite place one last time\u2014the hill where he watched the sunrise, the stream where he played as a boy, and the quiet lodge he would no longer live in.",
+      "subj": "waupee",
+      "verb": "visit",
+      "obj": "place"
+    },
+    {
+      "id": "e0075",
+      "label": "he | take | wife",
+      "sent_id": 76,
+      "sentence": "Finally, at the magic circle, with tear-filled eyes, he took his wife and son by the hands, and all three entered the basket.",
+      "subj": "he",
+      "verb": "take",
+      "obj": "wife"
+    },
+    {
+      "id": "e0076",
+      "label": "it | rise | \u2205",
+      "sent_id": 77,
+      "sentence": "It rose swiftly, carrying them beyond the reach of birds or mortal sight to the shining starry plains.",
+      "subj": "it",
+      "verb": "rise",
+      "obj": ""
+    },
+    {
+      "id": "e0077",
+      "label": "chief | welcome | they",
+      "sent_id": 78,
+      "sentence": "Upon their arrival, the Star Chief welcomed them with a feast and declared that all might stay true to themselves or choose an earthly gift as they wished.",
+      "subj": "chief",
+      "verb": "welcome",
+      "obj": "they"
+    },
+    {
+      "id": "e0078",
+      "label": "those | turn | animal",
+      "sent_id": 80,
+      "sentence": "Those who chose tails or claws turned into animals and ran off.",
+      "subj": "those",
+      "verb": "turn",
+      "obj": "animal"
+    },
+    {
+      "id": "e0079",
+      "label": "rest | become | bird",
+      "sent_id": 81,
+      "sentence": "The rest became birds and flew away.",
+      "subj": "rest",
+      "verb": "become",
+      "obj": "bird"
+    },
+    {
+      "id": "e0080",
+      "label": "waupee | choose | feather",
+      "sent_id": 82,
+      "sentence": "Waupee chose a white hawk feather, his wife and son followed his choice, and each became a white hawk.",
+      "subj": "waupee",
+      "verb": "choose",
+      "obj": "feather"
+    },
+    {
+      "id": "e0081",
+      "label": "hawk | follow | bird",
+      "sent_id": 83,
+      "sentence": "With wings spread wide, White Hawk and his family followed the other birds back to earth, still shining with the light of the starry plains in their eyes and carrying the freedom of the heavenly winds beneath their wings.",
+      "subj": "hawk",
+      "verb": "follow",
+      "obj": "bird"
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    },
+    {
+      "source": "e0029",
+      "target": "e0030",
+      "relation": "next"
+    },
+    {
+      "source": "e0030",
+      "target": "e0031",
+      "relation": "next"
+    },
+    {
+      "source": "e0031",
+      "target": "e0032",
+      "relation": "next"
+    },
+    {
+      "source": "e0032",
+      "target": "e0033",
+      "relation": "next"
+    },
+    {
+      "source": "e0033",
+      "target": "e0034",
+      "relation": "next"
+    },
+    {
+      "source": "e0034",
+      "target": "e0035",
+      "relation": "next"
+    },
+    {
+      "source": "e0035",
+      "target": "e0036",
+      "relation": "next"
+    },
+    {
+      "source": "e0036",
+      "target": "e0037",
+      "relation": "next"
+    },
+    {
+      "source": "e0037",
+      "target": "e0038",
+      "relation": "next"
+    },
+    {
+      "source": "e0038",
+      "target": "e0039",
+      "relation": "next"
+    },
+    {
+      "source": "e0039",
+      "target": "e0040",
+      "relation": "next"
+    },
+    {
+      "source": "e0040",
+      "target": "e0041",
+      "relation": "next"
+    },
+    {
+      "source": "e0041",
+      "target": "e0042",
+      "relation": "next"
+    },
+    {
+      "source": "e0042",
+      "target": "e0043",
+      "relation": "next"
+    },
+    {
+      "source": "e0043",
+      "target": "e0044",
+      "relation": "next"
+    },
+    {
+      "source": "e0044",
+      "target": "e0045",
+      "relation": "next"
+    },
+    {
+      "source": "e0045",
+      "target": "e0046",
+      "relation": "next"
+    },
+    {
+      "source": "e0046",
+      "target": "e0047",
+      "relation": "next"
+    },
+    {
+      "source": "e0047",
+      "target": "e0048",
+      "relation": "next"
+    },
+    {
+      "source": "e0048",
+      "target": "e0049",
+      "relation": "next"
+    },
+    {
+      "source": "e0049",
+      "target": "e0050",
+      "relation": "next"
+    },
+    {
+      "source": "e0050",
+      "target": "e0051",
+      "relation": "next"
+    },
+    {
+      "source": "e0051",
+      "target": "e0052",
+      "relation": "next"
+    },
+    {
+      "source": "e0052",
+      "target": "e0053",
+      "relation": "next"
+    },
+    {
+      "source": "e0053",
+      "target": "e0054",
+      "relation": "next"
+    },
+    {
+      "source": "e0054",
+      "target": "e0055",
+      "relation": "next"
+    },
+    {
+      "source": "e0055",
+      "target": "e0056",
+      "relation": "next"
+    },
+    {
+      "source": "e0056",
+      "target": "e0057",
+      "relation": "next"
+    },
+    {
+      "source": "e0057",
+      "target": "e0058",
+      "relation": "next"
+    },
+    {
+      "source": "e0058",
+      "target": "e0059",
+      "relation": "next"
+    },
+    {
+      "source": "e0059",
+      "target": "e0060",
+      "relation": "next"
+    },
+    {
+      "source": "e0060",
+      "target": "e0061",
+      "relation": "next"
+    },
+    {
+      "source": "e0061",
+      "target": "e0062",
+      "relation": "next"
+    },
+    {
+      "source": "e0062",
+      "target": "e0063",
+      "relation": "next"
+    },
+    {
+      "source": "e0063",
+      "target": "e0064",
+      "relation": "next"
+    },
+    {
+      "source": "e0064",
+      "target": "e0065",
+      "relation": "next"
+    },
+    {
+      "source": "e0065",
+      "target": "e0066",
+      "relation": "next"
+    },
+    {
+      "source": "e0066",
+      "target": "e0067",
+      "relation": "next"
+    },
+    {
+      "source": "e0067",
+      "target": "e0068",
+      "relation": "next"
+    },
+    {
+      "source": "e0068",
+      "target": "e0069",
+      "relation": "next"
+    },
+    {
+      "source": "e0069",
+      "target": "e0070",
+      "relation": "next"
+    },
+    {
+      "source": "e0070",
+      "target": "e0071",
+      "relation": "next"
+    },
+    {
+      "source": "e0071",
+      "target": "e0072",
+      "relation": "next"
+    },
+    {
+      "source": "e0072",
+      "target": "e0073",
+      "relation": "next"
+    },
+    {
+      "source": "e0073",
+      "target": "e0074",
+      "relation": "next"
+    },
+    {
+      "source": "e0074",
+      "target": "e0075",
+      "relation": "next"
+    },
+    {
+      "source": "e0075",
+      "target": "e0076",
+      "relation": "next"
+    },
+    {
+      "source": "e0076",
+      "target": "e0077",
+      "relation": "next"
+    },
+    {
+      "source": "e0077",
+      "target": "e0078",
+      "relation": "next"
+    },
+    {
+      "source": "e0078",
+      "target": "e0079",
+      "relation": "next"
+    },
+    {
+      "source": "e0079",
+      "target": "e0080",
+      "relation": "next"
+    },
+    {
+      "source": "e0080",
+      "target": "e0081",
+      "relation": "next"
+    }
+  ]
+}

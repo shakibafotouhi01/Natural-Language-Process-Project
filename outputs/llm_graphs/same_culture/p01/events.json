@@ -1,0 +1,130 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "",
+    "verb": "be",
+    "obj": "dervish",
+    "label": "\u2205 | be | dervish",
+    "sentence": "Once, there was a wandering dervish known for his deep faith and devotion."
+  },
+  {
+    "sent_id": 1,
+    "subj": "he",
+    "verb": "lose",
+    "obj": "desert",
+    "label": "he | lose | desert",
+    "sentence": "He was lost in the desert, starving and desperate for food."
+  },
+  {
+    "sent_id": 2,
+    "subj": "he",
+    "verb": "spot",
+    "obj": "sack",
+    "label": "he | spot | sack",
+    "sentence": "As he walked along an old path, he spotted an empty fruit sack left by someone who had passed before."
+  },
+  {
+    "sent_id": 3,
+    "subj": "he",
+    "verb": "pick",
+    "obj": "it",
+    "label": "he | pick | it",
+    "sentence": "Gratefully, he picked it up, slung it over his shoulder, and prayed aloud, \u201cThank God for giving a starving man an empty fruit sack,\u201d before continuing on."
+  },
+  {
+    "sent_id": 4,
+    "subj": "he",
+    "verb": "find",
+    "obj": "bow",
+    "label": "he | find | bow",
+    "sentence": "A little farther ahead, he found an old hunting bow on the ground, but its string was broken."
+  },
+  {
+    "sent_id": 5,
+    "subj": "he",
+    "verb": "place",
+    "obj": "bow",
+    "label": "he | place | bow",
+    "sentence": "He placed the bow into his sack and again gave thanks aloud, \u201cThank God for giving a starving man a hunting bow with a broken string.\u201d"
+  },
+  {
+    "sent_id": 6,
+    "subj": "he",
+    "verb": "see",
+    "obj": "tree",
+    "label": "he | see | tree",
+    "sentence": "Further along the road, he saw a dead tree with no fruit."
+  },
+  {
+    "sent_id": 7,
+    "subj": "he",
+    "verb": "break",
+    "obj": "branch",
+    "label": "he | break | branch",
+    "sentence": "He broke off some dry branches and added them to his sack, once more praying aloud, \u201cThank God for guiding a starving man to a dead fruit tree.\u201d"
+  },
+  {
+    "sent_id": 8,
+    "subj": "he",
+    "verb": "discover",
+    "obj": "pot",
+    "label": "he | discover | pot",
+    "sentence": "As he walked on, he discovered a battered cooking pot lying on the ground."
+  },
+  {
+    "sent_id": 9,
+    "subj": "he",
+    "verb": "put",
+    "obj": "it",
+    "label": "he | put | it",
+    "sentence": "After blowing off the dust, he put it into his sack and thanked God aloud again, \u201cThank God for giving a starving man a dented old pot full of dust.\u201d"
+  },
+  {
+    "sent_id": 10,
+    "subj": "he",
+    "verb": "find",
+    "obj": "hook",
+    "label": "he | find | hook",
+    "sentence": "Later, he found a lone fishing hook but no pole to go with it."
+  },
+  {
+    "sent_id": 11,
+    "subj": "he",
+    "verb": "pick",
+    "obj": "hook",
+    "label": "he | pick | hook",
+    "sentence": "He picked up the hook, dropped it into his sack, and reiterated his gratitude loudly, \u201cThank God for giving a starving man a fishing hook without a fishing pole.\u201d"
+  },
+  {
+    "sent_id": 12,
+    "subj": "path",
+    "verb": "bring",
+    "obj": "he",
+    "label": "path | bring | he",
+    "sentence": "After many days of wandering, the path finally brought him to a vast river, so wide he could not see the opposite shore."
+  },
+  {
+    "sent_id": 13,
+    "subj": "dervish",
+    "verb": "sink",
+    "obj": "knee",
+    "label": "dervish | sink | knee",
+    "sentence": "The old dervish sank to his knees by the water\u2019s edge and prayed loudly, \u201cThank God for leading a starving man to a river so wide that crossing it seems impossible.\u201d"
+  },
+  {
+    "sent_id": 14,
+    "subj": "he",
+    "verb": "tie",
+    "obj": "hook",
+    "label": "he | tie | hook",
+    "sentence": "Then, with his calm spirit and faith, he tied the fishing hook to the broken bowstring, using the bow as a makeshift fishing rod."
+  },
+  {
+    "sent_id": 15,
+    "subj": "he",
+    "verb": "build",
+    "obj": "fire",
+    "label": "he | build | fire",
+    "sentence": "Using the dry branches, he built a fire and cooked the fish he caught in the old pot, finally nourishing himself with a meal born of patience and trust."
+  }
+]

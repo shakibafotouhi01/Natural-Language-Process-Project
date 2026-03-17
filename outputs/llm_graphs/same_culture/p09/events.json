@@ -1,0 +1,1754 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "zal",
+    "verb": "desire",
+    "obj": "",
+    "label": "zal | desire | \u2205",
+    "sentence": "Soon Zal desired to explore the kingdom."
+  },
+  {
+    "sent_id": 1,
+    "subj": "he",
+    "verb": "set",
+    "obj": "escort",
+    "label": "he | set | escort",
+    "sentence": "He set out with a grand escort and, after some travel, proudly entered Kabul."
+  },
+  {
+    "sent_id": 2,
+    "subj": "mihrab",
+    "verb": "be",
+    "obj": "",
+    "label": "mihrab | be | \u2205",
+    "sentence": "Mihrab, the ruler there and a descendant of the serpent Zohak, was wise and noble."
+  },
+  {
+    "sent_id": 3,
+    "subj": "mihrab",
+    "verb": "go",
+    "obj": "",
+    "label": "mihrab | go | \u2205",
+    "sentence": "Hearing that Zal, son of Sam and to whom he paid tribute, was approaching, Mihrab went out to greet him with his nobles and slaves bearing valuable gifts."
+  },
+  {
+    "sent_id": 4,
+    "subj": "zal",
+    "verb": "prepare",
+    "obj": "feast",
+    "label": "zal | prepare | feast",
+    "sentence": "Zal, upon learning of Mihrab\u2019s arrival, prepared a feast in his tents."
+  },
+  {
+    "sent_id": 5,
+    "subj": "mihrab",
+    "verb": "din",
+    "obj": "he",
+    "label": "mihrab | din | he",
+    "sentence": "Mihrab and his retinue dined with him late into the night."
+  },
+  {
+    "sent_id": 6,
+    "subj": "zal",
+    "verb": "praise",
+    "obj": "beauty",
+    "label": "zal | praise | beauty",
+    "sentence": "After the guests left, Zal praised Mihrab\u2019s beauty."
+  },
+  {
+    "sent_id": 7,
+    "subj": "nobleman",
+    "verb": "stand",
+    "obj": "",
+    "label": "nobleman | stand | \u2205",
+    "sentence": "Then a nobleman stood and told him, \u201cO Zal, you know not true beauty since you have not seen this man\u2019s daughter."
+  },
+  {
+    "sent_id": 8,
+    "subj": "face",
+    "verb": "shin",
+    "obj": "",
+    "label": "face | shin | \u2205",
+    "sentence": "She is like a slender cypress, her face shines brighter than the sun, and her mouth is like a pomegranate blossom.\u201d"
+  },
+  {
+    "sent_id": 9,
+    "subj": "heart",
+    "verb": "fill",
+    "obj": "longing",
+    "label": "heart | fill | longing",
+    "sentence": "Hearing this, Zal\u2019s heart was filled with longing, and he could not sleep, thinking of her beauty."
+  },
+  {
+    "sent_id": 10,
+    "subj": "he",
+    "verb": "open",
+    "obj": "door",
+    "label": "he | open | door",
+    "sentence": "At dawn, he opened his court doors, and the nobles gathered according to rank."
+  },
+  {
+    "sent_id": 11,
+    "subj": "mihrab",
+    "verb": "arrive",
+    "obj": "",
+    "label": "mihrab | arrive | \u2205",
+    "sentence": "Mihrab arrived to greet him from outside the city gates."
+  },
+  {
+    "sent_id": 12,
+    "subj": "zal",
+    "verb": "want",
+    "obj": "",
+    "label": "zal | want | \u2205",
+    "sentence": "Zal wanted Mihrab to ask a favor of him."
+  },
+  {
+    "sent_id": 13,
+    "subj": "mihrab",
+    "verb": "speak",
+    "obj": "",
+    "label": "mihrab | speak | \u2205",
+    "sentence": "Mihrab spoke: \u201cO mighty ruler, I ask only that you stay as a guest under my roof so my heart may rejoice in your presence.\u201d"
+  },
+  {
+    "sent_id": 14,
+    "subj": "zal",
+    "verb": "answer",
+    "obj": "",
+    "label": "zal | answer | \u2205",
+    "sentence": "Zal answered, \u201cO King, do not ask this favor; it cannot be done."
+  },
+  {
+    "sent_id": 15,
+    "subj": "shah",
+    "verb": "be",
+    "obj": "",
+    "label": "shah | be | \u2205",
+    "sentence": "The Shah and Sam would be angry if they knew I dined under the roof of Zohak\u2019s kin."
+  },
+  {
+    "sent_id": 16,
+    "subj": "",
+    "verb": "ask",
+    "obj": "anything",
+    "label": "\u2205 | ask | anything",
+    "sentence": "Ask for anything else.\u201d"
+  },
+  {
+    "sent_id": 17,
+    "subj": "mihrab",
+    "verb": "leave",
+    "obj": "",
+    "label": "mihrab | leave | \u2205",
+    "sentence": "Mihrab left sadly, bowing before Zal."
+  },
+  {
+    "sent_id": 18,
+    "subj": "zal",
+    "verb": "watch",
+    "obj": "",
+    "label": "zal | watch | \u2205",
+    "sentence": "Zal watched him go and once more praised him."
+  },
+  {
+    "sent_id": 19,
+    "subj": "day",
+    "verb": "pass",
+    "obj": "",
+    "label": "day | pass | \u2205",
+    "sentence": "Then his thoughts returned to the King\u2019s daughter and her beauty; days passed unnoticed as desire consumed him."
+  },
+  {
+    "sent_id": 20,
+    "subj": "mihrab",
+    "verb": "visit",
+    "obj": "quarter",
+    "label": "mihrab | visit | quarter",
+    "sentence": "One morning Mihrab visited the women\u2019s quarters, where he found Sindokht, his wife, and their daughter Rodabeh."
+  },
+  {
+    "sent_id": 21,
+    "subj": "house",
+    "verb": "be",
+    "obj": "garden",
+    "label": "house | be | garden",
+    "sentence": "The house was like a garden full of color and sweet scents, and the two women shone like moons of beauty."
+  },
+  {
+    "sent_id": 22,
+    "subj": "mihrab",
+    "verb": "marvel",
+    "obj": "loveliness",
+    "label": "mihrab | marvel | loveliness",
+    "sentence": "After greeting Rodabeh, Mihrab marveled at her loveliness and blessed her."
+  },
+  {
+    "sent_id": 23,
+    "subj": "sindokht",
+    "verb": "ask",
+    "obj": "mihrab",
+    "label": "sindokht | ask | mihrab",
+    "sentence": "Sindokht asked Mihrab about the stranger in their city\u2019s tents: \u201cTell me, what kind of man is this white-haired son of Sam?"
+  },
+  {
+    "sent_id": 24,
+    "subj": "mihrab",
+    "verb": "reply",
+    "obj": "",
+    "label": "mihrab | reply | \u2205",
+    "sentence": "Is he worthy of our nest, or even the throne?\u201d\n\nMihrab replied, \u201cO fair cypress, the son of Sam is a hero among men."
+  },
+  {
+    "sent_id": 25,
+    "subj": "heart",
+    "verb": "be",
+    "obj": "lion",
+    "label": "heart | be | lion",
+    "sentence": "His heart is like a lion\u2019s, his strength an elephant\u2019s."
+  },
+  {
+    "sent_id": 26,
+    "subj": "he",
+    "verb": "be",
+    "obj": "crocodile",
+    "label": "he | be | crocodile",
+    "sentence": "He is graceful to friends, a fierce crocodile to foes."
+  },
+  {
+    "sent_id": 27,
+    "subj": "lock",
+    "verb": "add",
+    "obj": "glory",
+    "label": "lock | add | glory",
+    "sentence": "Even his white locks add to his glory, turning flaws into beauty.\u201d"
+  },
+  {
+    "sent_id": 28,
+    "subj": "heart",
+    "verb": "burn",
+    "obj": "love",
+    "label": "heart | burn | love",
+    "sentence": "Hearing this, Rodabeh\u2019s heart burned with love for Zal."
+  },
+  {
+    "sent_id": 29,
+    "subj": "she",
+    "verb": "be",
+    "obj": "",
+    "label": "she | be | \u2205",
+    "sentence": "She could neither eat nor rest; she was like one transformed."
+  },
+  {
+    "sent_id": 30,
+    "subj": "she",
+    "verb": "confide",
+    "obj": "slave",
+    "label": "she | confide | slave",
+    "sentence": "Unable to bear it alone, she confided in her beloved slaves, begging them to keep her secret and help ease her troubled heart."
+  },
+  {
+    "sent_id": 31,
+    "subj": "slave",
+    "verb": "beg",
+    "obj": "she",
+    "label": "slave | beg | she",
+    "sentence": "Fearful, the slaves begged her to let go of a man marked by men and rejected by his own father, but Rodabeh would not listen."
+  },
+  {
+    "sent_id": 32,
+    "subj": "wise",
+    "verb": "speak",
+    "obj": "",
+    "label": "wise | speak | \u2205",
+    "sentence": "Seeing her resolve, the wisest among them spoke: \u201cO moon-faced beauty and slender cypress, it shall be done as you wish."
+  },
+  {
+    "sent_id": 33,
+    "subj": "we",
+    "verb": "rest",
+    "obj": "",
+    "label": "we | rest | \u2205",
+    "sentence": "We will not rest until this royal youth lies at your feet.\u201d"
+  },
+  {
+    "sent_id": 34,
+    "subj": "rodabeh",
+    "verb": "be",
+    "obj": "",
+    "label": "rodabeh | be | \u2205",
+    "sentence": "Rodabeh was glad and promised to plant a noble tree for the faithful slave, which would bear riches, jewels, and wisdom."
+  },
+  {
+    "sent_id": 35,
+    "subj": "slave",
+    "verb": "go",
+    "obj": "work",
+    "label": "slave | go | work",
+    "sentence": "The slaves went to work, knowing their plan must be subtle."
+  },
+  {
+    "sent_id": 36,
+    "subj": "they",
+    "verb": "enter",
+    "obj": "garden",
+    "label": "they | enter | garden",
+    "sentence": "Dressed in fine clothes, they cheerfully entered the garden by the river outside the city, picking roses and scattering blossoms in the water to tell fortunes."
+  },
+  {
+    "sent_id": 37,
+    "subj": "they",
+    "verb": "come",
+    "obj": "tent",
+    "label": "they | come | tent",
+    "sentence": "There they came near Zal\u2019s tents."
+  },
+  {
+    "sent_id": 38,
+    "subj": "one",
+    "verb": "say",
+    "obj": "",
+    "label": "one | say | \u2205",
+    "sentence": "Zal noticed them and asked who they were; one said, \u201cThey are slaves sent by the moon of Kabul into the garden of flowers.\u201d\n\nZal\u2019s heart leapt with joy."
+  },
+  {
+    "sent_id": 39,
+    "subj": "he",
+    "verb": "go",
+    "obj": "river",
+    "label": "he | go | river",
+    "sentence": "He went to the river with one page."
+  },
+  {
+    "sent_id": 40,
+    "subj": "he",
+    "verb": "shoot",
+    "obj": "",
+    "label": "he | shoot | \u2205",
+    "sentence": "Seeing a waterbird flying up, he shot and struck it through the heart, and it fell near the rose-gatherers."
+  },
+  {
+    "sent_id": 41,
+    "subj": "he",
+    "verb": "send",
+    "obj": "boy",
+    "label": "he | send | boy",
+    "sentence": "He sent the boy to retrieve it."
+  },
+  {
+    "sent_id": 43,
+    "subj": "he",
+    "verb": "be",
+    "obj": "king",
+    "label": "he | be | king",
+    "sentence": "Surely he is king among men.\u201d"
+  },
+  {
+    "sent_id": 44,
+    "subj": "boy",
+    "verb": "answer",
+    "obj": "",
+    "label": "boy | answer | \u2205",
+    "sentence": "The boy answered, \u201cDon\u2019t you know the son of Sam, the hero?"
+  },
+  {
+    "sent_id": 45,
+    "subj": "",
+    "verb": "be",
+    "obj": "equal",
+    "label": "\u2205 | be | equal",
+    "sentence": "There is no equal in strength or beauty.\u201d"
+  },
+  {
+    "sent_id": 46,
+    "subj": "woman",
+    "verb": "object",
+    "obj": "",
+    "label": "woman | object | \u2205",
+    "sentence": "The women objected, \u201cNay, boast not so."
+  },
+  {
+    "sent_id": 47,
+    "subj": "house",
+    "verb": "hold",
+    "obj": "sun",
+    "label": "house | hold | sun",
+    "sentence": "The house of Mihrab holds a sun that outshines all else.\u201d"
+  },
+  {
+    "sent_id": 48,
+    "subj": "boy",
+    "verb": "smile",
+    "obj": "",
+    "label": "boy | smile | \u2205",
+    "sentence": "The boy smiled and returned to Zal."
+  },
+  {
+    "sent_id": 49,
+    "subj": "zal",
+    "verb": "ask",
+    "obj": "",
+    "label": "zal | ask | \u2205",
+    "sentence": "Zal asked why he smiled so, and he told him what the women said."
+  },
+  {
+    "sent_id": 50,
+    "subj": "zal",
+    "verb": "send",
+    "obj": "he",
+    "label": "zal | send | he",
+    "sentence": "Zal sent him back with gifts of pearl and gold, asking them to stay and carry jewels with their roses."
+  },
+  {
+    "sent_id": 51,
+    "subj": "slave",
+    "verb": "ask",
+    "obj": "",
+    "label": "slave | ask | \u2205",
+    "sentence": "The slave who had sworn to serve Rodabeh asked to see Zal\u2019s face, saying, \u201cA secret known by three is no secret.\u201d"
+  },
+  {
+    "sent_id": 52,
+    "subj": "zal",
+    "verb": "allow",
+    "obj": "it",
+    "label": "zal | allow | it",
+    "sentence": "Zal allowed it, and she told him of Rodabeh\u2019s beauty."
+  },
+  {
+    "sent_id": 53,
+    "subj": "passion",
+    "verb": "grow",
+    "obj": "",
+    "label": "passion | grow | \u2205",
+    "sentence": "His passion grew, and he asked her to show the way to see the maiden."
+  },
+  {
+    "sent_id": 54,
+    "subj": "slave",
+    "verb": "say",
+    "obj": "",
+    "label": "slave | say | \u2205",
+    "sentence": "The slave said, \u201cLet us return to the women\u2019s house."
+  },
+  {
+    "sent_id": 55,
+    "subj": "we",
+    "verb": "praise",
+    "obj": "son",
+    "label": "we | praise | son",
+    "sentence": "We will praise the son of Sam to Rodabeh and weave the net that will trap the lion in his chase of the lamb.\u201d"
+  },
+  {
+    "sent_id": 56,
+    "subj": "zal",
+    "verb": "agree",
+    "obj": "",
+    "label": "zal | agree | \u2205",
+    "sentence": "Zal agreed, and the women returned, joyful, saying, \u201cThe lion is entering the snare, and the wishes of Rodabeh and Zal will come to pass.\u201d"
+  },
+  {
+    "sent_id": 57,
+    "subj": "porter",
+    "verb": "scold",
+    "obj": "they",
+    "label": "porter | scold | they",
+    "sentence": "Yet, at the city gates, a porter scolded them for leaving while the stranger stayed in Kabul."
+  },
+  {
+    "sent_id": 58,
+    "subj": "they",
+    "verb": "calm",
+    "obj": "anger",
+    "label": "they | calm | anger",
+    "sentence": "They calmed his anger and reached Rodabeh."
+  },
+  {
+    "sent_id": 59,
+    "subj": "they",
+    "verb": "tell",
+    "obj": "she",
+    "label": "they | tell | she",
+    "sentence": "They told her of Zal\u2019s beauty and prowess."
+  },
+  {
+    "sent_id": 60,
+    "subj": "she",
+    "verb": "smile",
+    "obj": "",
+    "label": "she | smile | \u2205",
+    "sentence": "She smiled and said, \u201cWhy have you changed your tune?"
+  },
+  {
+    "sent_id": 61,
+    "subj": "you",
+    "verb": "mock",
+    "obj": "youth",
+    "label": "you | mock | youth",
+    "sentence": "You once mocked this bird-reared youth with the sage\u2019s locks, but now sing his praises with loud voices.\u201d"
+  },
+  {
+    "sent_id": 62,
+    "subj": "rodabeh",
+    "verb": "prepare",
+    "obj": "home",
+    "label": "rodabeh | prepare | home",
+    "sentence": "Rodabeh secretly prepared her home to honor a guest, adorning it with brocades from Rome and silks from India, perfumed with musk and ambergris, and blossoming with flowers."
+  },
+  {
+    "sent_id": 63,
+    "subj": "all",
+    "verb": "be",
+    "obj": "",
+    "label": "all | be | \u2205",
+    "sentence": "As night fell, a slave came to Zal, whispering, \u201cCome, all is ready.\u201d"
+  },
+  {
+    "sent_id": 64,
+    "subj": "he",
+    "verb": "follow",
+    "obj": "she",
+    "label": "he | follow | she",
+    "sentence": "He followed her."
+  },
+  {
+    "sent_id": 65,
+    "subj": "zal",
+    "verb": "see",
+    "obj": "house",
+    "label": "zal | see | house",
+    "sentence": "At the women\u2019s house, Zal saw Rodabeh standing on the roof."
+  },
+  {
+    "sent_id": 66,
+    "subj": "beauty",
+    "verb": "be",
+    "obj": "cypress",
+    "label": "beauty | be | cypress",
+    "sentence": "Her beauty was like a cypress under a full moon."
+  },
+  {
+    "sent_id": 67,
+    "subj": "she",
+    "verb": "welcome",
+    "obj": "he",
+    "label": "she | welcome | he",
+    "sentence": "She welcomed him: \u201cO young man, son of a hero, Heaven\u2019s blessings upon you!\u201d"
+  },
+  {
+    "sent_id": 68,
+    "subj": "zal",
+    "verb": "reply",
+    "obj": "prayer",
+    "label": "zal | reply | prayer",
+    "sentence": "Zal replied with prayers to meet her more closely, for she was above on the roof, and he below."
+  },
+  {
+    "sent_id": 69,
+    "subj": "rodabeh",
+    "verb": "let",
+    "obj": "hair",
+    "label": "rodabeh | let | hair",
+    "sentence": "Rodabeh let down her long hair, saying, \u201cHere is a flawless rope."
+  },
+  {
+    "sent_id": 70,
+    "subj": "climb",
+    "verb": "ensnare",
+    "obj": "you",
+    "label": "climb | ensnare | you",
+    "sentence": "Climb, O warrior, and seize my dark locks; it is fitting I ensnare you.\u201d"
+  },
+  {
+    "sent_id": 71,
+    "subj": "i",
+    "verb": "become",
+    "obj": "you",
+    "label": "i | become | you",
+    "sentence": "Zal replied, \u201cNo, fair one; I would ill become you if I harmed you.\u201d"
+  },
+  {
+    "sent_id": 72,
+    "subj": "he",
+    "verb": "kiss",
+    "obj": "hair",
+    "label": "he | kiss | hair",
+    "sentence": "He kissed her hair, called for a rope, tied a running knot, threw it up, and climbed to the roof."
+  },
+  {
+    "sent_id": 73,
+    "subj": "they",
+    "verb": "enter",
+    "obj": "chamber",
+    "label": "they | enter | chamber",
+    "sentence": "Hand in hand, they entered the golden chambers, surrounded by slaves."
+  },
+  {
+    "sent_id": 74,
+    "subj": "they",
+    "verb": "gaze",
+    "obj": "one",
+    "label": "they | gaze | one",
+    "sentence": "They gazed upon one another, recognizing great beauty, and hours passed with sweet conversation as love grew."
+  },
+  {
+    "sent_id": 75,
+    "subj": "zal",
+    "verb": "say",
+    "obj": "",
+    "label": "zal | say | \u2205",
+    "sentence": "Zal said, \u201cO cypress, scented with musk, when Minuchihr and Sam learn this, they will be angry, accusing me of forgetting God and lifting their hands against me."
+  },
+  {
+    "sent_id": 76,
+    "subj": "i",
+    "verb": "swear",
+    "obj": "",
+    "label": "i | swear | \u2205",
+    "sentence": "But I swear this life is worthless if not spent with you."
+  },
+  {
+    "sent_id": 77,
+    "subj": "i",
+    "verb": "call",
+    "obj": "heaven",
+    "label": "i | call | heaven",
+    "sentence": "I call upon Heaven to hear me: none"
+  },
+  {
+    "sent_id": 78,
+    "subj": "you",
+    "verb": "be",
+    "obj": "bride",
+    "label": "you | be | bride",
+    "sentence": "but you shall be my bride.\u201d"
+  },
+  {
+    "sent_id": 79,
+    "subj": "rodabeh",
+    "verb": "swear",
+    "obj": "oath",
+    "label": "rodabeh | swear | oath",
+    "sentence": "Rodabeh swore the same oath."
+  },
+  {
+    "sent_id": 80,
+    "subj": "drum",
+    "verb": "sound",
+    "obj": "tent",
+    "label": "drum | sound | tent",
+    "sentence": "Dawn\u2019s drums sounded from the King\u2019s tents, announcing the day\u2019s arrival."
+  },
+  {
+    "sent_id": 81,
+    "subj": "zal",
+    "verb": "cry",
+    "obj": "glory",
+    "label": "zal | cry | glory",
+    "sentence": "Zal and Rodabeh cried together, \u201cO glory of the world, stay a while, do not come so quickly!\u201d"
+  },
+  {
+    "sent_id": 82,
+    "subj": "sun",
+    "verb": "pay",
+    "obj": "heed",
+    "label": "sun | pay | heed",
+    "sentence": "But the sun paid no heed, and it was time to part."
+  },
+  {
+    "sent_id": 83,
+    "subj": "zal",
+    "verb": "let",
+    "obj": "",
+    "label": "zal | let | \u2205",
+    "sentence": "Zal let himself down from the battlements and left his beloved\u2019s house."
+  },
+  {
+    "sent_id": 84,
+    "subj": "zal",
+    "verb": "receive",
+    "obj": "greeting",
+    "label": "zal | receive | greeting",
+    "sentence": "When daylight filled the earth, Zal received the usual greetings from nobles and chiefs."
+  },
+  {
+    "sent_id": 85,
+    "subj": "he",
+    "verb": "gather",
+    "obj": "mubid",
+    "label": "he | gather | mubid",
+    "sentence": "He gathered his Mubids (wise men) and told them of his love for a daughter of the serpent lineage."
+  },
+  {
+    "sent_id": 86,
+    "subj": "none",
+    "verb": "wish",
+    "obj": "",
+    "label": "none | wish | \u2205",
+    "sentence": "The Mubids were troubled and kept silent; none wished to poison the sweetness of this love."
+  },
+  {
+    "sent_id": 87,
+    "subj": "zal",
+    "verb": "urge",
+    "obj": "they",
+    "label": "zal | urge | they",
+    "sentence": "Zal urged them to speak, promising rich gifts."
+  },
+  {
+    "sent_id": 88,
+    "subj": "they",
+    "verb": "say",
+    "obj": "",
+    "label": "they | say | \u2205",
+    "sentence": "They said a king\u2019s honor is not hurt by a woman, and though Mihrab was descended from Zohak, he was noble and brave."
+  },
+  {
+    "sent_id": 89,
+    "subj": "they",
+    "verb": "advise",
+    "obj": "zal",
+    "label": "they | advise | zal",
+    "sentence": "They advised Zal to write to his father and ask Sam to appear before the Shah."
+  },
+  {
+    "sent_id": 90,
+    "subj": "zal",
+    "verb": "call",
+    "obj": "scribe",
+    "label": "zal | call | scribe",
+    "sentence": "Zal called a scribe and dictated his letter."
+  },
+  {
+    "sent_id": 91,
+    "subj": "he",
+    "verb": "tell",
+    "obj": "sam",
+    "label": "he | tell | sam",
+    "sentence": "He told Sam of his love and fears, reminded him of being cast out at birth, raised by a bird in a nest beneath the sun, while his father lived in silk."
+  },
+  {
+    "sent_id": 92,
+    "subj": "",
+    "verb": "recall",
+    "obj": "promise",
+    "label": "\u2205 | recall | promise",
+    "sentence": "He did not defend what happened, only recalled Sam\u2019s promise."
+  },
+  {
+    "sent_id": 93,
+    "subj": "he",
+    "verb": "give",
+    "obj": "letter",
+    "label": "he | give | letter",
+    "sentence": "He gave the letter to a messenger to ride swiftly to Sam."
+  },
+  {
+    "sent_id": 94,
+    "subj": "sam",
+    "verb": "trouble",
+    "obj": "",
+    "label": "sam | trouble | \u2205",
+    "sentence": "Sam was troubled when he heard."
+  },
+  {
+    "sent_id": 95,
+    "subj": "woe",
+    "verb": "be",
+    "obj": "i",
+    "label": "woe | be | i",
+    "sentence": "\u201cWoe is me."
+  },
+  {
+    "sent_id": 96,
+    "subj": "fosterling",
+    "verb": "seek",
+    "obj": "",
+    "label": "fosterling | seek | \u2205",
+    "sentence": "The wild bird\u2019s fosterling seeks to unite with a cursed race.\u201d"
+  },
+  {
+    "sent_id": 97,
+    "subj": "what",
+    "verb": "come",
+    "obj": "union",
+    "label": "what | come | union",
+    "sentence": "He pondered his reply: if he forbade Zal\u2019s desire, he\u2019d break his oath; if he allowed it, what could come from the union of a Deev and a bird\u2019s son?"
+  },
+  {
+    "sent_id": 98,
+    "subj": "he",
+    "verb": "call",
+    "obj": "mubid",
+    "label": "he | call | mubid",
+    "sentence": "Burdened, he called his Mubids to read the stars, for blending fire and water could bring disaster."
+  },
+  {
+    "sent_id": 99,
+    "subj": "they",
+    "verb": "cast",
+    "obj": "horoscope",
+    "label": "they | cast | horoscope",
+    "sentence": "All day they cast the horoscope for Zal and Rodabeh."
+  },
+  {
+    "sent_id": 100,
+    "subj": "they",
+    "verb": "return",
+    "obj": "dusk",
+    "label": "they | return | dusk",
+    "sentence": "At dusk, they returned rejoicing."
+  },
+  {
+    "sent_id": 101,
+    "subj": "spring",
+    "verb": "bring",
+    "obj": "son",
+    "label": "spring | bring | son",
+    "sentence": "To Sam they said, \u201cHail, Sam, for we have read the skies; A clear spring will bring a son to Zal, a hero unmatched in power and glory in Iran.\u201d"
+  },
+  {
+    "sent_id": 102,
+    "subj": "heart",
+    "verb": "lift",
+    "obj": "",
+    "label": "heart | lift | \u2205",
+    "sentence": "Sam\u2019s heart lifted."
+  },
+  {
+    "sent_id": 103,
+    "subj": "he",
+    "verb": "reward",
+    "obj": "man",
+    "label": "he | reward | man",
+    "sentence": "He rewarded the wise men and sent the messenger back to Zal with words: \u201cI find your passion folly, son, but bound by oath, it shall be fulfilled."
+  },
+  {
+    "sent_id": 104,
+    "subj": "i",
+    "verb": "go",
+    "obj": "iran",
+    "label": "i | go | iran",
+    "sentence": "I go to Iran to plead your case to the Shah.\u201d"
+  },
+  {
+    "sent_id": 105,
+    "subj": "sam",
+    "verb": "assemble",
+    "obj": "army",
+    "label": "sam | assemble | army",
+    "sentence": "Sam assembled his army and set out to Iran with trumpets and cymbals heralding his arrival."
+  },
+  {
+    "sent_id": 106,
+    "subj": "he",
+    "verb": "praise",
+    "obj": "god",
+    "label": "he | praise | god",
+    "sentence": "When the messenger returned to Zal, he praised God and gave gifts to the poor and his servants."
+  },
+  {
+    "sent_id": 107,
+    "subj": "soul",
+    "verb": "burn",
+    "obj": "longing",
+    "label": "soul | burn | longing",
+    "sentence": "Yet no sleep touched Zal\u2019s eyes, nor could he find rest; his soul burned with longing."
+  },
+  {
+    "sent_id": 108,
+    "subj": "slave",
+    "verb": "come",
+    "obj": "letter",
+    "label": "slave | come | letter",
+    "sentence": "One day, a slave came with Sam\u2019s letter for Rodabeh."
+  },
+  {
+    "sent_id": 109,
+    "subj": "she",
+    "verb": "rejoice",
+    "obj": "",
+    "label": "she | rejoice | \u2205",
+    "sentence": "She rejoiced and sent back a precious crown and ring."
+  },
+  {
+    "sent_id": 110,
+    "subj": "she",
+    "verb": "meet",
+    "obj": "sindokht",
+    "label": "she | meet | sindokht",
+    "sentence": "On leaving her chamber, she met Queen Sindokht, who questioned her sharply about her comings and goings."
+  },
+  {
+    "sent_id": 111,
+    "subj": "trembling",
+    "verb": "lie",
+    "obj": "",
+    "label": "trembling | lie | \u2205",
+    "sentence": "The slave, trembling, lied that she sold jewels and robes."
+  },
+  {
+    "sent_id": 112,
+    "subj": "sindokht",
+    "verb": "demand",
+    "obj": "proof",
+    "label": "sindokht | demand | proof",
+    "sentence": "Sindokht demanded proof and found the tiara Rodabeh had embroidered in the slave\u2019s sleeve."
+  },
+  {
+    "sent_id": 113,
+    "subj": "sindokht",
+    "verb": "order",
+    "obj": "slave",
+    "label": "sindokht | order | slave",
+    "sentence": "Angered, Sindokht ordered the slave chained and called her daughter."
+  },
+  {
+    "sent_id": 114,
+    "subj": "she",
+    "verb": "say",
+    "obj": "rodabeh",
+    "label": "she | say | rodabeh",
+    "sentence": "To Rodabeh she said, \u201cO moon of noble race, blind to all but goodness, how have you strayed on evil paths?"
+  },
+  {
+    "sent_id": 117,
+    "subj": "man",
+    "verb": "mean",
+    "obj": "which",
+    "label": "man | mean | which",
+    "sentence": "For which man are they meant?\u201d"
+  },
+  {
+    "sent_id": 118,
+    "subj": "rodabeh",
+    "verb": "ashame",
+    "obj": "",
+    "label": "rodabeh | ashame | \u2205",
+    "sentence": "Rodabeh, ashamed, confessed all."
+  },
+  {
+    "sent_id": 119,
+    "subj": "sindokht",
+    "verb": "fear",
+    "obj": "wrath",
+    "label": "sindokht | fear | wrath",
+    "sentence": "Sindokht feared the Shah\u2019s wrath and wept alone in sorrow."
+  },
+  {
+    "sent_id": 120,
+    "subj": "mihrab",
+    "verb": "enter",
+    "obj": "",
+    "label": "mihrab | enter | \u2205",
+    "sentence": "Mihrab entered and found her grieving."
+  },
+  {
+    "sent_id": 121,
+    "subj": "she",
+    "verb": "tell",
+    "obj": "he",
+    "label": "she | tell | he",
+    "sentence": "She told him of Rodabeh\u2019s love for Zal."
+  },
+  {
+    "sent_id": 122,
+    "subj": "heart",
+    "verb": "trouble",
+    "obj": "",
+    "label": "heart | trouble | \u2205",
+    "sentence": "Mihrab\u2019s heart troubled as well, knowing Kabul could not withstand the Shah\u2019s might."
+  },
+  {
+    "sent_id": 123,
+    "subj": "minuchihr",
+    "verb": "disturb",
+    "obj": "",
+    "label": "minuchihr | disturb | \u2205",
+    "sentence": "Minuchihr, too, was disturbed, fearing this union was Ahriman\u2019s evil plot."
+  },
+  {
+    "sent_id": 124,
+    "subj": "he",
+    "verb": "order",
+    "obj": "nauder",
+    "label": "he | order | nauder",
+    "sentence": "He ordered Nauder to summon Sam."
+  },
+  {
+    "sent_id": 125,
+    "subj": "sam",
+    "verb": "come",
+    "obj": "shah",
+    "label": "sam | come | shah",
+    "sentence": "Sam came gladly before the Shah, kissing the ground and blessing him."
+  },
+  {
+    "sent_id": 126,
+    "subj": "minuchihr",
+    "verb": "welcome",
+    "obj": "he",
+    "label": "minuchihr | welcome | he",
+    "sentence": "Minuchihr welcomed him, asked of the wars and the Mazinderan Deevs, and Sam told his battles."
+  },
+  {
+    "sent_id": 127,
+    "subj": "shah",
+    "verb": "rejoice",
+    "obj": "valor",
+    "label": "shah | rejoice | valor",
+    "sentence": "The Shah rejoiced at his valor, praised him, and called for a feast where heroes drank and feasted through the night."
+  },
+  {
+    "sent_id": 128,
+    "subj": "court",
+    "verb": "open",
+    "obj": "dawn",
+    "label": "court | open | dawn",
+    "sentence": "At dawn, the king\u2019s court opened for petitioners."
+  },
+  {
+    "sent_id": 129,
+    "subj": "sam",
+    "verb": "come",
+    "obj": "",
+    "label": "sam | come | \u2205",
+    "sentence": "Sam came first to speak of Zal\u2019s love, but Minuchihr would not let him speak fully."
+  },
+  {
+    "sent_id": 130,
+    "subj": "he",
+    "verb": "command",
+    "obj": "",
+    "label": "he | command | \u2205",
+    "sentence": "Instead, he commanded: \u201cGo with your army."
+  },
+  {
+    "sent_id": 131,
+    "subj": "",
+    "verb": "let",
+    "obj": "",
+    "label": "\u2205 | let | \u2205",
+    "sentence": "March on Kabul, burn Mihrab\u2019s house, destroy the serpent\u2019s seed; let none survive."
+  },
+  {
+    "sent_id": 132,
+    "subj": "earth",
+    "verb": "rid",
+    "obj": "brood",
+    "label": "earth | rid | brood",
+    "sentence": "The earth must be rid of this brood.\u201d"
+  },
+  {
+    "sent_id": 133,
+    "subj": "sam",
+    "verb": "see",
+    "obj": "anger",
+    "label": "sam | see | anger",
+    "sentence": "Sam saw the Shah\u2019s anger and knew words would not help."
+  },
+  {
+    "sent_id": 134,
+    "subj": "he",
+    "verb": "bow",
+    "obj": "earth",
+    "label": "he | bow | earth",
+    "sentence": "He bowed on the earth and said, \u201cI obey.\u201d"
+  },
+  {
+    "sent_id": 135,
+    "subj": "army",
+    "verb": "advance",
+    "obj": "",
+    "label": "army | advance | \u2205",
+    "sentence": "His army advanced, shaking the land."
+  },
+  {
+    "sent_id": 136,
+    "subj": "news",
+    "verb": "bring",
+    "obj": "despair",
+    "label": "news | bring | despair",
+    "sentence": "News of Sam\u2019s approach brought despair to Kabul."
+  },
+  {
+    "sent_id": 137,
+    "subj": "house",
+    "verb": "fill",
+    "obj": "weeping",
+    "label": "house | fill | weeping",
+    "sentence": "Mihrab\u2019s house was filled with weeping."
+  },
+  {
+    "sent_id": 138,
+    "subj": "zal",
+    "verb": "be",
+    "obj": "",
+    "label": "zal | be | \u2205",
+    "sentence": "But Zal was angry and went to his father\u2019s camp, asking for an audience."
+  },
+  {
+    "sent_id": 139,
+    "subj": "sam",
+    "verb": "grant",
+    "obj": "it",
+    "label": "sam | grant | it",
+    "sentence": "Sam granted it."
+  },
+  {
+    "sent_id": 140,
+    "subj": "zal",
+    "verb": "remind",
+    "obj": "sam",
+    "label": "zal | remind | sam",
+    "sentence": "Zal reminded Sam of his oath, begging mercy for Kabul\u2019s innocents."
+  },
+  {
+    "sent_id": 141,
+    "subj": "heart",
+    "verb": "move",
+    "obj": "",
+    "label": "heart | move | \u2205",
+    "sentence": "Sam\u2019s heart moved."
+  },
+  {
+    "sent_id": 142,
+    "subj": "you",
+    "verb": "speak",
+    "obj": "",
+    "label": "you | speak | \u2205",
+    "sentence": "\u201cYou speak rightly, my son."
+  },
+  {
+    "sent_id": 143,
+    "subj": "i",
+    "verb": "be",
+    "obj": "birth",
+    "label": "i | be | birth",
+    "sentence": "I have been unjust to you since birth."
+  },
+  {
+    "sent_id": 144,
+    "subj": "i",
+    "verb": "find",
+    "obj": "remedy",
+    "label": "i | find | remedy",
+    "sentence": "Hold your wrath; I will find a remedy."
+  },
+  {
+    "sent_id": 145,
+    "subj": "you",
+    "verb": "bear",
+    "obj": "letter",
+    "label": "you | bear | letter",
+    "sentence": "You shall bear a letter to the Shah, and when he sees you, his heart will soften.\u201d"
+  },
+  {
+    "sent_id": 146,
+    "subj": "zal",
+    "verb": "kiss",
+    "obj": "hand",
+    "label": "zal | kiss | hand",
+    "sentence": "Zal kissed his father\u2019s hand and received blessings."
+  },
+  {
+    "sent_id": 147,
+    "subj": "sam",
+    "verb": "write",
+    "obj": "letter",
+    "label": "sam | write | letter",
+    "sentence": "Sam wrote the letter recounting his deeds for Iran, his wars, his slaying of the dragon, and the peace he brought."
+  },
+  {
+    "sent_id": 148,
+    "subj": "he",
+    "verb": "fight",
+    "obj": "",
+    "label": "he | fight | \u2205",
+    "sentence": "Growing old, he could no longer fight, but his brave son followed him."
+  },
+  {
+    "sent_id": 149,
+    "subj": "heart",
+    "verb": "consume",
+    "obj": "",
+    "label": "heart | consume | \u2205",
+    "sentence": "Yet his son\u2019s heart was consumed by love\u2014a longing that might kill him if denied."
+  },
+  {
+    "sent_id": 150,
+    "subj": "sam",
+    "verb": "entrust",
+    "obj": "matter",
+    "label": "sam | entrust | matter",
+    "sentence": "Sam entrusted the matter to the Shah\u2019s wisdom."
+  },
+  {
+    "sent_id": 151,
+    "subj": "zal",
+    "verb": "set",
+    "obj": "letter",
+    "label": "zal | set | letter",
+    "sentence": "Zal set out with the letter, accompanied by the kingdom\u2019s finest."
+  },
+  {
+    "sent_id": 152,
+    "subj": "mihrab",
+    "verb": "wonder",
+    "obj": "",
+    "label": "mihrab | wonder | \u2205",
+    "sentence": "Fear gripped Kabul; Mihrab wondered how to calm the King."
+  },
+  {
+    "sent_id": 153,
+    "subj": "he",
+    "verb": "say",
+    "obj": "sindokht",
+    "label": "he | say | sindokht",
+    "sentence": "He said to Sindokht, \u201cThe King is enraged because of you and Rodabeh."
+  },
+  {
+    "sent_id": 154,
+    "subj": "i",
+    "verb": "lead",
+    "obj": "rodabeh",
+    "label": "i | lead | rodabeh",
+    "sentence": "Since I cannot face him, I will lead Rodabeh to his court and kill her before his eyes."
+  },
+  {
+    "sent_id": 155,
+    "subj": "wrath",
+    "verb": "ease",
+    "obj": "",
+    "label": "wrath | ease | \u2205",
+    "sentence": "Perhaps his wrath will ease thus.\u201d"
+  },
+  {
+    "sent_id": 156,
+    "subj": "sindokht",
+    "verb": "keep",
+    "obj": "",
+    "label": "sindokht | keep | \u2205",
+    "sentence": "Sindokht, quick-witted, kept silent, then asked for the treasury key."
+  },
+  {
+    "sent_id": 157,
+    "subj": "",
+    "verb": "let",
+    "obj": "",
+    "label": "\u2205 | let | \u2205",
+    "sentence": "\u201cLet me take what I need and go to Sam."
+  },
+  {
+    "sent_id": 158,
+    "subj": "i",
+    "verb": "sway",
+    "obj": "he",
+    "label": "i | sway | he",
+    "sentence": "Perhaps I can sway him to spare Kabul.\u201d"
+  },
+  {
+    "sent_id": 159,
+    "subj": "mihrab",
+    "verb": "agree",
+    "obj": "",
+    "label": "mihrab | agree | \u2205",
+    "sentence": "Mihrab, distraught, agreed."
+  },
+  {
+    "sent_id": 160,
+    "subj": "sindokht",
+    "verb": "leave",
+    "obj": "",
+    "label": "sindokht | leave | \u2205",
+    "sentence": "Sindokht left, bringing with her immense gifts: three hundred thousand gold coins, sixty silver-trimmed horses with slaves bearing cups of musk and precious stones, two hundred camels, and four elephants from India laden with brocade and carpets."
+  },
+  {
+    "sent_id": 161,
+    "subj": "retinue",
+    "verb": "stretch",
+    "obj": "mile",
+    "label": "retinue | stretch | mile",
+    "sentence": "Her retinue stretched two miles beyond Kabul\u2019s gates."
+  },
+  {
+    "sent_id": 162,
+    "subj": "sindokht",
+    "verb": "ask",
+    "obj": "guard",
+    "label": "sindokht | ask | guard",
+    "sentence": "In Seistan, Sindokht asked Sam\u2019s guards for entrance."
+  },
+  {
+    "sent_id": 163,
+    "subj": "sam",
+    "verb": "welcome",
+    "obj": "she",
+    "label": "sam | welcome | she",
+    "sentence": "Sam welcomed her, and she bowed, blessing him."
+  },
+  {
+    "sent_id": 164,
+    "subj": "she",
+    "verb": "lay",
+    "obj": "treasure",
+    "label": "she | lay | treasure",
+    "sentence": "She laid out the treasures, marveling at their worth."
+  },
+  {
+    "sent_id": 165,
+    "subj": "sam",
+    "verb": "wonder",
+    "obj": "",
+    "label": "sam | wonder | \u2205",
+    "sentence": "Sam wondered why a woman bore gifts of such value from a land so rich."
+  },
+  {
+    "sent_id": 166,
+    "subj": "he",
+    "verb": "say",
+    "obj": "",
+    "label": "he | say | \u2205",
+    "sentence": "Accepting the gifts, he said, \u201cLet these be given to my son\u2019s treasurer.\u201d"
+  },
+  {
+    "sent_id": 167,
+    "subj": "",
+    "verb": "ask",
+    "obj": "sam",
+    "label": "\u2205 | ask | sam",
+    "sentence": "Sindokht, encouraged, asked Sam why he wished to destroy Kabul."
+  },
+  {
+    "sent_id": 168,
+    "subj": "sam",
+    "verb": "demand",
+    "obj": "",
+    "label": "sam | demand | \u2205",
+    "sentence": "Sam demanded, \u201cAre you Mihrab\u2019s slave or wife?"
+  },
+  {
+    "sent_id": 169,
+    "subj": "she",
+    "verb": "be",
+    "obj": "daughter",
+    "label": "she | be | daughter",
+    "sentence": "Is she really your daughter whom Zal saw?"
+  },
+  {
+    "sent_id": 170,
+    "subj": "",
+    "verb": "tell",
+    "obj": "i",
+    "label": "\u2205 | tell | i",
+    "sentence": "Tell me of her beauty that I may judge if she is worthy of my son.\u201d"
+  },
+  {
+    "sent_id": 171,
+    "subj": "sindokht",
+    "verb": "reply",
+    "obj": "",
+    "label": "sindokht | reply | \u2205",
+    "sentence": "Sindokht replied, \u201cSwear to me first that you will spare my life and those dear to me.\u201d"
+  },
+  {
+    "sent_id": 172,
+    "subj": "sam",
+    "verb": "take",
+    "obj": "hand",
+    "label": "sam | take | hand",
+    "sentence": "Sam took her hand and swore a solemn oath."
+  },
+  {
+    "sent_id": 173,
+    "subj": "sindokht",
+    "verb": "reveal",
+    "obj": "all",
+    "label": "sindokht | reveal | all",
+    "sentence": "Freed of fear, Sindokht revealed all: her lineage from Zohak, her marriage to Mihrab, and her daughter Rodabeh\u2019s love for Zal."
+  },
+  {
+    "sent_id": 174,
+    "subj": "she",
+    "verb": "ask",
+    "obj": "sam",
+    "label": "she | ask | sam",
+    "sentence": "She asked Sam to punish only the wicked in Kabul and spare the innocent, lest day turn to night."
+  },
+  {
+    "sent_id": 175,
+    "subj": "sam",
+    "verb": "vow",
+    "obj": "",
+    "label": "sam | vow | \u2205",
+    "sentence": "Sam vowed, \u201cBy my life and oath, I shall protect you and your people."
+  },
+  {
+    "sent_id": 176,
+    "subj": "zal",
+    "verb": "marry",
+    "obj": "rodabeh",
+    "label": "zal | marry | rodabeh",
+    "sentence": "Zal shall marry Rodabeh, though she be from a foreign race.\u201d"
+  },
+  {
+    "sent_id": 177,
+    "subj": "he",
+    "verb": "tell",
+    "obj": "sindokht",
+    "label": "he | tell | sindokht",
+    "sentence": "He told Sindokht about his letter to the Shah pleading Zal\u2019s case and that Zal was away delivering it."
+  },
+  {
+    "sent_id": 178,
+    "subj": "he",
+    "verb": "plead",
+    "obj": "",
+    "label": "he | plead | \u2205",
+    "sentence": "\u201cTell me of Rodabeh,\u201d he pleaded."
+  },
+  {
+    "sent_id": 179,
+    "subj": "sindokht",
+    "verb": "say",
+    "obj": "",
+    "label": "sindokht | say | \u2205",
+    "sentence": "Sindokht said, \u201cIf Zal wishes to gladden our hearts, he must come himself and see our moon with his own eyes.\u201d"
+  },
+  {
+    "sent_id": 180,
+    "subj": "all",
+    "verb": "end",
+    "obj": "",
+    "label": "all | end | \u2205",
+    "sentence": "Sam smiled and replied, \u201cRest easy; all will end as you desire.\u201d"
+  },
+  {
+    "sent_id": 181,
+    "subj": "he",
+    "verb": "load",
+    "obj": "she",
+    "label": "he | load | she",
+    "sentence": "He loaded her with gifts and sent her away."
+  },
+  {
+    "sent_id": 182,
+    "subj": "face",
+    "verb": "shine",
+    "obj": "hope",
+    "label": "face | shine | hope",
+    "sentence": "Sindokht\u2019s face shone with hope."
+  },
+  {
+    "sent_id": 183,
+    "subj": "zal",
+    "verb": "arrive",
+    "obj": "court",
+    "label": "zal | arrive | court",
+    "sentence": "Meanwhile, Zal arrived at Minuchihr\u2019s court."
+  },
+  {
+    "sent_id": 184,
+    "subj": "he",
+    "verb": "kneel",
+    "obj": "",
+    "label": "he | kneel | \u2205",
+    "sentence": "He knelt and kissed the ground before the Shah."
+  },
+  {
+    "sent_id": 185,
+    "subj": "minuchihr",
+    "verb": "order",
+    "obj": "musk",
+    "label": "minuchihr | order | musk",
+    "sentence": "Moved, Minuchihr ordered musk sprinkled before him and raised him to his side."
+  },
+  {
+    "sent_id": 186,
+    "subj": "zal",
+    "verb": "give",
+    "obj": "letter",
+    "label": "zal | give | letter",
+    "sentence": "Zal gave the Shah Sam\u2019s letter."
+  },
+  {
+    "sent_id": 187,
+    "subj": "king",
+    "verb": "pain",
+    "obj": "",
+    "label": "king | pain | \u2205",
+    "sentence": "Reading it, the king was pained but promised to fulfill Zal\u2019s wish."
+  },
+  {
+    "sent_id": 188,
+    "subj": "he",
+    "verb": "ask",
+    "obj": "he",
+    "label": "he | ask | he",
+    "sentence": "He asked him to remain a while for counsel."
+  },
+  {
+    "sent_id": 189,
+    "subj": "noble",
+    "verb": "feast",
+    "obj": "",
+    "label": "noble | feast | \u2205",
+    "sentence": "The nobles and Shah feasted all night."
+  },
+  {
+    "sent_id": 190,
+    "subj": "zal",
+    "verb": "present",
+    "obj": "himself",
+    "label": "zal | present | himself",
+    "sentence": "At dawn, Zal presented himself for audience."
+  },
+  {
+    "sent_id": 191,
+    "subj": "man",
+    "verb": "study",
+    "obj": "star",
+    "label": "man | study | star",
+    "sentence": "The Shah\u2019s wise men studied the stars for three days, then declared joyfully: \u201cThe son of Sam and daughter of Mihrab shall be a glorious pair."
+  },
+  {
+    "sent_id": 192,
+    "subj": "son",
+    "verb": "be",
+    "obj": "warrior",
+    "label": "son | be | warrior",
+    "sentence": "Their son will be a mighty warrior who will expand Iran\u2019s glory, defeat evildoers, and bring prosperity.\u201d"
+  },
+  {
+    "sent_id": 193,
+    "subj": "minuchihr",
+    "verb": "command",
+    "obj": "secrecy",
+    "label": "minuchihr | command | secrecy",
+    "sentence": "Minuchihr commanded secrecy."
+  },
+  {
+    "sent_id": 194,
+    "subj": "he",
+    "verb": "test",
+    "obj": "wisdom",
+    "label": "he | test | wisdom",
+    "sentence": "He tested Zal\u2019s wisdom with riddles asked by the wise men."
+  },
+  {
+    "sent_id": 195,
+    "subj": "zal",
+    "verb": "answer",
+    "obj": "each",
+    "label": "zal | answer | each",
+    "sentence": "Zal answered each with insight, impressing all."
+  },
+  {
+    "sent_id": 196,
+    "subj": "shah",
+    "verb": "test",
+    "obj": "strength",
+    "label": "shah | test | strength",
+    "sentence": "The Shah then tested Zal\u2019s strength."
+  },
+  {
+    "sent_id": 197,
+    "subj": "he",
+    "verb": "see",
+    "obj": "",
+    "label": "he | see | \u2205",
+    "sentence": "Watching from his palace roof, he saw Zal outperform all in archery, spear-throwing, and wrestling."
+  },
+  {
+    "sent_id": 198,
+    "subj": "minuchihr",
+    "verb": "shower",
+    "obj": "zal",
+    "label": "minuchihr | shower | zal",
+    "sentence": "The nobles cheered; Minuchihr showered Zal with gifts."
+  },
+  {
+    "sent_id": 199,
+    "subj": "shah",
+    "verb": "reply",
+    "obj": "letter",
+    "label": "shah | reply | letter",
+    "sentence": "The Shah replied to Sam\u2019s letter: \u201cO brave hero, I have seen your son and find him worthy."
+  },
+  {
+    "sent_id": 200,
+    "subj": "i",
+    "verb": "grant",
+    "obj": "wish",
+    "label": "i | grant | wish",
+    "sentence": "I grant your wish and send him back to you satisfied."
+  },
+  {
+    "sent_id": 201,
+    "subj": "enemy",
+    "verb": "harm",
+    "obj": "he",
+    "label": "enemy | harm | he",
+    "sentence": "May no enemy harm him.\u201d\n\nAfter receiving the king\u2019s leave, Zal returned proudly."
+  },
+  {
+    "sent_id": 202,
+    "subj": "sam",
+    "verb": "rejoice",
+    "obj": "",
+    "label": "sam | rejoice | \u2205",
+    "sentence": "Sam rejoiced upon receiving the letter."
+  },
+  {
+    "sent_id": 203,
+    "subj": "messenger",
+    "verb": "send",
+    "obj": "mihrab",
+    "label": "messenger | send | mihrab",
+    "sentence": "The army prepared to march; a messenger was sent to Mihrab telling him that Sam and Zal were coming to Kabul."
+  },
+  {
+    "sent_id": 204,
+    "subj": "mihrab",
+    "verb": "relax",
+    "obj": "news",
+    "label": "mihrab | relax | news",
+    "sentence": "At the news, Mihrab relaxed and ordered his army to dress festively."
+  },
+  {
+    "sent_id": 205,
+    "subj": "banner",
+    "verb": "fill",
+    "obj": "city",
+    "label": "banner | fill | city",
+    "sentence": "Silk banners and music filled the city."
+  },
+  {
+    "sent_id": 206,
+    "subj": "sindokht",
+    "verb": "share",
+    "obj": "news",
+    "label": "sindokht | share | news",
+    "sentence": "Sindokht shared the good news with Rodabeh, and they adorned the house as a paradise with golden carpets, ivory thrones, and scented floors."
+  },
+  {
+    "sent_id": 207,
+    "subj": "mihrab",
+    "verb": "go",
+    "obj": "",
+    "label": "mihrab | go | \u2205",
+    "sentence": "As the guests neared Kabul, Mihrab went out to meet them and crowned Zal with diamonds."
+  },
+  {
+    "sent_id": 208,
+    "subj": "they",
+    "verb": "enter",
+    "obj": "city",
+    "label": "they | enter | city",
+    "sentence": "They entered the city triumphantly."
+  },
+  {
+    "sent_id": 209,
+    "subj": "people",
+    "verb": "bow",
+    "obj": "they",
+    "label": "people | bow | they",
+    "sentence": "The people bowed before them."
+  },
+  {
+    "sent_id": 210,
+    "subj": "sindokht",
+    "verb": "meet",
+    "obj": "they",
+    "label": "sindokht | meet | they",
+    "sentence": "Sindokht met them at the palace, scattering musk and jewels."
+  },
+  {
+    "sent_id": 211,
+    "subj": "sam",
+    "verb": "smile",
+    "obj": "",
+    "label": "sam | smile | \u2205",
+    "sentence": "Sam, receiving their homage, smiled and asked Sindokht, \u201cHow much longer will you hide Rodabeh from us?\u201d"
+  },
+  {
+    "sent_id": 212,
+    "subj": "sindokht",
+    "verb": "reply",
+    "obj": "",
+    "label": "sindokht | reply | \u2205",
+    "sentence": "Sindokht replied, \u201cWhat will you give to see the sun?\u201d"
+  },
+  {
+    "sent_id": 213,
+    "subj": "sam",
+    "verb": "answer",
+    "obj": "anything",
+    "label": "sam | answer | anything",
+    "sentence": "Sam answered, \u201cAnything you wish\u2014my slaves and throne as well.\u201d"
+  },
+  {
+    "sent_id": 214,
+    "subj": "sindokht",
+    "verb": "lead",
+    "obj": "he",
+    "label": "sindokht | lead | he",
+    "sentence": "Sindokht led him inside."
+  },
+  {
+    "sent_id": 215,
+    "subj": "sam",
+    "verb": "strike",
+    "obj": "speechless",
+    "label": "sam | strike | speechless",
+    "sentence": "Sam beheld Rodabeh and was struck speechless by her beauty, beyond all dreams."
+  },
+  {
+    "sent_id": 216,
+    "subj": "he",
+    "verb": "ask",
+    "obj": "mihrab",
+    "label": "he | ask | mihrab",
+    "sentence": "He asked Mihrab for her hand, and the marriage was arranged according to custom."
+  },
+  {
+    "sent_id": 217,
+    "subj": "lover",
+    "verb": "sit",
+    "obj": "throne",
+    "label": "lover | sit | throne",
+    "sentence": "The lovers sat upon a throne as Mihrab read an endless list of gifts."
+  },
+  {
+    "sent_id": 218,
+    "subj": "they",
+    "verb": "feast",
+    "obj": "day",
+    "label": "they | feast | day",
+    "sentence": "They feasted joyfully for seven days."
+  },
+  {
+    "sent_id": 219,
+    "subj": "sam",
+    "verb": "return",
+    "obj": "month",
+    "label": "sam | return | month",
+    "sentence": "After a month, Sam returned to Seistan with Zal and Rodabeh following."
+  },
+  {
+    "sent_id": 220,
+    "subj": "sam",
+    "verb": "go",
+    "obj": "war",
+    "label": "sam | go | war",
+    "sentence": "Soon Sam went again to war, leaving the kingdom to his son."
+  },
+  {
+    "sent_id": 221,
+    "subj": "zal",
+    "verb": "rule",
+    "obj": "rodabeh",
+    "label": "zal | rule | rodabeh",
+    "sentence": "Zal ruled wisely beside Rodabeh, who wore a golden crown and sat as queen at his side."
+  }
+]

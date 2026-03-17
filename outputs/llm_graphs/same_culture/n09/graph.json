@@ -1,0 +1,926 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "hunter | live | wife",
+      "sent_id": 0,
+      "sentence": "A well-known hunter lived far up North with his beautiful wife and two young sons.",
+      "subj": "hunter",
+      "verb": "live",
+      "obj": "wife"
+    },
+    {
+      "id": "e0001",
+      "label": "he | leave | lodge",
+      "sent_id": 1,
+      "sentence": "Every day, he left their remote lodge to hunt the animals that were their main source of food.",
+      "subj": "he",
+      "verb": "leave",
+      "obj": "lodge"
+    },
+    {
+      "id": "e0002",
+      "label": "game | be | \u2205",
+      "sent_id": 2,
+      "sentence": "Back then, game was plentiful, and his hard work in the hunt always brought good results.",
+      "subj": "game",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0003",
+      "label": "they | see | anyone",
+      "sent_id": 3,
+      "sentence": "Because they were so isolated, they rarely saw anyone outside their family.",
+      "subj": "they",
+      "verb": "see",
+      "obj": "anyone"
+    },
+    {
+      "id": "e0004",
+      "label": "they | play | lodge",
+      "sent_id": 4,
+      "sentence": "The two boys were still too young to join their father in the hunt, so they played near the lodge.",
+      "subj": "they",
+      "verb": "play",
+      "obj": "lodge"
+    },
+    {
+      "id": "e0005",
+      "label": "they | start | \u2205",
+      "sent_id": 5,
+      "sentence": "While they were busy, they started noticing a young man visiting their lodge whenever their father was away.",
+      "subj": "they",
+      "verb": "start",
+      "obj": ""
+    },
+    {
+      "id": "e0006",
+      "label": "visit | happen | \u2205",
+      "sent_id": 6,
+      "sentence": "These visits happened again and again.",
+      "subj": "visit",
+      "verb": "happen",
+      "obj": ""
+    },
+    {
+      "id": "e0007",
+      "label": "boy | ask | mother",
+      "sent_id": 7,
+      "sentence": "One day, the older boy asked his mother, \"Mother, who is that tall young man who keeps coming here when father is gone?",
+      "subj": "boy",
+      "verb": "ask",
+      "obj": "mother"
+    },
+    {
+      "id": "e0008",
+      "label": "he | want | \u2205",
+      "sent_id": 8,
+      "sentence": "Does he want to see father?",
+      "subj": "he",
+      "verb": "want",
+      "obj": ""
+    },
+    {
+      "id": "e0009",
+      "label": "i | tell | father",
+      "sent_id": 9,
+      "sentence": "Should I tell father when he comes back tonight?",
+      "subj": "i",
+      "verb": "tell",
+      "obj": "father"
+    },
+    {
+      "id": "e0010",
+      "label": "mother | scold | child",
+      "sent_id": 10,
+      "sentence": "\"\n\n\"Naubesah, you foolish child,\" their mother scolded.",
+      "subj": "mother",
+      "verb": "scold",
+      "obj": "child"
+    },
+    {
+      "id": "e0011",
+      "label": "it | \u2019 | \u2205",
+      "sent_id": 12,
+      "sentence": "It\u2019s not manly to hang around the lodge all day.",
+      "subj": "it",
+      "verb": "\u2019",
+      "obj": ""
+    },
+    {
+      "id": "e0012",
+      "label": "you | become | warrior",
+      "sent_id": 13,
+      "sentence": "You won\u2019t become a warrior by reporting every little thing you see and hear to your father.",
+      "subj": "you",
+      "verb": "become",
+      "obj": "warrior"
+    },
+    {
+      "id": "e0013",
+      "label": "\u2205 | keep | \u2205",
+      "sent_id": 14,
+      "sentence": "Keep quiet about it.",
+      "subj": "",
+      "verb": "keep",
+      "obj": ""
+    },
+    {
+      "id": "e0014",
+      "label": "boy | listen | \u2205",
+      "sent_id": 16,
+      "sentence": "The boys listened, but as they grew older and kept seeing the stranger, they decided to talk to their mother again.",
+      "subj": "boy",
+      "verb": "listen",
+      "obj": ""
+    },
+    {
+      "id": "e0015",
+      "label": "they | say | \u2205",
+      "sent_id": 17,
+      "sentence": "This time, they said they wanted to tell their father everything they\u2019d witnessed.",
+      "subj": "they",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0016",
+      "label": "man | use | path",
+      "sent_id": 18,
+      "sentence": "The young man didn\u2019t use the path or carry food, so if he had a message for their father, why didn\u2019t he deliver it directly?",
+      "subj": "man",
+      "verb": "use",
+      "obj": "path"
+    },
+    {
+      "id": "e0017",
+      "label": "they | know | \u2205",
+      "sent_id": 19,
+      "sentence": "They knew that important messages were always given to men, never women.",
+      "subj": "they",
+      "verb": "know",
+      "obj": ""
+    },
+    {
+      "id": "e0018",
+      "label": "mother | become | \u2205",
+      "sent_id": 20,
+      "sentence": "Their mother became very angry.",
+      "subj": "mother",
+      "verb": "become",
+      "obj": ""
+    },
+    {
+      "id": "e0019",
+      "label": "she | threaten | \u2205",
+      "sent_id": 21,
+      "sentence": "\"If you tell anyone, I\u2019ll kill you,\" she threatened.",
+      "subj": "she",
+      "verb": "threaten",
+      "obj": ""
+    },
+    {
+      "id": "e0020",
+      "label": "fear | silence | they",
+      "sent_id": 22,
+      "sentence": "Fear silenced them for a while, but they still noticed the stranger\u2019s secret visits.",
+      "subj": "fear",
+      "verb": "silence",
+      "obj": "they"
+    },
+    {
+      "id": "e0021",
+      "label": "they | decide | \u2205",
+      "sent_id": 23,
+      "sentence": "Finally, they decided to tell their father.",
+      "subj": "they",
+      "verb": "decide",
+      "obj": ""
+    },
+    {
+      "id": "e0022",
+      "label": "they | tell | everything",
+      "sent_id": 24,
+      "sentence": "One day, while they were learning to follow animal tracks in the woods, they told him everything.",
+      "subj": "they",
+      "verb": "tell",
+      "obj": "everything"
+    },
+    {
+      "id": "e0023",
+      "label": "face | darken | \u2205",
+      "sent_id": 25,
+      "sentence": "The father\u2019s face darkened.",
+      "subj": "face",
+      "verb": "darken",
+      "obj": ""
+    },
+    {
+      "id": "e0024",
+      "label": "he | look | silence",
+      "sent_id": 26,
+      "sentence": "After a long silence, he looked up and said, \"It is done.",
+      "subj": "he",
+      "verb": "look",
+      "obj": "silence"
+    },
+    {
+      "id": "e0025",
+      "label": "boy | stay | sunset",
+      "sent_id": 27,
+      "sentence": "You boys stay here until sunset, then come back to the lodge and you will find me.\"",
+      "subj": "boy",
+      "verb": "stay",
+      "obj": "sunset"
+    },
+    {
+      "id": "e0026",
+      "label": "he | walk | \u2205",
+      "sent_id": 28,
+      "sentence": "He walked away slowly, and the boys played until it was time to return.",
+      "subj": "he",
+      "verb": "walk",
+      "obj": ""
+    },
+    {
+      "id": "e0027",
+      "label": "mother | be | \u2205",
+      "sent_id": 29,
+      "sentence": "When they got back, their mother was gone.",
+      "subj": "mother",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0028",
+      "label": "they | dare | \u2205",
+      "sent_id": 30,
+      "sentence": "They didn\u2019t dare ask where she had gone, and from that day on, her name was never mentioned again in the lodge.",
+      "subj": "they",
+      "verb": "dare",
+      "obj": ""
+    },
+    {
+      "id": "e0029",
+      "label": "year | pass | \u2205",
+      "sent_id": 31,
+      "sentence": "Years passed, and the boys became men.",
+      "subj": "year",
+      "verb": "pass",
+      "obj": ""
+    },
+    {
+      "id": "e0030",
+      "label": "she | linger | lodge",
+      "sent_id": 32,
+      "sentence": "Though their mother was never seen again managing the home, walking the forest paths, or near the river, she lingered near the lodge, transformed but still there.",
+      "subj": "she",
+      "verb": "linger",
+      "obj": "lodge"
+    },
+    {
+      "id": "e0031",
+      "label": "arm | wither | \u2205",
+      "sent_id": 33,
+      "sentence": "She appeared to her sons at twilight after their hunts\u2014her face ghastly, her arms withered.",
+      "subj": "arm",
+      "verb": "wither",
+      "obj": ""
+    },
+    {
+      "id": "e0032",
+      "label": "she | open | door",
+      "sent_id": 34,
+      "sentence": "At night, she would silently open the lodge door and lean over them as they slept.",
+      "subj": "she",
+      "verb": "open",
+      "obj": "door"
+    },
+    {
+      "id": "e0033",
+      "label": "they | see | pale",
+      "sent_id": 35,
+      "sentence": "Often, they saw only her pale, bony forehead floating in the air, mocking them along wild forest trails or in the dark of night.",
+      "subj": "they",
+      "verb": "see",
+      "obj": "pale"
+    },
+    {
+      "id": "e0034",
+      "label": "she | terrify | they",
+      "sent_id": 36,
+      "sentence": "She terrified them all, turning every place she appeared into something dreadful.",
+      "subj": "she",
+      "verb": "terrify",
+      "obj": "they"
+    },
+    {
+      "id": "e0035",
+      "label": "father | agree | suffering",
+      "sent_id": 37,
+      "sentence": "After long suffering, the father and his sons agreed to leave their homeland.",
+      "subj": "father",
+      "verb": "agree",
+      "obj": "suffering"
+    },
+    {
+      "id": "e0036",
+      "label": "they | journey | \u2205",
+      "sent_id": 38,
+      "sentence": "They journeyed south, traveling many days along a great lake\u2019s shore.",
+      "subj": "they",
+      "verb": "journey",
+      "obj": ""
+    },
+    {
+      "id": "e0037",
+      "label": "they | round | bluff",
+      "sent_id": 39,
+      "sentence": "One day, they rounded a rocky bluff and came upon a waterfall where a river flowed from the lake.",
+      "subj": "they",
+      "verb": "round",
+      "obj": "bluff"
+    },
+    {
+      "id": "e0038",
+      "label": "they | hear | noise",
+      "sent_id": 40,
+      "sentence": "As they admired the rushing water, they heard a heavy rolling noise behind them.",
+      "subj": "they",
+      "verb": "hear",
+      "obj": "noise"
+    },
+    {
+      "id": "e0039",
+      "label": "they | see | \u2205",
+      "sent_id": 41,
+      "sentence": "Turning, they saw a woman\u2019s skull rolling along the beach, chasing them fast.",
+      "subj": "they",
+      "verb": "see",
+      "obj": ""
+    },
+    {
+      "id": "e0040",
+      "label": "body | appear | wood",
+      "sent_id": 42,
+      "sentence": "Then, from the nearby woods, a headless body appeared, running swiftly toward the shore.",
+      "subj": "body",
+      "verb": "appear",
+      "obj": "wood"
+    },
+    {
+      "id": "e0041",
+      "label": "skull | pursue | it",
+      "sent_id": 43,
+      "sentence": "The skull too pursued it, and soon they joined together, rushing ahead to catch the hunter and his sons.",
+      "subj": "skull",
+      "verb": "pursue",
+      "obj": "it"
+    },
+    {
+      "id": "e0042",
+      "label": "man | know | \u2205",
+      "sent_id": 44,
+      "sentence": "Terrified, the men didn\u2019t know how to escape.",
+      "subj": "man",
+      "verb": "know",
+      "obj": ""
+    },
+    {
+      "id": "e0043",
+      "label": "one | spot | crane",
+      "sent_id": 45,
+      "sentence": "At that moment, one of the sons spotted a large, stately crane perched on a rock in the rapids.",
+      "subj": "one",
+      "verb": "spot",
+      "obj": "crane"
+    },
+    {
+      "id": "e0044",
+      "label": "they | cry | \u2205",
+      "sent_id": 46,
+      "sentence": "They cried out, \"Grandfather, help us!",
+      "subj": "they",
+      "verb": "cry",
+      "obj": ""
+    },
+    {
+      "id": "e0045",
+      "label": "\u2205 | carry | we",
+      "sent_id": 47,
+      "sentence": "Carry us across the falls so we can get away from her.",
+      "subj": "",
+      "verb": "carry",
+      "obj": "we"
+    },
+    {
+      "id": "e0046",
+      "label": "crane | be | thought",
+      "sent_id": 48,
+      "sentence": "\"\n\nThe crane, old and wise, had been deep in thought alone amid the swirling waters.",
+      "subj": "crane",
+      "verb": "be",
+      "obj": "thought"
+    },
+    {
+      "id": "e0047",
+      "label": "he | stretch | neck",
+      "sent_id": 49,
+      "sentence": "Hearing their call, he stretched his neck slowly, flapped his wings, and flew to help.",
+      "subj": "he",
+      "verb": "stretch",
+      "obj": "neck"
+    },
+    {
+      "id": "e0048",
+      "label": "he | warn | they",
+      "sent_id": 50,
+      "sentence": "\"Be careful,\u201d he warned them.",
+      "subj": "he",
+      "verb": "warn",
+      "obj": "they"
+    },
+    {
+      "id": "e0049",
+      "label": "\u2205 | touch | crown",
+      "sent_id": 51,
+      "sentence": "\u201cDo not touch the crown of my head.",
+      "subj": "",
+      "verb": "touch",
+      "obj": "crown"
+    },
+    {
+      "id": "e0050",
+      "label": "i | be | \u2205",
+      "sent_id": 52,
+      "sentence": "I am bald there from age and service, and it\u2019s very sensitive.",
+      "subj": "i",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0051",
+      "label": "i | have | \u2205",
+      "sent_id": 53,
+      "sentence": "If you touch it, I will have to throw you both into the rapids.",
+      "subj": "i",
+      "verb": "have",
+      "obj": ""
+    },
+    {
+      "id": "e0052",
+      "label": "they | listen | \u2205",
+      "sent_id": 54,
+      "sentence": "\"\n\nThey listened carefully and crossed safely.",
+      "subj": "they",
+      "verb": "listen",
+      "obj": ""
+    },
+    {
+      "id": "e0053",
+      "label": "crane | return | \u2205",
+      "sent_id": 55,
+      "sentence": "The crane then returned to carry their father the same way, before settling back on his rock in the rapids.",
+      "subj": "crane",
+      "verb": "return",
+      "obj": ""
+    },
+    {
+      "id": "e0054",
+      "label": "woman | reach | shore",
+      "sent_id": 56,
+      "sentence": "The woman reached the shore and cried out, \"Grandfather, take me across!",
+      "subj": "woman",
+      "verb": "reach",
+      "obj": "shore"
+    },
+    {
+      "id": "e0055",
+      "label": "i | lose | child",
+      "sent_id": 57,
+      "sentence": "I\u2019ve lost my children and I am heartbroken.",
+      "subj": "i",
+      "verb": "lose",
+      "obj": "child"
+    },
+    {
+      "id": "e0056",
+      "label": "bird | come | she",
+      "sent_id": 58,
+      "sentence": "\"\n\nThe old bird came to her and repeated his warning about not touching the crown of his head several times, making sure she understood.",
+      "subj": "bird",
+      "verb": "come",
+      "obj": "she"
+    },
+    {
+      "id": "e0057",
+      "label": "she | promise | \u2205",
+      "sent_id": 59,
+      "sentence": "She promised to obey.",
+      "subj": "she",
+      "verb": "promise",
+      "obj": ""
+    },
+    {
+      "id": "e0058",
+      "label": "she | try | \u2205",
+      "sent_id": 60,
+      "sentence": "But as soon as they were flying over the river, she tried to break her promise.",
+      "subj": "she",
+      "verb": "try",
+      "obj": ""
+    },
+    {
+      "id": "e0059",
+      "label": "crane | throw | she",
+      "sent_id": 61,
+      "sentence": "The crane instantly threw her into the rapids, flapping his wings to shake her off.",
+      "subj": "crane",
+      "verb": "throw",
+      "obj": "she"
+    },
+    {
+      "id": "e0060",
+      "label": "he | say | \u2205",
+      "sent_id": 62,
+      "sentence": "\"There,\" he said as she sank beneath the waves, \"you have always done what was forbidden.",
+      "subj": "he",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0061",
+      "label": "you | seek | those",
+      "sent_id": 63,
+      "sentence": "In life, you sought those you should not.",
+      "subj": "you",
+      "verb": "seek",
+      "obj": "those"
+    },
+    {
+      "id": "e0062",
+      "label": "one | seek | you",
+      "sent_id": 64,
+      "sentence": "Now, no one will seek you.",
+      "subj": "one",
+      "verb": "seek",
+      "obj": "you"
+    },
+    {
+      "id": "e0063",
+      "label": "\u2205 | go | \u2205",
+      "sent_id": 65,
+      "sentence": "Go, and be forever Addum Kum Maig!\"",
+      "subj": "",
+      "verb": "go",
+      "obj": ""
+    },
+    {
+      "id": "e0064",
+      "label": "woman | disappear | \u2205",
+      "sent_id": 66,
+      "sentence": "The woman disappeared, swept far away by the rushing waters, lost alone in the wide, endless wilderness.",
+      "subj": "woman",
+      "verb": "disappear",
+      "obj": ""
+    },
+    {
+      "id": "e0065",
+      "label": "family | take | bird",
+      "sent_id": 67,
+      "sentence": "Grateful for the crane\u2019s help, the hunter\u2019s family took the bird as their symbol, and under the protection of the Crane that Crossed the River, they prospered with plenty by day and peace by night.",
+      "subj": "family",
+      "verb": "take",
+      "obj": "bird"
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    },
+    {
+      "source": "e0029",
+      "target": "e0030",
+      "relation": "next"
+    },
+    {
+      "source": "e0030",
+      "target": "e0031",
+      "relation": "next"
+    },
+    {
+      "source": "e0031",
+      "target": "e0032",
+      "relation": "next"
+    },
+    {
+      "source": "e0032",
+      "target": "e0033",
+      "relation": "next"
+    },
+    {
+      "source": "e0033",
+      "target": "e0034",
+      "relation": "next"
+    },
+    {
+      "source": "e0034",
+      "target": "e0035",
+      "relation": "next"
+    },
+    {
+      "source": "e0035",
+      "target": "e0036",
+      "relation": "next"
+    },
+    {
+      "source": "e0036",
+      "target": "e0037",
+      "relation": "next"
+    },
+    {
+      "source": "e0037",
+      "target": "e0038",
+      "relation": "next"
+    },
+    {
+      "source": "e0038",
+      "target": "e0039",
+      "relation": "next"
+    },
+    {
+      "source": "e0039",
+      "target": "e0040",
+      "relation": "next"
+    },
+    {
+      "source": "e0040",
+      "target": "e0041",
+      "relation": "next"
+    },
+    {
+      "source": "e0041",
+      "target": "e0042",
+      "relation": "next"
+    },
+    {
+      "source": "e0042",
+      "target": "e0043",
+      "relation": "next"
+    },
+    {
+      "source": "e0043",
+      "target": "e0044",
+      "relation": "next"
+    },
+    {
+      "source": "e0044",
+      "target": "e0045",
+      "relation": "next"
+    },
+    {
+      "source": "e0045",
+      "target": "e0046",
+      "relation": "next"
+    },
+    {
+      "source": "e0046",
+      "target": "e0047",
+      "relation": "next"
+    },
+    {
+      "source": "e0047",
+      "target": "e0048",
+      "relation": "next"
+    },
+    {
+      "source": "e0048",
+      "target": "e0049",
+      "relation": "next"
+    },
+    {
+      "source": "e0049",
+      "target": "e0050",
+      "relation": "next"
+    },
+    {
+      "source": "e0050",
+      "target": "e0051",
+      "relation": "next"
+    },
+    {
+      "source": "e0051",
+      "target": "e0052",
+      "relation": "next"
+    },
+    {
+      "source": "e0052",
+      "target": "e0053",
+      "relation": "next"
+    },
+    {
+      "source": "e0053",
+      "target": "e0054",
+      "relation": "next"
+    },
+    {
+      "source": "e0054",
+      "target": "e0055",
+      "relation": "next"
+    },
+    {
+      "source": "e0055",
+      "target": "e0056",
+      "relation": "next"
+    },
+    {
+      "source": "e0056",
+      "target": "e0057",
+      "relation": "next"
+    },
+    {
+      "source": "e0057",
+      "target": "e0058",
+      "relation": "next"
+    },
+    {
+      "source": "e0058",
+      "target": "e0059",
+      "relation": "next"
+    },
+    {
+      "source": "e0059",
+      "target": "e0060",
+      "relation": "next"
+    },
+    {
+      "source": "e0060",
+      "target": "e0061",
+      "relation": "next"
+    },
+    {
+      "source": "e0061",
+      "target": "e0062",
+      "relation": "next"
+    },
+    {
+      "source": "e0062",
+      "target": "e0063",
+      "relation": "next"
+    },
+    {
+      "source": "e0063",
+      "target": "e0064",
+      "relation": "next"
+    },
+    {
+      "source": "e0064",
+      "target": "e0065",
+      "relation": "next"
+    }
+  ]
+}

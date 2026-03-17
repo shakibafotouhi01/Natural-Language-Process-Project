@@ -1,0 +1,1556 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "toos | go | forest",
+      "sent_id": 0,
+      "sentence": "One day, Toos, Gew, Goodarz, and other mighty knights of Iran went into the forests of Daghoui to hunt wild asses.",
+      "subj": "toos",
+      "verb": "go",
+      "obj": "forest"
+    },
+    {
+      "id": "e0001",
+      "label": "they | come | woman",
+      "sent_id": 1,
+      "sentence": "As they ventured deeper, they came across a woman of extraordinary beauty.",
+      "subj": "they",
+      "verb": "come",
+      "obj": "woman"
+    },
+    {
+      "id": "e0002",
+      "label": "too | fall | love",
+      "sent_id": 2,
+      "sentence": "Toos and Gew both fell deeply in love with her at once.",
+      "subj": "too",
+      "verb": "fall",
+      "obj": "love"
+    },
+    {
+      "id": "e0003",
+      "label": "they | learn | \u2205",
+      "sent_id": 3,
+      "sentence": "When they asked about her family, they learned she was a descendant of Feridoun.",
+      "subj": "they",
+      "verb": "learn",
+      "obj": ""
+    },
+    {
+      "id": "e0004",
+      "label": "man | wish | \u2205",
+      "sent_id": 4,
+      "sentence": "Each man wished to marry her, but neither would yield to the other, and harsh words almost turned into a fight.",
+      "subj": "man",
+      "verb": "wish",
+      "obj": ""
+    },
+    {
+      "id": "e0005",
+      "label": "someone | suggest | \u2205",
+      "sent_id": 5,
+      "sentence": "Then someone suggested they let Kai Kawous decide.",
+      "subj": "someone",
+      "verb": "suggest",
+      "obj": ""
+    },
+    {
+      "id": "e0006",
+      "label": "they | take | woman",
+      "sent_id": 6,
+      "sentence": "Agreeing, they took the fair woman before Kai Kawous and told him everything that had happened.",
+      "subj": "they",
+      "verb": "take",
+      "obj": "woman"
+    },
+    {
+      "id": "e0007",
+      "label": "kawous | desire | she",
+      "sent_id": 7,
+      "sentence": "But Kai Kawous, captivated by her beauty, desired her for himself, saying she was fit to sit on a throne.",
+      "subj": "kawous",
+      "verb": "desire",
+      "obj": "she"
+    },
+    {
+      "id": "e0008",
+      "label": "he | take | she",
+      "sent_id": 8,
+      "sentence": "He took her and brought her into the palace of his women.",
+      "subj": "he",
+      "verb": "take",
+      "obj": "she"
+    },
+    {
+      "id": "e0009",
+      "label": "she | give | birth",
+      "sent_id": 9,
+      "sentence": "After some time, she gave birth to a son, a tall and strong boy named Saiawosh.",
+      "subj": "she",
+      "verb": "give",
+      "obj": "birth"
+    },
+    {
+      "id": "e0010",
+      "label": "kawous | be | \u2205",
+      "sent_id": 10,
+      "sentence": "Kai Kawous was joyful for his son, but he also worried, for the stars had foretold a troubling fate: the heavens were against the boy, and his virtues would not save him but rather lead to his destruction.",
+      "subj": "kawous",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0011",
+      "label": "news | reach | land",
+      "sent_id": 11,
+      "sentence": "Meanwhile, the news of the Shah\u2019s son reached Rostam\u2019s land.",
+      "subj": "news",
+      "verb": "reach",
+      "obj": "land"
+    },
+    {
+      "id": "e0012",
+      "label": "rostam | lift | grief",
+      "sent_id": 12,
+      "sentence": "Learning this, Rostam was lifted from his grief over Sohrab and traveled from Zaboulistan to ask for the child to raise him for Iran.",
+      "subj": "rostam",
+      "verb": "lift",
+      "obj": "grief"
+    },
+    {
+      "id": "e0013",
+      "label": "kawous | agree | \u2205",
+      "sent_id": 13,
+      "sentence": "Kai Kawous agreed, and Rostam took the boy back to his kingdom, training him in war and celebration.",
+      "subj": "kawous",
+      "verb": "agree",
+      "obj": ""
+    },
+    {
+      "id": "e0014",
+      "label": "saiawosh | grow | \u2205",
+      "sent_id": 14,
+      "sentence": "Saiawosh grew strong and handsome, unmatched in the world.",
+      "subj": "saiawosh",
+      "verb": "grow",
+      "obj": ""
+    },
+    {
+      "id": "e0015",
+      "label": "he | come | rostam",
+      "sent_id": 15,
+      "sentence": "When Saiawosh was grown enough to trap a lion, he came before Rostam proudly and said he wished to meet the Shah, to show his father what kind of man Rostam had made of him.",
+      "subj": "he",
+      "verb": "come",
+      "obj": "rostam"
+    },
+    {
+      "id": "e0016",
+      "label": "rostam | approve | \u2205",
+      "sent_id": 16,
+      "sentence": "Rostam approved and led a great army toward Iran, with Saiawosh at its head.",
+      "subj": "rostam",
+      "verb": "approve",
+      "obj": ""
+    },
+    {
+      "id": "e0017",
+      "label": "land | rejoice | \u2205",
+      "sent_id": 17,
+      "sentence": "The land rejoiced to see Saiawosh, and the King\u2019s courts celebrated joyously, showering Rostam and Saiawosh with treasures.",
+      "subj": "land",
+      "verb": "rejoice",
+      "obj": ""
+    },
+    {
+      "id": "e0018",
+      "label": "kawous | be | \u2205",
+      "sent_id": 18,
+      "sentence": "Kai Kawous was delighted and placed Saiawosh beside him on the throne.",
+      "subj": "kawous",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0019",
+      "label": "all | sing | praise",
+      "sent_id": 19,
+      "sentence": "All sang his praises, and a feast was held unlike any before.",
+      "subj": "all",
+      "verb": "sing",
+      "obj": "praise"
+    },
+    {
+      "id": "e0020",
+      "label": "saiawosh | stay | court",
+      "sent_id": 20,
+      "sentence": "Saiawosh stayed at his father\u2019s court for seven years, proving his valor.",
+      "subj": "saiawosh",
+      "verb": "stay",
+      "obj": "court"
+    },
+    {
+      "id": "e0021",
+      "label": "kawous | crown | he",
+      "sent_id": 21,
+      "sentence": "In the eighth year, Kai Kawous crowned him and gave him a throne.",
+      "subj": "kawous",
+      "verb": "crown",
+      "obj": "he"
+    },
+    {
+      "id": "e0022",
+      "label": "all | seem | well",
+      "sent_id": 22,
+      "sentence": "All seemed well, and many forgot the dire prophecy from the stars.",
+      "subj": "all",
+      "verb": "seem",
+      "obj": "well"
+    },
+    {
+      "id": "e0023",
+      "label": "fate | change | \u2205",
+      "sent_id": 23,
+      "sentence": "But fate was not so easily changed.",
+      "subj": "fate",
+      "verb": "change",
+      "obj": ""
+    },
+    {
+      "id": "e0024",
+      "label": "sudaveh | fall | love",
+      "sent_id": 24,
+      "sentence": "Sudaveh, seeing Saiawosh\u2019s youth and beauty, fell deeply in love with him.",
+      "subj": "sudaveh",
+      "verb": "fall",
+      "obj": "love"
+    },
+    {
+      "id": "e0025",
+      "label": "she | send | message",
+      "sent_id": 25,
+      "sentence": "She sent a message inviting him to the women\u2019s quarters, but he refused, mistrusting her.",
+      "subj": "she",
+      "verb": "send",
+      "obj": "message"
+    },
+    {
+      "id": "e0026",
+      "label": "sudaveh | complain | kawous",
+      "sent_id": 26,
+      "sentence": "Angered, Sudaveh complained to Kai Kawous that Saiawosh ignored her, and she persuaded the King to order the boy to spend time among his sisters.",
+      "subj": "sudaveh",
+      "verb": "complain",
+      "obj": "kawous"
+    },
+    {
+      "id": "e0027",
+      "label": "saiawosh | obey | \u2205",
+      "sent_id": 27,
+      "sentence": "Saiawosh obeyed.",
+      "subj": "saiawosh",
+      "verb": "obey",
+      "obj": ""
+    },
+    {
+      "id": "e0028",
+      "label": "sudaveh | want | quarter",
+      "sent_id": 28,
+      "sentence": "Once inside the women\u2019s quarters, Sudaveh wanted to speak to him alone, but Saiawosh resisted.",
+      "subj": "sudaveh",
+      "verb": "want",
+      "obj": "quarter"
+    },
+    {
+      "id": "e0029",
+      "label": "she | try | \u2205",
+      "sent_id": 29,
+      "sentence": "She tried three times, but he remained firm.",
+      "subj": "she",
+      "verb": "try",
+      "obj": ""
+    },
+    {
+      "id": "e0030",
+      "label": "sudaveh | slander | reputation",
+      "sent_id": 30,
+      "sentence": "Furious, Sudaveh slandered Saiawosh\u2019s reputation and spread false stories about him.",
+      "subj": "sudaveh",
+      "verb": "slander",
+      "obj": "reputation"
+    },
+    {
+      "id": "e0031",
+      "label": "she | turn | heart",
+      "sent_id": 31,
+      "sentence": "She turned Kai Kawous\u2019s heart against his son.",
+      "subj": "she",
+      "verb": "turn",
+      "obj": "heart"
+    },
+    {
+      "id": "e0032",
+      "label": "king | doubt | \u2205",
+      "sent_id": 32,
+      "sentence": "The King, torn between love for Sudaveh and his son, doubted who was truthful.",
+      "subj": "king",
+      "verb": "doubt",
+      "obj": ""
+    },
+    {
+      "id": "e0033",
+      "label": "kawous | build | pyre",
+      "sent_id": 33,
+      "sentence": "To test him, Kai Kawous built a massive pyre from logs so large it could be seen from two farsangs away, filling the air with smoke and fire when ignited.",
+      "subj": "kawous",
+      "verb": "build",
+      "obj": "pyre"
+    },
+    {
+      "id": "e0034",
+      "label": "he | command | saiawosh",
+      "sent_id": 34,
+      "sentence": "He commanded Saiawosh to ride through the flames to prove his innocence.",
+      "subj": "he",
+      "verb": "command",
+      "obj": "saiawosh"
+    },
+    {
+      "id": "e0035",
+      "label": "saiawosh | pray | god",
+      "sent_id": 35,
+      "sentence": "Saiawosh prayed to God, charged his horse, and galloped into the fire unscathed, with not a hair singed.",
+      "subj": "saiawosh",
+      "verb": "pray",
+      "obj": "god"
+    },
+    {
+      "id": "e0036",
+      "label": "people | rejoice | \u2205",
+      "sent_id": 36,
+      "sentence": "The people rejoiced, but Sudaveh, watching from her roof, prayed for his destruction.",
+      "subj": "people",
+      "verb": "rejoice",
+      "obj": ""
+    },
+    {
+      "id": "e0037",
+      "label": "kawous | see | eye",
+      "sent_id": 37,
+      "sentence": "Kai Kawous saw with his own eyes that Saiawosh was innocent and took him back to the throne, asking forgiveness for doubting him.",
+      "subj": "kawous",
+      "verb": "see",
+      "obj": "eye"
+    },
+    {
+      "id": "e0038",
+      "label": "they | celebrate | day",
+      "sent_id": 38,
+      "sentence": "They celebrated with three days of feasting and joy.",
+      "subj": "they",
+      "verb": "celebrate",
+      "obj": "day"
+    },
+    {
+      "id": "e0039",
+      "label": "hold | grow | \u2205",
+      "sent_id": 39,
+      "sentence": "Yet Sudaveh\u2019s hold over the King grew stronger, and she filled his mind with worries about Saiawosh.",
+      "subj": "hold",
+      "verb": "grow",
+      "obj": ""
+    },
+    {
+      "id": "e0040",
+      "label": "afrasiyab | prepare | attack",
+      "sent_id": 40,
+      "sentence": "While Kai Kawous was distracted, Afrasiyab prepared an attack with three thousand warriors against Iran.",
+      "subj": "afrasiyab",
+      "verb": "prepare",
+      "obj": "attack"
+    },
+    {
+      "id": "e0041",
+      "label": "shah | anger | \u2205",
+      "sent_id": 41,
+      "sentence": "The Shah was angered but resolved to lead his army himself.",
+      "subj": "shah",
+      "verb": "anger",
+      "obj": ""
+    },
+    {
+      "id": "e0042",
+      "label": "mubid | warn | he",
+      "sent_id": 42,
+      "sentence": "A Mubid warned him not to go, recalling past dangers, but Kai Kawous dismissed the advice, confident in his leadership.",
+      "subj": "mubid",
+      "verb": "warn",
+      "obj": "he"
+    },
+    {
+      "id": "e0043",
+      "label": "saiawosh | see | this",
+      "sent_id": 43,
+      "sentence": "Saiawosh saw this as his chance to prove himself.",
+      "subj": "saiawosh",
+      "verb": "see",
+      "obj": "this"
+    },
+    {
+      "id": "e0044",
+      "label": "he | ask | father",
+      "sent_id": 44,
+      "sentence": "He asked his father to lead the army, reminding him that as his son of noble lineage, he had the right.",
+      "subj": "he",
+      "verb": "ask",
+      "obj": "father"
+    },
+    {
+      "id": "e0045",
+      "label": "kawous | agree | \u2205",
+      "sent_id": 45,
+      "sentence": "Kai Kawous agreed, and messengers summoned Rostam to accompany Saiawosh as his protector.",
+      "subj": "kawous",
+      "verb": "agree",
+      "obj": ""
+    },
+    {
+      "id": "e0046",
+      "label": "rostam | promise | \u2205",
+      "sent_id": 46,
+      "sentence": "Rostam promised to guard him faithfully, proud to serve.",
+      "subj": "rostam",
+      "verb": "promise",
+      "obj": ""
+    },
+    {
+      "id": "e0047",
+      "label": "trumpet | sound | \u2205",
+      "sent_id": 47,
+      "sentence": "The army marched, trumpet sounds filling the air, with Saiawosh at the head, and Kai Kawous blessing them.",
+      "subj": "trumpet",
+      "verb": "sound",
+      "obj": ""
+    },
+    {
+      "id": "e0048",
+      "label": "they | rest | zaboulistan",
+      "sent_id": 48,
+      "sentence": "They rested in Zaboulistan with Zal, gathering allies from kings near and far.",
+      "subj": "they",
+      "verb": "rest",
+      "obj": "zaboulistan"
+    },
+    {
+      "id": "e0049",
+      "label": "they | move | month",
+      "sent_id": 49,
+      "sentence": "After a month, they moved on to Balkh, where Afrasiyab\u2019s forces, led by Gersiwaz, faced them.",
+      "subj": "they",
+      "verb": "move",
+      "obj": "month"
+    },
+    {
+      "id": "e0050",
+      "label": "battle | rag | day",
+      "sent_id": 50,
+      "sentence": "Battle raged fiercely for three days until Iran claimed victory on the fourth.",
+      "subj": "battle",
+      "verb": "rag",
+      "obj": "day"
+    },
+    {
+      "id": "e0051",
+      "label": "saiawosh | send | letter",
+      "sent_id": 51,
+      "sentence": "Saiawosh sent a musk-scented letter to his father, reporting the triumph.",
+      "subj": "saiawosh",
+      "verb": "send",
+      "obj": "letter"
+    },
+    {
+      "id": "e0052",
+      "label": "kawous | rejoice | \u2205",
+      "sent_id": 52,
+      "sentence": "Kai Kawous rejoiced and replied with hopeful words.",
+      "subj": "kawous",
+      "verb": "rejoice",
+      "obj": ""
+    },
+    {
+      "id": "e0053",
+      "label": "afrasiyab | crush | \u2205",
+      "sent_id": 53,
+      "sentence": "Afrasiyab was crushed by the defeat and troubled by Gersiwaz\u2019s report of Saiawosh\u2019s power.",
+      "subj": "afrasiyab",
+      "verb": "crush",
+      "obj": ""
+    },
+    {
+      "id": "e0054",
+      "label": "afrasiyab | dream | earth",
+      "sent_id": 54,
+      "sentence": "That night, Afrasiyab dreamt of the earth filled with serpents and Iranians attacking him, which left him shaken and fearful.",
+      "subj": "afrasiyab",
+      "verb": "dream",
+      "obj": "earth"
+    },
+    {
+      "id": "e0055",
+      "label": "mubids | tell | \u2205",
+      "sent_id": 55,
+      "sentence": "The Mubids told him the stars foretold Saiawosh\u2019s victory over Turan, even if Afrasiyab himself killed him.",
+      "subj": "mubids",
+      "verb": "tell",
+      "obj": ""
+    },
+    {
+      "id": "e0056",
+      "label": "they | advise | \u2205",
+      "sent_id": 56,
+      "sentence": "They advised seeking peace rather than resisting destiny.",
+      "subj": "they",
+      "verb": "advise",
+      "obj": ""
+    },
+    {
+      "id": "e0057",
+      "label": "afrasiyab | agree | \u2205",
+      "sent_id": 57,
+      "sentence": "Afrasiyab agreed and sent Gersiwaz with rich gifts and a message proposing alliance and peace.",
+      "subj": "afrasiyab",
+      "verb": "agree",
+      "obj": ""
+    },
+    {
+      "id": "e0058",
+      "label": "saiawosh | entertain | gersiwaz",
+      "sent_id": 58,
+      "sentence": "Saiawosh and Rostam, suspicious, entertained Gersiwaz for seven days of feasting while weighing their options.",
+      "subj": "saiawosh",
+      "verb": "entertain",
+      "obj": "gersiwaz"
+    },
+    {
+      "id": "e0059",
+      "label": "saiawosh | agree | day",
+      "sent_id": 59,
+      "sentence": "On the eighth day, Saiawosh agreed to peace but requested a hundred noble hostages from Turan as guarantee.",
+      "subj": "saiawosh",
+      "verb": "agree",
+      "obj": "day"
+    },
+    {
+      "id": "e0060",
+      "label": "afrasiyab | send | hostage",
+      "sent_id": 60,
+      "sentence": "Afrasiyab reluctantly sent the hostages and withdrew his army, returning conquered lands to Iran.",
+      "subj": "afrasiyab",
+      "verb": "send",
+      "obj": "hostage"
+    },
+    {
+      "id": "e0061",
+      "label": "rostam | inform | kawous",
+      "sent_id": 61,
+      "sentence": "Rostam informed Kai Kawous of these events, praising Saiawosh\u2019s wisdom in seeking peace.",
+      "subj": "rostam",
+      "verb": "inform",
+      "obj": "kawous"
+    },
+    {
+      "id": "e0062",
+      "label": "kawous | be | peace",
+      "sent_id": 62,
+      "sentence": "But Kai Kawous was outraged, deeming peace with Afrasiyab a childish mistake.",
+      "subj": "kawous",
+      "verb": "be",
+      "obj": "peace"
+    },
+    {
+      "id": "e0063",
+      "label": "he | order | rostam",
+      "sent_id": 63,
+      "sentence": "He ordered Rostam to command Saiawosh to destroy the hostages and renew the attack.",
+      "subj": "he",
+      "verb": "order",
+      "obj": "rostam"
+    },
+    {
+      "id": "e0064",
+      "label": "rostam | refuse | \u2205",
+      "sent_id": 64,
+      "sentence": "Rostam refused, defending Saiawosh\u2019s honorable conduct.",
+      "subj": "rostam",
+      "verb": "refuse",
+      "obj": ""
+    },
+    {
+      "id": "e0065",
+      "label": "kawous | condemn | counsel",
+      "sent_id": 65,
+      "sentence": "Kai Kawous condemned Rostam\u2019s counsel and sent him back to Seistan.",
+      "subj": "kawous",
+      "verb": "condemn",
+      "obj": "counsel"
+    },
+    {
+      "id": "e0066",
+      "label": "he | send | toos",
+      "sent_id": 66,
+      "sentence": "He sent Toos to the army\u2019s borders with his orders.",
+      "subj": "he",
+      "verb": "send",
+      "obj": "toos"
+    },
+    {
+      "id": "e0067",
+      "label": "saiawosh | trouble | \u2205",
+      "sent_id": 67,
+      "sentence": "Saiawosh was troubled, torn between loyalty to his oath and the King\u2019s command.",
+      "subj": "saiawosh",
+      "verb": "trouble",
+      "obj": ""
+    },
+    {
+      "id": "e0068",
+      "label": "he | confide | bahram",
+      "sent_id": 68,
+      "sentence": "He confided in Bahram and Zengueh, deciding to keep his promise and seek refuge from his father\u2019s wrath.",
+      "subj": "he",
+      "verb": "confide",
+      "obj": "bahram"
+    },
+    {
+      "id": "e0069",
+      "label": "he | send | zengueh",
+      "sent_id": 69,
+      "sentence": "He sent Zengueh to Afrasiyab with a letter explaining the discord and his desire to hide where his name would be unknown to Kai Kawous.",
+      "subj": "he",
+      "verb": "send",
+      "obj": "zengueh"
+    },
+    {
+      "id": "e0070",
+      "label": "afrasyiab | welcome | zengueh",
+      "sent_id": 70,
+      "sentence": "Afrasyiab welcomed Zengueh warmly and, guided by Piran\u2019s counsel, decided to receive Saiawosh as his son-in-law and ally, hoping that when Kai Kawous died, Saiawosh would end their feud and unite their lands in peace.",
+      "subj": "afrasyiab",
+      "verb": "welcome",
+      "obj": "zengueh"
+    },
+    {
+      "id": "e0071",
+      "label": "afrasiyab | send | letter",
+      "sent_id": 71,
+      "sentence": "Afrasiyab sent a letter to Saiawosh affirming his welcome and trust.",
+      "subj": "afrasiyab",
+      "verb": "send",
+      "obj": "letter"
+    },
+    {
+      "id": "e0072",
+      "label": "saiawosh | be | \u2205",
+      "sent_id": 72,
+      "sentence": "Saiawosh was glad but troubled to ally with his land\u2019s enemy.",
+      "subj": "saiawosh",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0073",
+      "label": "he | write | father",
+      "sent_id": 73,
+      "sentence": "He wrote to his father, explaining his plight, and entrusted Bahram to lead the army until Toos arrived.",
+      "subj": "he",
+      "verb": "write",
+      "obj": "father"
+    },
+    {
+      "id": "e0074",
+      "label": "too | come | \u2205",
+      "sent_id": 74,
+      "sentence": "Toos came, confused by events, and Kai Kawous was dismayed, cursing Afrasiyab and Saiawosh but holding back from war.",
+      "subj": "too",
+      "verb": "come",
+      "obj": ""
+    },
+    {
+      "id": "e0075",
+      "label": "saiawosh | arrive | turan",
+      "sent_id": 75,
+      "sentence": "Saiawosh arrived in Turan to great honors.",
+      "subj": "saiawosh",
+      "verb": "arrive",
+      "obj": "turan"
+    },
+    {
+      "id": "e0076",
+      "label": "piran | greet | he",
+      "sent_id": 76,
+      "sentence": "Piran greeted him with white elephants and gifts, assuring him of Afrasiyab\u2019s goodwill despite his reputation.",
+      "subj": "piran",
+      "verb": "greet",
+      "obj": "he"
+    },
+    {
+      "id": "e0077",
+      "label": "they | feast | \u2205",
+      "sent_id": 77,
+      "sentence": "At Afrasiyab\u2019s court, Saiawosh was embraced like a son; they feasted and played games, and Saiawosh\u2019s strength and spirit delighted the King.",
+      "subj": "they",
+      "verb": "feast",
+      "obj": ""
+    },
+    {
+      "id": "e0078",
+      "label": "he | ask | advice",
+      "sent_id": 79,
+      "sentence": "Then, following Piran\u2019s advice, he asked for the hand of Afrasiyab\u2019s daughter, Ferangis, who was given to him joyfully.",
+      "subj": "he",
+      "verb": "ask",
+      "obj": "advice"
+    },
+    {
+      "id": "e0079",
+      "label": "wedding | follow | gift",
+      "sent_id": 80,
+      "sentence": "A magnificent wedding followed, with gifts and a kingdom bestowed upon him.",
+      "subj": "wedding",
+      "verb": "follow",
+      "obj": "gift"
+    },
+    {
+      "id": "e0080",
+      "label": "saiawosh | build | city",
+      "sent_id": 81,
+      "sentence": "After a year of ruling his province, Saiawosh built the city of Gangdis, a place of unmatched beauty, planting countless trees and creating spaces for sport and joy.",
+      "subj": "saiawosh",
+      "verb": "build",
+      "obj": "city"
+    },
+    {
+      "id": "e0081",
+      "label": "saiawosh | dismiss | word",
+      "sent_id": 82,
+      "sentence": "Though the Mubids warned Gangdis would bring him misfortune, Saiawosh dismissed their words and reveled in his life and trust in Afrasiyab.",
+      "subj": "saiawosh",
+      "verb": "dismiss",
+      "obj": "word"
+    },
+    {
+      "id": "e0082",
+      "label": "star | hold | decree",
+      "sent_id": 83,
+      "sentence": "Yet the stars held their decree.",
+      "subj": "star",
+      "verb": "hold",
+      "obj": "decree"
+    },
+    {
+      "id": "e0083",
+      "label": "gersiwaz | plan | ruin",
+      "sent_id": 84,
+      "sentence": "Gersiwaz, jealous of Saiawosh\u2019s favor and power, planned his ruin.",
+      "subj": "gersiwaz",
+      "verb": "plan",
+      "obj": "ruin"
+    },
+    {
+      "id": "e0084",
+      "label": "gersiwaz | visit | gangdis",
+      "sent_id": 85,
+      "sentence": "With Afrasiyab\u2019s permission, Gersiwaz visited Gangdis under friendly pretense, feasting and admiring Saiawosh\u2019s wealth, all the while plotting against him.",
+      "subj": "gersiwaz",
+      "verb": "visit",
+      "obj": "gangdis"
+    },
+    {
+      "id": "e0085",
+      "label": "gersiwaz | spread | rumor",
+      "sent_id": 86,
+      "sentence": "Returning to Afrasiyab, Gersiwaz spread rumors that Saiawosh was conspiring with his father to destroy Turan.",
+      "subj": "gersiwaz",
+      "verb": "spread",
+      "obj": "rumor"
+    },
+    {
+      "id": "e0086",
+      "label": "afrasiyab | grow | \u2205",
+      "sent_id": 87,
+      "sentence": "Afrasiyab, troubled but unwilling to believe, grew suspicious.",
+      "subj": "afrasiyab",
+      "verb": "grow",
+      "obj": ""
+    },
+    {
+      "id": "e0087",
+      "label": "gersiwaz | press | he",
+      "sent_id": 88,
+      "sentence": "Gersiwaz pressed him to act, and Afrasiyab fell into his trap.",
+      "subj": "gersiwaz",
+      "verb": "press",
+      "obj": "he"
+    },
+    {
+      "id": "e0088",
+      "label": "he | order | gersiwaz",
+      "sent_id": 89,
+      "sentence": "He ordered Gersiwaz to summon Saiawosh to court to bring Ferangis for a feast.",
+      "subj": "he",
+      "verb": "order",
+      "obj": "gersiwaz"
+    },
+    {
+      "id": "e0089",
+      "label": "saiawosh | agree | \u2205",
+      "sent_id": 90,
+      "sentence": "Saiawosh agreed, tying his horse\u2019s bridle to the charger, ready to go.",
+      "subj": "saiawosh",
+      "verb": "agree",
+      "obj": ""
+    },
+    {
+      "id": "e0090",
+      "label": "gersiwaz | expose | lie",
+      "sent_id": 91,
+      "sentence": "But Gersiwaz, fearing Saiawosh\u2019s open nature would expose his lies, feigned sorrow and warned Saiawosh not to go, promising to soften Afrasiyab\u2019s heart first.",
+      "subj": "gersiwaz",
+      "verb": "expose",
+      "obj": "lie"
+    },
+    {
+      "id": "e0091",
+      "label": "he | send | greeting",
+      "sent_id": 92,
+      "sentence": "Naively, Saiawosh agreed to stay; he sent greetings and excuses, claiming Ferangis was sick.",
+      "subj": "he",
+      "verb": "send",
+      "obj": "greeting"
+    },
+    {
+      "id": "e0092",
+      "label": "gersiwaz | carry | letter",
+      "sent_id": 93,
+      "sentence": "Gersiwaz carried the letter but did not deliver it to Afrasiyab, instead poisoning him further with lies and urging war.",
+      "subj": "gersiwaz",
+      "verb": "carry",
+      "obj": "letter"
+    },
+    {
+      "id": "e0093",
+      "label": "gersiwaz | warn | saiawosh",
+      "sent_id": 94,
+      "sentence": "When the Turan army approached Gangdis, Gersiwaz warned Saiawosh to flee.",
+      "subj": "gersiwaz",
+      "verb": "warn",
+      "obj": "saiawosh"
+    },
+    {
+      "id": "e0094",
+      "label": "saiawosh | overcome | \u2205",
+      "sent_id": 95,
+      "sentence": "Saiawosh, overcome, gave Ferangis instructions on what to do if he fell, refusing to fight against one he once called a father.",
+      "subj": "saiawosh",
+      "verb": "overcome",
+      "obj": ""
+    },
+    {
+      "id": "e0095",
+      "label": "he | prepare | death",
+      "sent_id": 96,
+      "sentence": "He prepared for death.",
+      "subj": "he",
+      "verb": "prepare",
+      "obj": "death"
+    },
+    {
+      "id": "e0096",
+      "label": "afrasiyab | ignore | attempt",
+      "sent_id": 97,
+      "sentence": "At battle, Afrasiyab ignored Saiawosh\u2019s attempts at reconciliation as Gersiwaz shouted accusations.",
+      "subj": "afrasiyab",
+      "verb": "ignore",
+      "obj": "attempt"
+    },
+    {
+      "id": "e0097",
+      "label": "heart | harden | youth",
+      "sent_id": 98,
+      "sentence": "Afrasiyab\u2019s heart hardened against the beloved youth.",
+      "subj": "heart",
+      "verb": "harden",
+      "obj": "youth"
+    },
+    {
+      "id": "e0098",
+      "label": "saiawosh | order | man",
+      "sent_id": 99,
+      "sentence": "Saiawosh ordered his men not to fight back, and they were cut down around him.",
+      "subj": "saiawosh",
+      "verb": "order",
+      "obj": "man"
+    },
+    {
+      "id": "e0099",
+      "label": "knight | seize | he",
+      "sent_id": 100,
+      "sentence": "A knight seized him but did not kill him, binding him and bringing him before Afrasiyab, who ordered his execution in a barren place.",
+      "subj": "knight",
+      "verb": "seize",
+      "obj": "he"
+    },
+    {
+      "id": "e0100",
+      "label": "noble | mourn | \u2205",
+      "sent_id": 101,
+      "sentence": "The nobles mourned, and before the execution, Ferangis demanded to see her father.",
+      "subj": "noble",
+      "verb": "mourn",
+      "obj": ""
+    },
+    {
+      "id": "e0101",
+      "label": "she | plead | saiawosh",
+      "sent_id": 102,
+      "sentence": "Though Afrasiyab refused and imprisoned her, she pleaded for Saiawosh, warning that killing him would doom Turan and bring revenge from the Kaianides.",
+      "subj": "she",
+      "verb": "plead",
+      "obj": "saiawosh"
+    },
+    {
+      "id": "e0102",
+      "label": "afrasiyab | cast | she",
+      "sent_id": 103,
+      "sentence": "Afrasiyab, blinded by rage, cast her into a dungeon.",
+      "subj": "afrasiyab",
+      "verb": "cast",
+      "obj": "she"
+    },
+    {
+      "id": "e0103",
+      "label": "gersiwaz | signal | guard",
+      "sent_id": 104,
+      "sentence": "Gersiwaz, sensing his chance, signaled the guards to kill Saiawosh.",
+      "subj": "gersiwaz",
+      "verb": "signal",
+      "obj": "guard"
+    },
+    {
+      "id": "e0104",
+      "label": "they | drag | king",
+      "sent_id": 105,
+      "sentence": "They dragged the young king into the desert and struck him down.",
+      "subj": "they",
+      "verb": "drag",
+      "obj": "king"
+    },
+    {
+      "id": "e0105",
+      "label": "storm | darken | sky",
+      "sent_id": 106,
+      "sentence": "Suddenly, a fierce storm darkened the skies.",
+      "subj": "storm",
+      "verb": "darken",
+      "obj": "sky"
+    },
+    {
+      "id": "e0106",
+      "label": "executioner | tremble | \u2205",
+      "sent_id": 107,
+      "sentence": "The executioners trembled, regretting their deed.",
+      "subj": "executioner",
+      "verb": "tremble",
+      "obj": ""
+    },
+    {
+      "id": "e0107",
+      "label": "cry | reach | afrasiyab",
+      "sent_id": 108,
+      "sentence": "Ferangis\u2019s cries reached Afrasiyab, who ordered her killed too.",
+      "subj": "cry",
+      "verb": "reach",
+      "obj": "afrasiyab"
+    },
+    {
+      "id": "e0108",
+      "label": "piran | intervene | \u2205",
+      "sent_id": 109,
+      "sentence": "But Piran intervened, pleading for her life and offering to protect her as a daughter in his home.",
+      "subj": "piran",
+      "verb": "intervene",
+      "obj": ""
+    },
+    {
+      "id": "e0109",
+      "label": "afrasiyab | agree | \u2205",
+      "sent_id": 110,
+      "sentence": "Afrasiyab agreed, glad to be rid of the reminder of his lost friend.",
+      "subj": "afrasiyab",
+      "verb": "agree",
+      "obj": ""
+    },
+    {
+      "id": "e0110",
+      "label": "piran | take | ferangis",
+      "sent_id": 111,
+      "sentence": "Piran took Ferangis beyond the mountains, while Afrasiyab returned sorrowful and restless, haunted by thoughts of Saiawosh and filled with regret over what he had done.",
+      "subj": "piran",
+      "verb": "take",
+      "obj": "ferangis"
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    },
+    {
+      "source": "e0029",
+      "target": "e0030",
+      "relation": "next"
+    },
+    {
+      "source": "e0030",
+      "target": "e0031",
+      "relation": "next"
+    },
+    {
+      "source": "e0031",
+      "target": "e0032",
+      "relation": "next"
+    },
+    {
+      "source": "e0032",
+      "target": "e0033",
+      "relation": "next"
+    },
+    {
+      "source": "e0033",
+      "target": "e0034",
+      "relation": "next"
+    },
+    {
+      "source": "e0034",
+      "target": "e0035",
+      "relation": "next"
+    },
+    {
+      "source": "e0035",
+      "target": "e0036",
+      "relation": "next"
+    },
+    {
+      "source": "e0036",
+      "target": "e0037",
+      "relation": "next"
+    },
+    {
+      "source": "e0037",
+      "target": "e0038",
+      "relation": "next"
+    },
+    {
+      "source": "e0038",
+      "target": "e0039",
+      "relation": "next"
+    },
+    {
+      "source": "e0039",
+      "target": "e0040",
+      "relation": "next"
+    },
+    {
+      "source": "e0040",
+      "target": "e0041",
+      "relation": "next"
+    },
+    {
+      "source": "e0041",
+      "target": "e0042",
+      "relation": "next"
+    },
+    {
+      "source": "e0042",
+      "target": "e0043",
+      "relation": "next"
+    },
+    {
+      "source": "e0043",
+      "target": "e0044",
+      "relation": "next"
+    },
+    {
+      "source": "e0044",
+      "target": "e0045",
+      "relation": "next"
+    },
+    {
+      "source": "e0045",
+      "target": "e0046",
+      "relation": "next"
+    },
+    {
+      "source": "e0046",
+      "target": "e0047",
+      "relation": "next"
+    },
+    {
+      "source": "e0047",
+      "target": "e0048",
+      "relation": "next"
+    },
+    {
+      "source": "e0048",
+      "target": "e0049",
+      "relation": "next"
+    },
+    {
+      "source": "e0049",
+      "target": "e0050",
+      "relation": "next"
+    },
+    {
+      "source": "e0050",
+      "target": "e0051",
+      "relation": "next"
+    },
+    {
+      "source": "e0051",
+      "target": "e0052",
+      "relation": "next"
+    },
+    {
+      "source": "e0052",
+      "target": "e0053",
+      "relation": "next"
+    },
+    {
+      "source": "e0053",
+      "target": "e0054",
+      "relation": "next"
+    },
+    {
+      "source": "e0054",
+      "target": "e0055",
+      "relation": "next"
+    },
+    {
+      "source": "e0055",
+      "target": "e0056",
+      "relation": "next"
+    },
+    {
+      "source": "e0056",
+      "target": "e0057",
+      "relation": "next"
+    },
+    {
+      "source": "e0057",
+      "target": "e0058",
+      "relation": "next"
+    },
+    {
+      "source": "e0058",
+      "target": "e0059",
+      "relation": "next"
+    },
+    {
+      "source": "e0059",
+      "target": "e0060",
+      "relation": "next"
+    },
+    {
+      "source": "e0060",
+      "target": "e0061",
+      "relation": "next"
+    },
+    {
+      "source": "e0061",
+      "target": "e0062",
+      "relation": "next"
+    },
+    {
+      "source": "e0062",
+      "target": "e0063",
+      "relation": "next"
+    },
+    {
+      "source": "e0063",
+      "target": "e0064",
+      "relation": "next"
+    },
+    {
+      "source": "e0064",
+      "target": "e0065",
+      "relation": "next"
+    },
+    {
+      "source": "e0065",
+      "target": "e0066",
+      "relation": "next"
+    },
+    {
+      "source": "e0066",
+      "target": "e0067",
+      "relation": "next"
+    },
+    {
+      "source": "e0067",
+      "target": "e0068",
+      "relation": "next"
+    },
+    {
+      "source": "e0068",
+      "target": "e0069",
+      "relation": "next"
+    },
+    {
+      "source": "e0069",
+      "target": "e0070",
+      "relation": "next"
+    },
+    {
+      "source": "e0070",
+      "target": "e0071",
+      "relation": "next"
+    },
+    {
+      "source": "e0071",
+      "target": "e0072",
+      "relation": "next"
+    },
+    {
+      "source": "e0072",
+      "target": "e0073",
+      "relation": "next"
+    },
+    {
+      "source": "e0073",
+      "target": "e0074",
+      "relation": "next"
+    },
+    {
+      "source": "e0074",
+      "target": "e0075",
+      "relation": "next"
+    },
+    {
+      "source": "e0075",
+      "target": "e0076",
+      "relation": "next"
+    },
+    {
+      "source": "e0076",
+      "target": "e0077",
+      "relation": "next"
+    },
+    {
+      "source": "e0077",
+      "target": "e0078",
+      "relation": "next"
+    },
+    {
+      "source": "e0078",
+      "target": "e0079",
+      "relation": "next"
+    },
+    {
+      "source": "e0079",
+      "target": "e0080",
+      "relation": "next"
+    },
+    {
+      "source": "e0080",
+      "target": "e0081",
+      "relation": "next"
+    },
+    {
+      "source": "e0081",
+      "target": "e0082",
+      "relation": "next"
+    },
+    {
+      "source": "e0082",
+      "target": "e0083",
+      "relation": "next"
+    },
+    {
+      "source": "e0083",
+      "target": "e0084",
+      "relation": "next"
+    },
+    {
+      "source": "e0084",
+      "target": "e0085",
+      "relation": "next"
+    },
+    {
+      "source": "e0085",
+      "target": "e0086",
+      "relation": "next"
+    },
+    {
+      "source": "e0086",
+      "target": "e0087",
+      "relation": "next"
+    },
+    {
+      "source": "e0087",
+      "target": "e0088",
+      "relation": "next"
+    },
+    {
+      "source": "e0088",
+      "target": "e0089",
+      "relation": "next"
+    },
+    {
+      "source": "e0089",
+      "target": "e0090",
+      "relation": "next"
+    },
+    {
+      "source": "e0090",
+      "target": "e0091",
+      "relation": "next"
+    },
+    {
+      "source": "e0091",
+      "target": "e0092",
+      "relation": "next"
+    },
+    {
+      "source": "e0092",
+      "target": "e0093",
+      "relation": "next"
+    },
+    {
+      "source": "e0093",
+      "target": "e0094",
+      "relation": "next"
+    },
+    {
+      "source": "e0094",
+      "target": "e0095",
+      "relation": "next"
+    },
+    {
+      "source": "e0095",
+      "target": "e0096",
+      "relation": "next"
+    },
+    {
+      "source": "e0096",
+      "target": "e0097",
+      "relation": "next"
+    },
+    {
+      "source": "e0097",
+      "target": "e0098",
+      "relation": "next"
+    },
+    {
+      "source": "e0098",
+      "target": "e0099",
+      "relation": "next"
+    },
+    {
+      "source": "e0099",
+      "target": "e0100",
+      "relation": "next"
+    },
+    {
+      "source": "e0100",
+      "target": "e0101",
+      "relation": "next"
+    },
+    {
+      "source": "e0101",
+      "target": "e0102",
+      "relation": "next"
+    },
+    {
+      "source": "e0102",
+      "target": "e0103",
+      "relation": "next"
+    },
+    {
+      "source": "e0103",
+      "target": "e0104",
+      "relation": "next"
+    },
+    {
+      "source": "e0104",
+      "target": "e0105",
+      "relation": "next"
+    },
+    {
+      "source": "e0105",
+      "target": "e0106",
+      "relation": "next"
+    },
+    {
+      "source": "e0106",
+      "target": "e0107",
+      "relation": "next"
+    },
+    {
+      "source": "e0107",
+      "target": "e0108",
+      "relation": "next"
+    },
+    {
+      "source": "e0108",
+      "target": "e0109",
+      "relation": "next"
+    },
+    {
+      "source": "e0109",
+      "target": "e0110",
+      "relation": "next"
+    }
+  ]
+}

@@ -1,0 +1,1018 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "",
+    "verb": "live",
+    "obj": "forest",
+    "label": "\u2205 | live | forest",
+    "sentence": "Near a vast forest lived a poor woodcutter with his wife and their two children, a boy named Hansel and a girl named Gretel."
+  },
+  {
+    "sent_id": 1,
+    "subj": "they",
+    "verb": "have",
+    "obj": "enough",
+    "label": "they | have | enough",
+    "sentence": "They had barely enough to eat, and when a great famine came over the land, the man could no longer find enough bread for their daily meal."
+  },
+  {
+    "sent_id": 2,
+    "subj": "he",
+    "verb": "sigh",
+    "obj": "",
+    "label": "he | sigh | \u2205",
+    "sentence": "One night, as he lay worried in bed, he sighed and said to his wife, \"What will become of us?"
+  },
+  {
+    "sent_id": 3,
+    "subj": "we",
+    "verb": "feed",
+    "obj": "child",
+    "label": "we | feed | child",
+    "sentence": "How can we feed the children when there is nothing left even for ourselves?\""
+  },
+  {
+    "sent_id": 4,
+    "subj": "woman",
+    "verb": "reply",
+    "obj": "",
+    "label": "woman | reply | \u2205",
+    "sentence": "The woman replied, \"Here\u2019s what we\u2019ll do: early tomorrow morning, we\u2019ll take the children deep into the forest."
+  },
+  {
+    "sent_id": 5,
+    "subj": "we",
+    "verb": "light",
+    "obj": "fire",
+    "label": "we | light | fire",
+    "sentence": "We\u2019ll light a fire, give each a last piece of bread, then leave and go back to work."
+  },
+  {
+    "sent_id": 6,
+    "subj": "they",
+    "verb": "find",
+    "obj": "way",
+    "label": "they | find | way",
+    "sentence": "They won\u2019t find their way home, and we\u2019ll be rid of them.\""
+  },
+  {
+    "sent_id": 7,
+    "subj": "they",
+    "verb": "tear",
+    "obj": "piece",
+    "label": "they | tear | piece",
+    "sentence": "\"No,\" the man protested, \"I cannot abandon my children to the forest\u2014they will be torn to pieces by wild animals.\""
+  },
+  {
+    "sent_id": 8,
+    "subj": "you",
+    "verb": "fool",
+    "obj": "",
+    "label": "you | fool | \u2205",
+    "sentence": "\"Oh, you fool!\""
+  },
+  {
+    "sent_id": 9,
+    "subj": "woman",
+    "verb": "snap",
+    "obj": "",
+    "label": "woman | snap | \u2205",
+    "sentence": "the woman snapped."
+  },
+  {
+    "sent_id": 10,
+    "subj": "difference",
+    "verb": "\u2019s",
+    "obj": "what",
+    "label": "difference | \u2019s | what",
+    "sentence": "\"If we starve together, what\u2019s the difference?"
+  },
+  {
+    "sent_id": 11,
+    "subj": "we",
+    "verb": "build",
+    "obj": "coffin",
+    "label": "we | build | coffin",
+    "sentence": "We might as well build our own coffins.\""
+  },
+  {
+    "sent_id": 12,
+    "subj": "she",
+    "verb": "nag",
+    "obj": "he",
+    "label": "she | nag | he",
+    "sentence": "She nagged him until he agreed, though he felt sorry for the children."
+  },
+  {
+    "sent_id": 13,
+    "subj": "hansel",
+    "verb": "overheard",
+    "obj": "plan",
+    "label": "hansel | overheard | plan",
+    "sentence": "Hansel and Gretel, too hungry to sleep, overheard their stepmother\u2019s plan."
+  },
+  {
+    "sent_id": 14,
+    "subj": "gretel",
+    "verb": "cry",
+    "obj": "",
+    "label": "gretel | cry | \u2205",
+    "sentence": "Gretel cried, \"It\u2019s all over for us.\""
+  },
+  {
+    "sent_id": 15,
+    "subj": "hansel",
+    "verb": "say",
+    "obj": "",
+    "label": "hansel | say | \u2205",
+    "sentence": "\"Don't worry,\" Hansel said."
+  },
+  {
+    "sent_id": 16,
+    "subj": "i",
+    "verb": "find",
+    "obj": "way",
+    "label": "i | find | way",
+    "sentence": "\"I\u2019ll find a way to help us.\""
+  },
+  {
+    "sent_id": 17,
+    "subj": "he",
+    "verb": "get",
+    "obj": "",
+    "label": "he | get | \u2205",
+    "sentence": "When their parents were asleep, he quietly got out of bed, put on his little coat, and slipped outside."
+  },
+  {
+    "sent_id": 18,
+    "subj": "moonlight",
+    "verb": "make",
+    "obj": "pebble",
+    "label": "moonlight | make | pebble",
+    "sentence": "The bright moonlight made the white pebbles in front of the house shine like silver coins."
+  },
+  {
+    "sent_id": 19,
+    "subj": "hansel",
+    "verb": "gather",
+    "obj": "many",
+    "label": "hansel | gather | many",
+    "sentence": "Hansel gathered as many as he could into his pocket and went back inside."
+  },
+  {
+    "sent_id": 20,
+    "subj": "he",
+    "verb": "say",
+    "obj": "",
+    "label": "he | say | \u2205",
+    "sentence": "\"Sleep well, Gretel,\" he said."
+  },
+  {
+    "sent_id": 21,
+    "subj": "god",
+    "verb": "abandon",
+    "obj": "we",
+    "label": "god | abandon | we",
+    "sentence": "\"God won\u2019t abandon us."
+  },
+  {
+    "sent_id": 22,
+    "subj": "woman",
+    "verb": "call",
+    "obj": "child",
+    "label": "woman | call | child",
+    "sentence": "\"\n\nAt dawn, before the sun rose, the woman called the children from bed."
+  },
+  {
+    "sent_id": 23,
+    "subj": "",
+    "verb": "get",
+    "obj": "",
+    "label": "\u2205 | get | \u2205",
+    "sentence": "\"Get up, lazybones!"
+  },
+  {
+    "sent_id": 24,
+    "subj": "we",
+    "verb": "go",
+    "obj": "forest",
+    "label": "we | go | forest",
+    "sentence": "We\u2019re going to the forest to gather wood.\""
+  },
+  {
+    "sent_id": 25,
+    "subj": "she",
+    "verb": "hand",
+    "obj": "piece",
+    "label": "she | hand | piece",
+    "sentence": "She handed each a small piece of bread and warned them not to eat it all before the midday meal."
+  },
+  {
+    "sent_id": 26,
+    "subj": "gretel",
+    "verb": "hide",
+    "obj": "bread",
+    "label": "gretel | hide | bread",
+    "sentence": "Gretel hid her bread under her apron, and Hansel kept his pebbles safe in his pocket."
+  },
+  {
+    "sent_id": 27,
+    "subj": "four",
+    "verb": "set",
+    "obj": "",
+    "label": "four | set | \u2205",
+    "sentence": "The four set off together."
+  },
+  {
+    "sent_id": 28,
+    "subj": "hansel",
+    "verb": "keep",
+    "obj": "",
+    "label": "hansel | keep | \u2205",
+    "sentence": "After walking a short distance, Hansel kept stopping and looking back at the house."
+  },
+  {
+    "sent_id": 29,
+    "subj": "father",
+    "verb": "ask",
+    "obj": "",
+    "label": "father | ask | \u2205",
+    "sentence": "His father asked, \"Why do you lag behind?\""
+  },
+  {
+    "sent_id": 30,
+    "subj": "hansel",
+    "verb": "lie",
+    "obj": "",
+    "label": "hansel | lie | \u2205",
+    "sentence": "\"I\u2019m watching my little white cat sitting on the roof, saying goodbye,\" Hansel lied."
+  },
+  {
+    "sent_id": 31,
+    "subj": "stepmother",
+    "verb": "say",
+    "obj": "fool",
+    "label": "stepmother | say | fool",
+    "sentence": "\"Fool,\" his stepmother said."
+  },
+  {
+    "sent_id": 32,
+    "subj": "it",
+    "verb": "\u2019",
+    "obj": "sun",
+    "label": "it | \u2019 | sun",
+    "sentence": "\"That\u2019s not a cat; it\u2019s the morning sun shining on the chimney.\""
+  },
+  {
+    "sent_id": 33,
+    "subj": "hansel",
+    "verb": "drop",
+    "obj": "pebble",
+    "label": "hansel | drop | pebble",
+    "sentence": "But Hansel was secretly dropping pebbles along the path."
+  },
+  {
+    "sent_id": 34,
+    "subj": "father",
+    "verb": "tell",
+    "obj": "child",
+    "label": "father | tell | child",
+    "sentence": "When they reached the heart of the forest, the father told the children to gather wood while he lit a fire."
+  },
+  {
+    "sent_id": 35,
+    "subj": "hansel",
+    "verb": "pile",
+    "obj": "brush",
+    "label": "hansel | pile | brush",
+    "sentence": "Hansel and Gretel piled brush high like a small hill."
+  },
+  {
+    "sent_id": 36,
+    "subj": "we",
+    "verb": "go",
+    "obj": "",
+    "label": "we | go | \u2205",
+    "sentence": "When the fire blazed, the woman told them, \"Rest by the fire, we\u2019ll go fetch more wood and come back for you."
+  },
+  {
+    "sent_id": 37,
+    "subj": "child",
+    "verb": "sit",
+    "obj": "flame",
+    "label": "child | sit | flame",
+    "sentence": "\"\n\nThe children sat by the flames and at noon ate a small piece of bread."
+  },
+  {
+    "sent_id": 38,
+    "subj": "they",
+    "verb": "hear",
+    "obj": "",
+    "label": "they | hear | \u2205",
+    "sentence": "They heard what sounded like the ax chopping wood and thought their father was close."
+  },
+  {
+    "sent_id": 39,
+    "subj": "it",
+    "verb": "be",
+    "obj": "branch",
+    "label": "it | be | branch",
+    "sentence": "But it was only a branch tied to a dead tree swaying in the wind."
+  },
+  {
+    "sent_id": 40,
+    "subj": "child",
+    "verb": "fall",
+    "obj": "set",
+    "label": "child | fall | set",
+    "sentence": "The children, tired, fell asleep as the sun set."
+  },
+  {
+    "sent_id": 41,
+    "subj": "gretel",
+    "verb": "wake",
+    "obj": "cry",
+    "label": "gretel | wake | cry",
+    "sentence": "At night, Gretel woke crying, \"How will we get out now?\""
+  },
+  {
+    "sent_id": 42,
+    "subj": "hansel",
+    "verb": "say",
+    "obj": "",
+    "label": "hansel | say | \u2205",
+    "sentence": "\"Wait for the moon,\" Hansel said."
+  },
+  {
+    "sent_id": 43,
+    "subj": "he",
+    "verb": "take",
+    "obj": "hand",
+    "label": "he | take | hand",
+    "sentence": "When it rose full and bright, he took Gretel\u2019s hand and followed the shining pebbles to find their way home."
+  },
+  {
+    "sent_id": 44,
+    "subj": "they",
+    "verb": "reach",
+    "obj": "house",
+    "label": "they | reach | house",
+    "sentence": "After walking all night, they reached their house at dawn."
+  },
+  {
+    "sent_id": 45,
+    "subj": "woman",
+    "verb": "be",
+    "obj": "",
+    "label": "woman | be | \u2205",
+    "sentence": "The woman was angry, scolding them for sleeping so long in the forest."
+  },
+  {
+    "sent_id": 46,
+    "subj": "father",
+    "verb": "be",
+    "obj": "",
+    "label": "father | be | \u2205",
+    "sentence": "Their father was happy, for leaving them had broken his heart."
+  },
+  {
+    "sent_id": 47,
+    "subj": "famine",
+    "verb": "strike",
+    "obj": "",
+    "label": "famine | strike | \u2205",
+    "sentence": "Soon another famine struck, and again the children heard their stepmother saying, \"We have but half a loaf left; the children must go deeper into the forest where they can\u2019t return.\""
+  },
+  {
+    "sent_id": 48,
+    "subj": "heart",
+    "verb": "ache",
+    "obj": "",
+    "label": "heart | ache | \u2205",
+    "sentence": "The man\u2019s heart ached, but the woman was relentless, and he gave in once more."
+  },
+  {
+    "sent_id": 49,
+    "subj": "hansel",
+    "verb": "try",
+    "obj": "",
+    "label": "hansel | try | \u2205",
+    "sentence": "This time, Hansel tried to gather pebbles again, but the door was locked."
+  },
+  {
+    "sent_id": 50,
+    "subj": "god",
+    "verb": "help",
+    "obj": "we",
+    "label": "god | help | we",
+    "sentence": "He comforted Gretel, \"Don\u2019t cry, God will help us."
+  },
+  {
+    "sent_id": 51,
+    "subj": "woman",
+    "verb": "give",
+    "obj": "piece",
+    "label": "woman | give | piece",
+    "sentence": "\"\n\nThe next morning, the woman gave them even smaller pieces of bread."
+  },
+  {
+    "sent_id": 52,
+    "subj": "hansel",
+    "verb": "crumble",
+    "obj": "bread",
+    "label": "hansel | crumble | bread",
+    "sentence": "Hansel, unable to collect pebbles, crumbled his bread and dropped crumbs along the way."
+  },
+  {
+    "sent_id": 53,
+    "subj": "he",
+    "verb": "pause",
+    "obj": "",
+    "label": "he | pause | \u2205",
+    "sentence": "Again, he paused often to look back."
+  },
+  {
+    "sent_id": 54,
+    "subj": "he",
+    "verb": "say",
+    "obj": "",
+    "label": "he | say | \u2205",
+    "sentence": "\"I\u2019m watching my little pigeon goodbye on the roof,\" he said."
+  },
+  {
+    "sent_id": 55,
+    "subj": "fool",
+    "verb": "say",
+    "obj": "",
+    "label": "fool | say | \u2205",
+    "sentence": "\"Fool!\" said his stepmother."
+  },
+  {
+    "sent_id": 56,
+    "subj": "that",
+    "verb": "\u2019",
+    "obj": "sun",
+    "label": "that | \u2019 | sun",
+    "sentence": "\"That\u2019s the morning sun, not a pigeon."
+  },
+  {
+    "sent_id": 57,
+    "subj": "woman",
+    "verb": "lead",
+    "obj": "they",
+    "label": "woman | lead | they",
+    "sentence": "\"\n\nThe woman led them deeper into the forest, to a place they had never been."
+  },
+  {
+    "sent_id": 58,
+    "subj": "she",
+    "verb": "light",
+    "obj": "fire",
+    "label": "she | light | fire",
+    "sentence": "She lit a fire and told them to sit and rest while she went for wood."
+  },
+  {
+    "sent_id": 59,
+    "subj": "gretel",
+    "verb": "share",
+    "obj": "bread",
+    "label": "gretel | share | bread",
+    "sentence": "At noon, Gretel shared her tiny bread with Hansel, who had nothing left."
+  },
+  {
+    "sent_id": 60,
+    "subj": "they",
+    "verb": "fall",
+    "obj": "asleep",
+    "label": "they | fall | asleep",
+    "sentence": "They fell asleep, but no one returned."
+  },
+  {
+    "sent_id": 61,
+    "subj": "hansel",
+    "verb": "tell",
+    "obj": "gretel",
+    "label": "hansel | tell | gretel",
+    "sentence": "After dark, Hansel told Gretel to wait for the moon so they could follow the crumbs."
+  },
+  {
+    "sent_id": 62,
+    "subj": "bird",
+    "verb": "eat",
+    "obj": "they",
+    "label": "bird | eat | they",
+    "sentence": "But when they tried, the crumbs were gone\u2014birds had eaten them all."
+  },
+  {
+    "sent_id": 63,
+    "subj": "hansel",
+    "verb": "say",
+    "obj": "",
+    "label": "hansel | say | \u2205",
+    "sentence": "\"We\u2019ll find our way,\" Hansel said bravely, but they wandered all night and all the next day, growing weak from hunger."
+  },
+  {
+    "sent_id": 64,
+    "subj": "they",
+    "verb": "find",
+    "obj": "berry",
+    "label": "they | find | berry",
+    "sentence": "They found only a few berries, lay down under a tree, and fell asleep."
+  },
+  {
+    "sent_id": 65,
+    "subj": "they",
+    "verb": "set",
+    "obj": "",
+    "label": "they | set | \u2205",
+    "sentence": "Three days after leaving home, they set off again, but only went deeper into the forest."
+  },
+  {
+    "sent_id": 66,
+    "subj": "they",
+    "verb": "see",
+    "obj": "sing",
+    "label": "they | see | sing",
+    "sentence": "Near midday, they saw a beautiful white bird singing on a bough."
+  },
+  {
+    "sent_id": 67,
+    "subj": "it",
+    "verb": "fly",
+    "obj": "",
+    "label": "it | fly | \u2205",
+    "sentence": "After it finished, it flew ahead, leading them to a small house with a roof of bread, walls of cake, and windows of clear sugar."
+  },
+  {
+    "sent_id": 68,
+    "subj": "we",
+    "verb": "eat",
+    "obj": "this",
+    "label": "we | eat | this",
+    "sentence": "\"We\u2019ll eat this!\""
+  },
+  {
+    "sent_id": 69,
+    "subj": "hansel",
+    "verb": "say",
+    "obj": "",
+    "label": "hansel | say | \u2205",
+    "sentence": "Hansel said eagerly, breaking off a piece of roof."
+  },
+  {
+    "sent_id": 70,
+    "subj": "gretel",
+    "verb": "nibble",
+    "obj": "pane",
+    "label": "gretel | nibble | pane",
+    "sentence": "Gretel nibbled a sugar window pane."
+  },
+  {
+    "sent_id": 71,
+    "subj": "child",
+    "verb": "reply",
+    "obj": "",
+    "label": "child | reply | \u2205",
+    "sentence": "Suddenly, a voice called from inside:\n\n\"Nibble, nibble, gnaw, who\u2019s nibbling at my little house?\"\n\n\"The wind, the wind, the heaven-born wind,\" the children replied, ignoring the warning and eating more."
+  },
+  {
+    "sent_id": 72,
+    "subj": "door",
+    "verb": "swing",
+    "obj": "",
+    "label": "door | swing | \u2205",
+    "sentence": "Then the door swung open, and an old woman with crutches came out."
+  },
+  {
+    "sent_id": 73,
+    "subj": "hansel",
+    "verb": "drop",
+    "obj": "treat",
+    "label": "hansel | drop | treat",
+    "sentence": "Hansel and Gretel dropped their treats, frightened."
+  },
+  {
+    "sent_id": 74,
+    "subj": "she",
+    "verb": "smile",
+    "obj": "",
+    "label": "she | smile | \u2205",
+    "sentence": "She smiled kindly and said, \"Dear children, who brought you here?"
+  },
+  {
+    "sent_id": 75,
+    "subj": "",
+    "verb": "come",
+    "obj": "",
+    "label": "\u2205 | come | \u2205",
+    "sentence": "Come in and stay with me."
+  },
+  {
+    "sent_id": 76,
+    "subj": "harm",
+    "verb": "come",
+    "obj": "you",
+    "label": "harm | come | you",
+    "sentence": "No harm will come to you.\""
+  },
+  {
+    "sent_id": 77,
+    "subj": "she",
+    "verb": "hold",
+    "obj": "hand",
+    "label": "she | hold | hand",
+    "sentence": "She held their hands and led them inside, where she served them milk, pancakes, sugar, apples, and nuts."
+  },
+  {
+    "sent_id": 78,
+    "subj": "she",
+    "verb": "make",
+    "obj": "bed",
+    "label": "she | make | bed",
+    "sentence": "She made two cozy beds for them, and the children felt they were in heaven."
+  },
+  {
+    "sent_id": 79,
+    "subj": "woman",
+    "verb": "be",
+    "obj": "witch",
+    "label": "woman | be | witch",
+    "sentence": "But the woman was actually a wicked witch who trapped children to eat them."
+  },
+  {
+    "sent_id": 80,
+    "subj": "she",
+    "verb": "build",
+    "obj": "house",
+    "label": "she | build | house",
+    "sentence": "She had built the house to lure them in."
+  },
+  {
+    "sent_id": 81,
+    "subj": "witch",
+    "verb": "have",
+    "obj": "eye",
+    "label": "witch | have | eye",
+    "sentence": "Witches have red eyes and sharp noses, sensing when humans are near."
+  },
+  {
+    "sent_id": 82,
+    "subj": "she",
+    "verb": "laugh",
+    "obj": "",
+    "label": "she | laugh | \u2205",
+    "sentence": "When Hansel and Gretel came close, she laughed wickedly, \"I have them now; they shall not escape!\""
+  },
+  {
+    "sent_id": 83,
+    "subj": "she",
+    "verb": "lock",
+    "obj": "hansel",
+    "label": "she | lock | hansel",
+    "sentence": "Early the next morning, before the children woke, she locked Hansel in a tiny stable with a grated door."
+  },
+  {
+    "sent_id": 84,
+    "subj": "he",
+    "verb": "scream",
+    "obj": "",
+    "label": "he | scream | \u2205",
+    "sentence": "He screamed and struggled, but it was no use."
+  },
+  {
+    "sent_id": 85,
+    "subj": "she",
+    "verb": "wake",
+    "obj": "gretel",
+    "label": "she | wake | gretel",
+    "sentence": "She woke Gretel, shaking her, and ordered, \"Get up, lazy girl!"
+  },
+  {
+    "sent_id": 87,
+    "subj": "he",
+    "verb": "need",
+    "obj": "",
+    "label": "he | need | \u2205",
+    "sentence": "He needs to be fattened up for my cooking.\""
+  },
+  {
+    "sent_id": 88,
+    "subj": "gretel",
+    "verb": "sob",
+    "obj": "",
+    "label": "gretel | sob | \u2205",
+    "sentence": "Gretel sobbed but had to obey."
+  },
+  {
+    "sent_id": 89,
+    "subj": "hansel",
+    "verb": "feed",
+    "obj": "food",
+    "label": "hansel | feed | food",
+    "sentence": "Hansel was fed the best food, while Gretel got only crab shells."
+  },
+  {
+    "sent_id": 90,
+    "subj": "witch",
+    "verb": "stick",
+    "obj": "finger",
+    "label": "witch | stick | finger",
+    "sentence": "Every morning the witch stuck her finger through the bars to feel if Hansel was fat yet."
+  },
+  {
+    "sent_id": 91,
+    "subj": "hansel",
+    "verb": "hold",
+    "obj": "bone",
+    "label": "hansel | hold | bone",
+    "sentence": "Hansel cleverly held out a thin bone instead, fooling her poor eyesight."
+  },
+  {
+    "sent_id": 92,
+    "subj": "week",
+    "verb": "pass",
+    "obj": "",
+    "label": "week | pass | \u2205",
+    "sentence": "Weeks passed, and Hansel remained thin."
+  },
+  {
+    "sent_id": 93,
+    "subj": "witch",
+    "verb": "grow",
+    "obj": "",
+    "label": "witch | grow | \u2205",
+    "sentence": "The witch grew impatient and threatened, \"Fat or thin, tomorrow I\u2019ll kill and cook him.\""
+  },
+  {
+    "sent_id": 94,
+    "subj": "gretel",
+    "verb": "cry",
+    "obj": "",
+    "label": "gretel | cry | \u2205",
+    "sentence": "Gretel cried, begging God for help, wishing they\u2019d been eaten by forest beasts so they could have died together."
+  },
+  {
+    "sent_id": 95,
+    "subj": "witch",
+    "verb": "make",
+    "obj": "",
+    "label": "witch | make | \u2205",
+    "sentence": "One morning, the witch made Gretel stoke the oven\u2019s fire and ordered her to check if it was hot enough to bake bread."
+  },
+  {
+    "sent_id": 96,
+    "subj": "she",
+    "verb": "push",
+    "obj": "gretel",
+    "label": "she | push | gretel",
+    "sentence": "She pushed Gretel toward the blazing oven, planning to shut her inside and cook her too."
+  },
+  {
+    "sent_id": 97,
+    "subj": "gretel",
+    "verb": "pretend",
+    "obj": "",
+    "label": "gretel | pretend | \u2205",
+    "sentence": "But Gretel pretended not to understand."
+  },
+  {
+    "sent_id": 98,
+    "subj": "i",
+    "verb": "get",
+    "obj": "",
+    "label": "i | get | \u2205",
+    "sentence": "\"How do I get in?\""
+  },
+  {
+    "sent_id": 99,
+    "subj": "she",
+    "verb": "ask",
+    "obj": "",
+    "label": "she | ask | \u2205",
+    "sentence": "she asked."
+  },
+  {
+    "sent_id": 100,
+    "subj": "witch",
+    "verb": "say",
+    "obj": "",
+    "label": "witch | say | \u2205",
+    "sentence": "\"The door is big enough,\" the witch said, crawling in herself to show her."
+  },
+  {
+    "sent_id": 101,
+    "subj": "gretel",
+    "verb": "shove",
+    "obj": "witch",
+    "label": "gretel | shove | witch",
+    "sentence": "Quick as a flash, Gretel shoved the witch deep into the oven, closed the iron door, and locked it tight."
+  },
+  {
+    "sent_id": 102,
+    "subj": "witch",
+    "verb": "scream",
+    "obj": "",
+    "label": "witch | scream | \u2205",
+    "sentence": "The witch screamed horribly as she burned."
+  },
+  {
+    "sent_id": 103,
+    "subj": "gretel",
+    "verb": "run",
+    "obj": "stable",
+    "label": "gretel | run | stable",
+    "sentence": "Gretel ran to the stable and freed Hansel."
+  },
+  {
+    "sent_id": 104,
+    "subj": "we",
+    "verb": "save",
+    "obj": "",
+    "label": "we | save | \u2205",
+    "sentence": "\"We\u2019re saved!"
+  },
+  {
+    "sent_id": 105,
+    "subj": "witch",
+    "verb": "be",
+    "obj": "",
+    "label": "witch | be | \u2205",
+    "sentence": "The witch is dead!\""
+  },
+  {
+    "sent_id": 106,
+    "subj": "she",
+    "verb": "cry",
+    "obj": "",
+    "label": "she | cry | \u2205",
+    "sentence": "she cried."
+  },
+  {
+    "sent_id": 107,
+    "subj": "hansel",
+    "verb": "fly",
+    "obj": "bird",
+    "label": "hansel | fly | bird",
+    "sentence": "Hansel flew out like a bird from a cage."
+  },
+  {
+    "sent_id": 108,
+    "subj": "they",
+    "verb": "hug",
+    "obj": "",
+    "label": "they | hug | \u2205",
+    "sentence": "They hugged, danced, and kissed with joy."
+  },
+  {
+    "sent_id": 109,
+    "subj": "they",
+    "verb": "explore",
+    "obj": "house",
+    "label": "they | explore | house",
+    "sentence": "Freed, they explored the witch\u2019s house and found chests filled with pearls and jewels."
+  },
+  {
+    "sent_id": 110,
+    "subj": "hansel",
+    "verb": "stuff",
+    "obj": "pocket",
+    "label": "hansel | stuff | pocket",
+    "sentence": "Hansel stuffed his pockets with treasures, and Gretel filled her apron."
+  },
+  {
+    "sent_id": 111,
+    "subj": "hansel",
+    "verb": "say",
+    "obj": "",
+    "label": "hansel | say | \u2205",
+    "sentence": "\"Now we must leave,\" Hansel said, \"and get out of the witch\u2019s forest."
+  },
+  {
+    "sent_id": 112,
+    "subj": "they",
+    "verb": "come",
+    "obj": "hour",
+    "label": "they | come | hour",
+    "sentence": "\"\n\nAfter two hours, they came to a wide river."
+  },
+  {
+    "sent_id": 113,
+    "subj": "hansel",
+    "verb": "say",
+    "obj": "",
+    "label": "hansel | say | \u2205",
+    "sentence": "\"We can\u2019t cross\u2014no plank or bridge,\" Hansel said."
+  },
+  {
+    "sent_id": 114,
+    "subj": "",
+    "verb": "look",
+    "obj": "",
+    "label": "\u2205 | look | \u2205",
+    "sentence": "\"But look!"
+  },
+  {
+    "sent_id": 115,
+    "subj": "duck",
+    "verb": "swim",
+    "obj": "",
+    "label": "duck | swim | \u2205",
+    "sentence": "That white duck is swimming."
+  },
+  {
+    "sent_id": 116,
+    "subj": "gretel",
+    "verb": "offer",
+    "obj": "",
+    "label": "gretel | offer | \u2205",
+    "sentence": "I\u2019ll ask her to carry us across,\" Gretel offered."
+  },
+  {
+    "sent_id": 117,
+    "subj": "you",
+    "verb": "see",
+    "obj": "",
+    "label": "you | see | \u2205",
+    "sentence": "She called:\n\n\"Little duck, little duck, can you see\nHansel and Gretel waiting for thee?"
+  },
+  {
+    "sent_id": 118,
+    "subj": "",
+    "verb": "take",
+    "obj": "we",
+    "label": "\u2205 | take | we",
+    "sentence": "No plank or bridge is anywhere near,\nTake us across on your back so dear."
+  },
+  {
+    "sent_id": 119,
+    "subj": "duck",
+    "verb": "come",
+    "obj": "",
+    "label": "duck | come | \u2205",
+    "sentence": "\"\n\nThe duck came over."
+  },
+  {
+    "sent_id": 120,
+    "subj": "hansel",
+    "verb": "sit",
+    "obj": "back",
+    "label": "hansel | sit | back",
+    "sentence": "Hansel sat on her back, then Gretel, but she was too heavy for both at once."
+  },
+  {
+    "sent_id": 121,
+    "subj": "duck",
+    "verb": "carry",
+    "obj": "they",
+    "label": "duck | carry | they",
+    "sentence": "So the duck carried them one at a time safely across."
+  },
+  {
+    "sent_id": 122,
+    "subj": "forest",
+    "verb": "grow",
+    "obj": "side",
+    "label": "forest | grow | side",
+    "sentence": "Once on the other side, the forest grew familiar, and soon they saw their father\u2019s house."
+  },
+  {
+    "sent_id": 123,
+    "subj": "they",
+    "verb": "run",
+    "obj": "",
+    "label": "they | run | \u2205",
+    "sentence": "They ran inside and threw themselves into his arms."
+  },
+  {
+    "sent_id": 124,
+    "subj": "stepmother",
+    "verb": "be",
+    "obj": "",
+    "label": "stepmother | be | \u2205",
+    "sentence": "Their father had never known a happy moment since abandoning them; their stepmother, however, was dead."
+  },
+  {
+    "sent_id": 125,
+    "subj": "gretel",
+    "verb": "empty",
+    "obj": "apron",
+    "label": "gretel | empty | apron",
+    "sentence": "Gretel emptied her apron, spilling pearls and jewels across the floor, and Hansel emptied his pockets."
+  },
+  {
+    "sent_id": 126,
+    "subj": "trouble",
+    "verb": "be",
+    "obj": "",
+    "label": "trouble | be | \u2205",
+    "sentence": "Their troubles were over, and they lived happily together forever."
+  },
+  {
+    "sent_id": 127,
+    "subj": "",
+    "verb": "make",
+    "obj": "cap",
+    "label": "\u2205 | make | cap",
+    "sentence": "The story ends here\u2014there runs a mouse; whoever catches it, may make a big fur cap from it."
+  }
+]

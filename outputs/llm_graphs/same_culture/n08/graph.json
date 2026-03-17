@@ -1,0 +1,982 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "gauda | punish | \u2205",
+      "sent_id": 0,
+      "sentence": "Long ago, Aggo Dah Gauda was punished for once using his foot against a respected medicine man.",
+      "subj": "gauda",
+      "verb": "punish",
+      "obj": ""
+    },
+    {
+      "id": "e0001",
+      "label": "one | tie | thigh",
+      "sent_id": 1,
+      "sentence": "One of his legs was tied up to his thigh, forcing him to hop wherever he went.",
+      "subj": "one",
+      "verb": "tie",
+      "obj": "thigh"
+    },
+    {
+      "id": "e0002",
+      "label": "he | become | practice",
+      "sent_id": 2,
+      "sentence": "With practice, he became very skilled at hopping and could leap with amazing agility.",
+      "subj": "he",
+      "verb": "become",
+      "obj": "practice"
+    },
+    {
+      "id": "e0003",
+      "label": "aggo | have | daughter",
+      "sent_id": 3,
+      "sentence": "Aggo had a beautiful daughter.",
+      "subj": "aggo",
+      "verb": "have",
+      "obj": "daughter"
+    },
+    {
+      "id": "e0004",
+      "label": "concern | be | \u2205",
+      "sent_id": 4,
+      "sentence": "His greatest concern was to protect her from being taken by the king of the buffalos, the powerful ruler of all the buffalo herds who commanded them completely.",
+      "subj": "concern",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0005",
+      "label": "gauda | be | right",
+      "sent_id": 5,
+      "sentence": "Dah Gauda himself was important in his own right, living in a grand log house with a courtyard stretching as far west as he wished to claim.",
+      "subj": "gauda",
+      "verb": "be",
+      "obj": "right"
+    },
+    {
+      "id": "e0006",
+      "label": "he | warn | daughter",
+      "sent_id": 6,
+      "sentence": "Despite his vast domain, he warned his daughter to stay inside the lodge, never wandering far, because he was certain the buffalo-king was always lurking nearby, waiting to seize her.",
+      "subj": "he",
+      "verb": "warn",
+      "obj": "daughter"
+    },
+    {
+      "id": "e0007",
+      "label": "aggo | prepare | cloud",
+      "sent_id": 7,
+      "sentence": "One bright morning, with a few gentle clouds drifting across the sky, Aggo prepared to go fishing.",
+      "subj": "aggo",
+      "verb": "prepare",
+      "obj": "cloud"
+    },
+    {
+      "id": "e0008",
+      "label": "he | remind | daughter",
+      "sent_id": 8,
+      "sentence": "Before leaving, he reminded his daughter about the dangerous stranger she had never seen.",
+      "subj": "he",
+      "verb": "remind",
+      "obj": "daughter"
+    },
+    {
+      "id": "e0009",
+      "label": "daughter | go | \u2205",
+      "sent_id": 9,
+      "sentence": "\u201cMy daughter,\u201d he said, \u201cI\u2019m going out to fish.",
+      "subj": "daughter",
+      "verb": "go",
+      "obj": ""
+    },
+    {
+      "id": "e0010",
+      "label": "day | be | \u2205",
+      "sent_id": 10,
+      "sentence": "The day will be fine, but remember our enemy is near, watching with eyes that never close.",
+      "subj": "day",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0011",
+      "label": "\u2205 | show | yourself",
+      "sent_id": 11,
+      "sentence": "Do not show yourself outside the lodge.\u201d\n\nWith that advice, Aggo hopped away happily.",
+      "subj": "",
+      "verb": "show",
+      "obj": "yourself"
+    },
+    {
+      "id": "e0012",
+      "label": "he | hear | song",
+      "sent_id": 12,
+      "sentence": "Soon after reaching the fishing spot, he heard a strange song carried on the wind:\n\nMan with the leg tied up, \nMan with the leg tied up, \nBroken hip\u2014hip\u2014 \nHipped.",
+      "subj": "he",
+      "verb": "hear",
+      "obj": "song"
+    },
+    {
+      "id": "e0013",
+      "label": "man | tie | \u2205",
+      "sent_id": 13,
+      "sentence": "Man with the leg tied up, \nMan with the leg tied up, \nBroken leg\u2014leg\u2014 \nLegged.",
+      "subj": "man",
+      "verb": "tie",
+      "obj": ""
+    },
+    {
+      "id": "e0014",
+      "label": "one | be | \u2205",
+      "sent_id": 14,
+      "sentence": "No one was visible, but Aggo clearly heard the words.",
+      "subj": "one",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0015",
+      "label": "he | hurry | \u2205",
+      "sent_id": 15,
+      "sentence": "Knowing this must be the work of his enemies, the buffalos, he hurried home as fast as his one leg could carry him.",
+      "subj": "he",
+      "verb": "hurry",
+      "obj": ""
+    },
+    {
+      "id": "e0016",
+      "label": "daughter | think | herself",
+      "sent_id": 16,
+      "sentence": "Meanwhile, left alone inside the lodge, the daughter thought to herself, \u201cIt\u2019s so hard always staying inside.",
+      "subj": "daughter",
+      "verb": "think",
+      "obj": "herself"
+    },
+    {
+      "id": "e0017",
+      "label": "father | say | \u2205",
+      "sent_id": 17,
+      "sentence": "But father says it\u2019s dangerous to go out.",
+      "subj": "father",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0018",
+      "label": "i | comb | hair",
+      "sent_id": 19,
+      "sentence": "There I can comb my hair, and no one can harm me.\u201d",
+      "subj": "i",
+      "verb": "comb",
+      "obj": "hair"
+    },
+    {
+      "id": "e0019",
+      "label": "she | climb | roof",
+      "sent_id": 20,
+      "sentence": "She climbed to the roof and began untying and combing her long, beautiful hair.",
+      "subj": "she",
+      "verb": "climb",
+      "obj": "roof"
+    },
+    {
+      "id": "e0020",
+      "label": "hair | be | \u2205",
+      "sent_id": 21,
+      "sentence": "Her hair was truly remarkable\u2014not only shiny and fine but so long that it draped over the eaves and touched the ground as she sat there grooming it.",
+      "subj": "hair",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0021",
+      "label": "she | be | \u2205",
+      "sent_id": 22,
+      "sentence": "She was so focused on this that she didn\u2019t notice the buffalo-king rushing in with his herd.",
+      "subj": "she",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0022",
+      "label": "he | grab | she",
+      "sent_id": 23,
+      "sentence": "He grabbed her by her cascading hair, placed her on the back of one of his chosen buffaloes, and galloped across the plains.",
+      "subj": "he",
+      "verb": "grab",
+      "obj": "she"
+    },
+    {
+      "id": "e0023",
+      "label": "he | carry | she",
+      "sent_id": 24,
+      "sentence": "Splashing through a river at the edge of his land, he carried her safely to his lodge on the far shore.",
+      "subj": "he",
+      "verb": "carry",
+      "obj": "she"
+    },
+    {
+      "id": "e0024",
+      "label": "it | be | \u2205",
+      "sent_id": 26,
+      "sentence": "It might have been smarter to try this before taking her, but now his efforts were mostly in vain.",
+      "subj": "it",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0025",
+      "label": "she | sit | female",
+      "sent_id": 27,
+      "sentence": "Although he spoke kindly to her and treated her with great care, she sat silent and sorrowful among the other females, showing no interest in the king or his household.",
+      "subj": "she",
+      "verb": "sit",
+      "obj": "female"
+    },
+    {
+      "id": "e0026",
+      "label": "she | be | he",
+      "sent_id": 28,
+      "sentence": "To him, she was as still and quiet as a bush by her father\u2019s door when the summer wind has died away.",
+      "subj": "she",
+      "verb": "be",
+      "obj": "he"
+    },
+    {
+      "id": "e0027",
+      "label": "king | command | everyone",
+      "sent_id": 29,
+      "sentence": "The king commanded everyone in the lodge, under threat of death, to give her everything she wanted and never upset her.",
+      "subj": "king",
+      "verb": "command",
+      "obj": "everyone"
+    },
+    {
+      "id": "e0028",
+      "label": "they | bring | food",
+      "sent_id": 30,
+      "sentence": "They brought her the finest food and gave her the place of honor.",
+      "subj": "they",
+      "verb": "bring",
+      "obj": "food"
+    },
+    {
+      "id": "e0029",
+      "label": "king | go | \u2205",
+      "sent_id": 31,
+      "sentence": "The king himself went hunting for the best meats and birds to please her.",
+      "subj": "king",
+      "verb": "go",
+      "obj": ""
+    },
+    {
+      "id": "e0030",
+      "label": "he | take | she",
+      "sent_id": 32,
+      "sentence": "Each morning he took her on a gentle ride on a royal buffalo, whose calm gait didn\u2019t disturb a single strand of her magnificent hair.",
+      "subj": "he",
+      "verb": "take",
+      "obj": "she"
+    },
+    {
+      "id": "e0031",
+      "label": "king | fast | time",
+      "sent_id": 33,
+      "sentence": "At times, the king would fast to clear his spirit and warm his voice.",
+      "subj": "king",
+      "verb": "fast",
+      "obj": "time"
+    },
+    {
+      "id": "e0032",
+      "label": "he | pour | feeling",
+      "sent_id": 34,
+      "sentence": "Then sitting before the lodge with an Indian flute, he poured out his feelings in lonely song:\n\nMy sweetheart, \nMy sweetheart, \nAh me!",
+      "subj": "he",
+      "verb": "pour",
+      "obj": "feeling"
+    },
+    {
+      "id": "e0033",
+      "label": "i | think | you",
+      "sent_id": 35,
+      "sentence": "When I think of you, \nWhen I think of you, \nAh me!",
+      "subj": "i",
+      "verb": "think",
+      "obj": "you"
+    },
+    {
+      "id": "e0034",
+      "label": "i | do | what",
+      "sent_id": 36,
+      "sentence": "What can I do, do, do?",
+      "subj": "i",
+      "verb": "do",
+      "obj": "what"
+    },
+    {
+      "id": "e0035",
+      "label": "i | love | you",
+      "sent_id": 37,
+      "sentence": "How I love you, \nHow I love you, \nAh me!",
+      "subj": "i",
+      "verb": "love",
+      "obj": "you"
+    },
+    {
+      "id": "e0036",
+      "label": "\u2205 | hate | i",
+      "sent_id": 38,
+      "sentence": "Do not hate me, \nDo not hate me, \nAh me!",
+      "subj": "",
+      "verb": "hate",
+      "obj": "i"
+    },
+    {
+      "id": "e0037",
+      "label": "speak | scold | i",
+      "sent_id": 39,
+      "sentence": "Speak\u2014even scold me.",
+      "subj": "speak",
+      "verb": "scold",
+      "obj": "i"
+    },
+    {
+      "id": "e0038",
+      "label": "i | think | you",
+      "sent_id": 40,
+      "sentence": "When I think of you, \nAh me!",
+      "subj": "i",
+      "verb": "think",
+      "obj": "you"
+    },
+    {
+      "id": "e0039",
+      "label": "i | do | what",
+      "sent_id": 41,
+      "sentence": "What can I do, do, do?",
+      "subj": "i",
+      "verb": "do",
+      "obj": "what"
+    },
+    {
+      "id": "e0040",
+      "label": "gauda | return | \u2205",
+      "sent_id": 42,
+      "sentence": "Meanwhile, Aggo Dah Gauda returned home to find his daughter missing.",
+      "subj": "gauda",
+      "verb": "return",
+      "obj": ""
+    },
+    {
+      "id": "e0041",
+      "label": "anger | flare | \u2205",
+      "sent_id": 43,
+      "sentence": "His anger flared fiercely.",
+      "subj": "anger",
+      "verb": "flare",
+      "obj": ""
+    },
+    {
+      "id": "e0042",
+      "label": "he | want | \u2205",
+      "sent_id": 44,
+      "sentence": "He wanted to tear out his hair, but being bald that was impossible.",
+      "subj": "he",
+      "verb": "want",
+      "obj": ""
+    },
+    {
+      "id": "e0043",
+      "label": "he | hop | direction",
+      "sent_id": 45,
+      "sentence": "So, to vent, he hopped off half a mile in every direction\u2014east, west, north, and south\u2014searching for her until his one leg tired out.",
+      "subj": "he",
+      "verb": "hop",
+      "obj": "direction"
+    },
+    {
+      "id": "e0044",
+      "label": "he | rest | lodge",
+      "sent_id": 46,
+      "sentence": "Then he rested in his lodge and vowed his single leg would never rest again until he found and brought her home.",
+      "subj": "he",
+      "verb": "rest",
+      "obj": "lodge"
+    },
+    {
+      "id": "e0045",
+      "label": "he | set | determination",
+      "sent_id": 47,
+      "sentence": "With determination, he set out.",
+      "subj": "he",
+      "verb": "set",
+      "obj": "determination"
+    },
+    {
+      "id": "e0046",
+      "label": "aggo | track | king",
+      "sent_id": 48,
+      "sentence": "Going more slowly now, Aggo tracked the buffalo-king to the riverbank where wild buffalo had crossed.",
+      "subj": "aggo",
+      "verb": "track",
+      "obj": "king"
+    },
+    {
+      "id": "e0047",
+      "label": "water | freeze | night",
+      "sent_id": 49,
+      "sentence": "But after a few cold nights, the water was frozen with thin ice too fragile for him.",
+      "subj": "water",
+      "verb": "freeze",
+      "obj": "night"
+    },
+    {
+      "id": "e0048",
+      "label": "he | camp | \u2205",
+      "sent_id": 50,
+      "sentence": "He camped nearby until the ice was strong enough to cross and then followed the trail.",
+      "subj": "he",
+      "verb": "camp",
+      "obj": ""
+    },
+    {
+      "id": "e0049",
+      "label": "he | find | branch",
+      "sent_id": 51,
+      "sentence": "Along the way, he found broken branches scattered behind him.",
+      "subj": "he",
+      "verb": "find",
+      "obj": "branch"
+    },
+    {
+      "id": "e0050",
+      "label": "these | be | sign",
+      "sent_id": 52,
+      "sentence": "These were signs his daughter left, for, when caught, her loose long hair had caught on branches, and she had snapped off twigs to mark the path.",
+      "subj": "these",
+      "verb": "be",
+      "obj": "sign"
+    },
+    {
+      "id": "e0051",
+      "label": "aggo | come | lodge",
+      "sent_id": 53,
+      "sentence": "Finally, Aggo came upon the buffalo-king\u2019s lodge at evening.",
+      "subj": "aggo",
+      "verb": "come",
+      "obj": "lodge"
+    },
+    {
+      "id": "e0052",
+      "label": "he | see | \u2205",
+      "sent_id": 54,
+      "sentence": "Peeking inside, he saw his daughter sitting silently.",
+      "subj": "he",
+      "verb": "see",
+      "obj": ""
+    },
+    {
+      "id": "e0053",
+      "label": "she | ask | dipper",
+      "sent_id": 55,
+      "sentence": "When their eyes met, she recognized him and, her heart softening, she asked for the royal dipper, saying, \u201cI will go get the king some water.\u201d",
+      "subj": "she",
+      "verb": "ask",
+      "obj": "dipper"
+    },
+    {
+      "id": "e0054",
+      "label": "she | slip | sound",
+      "sent_id": 57,
+      "sentence": "But she slipped away without a sound.",
+      "subj": "she",
+      "verb": "slip",
+      "obj": "sound"
+    },
+    {
+      "id": "e0055",
+      "label": "king | call | herd",
+      "sent_id": 58,
+      "sentence": "The king called his herd and they set off across the plains.",
+      "subj": "king",
+      "verb": "call",
+      "obj": "herd"
+    },
+    {
+      "id": "e0056",
+      "label": "they | spot | gauda",
+      "sent_id": 59,
+      "sentence": "Under the moonlight, they spotted Aggo Dah Gauda, who carried his daughter in his arms, hopping swiftly to the west.",
+      "subj": "they",
+      "verb": "spot",
+      "obj": "gauda"
+    },
+    {
+      "id": "e0057",
+      "label": "buffalos | give | shout",
+      "sent_id": 60,
+      "sentence": "The buffalos gave a loud shout and chased after him, sure they would catch him quickly.",
+      "subj": "buffalos",
+      "verb": "give",
+      "obj": "shout"
+    },
+    {
+      "id": "e0058",
+      "label": "it | be | \u2205",
+      "sent_id": 61,
+      "sentence": "But although Aggo had only one leg, it was so strong and swift that for every step they took, he hopped the length of a cedar tree.",
+      "subj": "it",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0059",
+      "label": "king | determine | \u2205",
+      "sent_id": 62,
+      "sentence": "The buffalo-king was determined not to be outrun by a man with a tied-up leg.",
+      "subj": "king",
+      "verb": "determine",
+      "obj": ""
+    },
+    {
+      "id": "e0060",
+      "label": "he | send | buffalo",
+      "sent_id": 63,
+      "sentence": "Shouting and urging, he sent his fastest buffaloes ahead with strict orders to capture Aggo dead or alive.",
+      "subj": "he",
+      "verb": "send",
+      "obj": "buffalo"
+    },
+    {
+      "id": "e0061",
+      "label": "aggo | leap | side",
+      "sent_id": 64,
+      "sentence": "It was a strange sight: when one buffalo nearly reached him, Aggo would leap far off to the side, putting himself out of reach.",
+      "subj": "aggo",
+      "verb": "leap",
+      "obj": "side"
+    },
+    {
+      "id": "e0062",
+      "label": "he | hop | \u2205",
+      "sent_id": 65,
+      "sentence": "This brought him close to another buffalo, then he\u2019d hop away again, zigzagging across the plain.",
+      "subj": "he",
+      "verb": "hop",
+      "obj": ""
+    },
+    {
+      "id": "e0063",
+      "label": "buffalos | grow | \u2205",
+      "sent_id": 66,
+      "sentence": "The buffalos grew confused and frantic.",
+      "subj": "buffalos",
+      "verb": "grow",
+      "obj": ""
+    },
+    {
+      "id": "e0064",
+      "label": "they | roar | \u2205",
+      "sent_id": 67,
+      "sentence": "They roared, flicked their tails, and foamed, as if trying to scare the old man in the moon watching from above the prairie.",
+      "subj": "they",
+      "verb": "roar",
+      "obj": ""
+    },
+    {
+      "id": "e0065",
+      "label": "king | lose | patience",
+      "sent_id": 68,
+      "sentence": "Finally, the frustrated king lost patience.",
+      "subj": "king",
+      "verb": "lose",
+      "obj": "patience"
+    },
+    {
+      "id": "e0066",
+      "label": "he | call | \u2205",
+      "sent_id": 69,
+      "sentence": "Chasing a one-legged man all night seemed ridiculous, so he called off the hunt and fled west, never to return to that land.",
+      "subj": "he",
+      "verb": "call",
+      "obj": ""
+    },
+    {
+      "id": "e0067",
+      "label": "aggo | hop | stream",
+      "sent_id": 70,
+      "sentence": "Free from pursuit, Aggo hopped swiftly across a stream and brought his daughter safely home.",
+      "subj": "aggo",
+      "verb": "hop",
+      "obj": "stream"
+    },
+    {
+      "id": "e0068",
+      "label": "daughter | marry | warrior",
+      "sent_id": 71,
+      "sentence": "Later, Aggo\u2019s beautiful daughter married a fine young warrior who was no buffalo-king and owned nothing but a splendid buffalo skin robe, worn proudly over his shoulders on their wedding day.",
+      "subj": "daughter",
+      "verb": "marry",
+      "obj": "warrior"
+    },
+    {
+      "id": "e0069",
+      "label": "gauda | hop | day",
+      "sent_id": 72,
+      "sentence": "On that day, Aggo Dah Gauda hopped about on his one leg more lively than ever before.",
+      "subj": "gauda",
+      "verb": "hop",
+      "obj": "day"
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    },
+    {
+      "source": "e0029",
+      "target": "e0030",
+      "relation": "next"
+    },
+    {
+      "source": "e0030",
+      "target": "e0031",
+      "relation": "next"
+    },
+    {
+      "source": "e0031",
+      "target": "e0032",
+      "relation": "next"
+    },
+    {
+      "source": "e0032",
+      "target": "e0033",
+      "relation": "next"
+    },
+    {
+      "source": "e0033",
+      "target": "e0034",
+      "relation": "next"
+    },
+    {
+      "source": "e0034",
+      "target": "e0035",
+      "relation": "next"
+    },
+    {
+      "source": "e0035",
+      "target": "e0036",
+      "relation": "next"
+    },
+    {
+      "source": "e0036",
+      "target": "e0037",
+      "relation": "next"
+    },
+    {
+      "source": "e0037",
+      "target": "e0038",
+      "relation": "next"
+    },
+    {
+      "source": "e0038",
+      "target": "e0039",
+      "relation": "next"
+    },
+    {
+      "source": "e0039",
+      "target": "e0040",
+      "relation": "next"
+    },
+    {
+      "source": "e0040",
+      "target": "e0041",
+      "relation": "next"
+    },
+    {
+      "source": "e0041",
+      "target": "e0042",
+      "relation": "next"
+    },
+    {
+      "source": "e0042",
+      "target": "e0043",
+      "relation": "next"
+    },
+    {
+      "source": "e0043",
+      "target": "e0044",
+      "relation": "next"
+    },
+    {
+      "source": "e0044",
+      "target": "e0045",
+      "relation": "next"
+    },
+    {
+      "source": "e0045",
+      "target": "e0046",
+      "relation": "next"
+    },
+    {
+      "source": "e0046",
+      "target": "e0047",
+      "relation": "next"
+    },
+    {
+      "source": "e0047",
+      "target": "e0048",
+      "relation": "next"
+    },
+    {
+      "source": "e0048",
+      "target": "e0049",
+      "relation": "next"
+    },
+    {
+      "source": "e0049",
+      "target": "e0050",
+      "relation": "next"
+    },
+    {
+      "source": "e0050",
+      "target": "e0051",
+      "relation": "next"
+    },
+    {
+      "source": "e0051",
+      "target": "e0052",
+      "relation": "next"
+    },
+    {
+      "source": "e0052",
+      "target": "e0053",
+      "relation": "next"
+    },
+    {
+      "source": "e0053",
+      "target": "e0054",
+      "relation": "next"
+    },
+    {
+      "source": "e0054",
+      "target": "e0055",
+      "relation": "next"
+    },
+    {
+      "source": "e0055",
+      "target": "e0056",
+      "relation": "next"
+    },
+    {
+      "source": "e0056",
+      "target": "e0057",
+      "relation": "next"
+    },
+    {
+      "source": "e0057",
+      "target": "e0058",
+      "relation": "next"
+    },
+    {
+      "source": "e0058",
+      "target": "e0059",
+      "relation": "next"
+    },
+    {
+      "source": "e0059",
+      "target": "e0060",
+      "relation": "next"
+    },
+    {
+      "source": "e0060",
+      "target": "e0061",
+      "relation": "next"
+    },
+    {
+      "source": "e0061",
+      "target": "e0062",
+      "relation": "next"
+    },
+    {
+      "source": "e0062",
+      "target": "e0063",
+      "relation": "next"
+    },
+    {
+      "source": "e0063",
+      "target": "e0064",
+      "relation": "next"
+    },
+    {
+      "source": "e0064",
+      "target": "e0065",
+      "relation": "next"
+    },
+    {
+      "source": "e0065",
+      "target": "e0066",
+      "relation": "next"
+    },
+    {
+      "source": "e0066",
+      "target": "e0067",
+      "relation": "next"
+    },
+    {
+      "source": "e0067",
+      "target": "e0068",
+      "relation": "next"
+    },
+    {
+      "source": "e0068",
+      "target": "e0069",
+      "relation": "next"
+    }
+  ]
+}

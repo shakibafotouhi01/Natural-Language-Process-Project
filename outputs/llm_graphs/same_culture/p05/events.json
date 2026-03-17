@@ -1,0 +1,210 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "stirring",
+    "verb": "get",
+    "obj": "well",
+    "label": "stirring | get | well",
+    "sentence": "Despite the many warnings from the esteemed Sheikh Abulfaraj Ben Juzi to avoid musical entertainments and choose solitude and retirement instead, the stirrings of my youth got the better of me."
+  },
+  {
+    "sent_id": 1,
+    "subj": "i",
+    "verb": "take",
+    "obj": "step",
+    "label": "i | take | step",
+    "sentence": "My desires were stirred, and unable to resist, I took a few steps against my tutor\u2019s advice, enjoying music and lively gatherings."
+  },
+  {
+    "sent_id": 2,
+    "subj": "i",
+    "verb": "think",
+    "obj": "",
+    "label": "i | think | \u2205",
+    "sentence": "When my sheikh\u2019s counsel came to mind, I thought:\n\nIf the qazi were here, he would clap his hands."
+  },
+  {
+    "sent_id": 3,
+    "subj": "he",
+    "verb": "pardon",
+    "obj": "drunk",
+    "label": "he | pardon | drunk",
+    "sentence": "If the muhtasib found drunkenness, he might pardon the drunk."
+  },
+  {
+    "sent_id": 4,
+    "subj": "i",
+    "verb": "live",
+    "obj": "this",
+    "label": "i | live | this",
+    "sentence": "So I lived on like this until one night I visited a gathering where I saw a musician playing."
+  },
+  {
+    "sent_id": 5,
+    "subj": "you",
+    "verb": "say",
+    "obj": "",
+    "label": "you | say | \u2205",
+    "sentence": "You would have said he was pulling at the very pulse of life with his fiddle-bow."
+  },
+  {
+    "sent_id": 6,
+    "subj": "voice",
+    "verb": "be",
+    "obj": "",
+    "label": "voice | be | \u2205",
+    "sentence": "His voice was more grating than the cries of one mourning a lost father."
+  },
+  {
+    "sent_id": 7,
+    "subj": "listener",
+    "verb": "cover",
+    "obj": "ear",
+    "label": "listener | cover | ear",
+    "sentence": "The listeners covered their ears with their fingers, then pressed them to their lips to hush him."
+  },
+  {
+    "sent_id": 8,
+    "subj": "we",
+    "verb": "find",
+    "obj": "joy",
+    "label": "we | find | joy",
+    "sentence": "We found joy in sweet melodies, but you are such a singer that when you fall silent, we are pleased."
+  },
+  {
+    "sent_id": 9,
+    "subj": "you",
+    "verb": "please",
+    "obj": "we",
+    "label": "you | please | we",
+    "sentence": "No one enjoys your music \nExcept when it ends, then you please us."
+  },
+  {
+    "sent_id": 10,
+    "subj": "i",
+    "verb": "whisper",
+    "obj": "host",
+    "label": "i | whisper | host",
+    "sentence": "When that harper began to sing, I whispered to the host, \u201cPlease, put mercury in my ear so I won\u2019t hear, or open the door so I can leave.\u201d"
+  },
+  {
+    "sent_id": 11,
+    "subj": "i",
+    "verb": "try",
+    "obj": "",
+    "label": "i | try | \u2205",
+    "sentence": "Still, I tried to please my friends, and with much effort, I managed to stay the whole night."
+  },
+  {
+    "sent_id": 12,
+    "subj": "muezzin",
+    "verb": "call",
+    "obj": "prayer",
+    "label": "muezzin | call | prayer",
+    "sentence": "The muezzin called to prayer at the wrong hour, not realizing how much of the night had passed."
+  },
+  {
+    "sent_id": 13,
+    "subj": "sleep",
+    "verb": "touch",
+    "obj": "eye",
+    "label": "sleep | touch | eye",
+    "sentence": "Ask my eyelids the length of the night; \nSleep never touched my eyes for a moment."
+  },
+  {
+    "sent_id": 14,
+    "subj": "i",
+    "verb": "take",
+    "obj": "turban",
+    "label": "i | take | turban",
+    "sentence": "At dawn, I took my turban from my head, and one dinar I had at my belt, as a token of thanks, and placed them before the musician."
+  },
+  {
+    "sent_id": 15,
+    "subj": "i",
+    "verb": "embrace",
+    "obj": "he",
+    "label": "i | embrace | he",
+    "sentence": "I embraced him and expressed my gratitude."
+  },
+  {
+    "sent_id": 16,
+    "subj": "friend",
+    "verb": "assume",
+    "obj": "",
+    "label": "friend | assume | \u2205",
+    "sentence": "My friends, seeing my unusual appreciation, assumed I was being foolish and laughed quietly."
+  },
+  {
+    "sent_id": 17,
+    "subj": "one",
+    "verb": "criticize",
+    "obj": "i",
+    "label": "one | criticize | i",
+    "sentence": "One of them boldly criticized me, saying I had acted foolishly by giving part of my professional dress to a musician who had never held even a single dirhem in his hand or had silver or gold coins on his drum."
+  },
+  {
+    "sent_id": 20,
+    "subj": "one",
+    "verb": "see",
+    "obj": "he",
+    "label": "one | see | he",
+    "sentence": "No one ever saw him in the same spot twice."
+  },
+  {
+    "sent_id": 21,
+    "subj": "hair",
+    "verb": "stand",
+    "obj": "end",
+    "label": "hair | stand | end",
+    "sentence": "As soon as he shouted his song, \nThe hair stood on end across the crowd."
+  },
+  {
+    "sent_id": 22,
+    "subj": "bird",
+    "verb": "fly",
+    "obj": "",
+    "label": "bird | fly | \u2205",
+    "sentence": "Even the household birds, scared by him, flew away \nWhile he distracted our senses and tore his throat."
+  },
+  {
+    "sent_id": 23,
+    "subj": "i",
+    "verb": "say",
+    "obj": "",
+    "label": "i | say | \u2205",
+    "sentence": "I said, \u201cIt\u2019s best to silence this criticism, for his talent has become clear to me.\u201d"
+  },
+  {
+    "sent_id": 24,
+    "subj": "he",
+    "verb": "ask",
+    "obj": "i",
+    "label": "he | ask | i",
+    "sentence": "He asked me to explain so the company might understand and apologize for mocking me."
+  },
+  {
+    "sent_id": 25,
+    "subj": "i",
+    "verb": "reply",
+    "obj": "",
+    "label": "i | reply | \u2205",
+    "sentence": "I replied, \u201cThough my sheikh often told me to avoid music, on this night my lucky stars and good fortune led me here."
+  },
+  {
+    "sent_id": 26,
+    "subj": "i",
+    "verb": "repent",
+    "obj": "",
+    "label": "i | repent | \u2205",
+    "sentence": "Hearing this musician\u2019s play, I repented and vowed never again to attend singing and parties.\u201d"
+  },
+  {
+    "sent_id": 27,
+    "subj": "voice",
+    "verb": "enchant",
+    "obj": "heart",
+    "label": "voice | enchant | heart",
+    "sentence": "A pleasant voice, from sweet lips and a fine palate, \nWhether singing or not, enchants the heart."
+  }
+]

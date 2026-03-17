@@ -1,0 +1,968 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "merchant | be | \u2205",
+      "sent_id": 0,
+      "sentence": "A merchant with three daughters was about to set off on a journey.",
+      "subj": "merchant",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0001",
+      "label": "he | ask | daughter",
+      "sent_id": 1,
+      "sentence": "Before leaving, he asked each daughter what gift she wanted him to bring back.",
+      "subj": "he",
+      "verb": "ask",
+      "obj": "daughter"
+    },
+    {
+      "id": "e0002",
+      "label": "eld | say | \u2205",
+      "sent_id": 2,
+      "sentence": "The eldest asked for pearls, the second for jewels, but the youngest, named Lily, said, \u201cDear father, bring me a rose.\u201d",
+      "subj": "eld",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0003",
+      "label": "\u2205 | be | task",
+      "sent_id": 3,
+      "sentence": "It was the middle of winter, so finding a rose was no easy task.",
+      "subj": "",
+      "verb": "be",
+      "obj": "task"
+    },
+    {
+      "id": "e0004",
+      "label": "he | promise | \u2205",
+      "sent_id": 4,
+      "sentence": "But since Lily was his most beloved daughter and loved flowers dearly, he promised to try.",
+      "subj": "he",
+      "verb": "promise",
+      "obj": ""
+    },
+    {
+      "id": "e0005",
+      "label": "he | have | pearl",
+      "sent_id": 5,
+      "sentence": "When the merchant returned, he had pearls and jewels for the two older daughters but had found no rose.",
+      "subj": "he",
+      "verb": "have",
+      "obj": "pearl"
+    },
+    {
+      "id": "e0006",
+      "label": "people | laugh | \u2205",
+      "sent_id": 6,
+      "sentence": "Whenever he asked for one in any garden, people laughed and said roses don\u2019t grow in snow.",
+      "subj": "people",
+      "verb": "laugh",
+      "obj": ""
+    },
+    {
+      "id": "e0007",
+      "label": "he | think | \u2205",
+      "sent_id": 7,
+      "sentence": "Saddened, he thought hard about what to bring Lily.",
+      "subj": "he",
+      "verb": "think",
+      "obj": ""
+    },
+    {
+      "id": "e0008",
+      "label": "he | come | way",
+      "sent_id": 8,
+      "sentence": "On the way home, he came upon a magnificent castle with a garden where one half was blooming in summer and the other covered in winter snow.",
+      "subj": "he",
+      "verb": "come",
+      "obj": "way"
+    },
+    {
+      "id": "e0009",
+      "label": "he | tell | servant",
+      "sent_id": 9,
+      "sentence": "Excited, he told his servant to pick a beautiful rose from the flowery half.",
+      "subj": "he",
+      "verb": "tell",
+      "obj": "servant"
+    },
+    {
+      "id": "e0010",
+      "label": "lion | appear | \u2205",
+      "sent_id": 10,
+      "sentence": "As they rode away, suddenly a fierce lion appeared and roared, \u201cWhoever has stolen my roses will be eaten alive!\u201d",
+      "subj": "lion",
+      "verb": "appear",
+      "obj": ""
+    },
+    {
+      "id": "e0011",
+      "label": "\u2205 | say | \u2205",
+      "sent_id": 11,
+      "sentence": "The merchant, frightened, said he didn\u2019t know the garden belonged to the lion and begged for his life.",
+      "subj": "",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0012",
+      "label": "lion | reply | \u2205",
+      "sent_id": 12,
+      "sentence": "The lion replied, \u201cOnly if you promise to give me whatever meets you first on your return will I let you live and take the rose with you.\u201d",
+      "subj": "lion",
+      "verb": "reply",
+      "obj": ""
+    },
+    {
+      "id": "e0013",
+      "label": "merchant | agree | \u2205",
+      "sent_id": 13,
+      "sentence": "Reluctantly, the merchant agreed, thinking it might be a dog or cat that meets him.",
+      "subj": "merchant",
+      "verb": "agree",
+      "obj": ""
+    },
+    {
+      "id": "e0014",
+      "label": "it | be | lily",
+      "sent_id": 14,
+      "sentence": "When he neared home, it was Lily herself who ran to greet him, kissed him, and was delighted by the rose.",
+      "subj": "it",
+      "verb": "be",
+      "obj": "lily"
+    },
+    {
+      "id": "e0015",
+      "label": "i | promise | lion",
+      "sent_id": 15,
+      "sentence": "But the merchant grew very sad and wept, telling her, \u201cI promised the lion whoever meets me first, and now you will have to go to him, or he will tear you apart.\u201d",
+      "subj": "i",
+      "verb": "promise",
+      "obj": "lion"
+    },
+    {
+      "id": "e0016",
+      "label": "lily | comfort | he",
+      "sent_id": 16,
+      "sentence": "Lily comforted him, saying, \u201cFather, promises must be kept.",
+      "subj": "lily",
+      "verb": "comfort",
+      "obj": "he"
+    },
+    {
+      "id": "e0017",
+      "label": "i | go | lion",
+      "sent_id": 17,
+      "sentence": "I will go to the lion and try to calm him.",
+      "subj": "i",
+      "verb": "go",
+      "obj": "lion"
+    },
+    {
+      "id": "e0018",
+      "label": "he | let | \u2205",
+      "sent_id": 18,
+      "sentence": "Maybe he will let me return safely.\u201d",
+      "subj": "he",
+      "verb": "let",
+      "obj": ""
+    },
+    {
+      "id": "e0019",
+      "label": "lily | set | forest",
+      "sent_id": 19,
+      "sentence": "The next morning, brave Lily set off into the forest.",
+      "subj": "lily",
+      "verb": "set",
+      "obj": "forest"
+    },
+    {
+      "id": "e0020",
+      "label": "lion | be | prince",
+      "sent_id": 20,
+      "sentence": "The lion was actually an enchanted prince.",
+      "subj": "lion",
+      "verb": "be",
+      "obj": "prince"
+    },
+    {
+      "id": "e0021",
+      "label": "he | be | lion",
+      "sent_id": 21,
+      "sentence": "During the day he and his court were lions, but at night they returned to their human forms.",
+      "subj": "he",
+      "verb": "be",
+      "obj": "lion"
+    },
+    {
+      "id": "e0022",
+      "label": "prince | greet | she",
+      "sent_id": 22,
+      "sentence": "When Lily arrived, the prince greeted her kindly, and she agreed to marry him.",
+      "subj": "prince",
+      "verb": "greet",
+      "obj": "she"
+    },
+    {
+      "id": "e0023",
+      "label": "they | have | feast",
+      "sent_id": 23,
+      "sentence": "They had a wedding feast and lived happily for some time.",
+      "subj": "they",
+      "verb": "have",
+      "obj": "feast"
+    },
+    {
+      "id": "e0024",
+      "label": "prince | take | form",
+      "sent_id": 24,
+      "sentence": "Each evening the prince took his human form and held court, but every morning he left her alone, going somewhere she did not know.",
+      "subj": "prince",
+      "verb": "take",
+      "obj": "form"
+    },
+    {
+      "id": "e0025",
+      "label": "prince | tell | lily",
+      "sent_id": 25,
+      "sentence": "Later, the prince told Lily about a grand feast at her father\u2019s house for her eldest sister\u2019s wedding and offered to send his lions with her.",
+      "subj": "prince",
+      "verb": "tell",
+      "obj": "lily"
+    },
+    {
+      "id": "e0026",
+      "label": "she | be | \u2205",
+      "sent_id": 26,
+      "sentence": "She was happy to visit her family and stayed for the celebration, then returned to the woods.",
+      "subj": "she",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0027",
+      "label": "sister | be | \u2205",
+      "sent_id": 27,
+      "sentence": "Soon after, her second sister was to be married, and Lily wanted the prince to go with her.",
+      "subj": "sister",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0028",
+      "label": "he | warn | she",
+      "sent_id": 28,
+      "sentence": "He warned her it was dangerous\u2014if even one spark of torchlight touched him, his curse would worsen, transforming him into a dove forced to wander the earth for seven years.",
+      "subj": "he",
+      "verb": "warn",
+      "obj": "she"
+    },
+    {
+      "id": "e0029",
+      "label": "lily | insist | this",
+      "sent_id": 29,
+      "sentence": "Despite this, Lily insisted and promised to keep him safe.",
+      "subj": "lily",
+      "verb": "insist",
+      "obj": "this"
+    },
+    {
+      "id": "e0030",
+      "label": "they | bring | child",
+      "sent_id": 30,
+      "sentence": "At the wedding, they brought their child, and the prince sat in a thick-walled hall while the torches were lit.",
+      "subj": "they",
+      "verb": "bring",
+      "obj": "child"
+    },
+    {
+      "id": "e0031",
+      "label": "ray | enter | crack",
+      "sent_id": 31,
+      "sentence": "However, a tiny ray of light entered through a crack in the door and touched him.",
+      "subj": "ray",
+      "verb": "enter",
+      "obj": "crack"
+    },
+    {
+      "id": "e0032",
+      "label": "he | vanish | \u2205",
+      "sent_id": 32,
+      "sentence": "Instantly, he vanished and a white dove appeared instead.",
+      "subj": "he",
+      "verb": "vanish",
+      "obj": ""
+    },
+    {
+      "id": "e0033",
+      "label": "i | drop | feather",
+      "sent_id": 33,
+      "sentence": "The dove told Lily, \u201cI must fly the world for seven years; occasionally I will drop a white feather to guide your path.",
+      "subj": "i",
+      "verb": "drop",
+      "obj": "feather"
+    },
+    {
+      "id": "e0034",
+      "label": "\u2205 | follow | it",
+      "sent_id": 34,
+      "sentence": "Follow it, and you can find and free me.\u201d",
+      "subj": "",
+      "verb": "follow",
+      "obj": "it"
+    },
+    {
+      "id": "e0035",
+      "label": "lily | follow | feather",
+      "sent_id": 35,
+      "sentence": "Lily followed the feather for seven years without rest, finally feeling hopeful.",
+      "subj": "lily",
+      "verb": "follow",
+      "obj": "feather"
+    },
+    {
+      "id": "e0036",
+      "label": "she | lose | sight",
+      "sent_id": 36,
+      "sentence": "One day she lost sight of the feather and the dove.",
+      "subj": "she",
+      "verb": "lose",
+      "obj": "sight"
+    },
+    {
+      "id": "e0037",
+      "label": "she | ask | sun",
+      "sent_id": 37,
+      "sentence": "She asked the sun if it had seen her dove.",
+      "subj": "she",
+      "verb": "ask",
+      "obj": "sun"
+    },
+    {
+      "id": "e0038",
+      "label": "sun | say | \u2205",
+      "sent_id": 38,
+      "sentence": "The sun said no, but gave her a casket, telling her to open it in her hour of need.",
+      "subj": "sun",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0039",
+      "label": "she | ask | moon",
+      "sent_id": 39,
+      "sentence": "Then she asked the moon, who also had not seen the dove but gave her an egg, instructing her to break it when needed.",
+      "subj": "she",
+      "verb": "ask",
+      "obj": "moon"
+    },
+    {
+      "id": "e0040",
+      "label": "she | ask | wind",
+      "sent_id": 40,
+      "sentence": "Next, she asked the night wind, which hadn\u2019t seen the dove but promised to ask the other winds.",
+      "subj": "she",
+      "verb": "ask",
+      "obj": "wind"
+    },
+    {
+      "id": "e0041",
+      "label": "wind | see | it",
+      "sent_id": 41,
+      "sentence": "The east and west winds hadn\u2019t seen it either, but the south wind said, \u201cThe dove flew to the Red Sea and changed back into a lion.",
+      "subj": "wind",
+      "verb": "see",
+      "obj": "it"
+    },
+    {
+      "id": "e0042",
+      "label": "he | fight | dragon",
+      "sent_id": 42,
+      "sentence": "He\u2019s fighting a dragon\u2014a cursed princess trying to separate you.\u201d",
+      "subj": "he",
+      "verb": "fight",
+      "obj": "dragon"
+    },
+    {
+      "id": "e0043",
+      "label": "\u2205 | break | eleventh",
+      "sent_id": 43,
+      "sentence": "The night wind gave her advice: at the Red Sea\u2019s shore, count the rods, break off the eleventh, and strike the dragon to win the fight.",
+      "subj": "",
+      "verb": "break",
+      "obj": "eleventh"
+    },
+    {
+      "id": "e0044",
+      "label": "\u2205 | find | griffin",
+      "sent_id": 44,
+      "sentence": "Then find a griffin by the sea, mount it quickly with the prince, and fly home.",
+      "subj": "",
+      "verb": "find",
+      "obj": "griffin"
+    },
+    {
+      "id": "e0045",
+      "label": "it | grow | tree",
+      "sent_id": 45,
+      "sentence": "The wind also gave her a nut to throw into the sea halfway back; it would grow a tree for the griffin to rest on.",
+      "subj": "it",
+      "verb": "grow",
+      "obj": "tree"
+    },
+    {
+      "id": "e0046",
+      "label": "griffin | fall | this",
+      "sent_id": 46,
+      "sentence": "Without this, the griffin would fall.",
+      "subj": "griffin",
+      "verb": "fall",
+      "obj": "this"
+    },
+    {
+      "id": "e0047",
+      "label": "lily | find | place",
+      "sent_id": 47,
+      "sentence": "Lily found the place, struck the dragon with the rod, and the lion became a prince again, with the dragon turning back into a princess.",
+      "subj": "lily",
+      "verb": "find",
+      "obj": "place"
+    },
+    {
+      "id": "e0048",
+      "label": "princess | grab | prince",
+      "sent_id": 48,
+      "sentence": "But the princess grabbed the prince and escaped on the griffin\u2019s back, carrying him off.",
+      "subj": "princess",
+      "verb": "grab",
+      "obj": "prince"
+    },
+    {
+      "id": "e0049",
+      "label": "lily | set | \u2205",
+      "sent_id": 49,
+      "sentence": "Heartbroken but determined, Lily set off to find him, traveling as far as the wind blows and the rooster crows.",
+      "subj": "lily",
+      "verb": "set",
+      "obj": ""
+    },
+    {
+      "id": "e0050",
+      "label": "she | reach | castle",
+      "sent_id": 50,
+      "sentence": "Eventually, she reached the castle where the princess and prince were about to be wed.",
+      "subj": "she",
+      "verb": "reach",
+      "obj": "castle"
+    },
+    {
+      "id": "e0051",
+      "label": "she | open | casket",
+      "sent_id": 51,
+      "sentence": "She opened the sun\u2019s casket and found a dress shining like the sun.",
+      "subj": "she",
+      "verb": "open",
+      "obj": "casket"
+    },
+    {
+      "id": "e0052",
+      "label": "princess | admire | it",
+      "sent_id": 52,
+      "sentence": "She wore it and entered the palace; the princess admired it and asked to buy it.",
+      "subj": "princess",
+      "verb": "admire",
+      "obj": "it"
+    },
+    {
+      "id": "e0053",
+      "label": "lily | say | gold",
+      "sent_id": 53,
+      "sentence": "Lily said, \u201cNot for gold or silver, but for a chance to speak with the prince alone tonight.\u201d",
+      "subj": "lily",
+      "verb": "say",
+      "obj": "gold"
+    },
+    {
+      "id": "e0054",
+      "label": "princess | agree | \u2205",
+      "sent_id": 54,
+      "sentence": "The princess agreed but told her chamberlain to drug the prince so he would not see Lily.",
+      "subj": "princess",
+      "verb": "agree",
+      "obj": ""
+    },
+    {
+      "id": "e0055",
+      "label": "lily | sit | night",
+      "sent_id": 55,
+      "sentence": "At night, Lily sat at the prince\u2019s feet and told him how she had searched for him for seven years and helped free him from the dragon.",
+      "subj": "lily",
+      "verb": "sit",
+      "obj": "night"
+    },
+    {
+      "id": "e0056",
+      "label": "prince | sleep | \u2205",
+      "sent_id": 56,
+      "sentence": "But the prince only slept, enchanted by the princess.",
+      "subj": "prince",
+      "verb": "sleep",
+      "obj": ""
+    },
+    {
+      "id": "e0057",
+      "label": "lily | force | \u2205",
+      "sent_id": 57,
+      "sentence": "Lily was forced to give up the golden dress and left, sitting in a meadow to weep.",
+      "subj": "lily",
+      "verb": "force",
+      "obj": ""
+    },
+    {
+      "id": "e0058",
+      "label": "she | remember | egg",
+      "sent_id": 58,
+      "sentence": "Then she remembered the moon\u2019s egg and broke it.",
+      "subj": "she",
+      "verb": "remember",
+      "obj": "egg"
+    },
+    {
+      "id": "e0059",
+      "label": "hen | come | \u2205",
+      "sent_id": 59,
+      "sentence": "Out came a hen and twelve golden chicks that played and nestled beneath her wings, a beautiful sight.",
+      "subj": "hen",
+      "verb": "come",
+      "obj": ""
+    },
+    {
+      "id": "e0060",
+      "label": "she | drive | they",
+      "sent_id": 60,
+      "sentence": "She drove them near the princess\u2019s window.",
+      "subj": "she",
+      "verb": "drive",
+      "obj": "they"
+    },
+    {
+      "id": "e0061",
+      "label": "princess | be | \u2205",
+      "sent_id": 61,
+      "sentence": "The princess was so pleased she asked to buy them, and Lily repeated her offer: a chance to speak to the prince in exchange for the brood.",
+      "subj": "princess",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0062",
+      "label": "princess | agree | \u2205",
+      "sent_id": 62,
+      "sentence": "The princess agreed again and planned to drug the prince, but the prince, suspicious, asked about the noise he heard.",
+      "subj": "princess",
+      "verb": "agree",
+      "obj": ""
+    },
+    {
+      "id": "e0063",
+      "label": "chamberlain | reveal | \u2205",
+      "sent_id": 63,
+      "sentence": "The chamberlain revealed all.",
+      "subj": "chamberlain",
+      "verb": "reveal",
+      "obj": ""
+    },
+    {
+      "id": "e0064",
+      "label": "prince | avoid | drug",
+      "sent_id": 64,
+      "sentence": "This time the prince avoided the drug, and when Lily came to speak, he recognized her voice and woke, saying, \u201cYou have awakened me from the spell the princess cast.\u201d",
+      "subj": "prince",
+      "verb": "avoid",
+      "obj": "drug"
+    },
+    {
+      "id": "e0065",
+      "label": "they | escape | griffin",
+      "sent_id": 65,
+      "sentence": "Together they escaped on the griffin before dawn.",
+      "subj": "they",
+      "verb": "escape",
+      "obj": "griffin"
+    },
+    {
+      "id": "e0066",
+      "label": "lily | throw | nut",
+      "sent_id": 66,
+      "sentence": "Halfway home, Lily threw the nut into the sea, and the griffin rested on the grown nut-tree, then flew on safely.",
+      "subj": "lily",
+      "verb": "throw",
+      "obj": "nut"
+    },
+    {
+      "id": "e0067",
+      "label": "they | find | \u2205",
+      "sent_id": 67,
+      "sentence": "Back home, they found their child grown into a fine young person.",
+      "subj": "they",
+      "verb": "find",
+      "obj": ""
+    },
+    {
+      "id": "e0068",
+      "label": "they | live | trial",
+      "sent_id": 68,
+      "sentence": "After all their trials, they lived happily ever after.",
+      "subj": "they",
+      "verb": "live",
+      "obj": "trial"
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    },
+    {
+      "source": "e0029",
+      "target": "e0030",
+      "relation": "next"
+    },
+    {
+      "source": "e0030",
+      "target": "e0031",
+      "relation": "next"
+    },
+    {
+      "source": "e0031",
+      "target": "e0032",
+      "relation": "next"
+    },
+    {
+      "source": "e0032",
+      "target": "e0033",
+      "relation": "next"
+    },
+    {
+      "source": "e0033",
+      "target": "e0034",
+      "relation": "next"
+    },
+    {
+      "source": "e0034",
+      "target": "e0035",
+      "relation": "next"
+    },
+    {
+      "source": "e0035",
+      "target": "e0036",
+      "relation": "next"
+    },
+    {
+      "source": "e0036",
+      "target": "e0037",
+      "relation": "next"
+    },
+    {
+      "source": "e0037",
+      "target": "e0038",
+      "relation": "next"
+    },
+    {
+      "source": "e0038",
+      "target": "e0039",
+      "relation": "next"
+    },
+    {
+      "source": "e0039",
+      "target": "e0040",
+      "relation": "next"
+    },
+    {
+      "source": "e0040",
+      "target": "e0041",
+      "relation": "next"
+    },
+    {
+      "source": "e0041",
+      "target": "e0042",
+      "relation": "next"
+    },
+    {
+      "source": "e0042",
+      "target": "e0043",
+      "relation": "next"
+    },
+    {
+      "source": "e0043",
+      "target": "e0044",
+      "relation": "next"
+    },
+    {
+      "source": "e0044",
+      "target": "e0045",
+      "relation": "next"
+    },
+    {
+      "source": "e0045",
+      "target": "e0046",
+      "relation": "next"
+    },
+    {
+      "source": "e0046",
+      "target": "e0047",
+      "relation": "next"
+    },
+    {
+      "source": "e0047",
+      "target": "e0048",
+      "relation": "next"
+    },
+    {
+      "source": "e0048",
+      "target": "e0049",
+      "relation": "next"
+    },
+    {
+      "source": "e0049",
+      "target": "e0050",
+      "relation": "next"
+    },
+    {
+      "source": "e0050",
+      "target": "e0051",
+      "relation": "next"
+    },
+    {
+      "source": "e0051",
+      "target": "e0052",
+      "relation": "next"
+    },
+    {
+      "source": "e0052",
+      "target": "e0053",
+      "relation": "next"
+    },
+    {
+      "source": "e0053",
+      "target": "e0054",
+      "relation": "next"
+    },
+    {
+      "source": "e0054",
+      "target": "e0055",
+      "relation": "next"
+    },
+    {
+      "source": "e0055",
+      "target": "e0056",
+      "relation": "next"
+    },
+    {
+      "source": "e0056",
+      "target": "e0057",
+      "relation": "next"
+    },
+    {
+      "source": "e0057",
+      "target": "e0058",
+      "relation": "next"
+    },
+    {
+      "source": "e0058",
+      "target": "e0059",
+      "relation": "next"
+    },
+    {
+      "source": "e0059",
+      "target": "e0060",
+      "relation": "next"
+    },
+    {
+      "source": "e0060",
+      "target": "e0061",
+      "relation": "next"
+    },
+    {
+      "source": "e0061",
+      "target": "e0062",
+      "relation": "next"
+    },
+    {
+      "source": "e0062",
+      "target": "e0063",
+      "relation": "next"
+    },
+    {
+      "source": "e0063",
+      "target": "e0064",
+      "relation": "next"
+    },
+    {
+      "source": "e0064",
+      "target": "e0065",
+      "relation": "next"
+    },
+    {
+      "source": "e0065",
+      "target": "e0066",
+      "relation": "next"
+    },
+    {
+      "source": "e0066",
+      "target": "e0067",
+      "relation": "next"
+    },
+    {
+      "source": "e0067",
+      "target": "e0068",
+      "relation": "next"
+    }
+  ]
+}

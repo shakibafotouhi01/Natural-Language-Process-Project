@@ -1,0 +1,2130 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "\u2205 | listen | tale",
+      "sent_id": 0,
+      "sentence": "Listen now to the tale of the battle between Sohrab and Rostam, though it is filled with sorrow.",
+      "subj": "",
+      "verb": "listen",
+      "obj": "tale"
+    },
+    {
+      "id": "e0001",
+      "label": "rostam | rise | \u2205",
+      "sent_id": 1,
+      "sentence": "One day, Rostam rose early, troubled by a heavy feeling in his heart.",
+      "subj": "rostam",
+      "verb": "rise",
+      "obj": ""
+    },
+    {
+      "id": "e0002",
+      "label": "he | set | hunt",
+      "sent_id": 2,
+      "sentence": "To clear his mind, he set out for a hunt.",
+      "subj": "he",
+      "verb": "set",
+      "obj": "hunt"
+    },
+    {
+      "id": "e0003",
+      "label": "he | saddle | horse",
+      "sent_id": 3,
+      "sentence": "He saddled his horse, Rakhsh, and armed himself with arrows, heading toward the wild lands near Turan, close to Samangan city.",
+      "subj": "he",
+      "verb": "saddle",
+      "obj": "horse"
+    },
+    {
+      "id": "e0004",
+      "label": "he | frighten | herd",
+      "sent_id": 4,
+      "sentence": "Near there, he frightened a herd of wild donkeys and played among them until he grew tired.",
+      "subj": "he",
+      "verb": "frighten",
+      "obj": "herd"
+    },
+    {
+      "id": "e0005",
+      "label": "he | capture | one",
+      "sent_id": 5,
+      "sentence": "He captured one, killed it, roasted it for his meal, ate, broke the bones to suck the marrow, then lay down to rest while Rakhsh grazed nearby.",
+      "subj": "he",
+      "verb": "capture",
+      "obj": "one"
+    },
+    {
+      "id": "e0006",
+      "label": "they | covet | steed",
+      "sent_id": 7,
+      "sentence": "They coveted the mighty steed and threw ropes to capture him.",
+      "subj": "they",
+      "verb": "covet",
+      "obj": "steed"
+    },
+    {
+      "id": "e0007",
+      "label": "rakhsh | stomp | \u2205",
+      "sent_id": 8,
+      "sentence": "Rakhsh, sensing their trap, stomped angrily and charged them like he had a lion before.",
+      "subj": "rakhsh",
+      "verb": "stomp",
+      "obj": ""
+    },
+    {
+      "id": "e0008",
+      "label": "he | bite | head",
+      "sent_id": 9,
+      "sentence": "He bit off one man\u2019s head and trampled another, almost overcoming them all, but the knights were too many.",
+      "subj": "he",
+      "verb": "bite",
+      "obj": "head"
+    },
+    {
+      "id": "e0009",
+      "label": "they | trap | rakhsh",
+      "sent_id": 10,
+      "sentence": "They trapped Rakhsh and led him into the city, proud of their prize.",
+      "subj": "they",
+      "verb": "trap",
+      "obj": "rakhsh"
+    },
+    {
+      "id": "e0010",
+      "label": "he | fill | despair",
+      "sent_id": 11,
+      "sentence": "When Rostam woke and found his horse missing, he was filled with despair and wondered how he could face the Turks alone.",
+      "subj": "he",
+      "verb": "fill",
+      "obj": "despair"
+    },
+    {
+      "id": "e0011",
+      "label": "he | search | print",
+      "sent_id": 12,
+      "sentence": "He searched for Rakhsh\u2019s hoof prints and followed them right to the city gates.",
+      "subj": "he",
+      "verb": "search",
+      "obj": "print"
+    },
+    {
+      "id": "e0012",
+      "label": "king | come | city",
+      "sent_id": 13,
+      "sentence": "Inside the city, the king and his nobles came out when they saw Rostam on foot.",
+      "subj": "king",
+      "verb": "come",
+      "obj": "city"
+    },
+    {
+      "id": "e0013",
+      "label": "they | ask | \u2205",
+      "sent_id": 14,
+      "sentence": "They asked what had happened, and Rostam told them about Rakhsh\u2019s capture during his sleep.",
+      "subj": "they",
+      "verb": "ask",
+      "obj": ""
+    },
+    {
+      "id": "e0014",
+      "label": "he | swear | oath",
+      "sent_id": 15,
+      "sentence": "He swore a fierce oath that if his horse was not returned, many heads would roll.",
+      "subj": "he",
+      "verb": "swear",
+      "obj": "oath"
+    },
+    {
+      "id": "e0015",
+      "label": "king | comfort | he",
+      "sent_id": 16,
+      "sentence": "The king, seeing Rostam\u2019s anger, comforted him and promised that none of his people would harm the hero.",
+      "subj": "king",
+      "verb": "comfort",
+      "obj": "he"
+    },
+    {
+      "id": "e0016",
+      "label": "he | urge | rostam",
+      "sent_id": 17,
+      "sentence": "He urged Rostam to stay in his palace while they searched, saying surely Rakhsh was not hidden far.",
+      "subj": "he",
+      "verb": "urge",
+      "obj": "rostam"
+    },
+    {
+      "id": "e0017",
+      "label": "rostam | accept | \u2205",
+      "sent_id": 18,
+      "sentence": "Rostam accepted and entered the king\u2019s home.",
+      "subj": "rostam",
+      "verb": "accept",
+      "obj": ""
+    },
+    {
+      "id": "e0018",
+      "label": "they | feast | wine",
+      "sent_id": 19,
+      "sentence": "They feasted with wine and enjoyed the company of singers and honor until night fell.",
+      "subj": "they",
+      "verb": "feast",
+      "obj": "wine"
+    },
+    {
+      "id": "e0019",
+      "label": "king | give | musky",
+      "sent_id": 20,
+      "sentence": "The king gave Rostam a musky, rose-scented couch to rest on and wished him sweet sleep.",
+      "subj": "king",
+      "verb": "give",
+      "obj": "musky"
+    },
+    {
+      "id": "e0020",
+      "label": "door | open | \u2205",
+      "sent_id": 21,
+      "sentence": "Later into the night, as the morning star rose high, Rostam\u2019s chamber door opened quietly.",
+      "subj": "door",
+      "verb": "open",
+      "obj": ""
+    },
+    {
+      "id": "e0021",
+      "label": "servant | enter | \u2205",
+      "sent_id": 22,
+      "sentence": "A servant entered holding a lamp scented with amber, followed by a veiled woman whose robes scattered musk as she moved.",
+      "subj": "servant",
+      "verb": "enter",
+      "obj": ""
+    },
+    {
+      "id": "e0022",
+      "label": "she | approach | bed",
+      "sent_id": 23,
+      "sentence": "She approached Rostam\u2019s bed, and he, barely awake from wine and sleep, asked who she was and what she wanted.",
+      "subj": "she",
+      "verb": "approach",
+      "obj": "bed"
+    },
+    {
+      "id": "e0023",
+      "label": "she | reveal | herself",
+      "sent_id": 24,
+      "sentence": "She revealed herself as Tahmineh, daughter of Samangan\u2019s king, descended from proud bloodlines of leopards and lions.",
+      "subj": "she",
+      "verb": "reveal",
+      "obj": "herself"
+    },
+    {
+      "id": "e0024",
+      "label": "she | explain | \u2205",
+      "sent_id": 25,
+      "sentence": "She explained she\u2019d never been unveiled before and no prince was worthy of her, but her heart ached with desire for Rostam.",
+      "subj": "she",
+      "verb": "explain",
+      "obj": ""
+    },
+    {
+      "id": "e0025",
+      "label": "she | speak | deed",
+      "sent_id": 26,
+      "sentence": "She spoke of his brave deeds\u2014how he feared no demon or beast, how he had ventured alone into deadly lands, how even wild asses fled him, and men dared not fight him.",
+      "subj": "she",
+      "verb": "speak",
+      "obj": "deed"
+    },
+    {
+      "id": "e0026",
+      "label": "she | long | \u2205",
+      "sent_id": 27,
+      "sentence": "Hearing all this, she longed to see his face.",
+      "subj": "she",
+      "verb": "long",
+      "obj": ""
+    },
+    {
+      "id": "e0027",
+      "label": "fate | bring | he",
+      "sent_id": 28,
+      "sentence": "Now fate had brought him near, and she offered herself to him.",
+      "subj": "fate",
+      "verb": "bring",
+      "obj": "he"
+    },
+    {
+      "id": "e0028",
+      "label": "she | lead | rakhsh",
+      "sent_id": 29,
+      "sentence": "If he agreed, she would lead Rakhsh out to him and place the land of Samangan beneath his feet.",
+      "subj": "she",
+      "verb": "lead",
+      "obj": "rakhsh"
+    },
+    {
+      "id": "e0029",
+      "label": "she | dream | son",
+      "sent_id": 30,
+      "sentence": "She dreamed of a son like Rostam, a mighty ruler of the world.",
+      "subj": "she",
+      "verb": "dream",
+      "obj": "son"
+    },
+    {
+      "id": "e0030",
+      "label": "rostam | see | beauty",
+      "sent_id": 31,
+      "sentence": "Rostam saw her beauty and wisdom and was convinced.",
+      "subj": "rostam",
+      "verb": "see",
+      "obj": "beauty"
+    },
+    {
+      "id": "e0031",
+      "label": "he | send | messenger",
+      "sent_id": 32,
+      "sentence": "He sent a messenger to ask her father for her hand.",
+      "subj": "he",
+      "verb": "send",
+      "obj": "messenger"
+    },
+    {
+      "id": "e0032",
+      "label": "king | rejoice | \u2205",
+      "sent_id": 33,
+      "sentence": "The king rejoiced and agreed, giving his daughter to Rostam with all the customs and rites.",
+      "subj": "king",
+      "verb": "rejoice",
+      "obj": ""
+    },
+    {
+      "id": "e0033",
+      "label": "city | celebrate | \u2205",
+      "sent_id": 34,
+      "sentence": "The city celebrated, blessing Rostam.",
+      "subj": "city",
+      "verb": "celebrate",
+      "obj": ""
+    },
+    {
+      "id": "e0034",
+      "label": "rostam | give | ring",
+      "sent_id": 35,
+      "sentence": "When alone, Rostam gave Tahmineh his famous onyx ring.",
+      "subj": "rostam",
+      "verb": "give",
+      "obj": "ring"
+    },
+    {
+      "id": "e0035",
+      "label": "he | tell | she",
+      "sent_id": 36,
+      "sentence": "He told her if she bore a daughter, to fasten it in her hair for protection, and if a son, to bind it on his arm so he might carry it like his father\u2014a son strong as heroes of old, noble and eloquent.",
+      "subj": "he",
+      "verb": "tell",
+      "obj": "she"
+    },
+    {
+      "id": "e0036",
+      "label": "tahmineh | be | \u2205",
+      "sent_id": 37,
+      "sentence": "Tahmineh was happy, but as the day passed, the king informed Rostam that Rakhsh was soon to return.",
+      "subj": "tahmineh",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0037",
+      "label": "rostam | rush | \u2205",
+      "sent_id": 38,
+      "sentence": "Filled with joy, Rostam rushed to greet his horse, saddled him with his own hands, and thanked Ormuzd for restoring his happiness.",
+      "subj": "rostam",
+      "verb": "rush",
+      "obj": ""
+    },
+    {
+      "id": "e0038",
+      "label": "he | embrace | tahmineh",
+      "sent_id": 39,
+      "sentence": "Knowing his time to leave had come, he embraced Tahmineh, kissed her tear-streaked face and hair, then galloped swiftly away.",
+      "subj": "he",
+      "verb": "embrace",
+      "obj": "tahmineh"
+    },
+    {
+      "id": "e0039",
+      "label": "both | be | \u2205",
+      "sent_id": 40,
+      "sentence": "Both were heavy-hearted as they parted, but Rostam kept silent about what had happened.",
+      "subj": "both",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0040",
+      "label": "tahmineh | bear | \u2205",
+      "sent_id": 41,
+      "sentence": "Nine moons later, Tahmineh bore a son who resembled Rostam.",
+      "subj": "tahmineh",
+      "verb": "bear",
+      "obj": ""
+    },
+    {
+      "id": "e0041",
+      "label": "they | name | he",
+      "sent_id": 42,
+      "sentence": "They named him Sohrab.",
+      "subj": "they",
+      "verb": "name",
+      "obj": "he"
+    },
+    {
+      "id": "e0042",
+      "label": "he | seem | large",
+      "sent_id": 43,
+      "sentence": "From birth, Sohrab was strong and smiling; at one month old he seemed as large as a twelve-month child, and by five, skilled in arms and war arts.",
+      "subj": "he",
+      "verb": "seem",
+      "obj": "large"
+    },
+    {
+      "id": "e0043",
+      "label": "none | match | he",
+      "sent_id": 44,
+      "sentence": "By ten, none could match him in strength.",
+      "subj": "none",
+      "verb": "match",
+      "obj": "he"
+    },
+    {
+      "id": "e0044",
+      "label": "he | demand | \u2205",
+      "sent_id": 45,
+      "sentence": "One day, he demanded his mother tell him of his lineage and his father\u2019s name, threatening to strike her if she refused.",
+      "subj": "he",
+      "verb": "demand",
+      "obj": ""
+    },
+    {
+      "id": "e0045",
+      "label": "tahmineh | smile | boldness",
+      "sent_id": 46,
+      "sentence": "Tahmineh smiled at his boldness and revealed the truth, telling him he descended from Rostam, son of Zal and heroes before them.",
+      "subj": "tahmineh",
+      "verb": "smile",
+      "obj": "boldness"
+    },
+    {
+      "id": "e0046",
+      "label": "she | show | letter",
+      "sent_id": 47,
+      "sentence": "She showed him a letter Rostam had sent and his gifts.",
+      "subj": "she",
+      "verb": "show",
+      "obj": "letter"
+    },
+    {
+      "id": "e0047",
+      "label": "she | warn | sohrab",
+      "sent_id": 48,
+      "sentence": "She warned Sohrab to keep this secret because Turan groaned under Afrasiyab\u2019s tyranny, who hated Rostam and would seek to destroy his son.",
+      "subj": "she",
+      "verb": "warn",
+      "obj": "sohrab"
+    },
+    {
+      "id": "e0048",
+      "label": "she | fear | grief",
+      "sent_id": 49,
+      "sentence": "She also feared Rostam\u2019s grief if he learned Sohrab had grown strong and might be taken from her.",
+      "subj": "she",
+      "verb": "fear",
+      "obj": "grief"
+    },
+    {
+      "id": "e0049",
+      "label": "sohrab | be | \u2205",
+      "sent_id": 50,
+      "sentence": "But Sohrab was fierce.",
+      "subj": "sohrab",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0050",
+      "label": "he | say | \u2205",
+      "sent_id": 51,
+      "sentence": "He said the world would soon praise him, and he would lead brave Turks to invade Iran, overthrow King Kai Kawous, crown Rostam king of the Kaianides, and together rule the world.",
+      "subj": "he",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0051",
+      "label": "he | long | war",
+      "sent_id": 52,
+      "sentence": "He longed for war and glory, but first he needed a strong horse to bear him in battle.",
+      "subj": "he",
+      "verb": "long",
+      "obj": "war"
+    },
+    {
+      "id": "e0052",
+      "label": "tahmineh | rejoice | bravery",
+      "sent_id": 53,
+      "sentence": "Tahmineh rejoiced at his bravery and had her helpers bring out horses for Sohrab.",
+      "subj": "tahmineh",
+      "verb": "rejoice",
+      "obj": "bravery"
+    },
+    {
+      "id": "e0053",
+      "label": "he | test | many",
+      "sent_id": 54,
+      "sentence": "He tested many but was not satisfied, until someone told him of a foal born of Rakhsh.",
+      "subj": "he",
+      "verb": "test",
+      "obj": "many"
+    },
+    {
+      "id": "e0054",
+      "label": "sohrab | summon | foal",
+      "sent_id": 55,
+      "sentence": "Sohrab summoned the foal, found it strong, and mounted it, exclaiming the world would soon grow dark under his power.",
+      "subj": "sohrab",
+      "verb": "summon",
+      "obj": "foal"
+    },
+    {
+      "id": "e0055",
+      "label": "he | prepare | war",
+      "sent_id": 56,
+      "sentence": "He prepared for war, gathering nobles and warriors.",
+      "subj": "he",
+      "verb": "prepare",
+      "obj": "war"
+    },
+    {
+      "id": "e0056",
+      "label": "sohrab | seek | advice",
+      "sent_id": 57,
+      "sentence": "Before leaving, Sohrab sought advice from his grandfather, the king of Samangan, who gladly provided wealth and honored him like a king.",
+      "subj": "sohrab",
+      "verb": "seek",
+      "obj": "advice"
+    },
+    {
+      "id": "e0057",
+      "label": "afrasiyab | learn | army",
+      "sent_id": 58,
+      "sentence": "Meanwhile, Afrasiyab learned of Sohrab\u2019s rising army and praised his courage to Hooman and Barman.",
+      "subj": "afrasiyab",
+      "verb": "learn",
+      "obj": "army"
+    },
+    {
+      "id": "e0058",
+      "label": "afrasiyab | order | they",
+      "sent_id": 59,
+      "sentence": "Afrasiyab secretly ordered them to join Sohrab\u2019s ranks but kill him without revealing his identity to Rostam.",
+      "subj": "afrasiyab",
+      "verb": "order",
+      "obj": "they"
+    },
+    {
+      "id": "e0059",
+      "label": "afrasiyab | hop | \u2205",
+      "sent_id": 60,
+      "sentence": "Afrasiyab hoped Rostam would be killed by his own son, leaving Iran defenseless.",
+      "subj": "afrasiyab",
+      "verb": "hop",
+      "obj": ""
+    },
+    {
+      "id": "e0060",
+      "label": "they | capture | sohrab",
+      "sent_id": 61,
+      "sentence": "If not, they would capture Sohrab after defeating Rostam.",
+      "subj": "they",
+      "verb": "capture",
+      "obj": "sohrab"
+    },
+    {
+      "id": "e0061",
+      "label": "they | carry | gift",
+      "sent_id": 62,
+      "sentence": "They carried gifts and a flattering letter from Afrasiyab, promising unions and peace among Turan, Iran, and Samangan if Sohrab succeeded.",
+      "subj": "they",
+      "verb": "carry",
+      "obj": "gift"
+    },
+    {
+      "id": "e0062",
+      "label": "sohrab | rejoice | \u2205",
+      "sent_id": 63,
+      "sentence": "Sohrab rejoiced to find such support and led his army into Iran, leaving fire and ruin in his path, until they reached the White Castle, Iran\u2019s stronghold, guarded by old Hujir and his daughter Gurdafrid, a fierce warrior maiden.",
+      "subj": "sohrab",
+      "verb": "rejoice",
+      "obj": ""
+    },
+    {
+      "id": "e0063",
+      "label": "hujir | come | \u2205",
+      "sent_id": 64,
+      "sentence": "Hujir came out alone to meet the invaders.",
+      "subj": "hujir",
+      "verb": "come",
+      "obj": ""
+    },
+    {
+      "id": "e0064",
+      "label": "sohrab | challenge | he",
+      "sent_id": 65,
+      "sentence": "Sohrab challenged him angrily and mocked his bravery.",
+      "subj": "sohrab",
+      "verb": "challenge",
+      "obj": "he"
+    },
+    {
+      "id": "e0065",
+      "label": "they | fight | \u2205",
+      "sent_id": 67,
+      "sentence": "They fought fiercely, and Sohrab defeated and bound Hujir, sending him captive.",
+      "subj": "they",
+      "verb": "fight",
+      "obj": ""
+    },
+    {
+      "id": "e0066",
+      "label": "armor | hide | hair",
+      "sent_id": 68,
+      "sentence": "The castle\u2019s defenders were dismayed, and Gurdafrid donned armor, hid her hair under a helmet, mounted a war horse, and challenged Sohrab\u2019s men loudly.",
+      "subj": "armor",
+      "verb": "hide",
+      "obj": "hair"
+    },
+    {
+      "id": "e0067",
+      "label": "sohrab | accept | challenge",
+      "sent_id": 70,
+      "sentence": "Sohrab accepted her challenge.",
+      "subj": "sohrab",
+      "verb": "accept",
+      "obj": "challenge"
+    },
+    {
+      "id": "e0068",
+      "label": "she | unleash | hail",
+      "sent_id": 71,
+      "sentence": "She unleashed a hail of arrows, which almost overwhelmed him.",
+      "subj": "she",
+      "verb": "unleash",
+      "obj": "hail"
+    },
+    {
+      "id": "e0069",
+      "label": "he | raise | shield",
+      "sent_id": 72,
+      "sentence": "He raised his shield and charged, but she skillfully parried and nearly unseated him.",
+      "subj": "he",
+      "verb": "raise",
+      "obj": "shield"
+    },
+    {
+      "id": "e0070",
+      "label": "sohrab | tackle | she",
+      "sent_id": 73,
+      "sentence": "Raging, Sohrab tackled her, tearing off her armor and throwing her down, but she broke his spear and escaped on horseback.",
+      "subj": "sohrab",
+      "verb": "tackle",
+      "obj": "she"
+    },
+    {
+      "id": "e0071",
+      "label": "sohrab | catch | she",
+      "sent_id": 74,
+      "sentence": "Angered, Sohrab caught her again, pulled off her helmet to see who dared to fight him so boldly\u2014and was shocked to find a woman.",
+      "subj": "sohrab",
+      "verb": "catch",
+      "obj": "she"
+    },
+    {
+      "id": "e0072",
+      "label": "he | bind | she",
+      "sent_id": 75,
+      "sentence": "Surprised yet admiring, he bound her with his cord, warning her to seek no escape.",
+      "subj": "he",
+      "verb": "bind",
+      "obj": "she"
+    },
+    {
+      "id": "e0073",
+      "label": "gurdafrid | plead | peace",
+      "sent_id": 76,
+      "sentence": "Gurdafrid pleaded for peace, reminding him that a woman\u2019s victory over him would bring shame if news spread.",
+      "subj": "gurdafrid",
+      "verb": "plead",
+      "obj": "peace"
+    },
+    {
+      "id": "e0074",
+      "label": "she | promise | \u2205",
+      "sent_id": 77,
+      "sentence": "She promised to surrender the castle if he let her free.",
+      "subj": "she",
+      "verb": "promise",
+      "obj": ""
+    },
+    {
+      "id": "e0075",
+      "label": "sohrab | agree | \u2205",
+      "sent_id": 78,
+      "sentence": "Sohrab, captivated by her words and beauty, agreed and followed her into the castle.",
+      "subj": "sohrab",
+      "verb": "agree",
+      "obj": ""
+    },
+    {
+      "id": "e0076",
+      "label": "she | shut | gate",
+      "sent_id": 79,
+      "sentence": "But she shut the gates behind him and mocked him from the walls, telling him to turn back since he\u2019d been bested by a woman and would surely fall to Rostam.",
+      "subj": "she",
+      "verb": "shut",
+      "obj": "gate"
+    },
+    {
+      "id": "e0077",
+      "label": "gustahem | send | word",
+      "sent_id": 81,
+      "sentence": "Gustahem, the old advisor, sent word to King Kai Kawous about the Turanian army and Sohrab\u2019s power, warning that the fortress might fall.",
+      "subj": "gustahem",
+      "verb": "send",
+      "obj": "word"
+    },
+    {
+      "id": "e0078",
+      "label": "king | fear | \u2205",
+      "sent_id": 82,
+      "sentence": "The king and nobles feared and called for Rostam\u2019s aid, their greatest champion.",
+      "subj": "king",
+      "verb": "fear",
+      "obj": ""
+    },
+    {
+      "id": "e0079",
+      "label": "defender | escape | tunnel",
+      "sent_id": 83,
+      "sentence": "Sohrab prepared to assault the castle, but found it deserted; the defenders had escaped through secret tunnels.",
+      "subj": "defender",
+      "verb": "escape",
+      "obj": "tunnel"
+    },
+    {
+      "id": "e0080",
+      "label": "\u2205 | hear | \u2205",
+      "sent_id": 84,
+      "sentence": "And when he sought Gurdafrid, only heard her mocking cry.",
+      "subj": "",
+      "verb": "hear",
+      "obj": ""
+    },
+    {
+      "id": "e0081",
+      "label": "kawous | call | rostam",
+      "sent_id": 85,
+      "sentence": "The next day, Kai Kawous, alarmed, called on Rostam to help against the looming threat.",
+      "subj": "kawous",
+      "verb": "call",
+      "obj": "rostam"
+    },
+    {
+      "id": "e0082",
+      "label": "noble | agree | \u2205",
+      "sent_id": 86,
+      "sentence": "His nobles agreed, saying none but Rostam could match Sohrab.",
+      "subj": "noble",
+      "verb": "agree",
+      "obj": ""
+    },
+    {
+      "id": "e0083",
+      "label": "kawous | send | geew",
+      "sent_id": 87,
+      "sentence": "Kai Kawous sent Geew with a letter urging Rostam to come without delay.",
+      "subj": "kawous",
+      "verb": "send",
+      "obj": "geew"
+    },
+    {
+      "id": "e0084",
+      "label": "geew | ride | \u2205",
+      "sent_id": 88,
+      "sentence": "Geew rode tirelessly until he found Rostam and explained the danger.",
+      "subj": "geew",
+      "verb": "ride",
+      "obj": ""
+    },
+    {
+      "id": "e0085",
+      "label": "rostam | doubt | \u2205",
+      "sent_id": 89,
+      "sentence": "Rostam doubted that a child could lead such an army, believing his own infant son in Samangan was far too young for this.",
+      "subj": "rostam",
+      "verb": "doubt",
+      "obj": ""
+    },
+    {
+      "id": "e0086",
+      "label": "guest | feed | \u2205",
+      "sent_id": 90,
+      "sentence": "Guests were fed and wine drunk until several days passed, but finally, Geew insisted they must go.",
+      "subj": "guest",
+      "verb": "feed",
+      "obj": ""
+    },
+    {
+      "id": "e0087",
+      "label": "rostam | prepare | force",
+      "sent_id": 91,
+      "sentence": "Rostam prepared his forces and hurried toward the king\u2019s court.",
+      "subj": "rostam",
+      "verb": "prepare",
+      "obj": "force"
+    },
+    {
+      "id": "e0088",
+      "label": "noble | come | \u2205",
+      "sent_id": 92,
+      "sentence": "The nobles came to greet Rostam eagerly, but when Kai Kawous saw him, he was furious and ordered him arrested and hanged.",
+      "subj": "noble",
+      "verb": "come",
+      "obj": ""
+    },
+    {
+      "id": "e0089",
+      "label": "noble | fear | rostam",
+      "sent_id": 93,
+      "sentence": "The nobles feared for Rostam, but he spoke boldly, reminding the king all his power and throne owed to Rostam\u2019s deeds.",
+      "subj": "noble",
+      "verb": "fear",
+      "obj": "rostam"
+    },
+    {
+      "id": "e0090",
+      "label": "rostam | leave | \u2205",
+      "sent_id": 94,
+      "sentence": "Insulted and angry, Rostam left, vowing not to help Iran.",
+      "subj": "rostam",
+      "verb": "leave",
+      "obj": ""
+    },
+    {
+      "id": "e0091",
+      "label": "noble | send | goodarz",
+      "sent_id": 95,
+      "sentence": "The nobles, fearing the loss of their champion, sent Goodarz to plead with Kai Kawous to recall Rostam.",
+      "subj": "noble",
+      "verb": "send",
+      "obj": "goodarz"
+    },
+    {
+      "id": "e0092",
+      "label": "goodarz | speak | \u2205",
+      "sent_id": 96,
+      "sentence": "Goodarz spoke wisely and boldly, listing Rostam\u2019s deeds and warning the land would fall without his aid.",
+      "subj": "goodarz",
+      "verb": "speak",
+      "obj": ""
+    },
+    {
+      "id": "e0093",
+      "label": "kawous | be | \u2205",
+      "sent_id": 97,
+      "sentence": "Kai Kawous was ashamed and agreed, sending Goodarz to bring Rostam back.",
+      "subj": "kawous",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0094",
+      "label": "he | be | \u2205",
+      "sent_id": 98,
+      "sentence": "When Rostam heard their pleas, he was bitter but considered their words.",
+      "subj": "he",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0095",
+      "label": "he | realize | \u2205",
+      "sent_id": 99,
+      "sentence": "Although hurt by the king\u2019s insult, he realized Iran could not stand without him.",
+      "subj": "he",
+      "verb": "realize",
+      "obj": ""
+    },
+    {
+      "id": "e0096",
+      "label": "he | ride | \u2205",
+      "sent_id": 100,
+      "sentence": "So he rode back to Kai Kawous, who humbly asked forgiveness.",
+      "subj": "he",
+      "verb": "ride",
+      "obj": ""
+    },
+    {
+      "id": "e0097",
+      "label": "they | feast | \u2205",
+      "sent_id": 101,
+      "sentence": "They feasted and celebrated their restored alliance.",
+      "subj": "they",
+      "verb": "feast",
+      "obj": ""
+    },
+    {
+      "id": "e0098",
+      "label": "horn | sound | \u2205",
+      "sent_id": 102,
+      "sentence": "Soon, war horns sounded as both armies prepared to face each other near the fortress.",
+      "subj": "horn",
+      "verb": "sound",
+      "obj": ""
+    },
+    {
+      "id": "e0099",
+      "label": "he | see | warrior",
+      "sent_id": 104,
+      "sentence": "There he saw the young warrior surrounded by brave men and splendor.",
+      "subj": "he",
+      "verb": "see",
+      "obj": "warrior"
+    },
+    {
+      "id": "e0100",
+      "label": "he | kill | zindeh",
+      "sent_id": 105,
+      "sentence": "Before he could be discovered, he killed Zindeh, Tahmineh\u2019s brother, who had come to point out Rostam.",
+      "subj": "he",
+      "verb": "kill",
+      "obj": "zindeh"
+    },
+    {
+      "id": "e0101",
+      "label": "sohrab | trouble | \u2205",
+      "sent_id": 106,
+      "sentence": "Sohrab was troubled by Zindeh\u2019s sudden absence but continued his feast with warriors and women.",
+      "subj": "sohrab",
+      "verb": "trouble",
+      "obj": ""
+    },
+    {
+      "id": "e0102",
+      "label": "sohrab | question | hujir",
+      "sent_id": 107,
+      "sentence": "At dawn, Sohrab questioned captive Hujir about the identity of the noble tents in the enemy camp.",
+      "subj": "sohrab",
+      "verb": "question",
+      "obj": "hujir"
+    },
+    {
+      "id": "e0103",
+      "label": "hujir | conceal | truth",
+      "sent_id": 108,
+      "sentence": "Though Sohrab suspected Rostam\u2019s tent by its signs, Hujir deliberately concealed the truth, fearing Sohrab might kill Rostam.",
+      "subj": "hujir",
+      "verb": "conceal",
+      "obj": "truth"
+    },
+    {
+      "id": "e0104",
+      "label": "sohrab | grow | \u2205",
+      "sent_id": 109,
+      "sentence": "Sohrab grew sad and angry but pressed for the truth.",
+      "subj": "sohrab",
+      "verb": "grow",
+      "obj": ""
+    },
+    {
+      "id": "e0105",
+      "label": "sohrab | kill | hujir",
+      "sent_id": 110,
+      "sentence": "Finally, Sohrab killed Hujir for lying and prepared to storm the Iranian camp.",
+      "subj": "sohrab",
+      "verb": "kill",
+      "obj": "hujir"
+    },
+    {
+      "id": "e0106",
+      "label": "arrival | spread | fear",
+      "sent_id": 111,
+      "sentence": "His arrival spread fear and confusion.",
+      "subj": "arrival",
+      "verb": "spread",
+      "obj": "fear"
+    },
+    {
+      "id": "e0107",
+      "label": "he | challenge | kawous",
+      "sent_id": 112,
+      "sentence": "He challenged King Kai Kawous, but none dared accept.",
+      "subj": "he",
+      "verb": "challenge",
+      "obj": "kawous"
+    },
+    {
+      "id": "e0108",
+      "label": "they | look | rostam",
+      "sent_id": 113,
+      "sentence": "They looked to Rostam as their only champion.",
+      "subj": "they",
+      "verb": "look",
+      "obj": "rostam"
+    },
+    {
+      "id": "e0109",
+      "label": "rostam | don | armor",
+      "sent_id": 114,
+      "sentence": "Rostam donned his armor and rode out to face Sohrab.",
+      "subj": "rostam",
+      "verb": "don",
+      "obj": "armor"
+    },
+    {
+      "id": "e0110",
+      "label": "rostam | suggest | \u2205",
+      "sent_id": 115,
+      "sentence": "When they met, Rostam suggested they fight apart from the armies.",
+      "subj": "rostam",
+      "verb": "suggest",
+      "obj": ""
+    },
+    {
+      "id": "e0111",
+      "label": "sohrab | agree | \u2205",
+      "sent_id": 116,
+      "sentence": "Sohrab agreed, desperate to learn Rostam\u2019s name.",
+      "subj": "sohrab",
+      "verb": "agree",
+      "obj": ""
+    },
+    {
+      "id": "e0112",
+      "label": "he | suspect | \u2205",
+      "sent_id": 117,
+      "sentence": "He suspected the man might be his father.",
+      "subj": "he",
+      "verb": "suspect",
+      "obj": ""
+    },
+    {
+      "id": "e0113",
+      "label": "rostam | deny | it",
+      "sent_id": 118,
+      "sentence": "Rostam denied it, claiming to be a common man without fame or heritage, hoping to discourage Sohrab.",
+      "subj": "rostam",
+      "verb": "deny",
+      "obj": "it"
+    },
+    {
+      "id": "e0114",
+      "label": "sohrab | fight | might",
+      "sent_id": 119,
+      "sentence": "Heartbroken, Sohrab fought with all his might.",
+      "subj": "sohrab",
+      "verb": "fight",
+      "obj": "might"
+    },
+    {
+      "id": "e0115",
+      "label": "they | wrestle | exhaustion",
+      "sent_id": 120,
+      "sentence": "Their battle was fierce and evenly matched; spears shattered, swords dulled, clubs broken, they wrestled in exhaustion yet neither gained the upper hand.",
+      "subj": "they",
+      "verb": "wrestle",
+      "obj": "exhaustion"
+    },
+    {
+      "id": "e0116",
+      "label": "rostam | marvel | \u2205",
+      "sent_id": 121,
+      "sentence": "Rostam marveled that no one, not even demons, had challenged him so before.",
+      "subj": "rostam",
+      "verb": "marvel",
+      "obj": ""
+    },
+    {
+      "id": "e0117",
+      "label": "they | rest | \u2205",
+      "sent_id": 122,
+      "sentence": "They rested, then fought again with arrows and weapons, but still no victor emerged.",
+      "subj": "they",
+      "verb": "rest",
+      "obj": ""
+    },
+    {
+      "id": "e0118",
+      "label": "sohrab | deal | blow",
+      "sent_id": 123,
+      "sentence": "Sohrab finally dealt a heavy blow, and Rostam reeled in pain.",
+      "subj": "sohrab",
+      "verb": "deal",
+      "obj": "blow"
+    },
+    {
+      "id": "e0119",
+      "label": "sohrab | mock | man",
+      "sent_id": 124,
+      "sentence": "Sohrab mocked the old man but still rested for the night, vowing to finish the fight.",
+      "subj": "sohrab",
+      "verb": "mock",
+      "obj": "man"
+    },
+    {
+      "id": "e0120",
+      "label": "warrior | covet | victory",
+      "sent_id": 125,
+      "sentence": "Both warriors coveted victory, yet Rostam prayed to God for strength, which came so powerfully that the earth itself cracked under him.",
+      "subj": "warrior",
+      "verb": "covet",
+      "obj": "victory"
+    },
+    {
+      "id": "e0121",
+      "label": "he | pray | \u2205",
+      "sent_id": 126,
+      "sentence": "He then prayed for some of this strength to be taken back.",
+      "subj": "he",
+      "verb": "pray",
+      "obj": ""
+    },
+    {
+      "id": "e0122",
+      "label": "sohrab | plead | rostam",
+      "sent_id": 127,
+      "sentence": "The next day, Sohrab pleaded with Rostam to set aside their weapons, share wine, and speak honestly, hoping to avoid further bloodshed.",
+      "subj": "sohrab",
+      "verb": "plead",
+      "obj": "rostam"
+    },
+    {
+      "id": "e0123",
+      "label": "he | ask | rostam",
+      "sent_id": 128,
+      "sentence": "He once more asked Rostam to reveal his name, convinced it was the great Rostam himself.",
+      "subj": "he",
+      "verb": "ask",
+      "obj": "rostam"
+    },
+    {
+      "id": "e0124",
+      "label": "rostam | refuse | \u2205",
+      "sent_id": 129,
+      "sentence": "Rostam refused, insisting the battle must go on, that their fate was in God\u2019s hands.",
+      "subj": "rostam",
+      "verb": "refuse",
+      "obj": ""
+    },
+    {
+      "id": "e0125",
+      "label": "they | fight | \u2205",
+      "sent_id": 130,
+      "sentence": "They fought fiercely once more.",
+      "subj": "they",
+      "verb": "fight",
+      "obj": ""
+    },
+    {
+      "id": "e0126",
+      "label": "sohrab | pin | rostam",
+      "sent_id": 131,
+      "sentence": "At last, Sohrab pinned Rostam to the ground and drew his sword to kill him.",
+      "subj": "sohrab",
+      "verb": "pin",
+      "obj": "rostam"
+    },
+    {
+      "id": "e0127",
+      "label": "warrior | kill | opponent",
+      "sent_id": 132,
+      "sentence": "But Rostam cleverly reminded him of the battle custom: a warrior should not kill his opponent the first time he overcomes him, but wait to fight again before delivering the final blow.",
+      "subj": "warrior",
+      "verb": "kill",
+      "obj": "opponent"
+    },
+    {
+      "id": "e0128",
+      "label": "sohrab | spar | he",
+      "sent_id": 133,
+      "sentence": "Sohrab spared him, and they paused until nightfall.",
+      "subj": "sohrab",
+      "verb": "spar",
+      "obj": "he"
+    },
+    {
+      "id": "e0129",
+      "label": "hooman | warn | \u2205",
+      "sent_id": 134,
+      "sentence": "Hooman warned Sohrab his mercy was foolish, but Sohrab believed he would surely prevail next time.",
+      "subj": "hooman",
+      "verb": "warn",
+      "obj": ""
+    },
+    {
+      "id": "e0130",
+      "label": "rostam | wash | anguish",
+      "sent_id": 135,
+      "sentence": "In anguish, Rostam washed and prayed for strength to win.",
+      "subj": "rostam",
+      "verb": "wash",
+      "obj": "anguish"
+    },
+    {
+      "id": "e0131",
+      "label": "battle | begin | \u2205",
+      "sent_id": 136,
+      "sentence": "The final battle began.",
+      "subj": "battle",
+      "verb": "begin",
+      "obj": ""
+    },
+    {
+      "id": "e0132",
+      "label": "sohrab | charge | elephant",
+      "sent_id": 137,
+      "sentence": "Sohrab charged like a raging elephant and cursed Rostam for returning so fiercely.",
+      "subj": "sohrab",
+      "verb": "charge",
+      "obj": "elephant"
+    },
+    {
+      "id": "e0133",
+      "label": "rostam | feel | fear",
+      "sent_id": 138,
+      "sentence": "Rostam felt fear but hid it and prayed for strength.",
+      "subj": "rostam",
+      "verb": "feel",
+      "obj": "fear"
+    },
+    {
+      "id": "e0134",
+      "label": "they | fight | \u2205",
+      "sent_id": 139,
+      "sentence": "They fought fiercely until Rostam threw Sohrab down hard and broke his back.",
+      "subj": "they",
+      "verb": "fight",
+      "obj": ""
+    },
+    {
+      "id": "e0135",
+      "label": "sohrab | gasp | word",
+      "sent_id": 140,
+      "sentence": "As Rostam drew his sword to kill him, Sohrab gasped his final words.",
+      "subj": "sohrab",
+      "verb": "gasp",
+      "obj": "word"
+    },
+    {
+      "id": "e0136",
+      "label": "he | confess | longing",
+      "sent_id": 141,
+      "sentence": "He confessed his longing to find his father, told how his mother had shown him signs to recognize him, and that he died searching for Rostam\u2019s face.",
+      "subj": "he",
+      "verb": "confess",
+      "obj": "longing"
+    },
+    {
+      "id": "e0137",
+      "label": "he | beg | rostam",
+      "sent_id": 142,
+      "sentence": "He begged Rostam to look inside his armor for a token \u2014 the onyx ring given to him at birth.",
+      "subj": "he",
+      "verb": "beg",
+      "obj": "rostam"
+    },
+    {
+      "id": "e0138",
+      "label": "rostam | open | armor",
+      "sent_id": 143,
+      "sentence": "Rostam opened the armor, saw the jewel, and was shattered by grief.",
+      "subj": "rostam",
+      "verb": "open",
+      "obj": "armor"
+    },
+    {
+      "id": "e0139",
+      "label": "he | tear | clothe",
+      "sent_id": 144,
+      "sentence": "He tore his clothes, covered his head with ashes, and wept bitterly.",
+      "subj": "he",
+      "verb": "tear",
+      "obj": "clothe"
+    },
+    {
+      "id": "e0140",
+      "label": "sohrab | comfort | he",
+      "sent_id": 145,
+      "sentence": "Sohrab comforted him, saying it was fate and there was no escape.",
+      "subj": "sohrab",
+      "verb": "comfort",
+      "obj": "he"
+    },
+    {
+      "id": "e0141",
+      "label": "noble | fear | \u2205",
+      "sent_id": 146,
+      "sentence": "When the sun set and Rostam didn\u2019t return, the nobles feared he was dead.",
+      "subj": "noble",
+      "verb": "fear",
+      "obj": ""
+    },
+    {
+      "id": "e0142",
+      "label": "they | mourn | \u2205",
+      "sent_id": 147,
+      "sentence": "They mourned deeply and reported to Kai Kawous, who ordered them to prepare for battle without Rostam.",
+      "subj": "they",
+      "verb": "mourn",
+      "obj": ""
+    },
+    {
+      "id": "e0143",
+      "label": "he | take | responsibility",
+      "sent_id": 148,
+      "sentence": "Sohrab begged Rostam not to allow the king to attack the Turanian soldiers; he took full responsibility for the invasion.",
+      "subj": "he",
+      "verb": "take",
+      "obj": "responsibility"
+    },
+    {
+      "id": "e0144",
+      "label": "rostam | promise | \u2205",
+      "sent_id": 149,
+      "sentence": "Rostam promised.",
+      "subj": "rostam",
+      "verb": "promise",
+      "obj": ""
+    },
+    {
+      "id": "e0145",
+      "label": "rostam | reveal | truth",
+      "sent_id": 150,
+      "sentence": "Rostam revealed the truth of what had happened to the nobles, who mourned with him.",
+      "subj": "rostam",
+      "verb": "reveal",
+      "obj": "truth"
+    },
+    {
+      "id": "e0146",
+      "label": "he | prepare | fit",
+      "sent_id": 151,
+      "sentence": "He prepared a tomb fit for Sohrab and laid him to rest, surrounded by gold and precious scents.",
+      "subj": "he",
+      "verb": "prepare",
+      "obj": "fit"
+    },
+    {
+      "id": "e0147",
+      "label": "grief | fill | home",
+      "sent_id": 152,
+      "sentence": "Grief filled Rostam\u2019s home, and he mourned long.",
+      "subj": "grief",
+      "verb": "fill",
+      "obj": "home"
+    },
+    {
+      "id": "e0148",
+      "label": "news | reach | turan",
+      "sent_id": 153,
+      "sentence": "News reached Turan, and all mourned the fallen hero.",
+      "subj": "news",
+      "verb": "reach",
+      "obj": "turan"
+    },
+    {
+      "id": "e0149",
+      "label": "tahmineh | devastate | \u2205",
+      "sent_id": 154,
+      "sentence": "Tahmineh was devastated, beating her chest, tearing her hair, and crying endlessly.",
+      "subj": "tahmineh",
+      "verb": "devastate",
+      "obj": ""
+    },
+    {
+      "id": "e0150",
+      "label": "she | cherish | belonging",
+      "sent_id": 155,
+      "sentence": "She cherished Sohrab\u2019s belongings, kissed his horse, and set fire to his home.",
+      "subj": "she",
+      "verb": "cherish",
+      "obj": "belonging"
+    },
+    {
+      "id": "e0151",
+      "label": "she | die | year",
+      "sent_id": 156,
+      "sentence": "After a year of sorrow, she died, joining her son in the beyond.",
+      "subj": "she",
+      "verb": "die",
+      "obj": "year"
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    },
+    {
+      "source": "e0029",
+      "target": "e0030",
+      "relation": "next"
+    },
+    {
+      "source": "e0030",
+      "target": "e0031",
+      "relation": "next"
+    },
+    {
+      "source": "e0031",
+      "target": "e0032",
+      "relation": "next"
+    },
+    {
+      "source": "e0032",
+      "target": "e0033",
+      "relation": "next"
+    },
+    {
+      "source": "e0033",
+      "target": "e0034",
+      "relation": "next"
+    },
+    {
+      "source": "e0034",
+      "target": "e0035",
+      "relation": "next"
+    },
+    {
+      "source": "e0035",
+      "target": "e0036",
+      "relation": "next"
+    },
+    {
+      "source": "e0036",
+      "target": "e0037",
+      "relation": "next"
+    },
+    {
+      "source": "e0037",
+      "target": "e0038",
+      "relation": "next"
+    },
+    {
+      "source": "e0038",
+      "target": "e0039",
+      "relation": "next"
+    },
+    {
+      "source": "e0039",
+      "target": "e0040",
+      "relation": "next"
+    },
+    {
+      "source": "e0040",
+      "target": "e0041",
+      "relation": "next"
+    },
+    {
+      "source": "e0041",
+      "target": "e0042",
+      "relation": "next"
+    },
+    {
+      "source": "e0042",
+      "target": "e0043",
+      "relation": "next"
+    },
+    {
+      "source": "e0043",
+      "target": "e0044",
+      "relation": "next"
+    },
+    {
+      "source": "e0044",
+      "target": "e0045",
+      "relation": "next"
+    },
+    {
+      "source": "e0045",
+      "target": "e0046",
+      "relation": "next"
+    },
+    {
+      "source": "e0046",
+      "target": "e0047",
+      "relation": "next"
+    },
+    {
+      "source": "e0047",
+      "target": "e0048",
+      "relation": "next"
+    },
+    {
+      "source": "e0048",
+      "target": "e0049",
+      "relation": "next"
+    },
+    {
+      "source": "e0049",
+      "target": "e0050",
+      "relation": "next"
+    },
+    {
+      "source": "e0050",
+      "target": "e0051",
+      "relation": "next"
+    },
+    {
+      "source": "e0051",
+      "target": "e0052",
+      "relation": "next"
+    },
+    {
+      "source": "e0052",
+      "target": "e0053",
+      "relation": "next"
+    },
+    {
+      "source": "e0053",
+      "target": "e0054",
+      "relation": "next"
+    },
+    {
+      "source": "e0054",
+      "target": "e0055",
+      "relation": "next"
+    },
+    {
+      "source": "e0055",
+      "target": "e0056",
+      "relation": "next"
+    },
+    {
+      "source": "e0056",
+      "target": "e0057",
+      "relation": "next"
+    },
+    {
+      "source": "e0057",
+      "target": "e0058",
+      "relation": "next"
+    },
+    {
+      "source": "e0058",
+      "target": "e0059",
+      "relation": "next"
+    },
+    {
+      "source": "e0059",
+      "target": "e0060",
+      "relation": "next"
+    },
+    {
+      "source": "e0060",
+      "target": "e0061",
+      "relation": "next"
+    },
+    {
+      "source": "e0061",
+      "target": "e0062",
+      "relation": "next"
+    },
+    {
+      "source": "e0062",
+      "target": "e0063",
+      "relation": "next"
+    },
+    {
+      "source": "e0063",
+      "target": "e0064",
+      "relation": "next"
+    },
+    {
+      "source": "e0064",
+      "target": "e0065",
+      "relation": "next"
+    },
+    {
+      "source": "e0065",
+      "target": "e0066",
+      "relation": "next"
+    },
+    {
+      "source": "e0066",
+      "target": "e0067",
+      "relation": "next"
+    },
+    {
+      "source": "e0067",
+      "target": "e0068",
+      "relation": "next"
+    },
+    {
+      "source": "e0068",
+      "target": "e0069",
+      "relation": "next"
+    },
+    {
+      "source": "e0069",
+      "target": "e0070",
+      "relation": "next"
+    },
+    {
+      "source": "e0070",
+      "target": "e0071",
+      "relation": "next"
+    },
+    {
+      "source": "e0071",
+      "target": "e0072",
+      "relation": "next"
+    },
+    {
+      "source": "e0072",
+      "target": "e0073",
+      "relation": "next"
+    },
+    {
+      "source": "e0073",
+      "target": "e0074",
+      "relation": "next"
+    },
+    {
+      "source": "e0074",
+      "target": "e0075",
+      "relation": "next"
+    },
+    {
+      "source": "e0075",
+      "target": "e0076",
+      "relation": "next"
+    },
+    {
+      "source": "e0076",
+      "target": "e0077",
+      "relation": "next"
+    },
+    {
+      "source": "e0077",
+      "target": "e0078",
+      "relation": "next"
+    },
+    {
+      "source": "e0078",
+      "target": "e0079",
+      "relation": "next"
+    },
+    {
+      "source": "e0079",
+      "target": "e0080",
+      "relation": "next"
+    },
+    {
+      "source": "e0080",
+      "target": "e0081",
+      "relation": "next"
+    },
+    {
+      "source": "e0081",
+      "target": "e0082",
+      "relation": "next"
+    },
+    {
+      "source": "e0082",
+      "target": "e0083",
+      "relation": "next"
+    },
+    {
+      "source": "e0083",
+      "target": "e0084",
+      "relation": "next"
+    },
+    {
+      "source": "e0084",
+      "target": "e0085",
+      "relation": "next"
+    },
+    {
+      "source": "e0085",
+      "target": "e0086",
+      "relation": "next"
+    },
+    {
+      "source": "e0086",
+      "target": "e0087",
+      "relation": "next"
+    },
+    {
+      "source": "e0087",
+      "target": "e0088",
+      "relation": "next"
+    },
+    {
+      "source": "e0088",
+      "target": "e0089",
+      "relation": "next"
+    },
+    {
+      "source": "e0089",
+      "target": "e0090",
+      "relation": "next"
+    },
+    {
+      "source": "e0090",
+      "target": "e0091",
+      "relation": "next"
+    },
+    {
+      "source": "e0091",
+      "target": "e0092",
+      "relation": "next"
+    },
+    {
+      "source": "e0092",
+      "target": "e0093",
+      "relation": "next"
+    },
+    {
+      "source": "e0093",
+      "target": "e0094",
+      "relation": "next"
+    },
+    {
+      "source": "e0094",
+      "target": "e0095",
+      "relation": "next"
+    },
+    {
+      "source": "e0095",
+      "target": "e0096",
+      "relation": "next"
+    },
+    {
+      "source": "e0096",
+      "target": "e0097",
+      "relation": "next"
+    },
+    {
+      "source": "e0097",
+      "target": "e0098",
+      "relation": "next"
+    },
+    {
+      "source": "e0098",
+      "target": "e0099",
+      "relation": "next"
+    },
+    {
+      "source": "e0099",
+      "target": "e0100",
+      "relation": "next"
+    },
+    {
+      "source": "e0100",
+      "target": "e0101",
+      "relation": "next"
+    },
+    {
+      "source": "e0101",
+      "target": "e0102",
+      "relation": "next"
+    },
+    {
+      "source": "e0102",
+      "target": "e0103",
+      "relation": "next"
+    },
+    {
+      "source": "e0103",
+      "target": "e0104",
+      "relation": "next"
+    },
+    {
+      "source": "e0104",
+      "target": "e0105",
+      "relation": "next"
+    },
+    {
+      "source": "e0105",
+      "target": "e0106",
+      "relation": "next"
+    },
+    {
+      "source": "e0106",
+      "target": "e0107",
+      "relation": "next"
+    },
+    {
+      "source": "e0107",
+      "target": "e0108",
+      "relation": "next"
+    },
+    {
+      "source": "e0108",
+      "target": "e0109",
+      "relation": "next"
+    },
+    {
+      "source": "e0109",
+      "target": "e0110",
+      "relation": "next"
+    },
+    {
+      "source": "e0110",
+      "target": "e0111",
+      "relation": "next"
+    },
+    {
+      "source": "e0111",
+      "target": "e0112",
+      "relation": "next"
+    },
+    {
+      "source": "e0112",
+      "target": "e0113",
+      "relation": "next"
+    },
+    {
+      "source": "e0113",
+      "target": "e0114",
+      "relation": "next"
+    },
+    {
+      "source": "e0114",
+      "target": "e0115",
+      "relation": "next"
+    },
+    {
+      "source": "e0115",
+      "target": "e0116",
+      "relation": "next"
+    },
+    {
+      "source": "e0116",
+      "target": "e0117",
+      "relation": "next"
+    },
+    {
+      "source": "e0117",
+      "target": "e0118",
+      "relation": "next"
+    },
+    {
+      "source": "e0118",
+      "target": "e0119",
+      "relation": "next"
+    },
+    {
+      "source": "e0119",
+      "target": "e0120",
+      "relation": "next"
+    },
+    {
+      "source": "e0120",
+      "target": "e0121",
+      "relation": "next"
+    },
+    {
+      "source": "e0121",
+      "target": "e0122",
+      "relation": "next"
+    },
+    {
+      "source": "e0122",
+      "target": "e0123",
+      "relation": "next"
+    },
+    {
+      "source": "e0123",
+      "target": "e0124",
+      "relation": "next"
+    },
+    {
+      "source": "e0124",
+      "target": "e0125",
+      "relation": "next"
+    },
+    {
+      "source": "e0125",
+      "target": "e0126",
+      "relation": "next"
+    },
+    {
+      "source": "e0126",
+      "target": "e0127",
+      "relation": "next"
+    },
+    {
+      "source": "e0127",
+      "target": "e0128",
+      "relation": "next"
+    },
+    {
+      "source": "e0128",
+      "target": "e0129",
+      "relation": "next"
+    },
+    {
+      "source": "e0129",
+      "target": "e0130",
+      "relation": "next"
+    },
+    {
+      "source": "e0130",
+      "target": "e0131",
+      "relation": "next"
+    },
+    {
+      "source": "e0131",
+      "target": "e0132",
+      "relation": "next"
+    },
+    {
+      "source": "e0132",
+      "target": "e0133",
+      "relation": "next"
+    },
+    {
+      "source": "e0133",
+      "target": "e0134",
+      "relation": "next"
+    },
+    {
+      "source": "e0134",
+      "target": "e0135",
+      "relation": "next"
+    },
+    {
+      "source": "e0135",
+      "target": "e0136",
+      "relation": "next"
+    },
+    {
+      "source": "e0136",
+      "target": "e0137",
+      "relation": "next"
+    },
+    {
+      "source": "e0137",
+      "target": "e0138",
+      "relation": "next"
+    },
+    {
+      "source": "e0138",
+      "target": "e0139",
+      "relation": "next"
+    },
+    {
+      "source": "e0139",
+      "target": "e0140",
+      "relation": "next"
+    },
+    {
+      "source": "e0140",
+      "target": "e0141",
+      "relation": "next"
+    },
+    {
+      "source": "e0141",
+      "target": "e0142",
+      "relation": "next"
+    },
+    {
+      "source": "e0142",
+      "target": "e0143",
+      "relation": "next"
+    },
+    {
+      "source": "e0143",
+      "target": "e0144",
+      "relation": "next"
+    },
+    {
+      "source": "e0144",
+      "target": "e0145",
+      "relation": "next"
+    },
+    {
+      "source": "e0145",
+      "target": "e0146",
+      "relation": "next"
+    },
+    {
+      "source": "e0146",
+      "target": "e0147",
+      "relation": "next"
+    },
+    {
+      "source": "e0147",
+      "target": "e0148",
+      "relation": "next"
+    },
+    {
+      "source": "e0148",
+      "target": "e0149",
+      "relation": "next"
+    },
+    {
+      "source": "e0149",
+      "target": "e0150",
+      "relation": "next"
+    },
+    {
+      "source": "e0150",
+      "target": "e0151",
+      "relation": "next"
+    }
+  ]
+}

@@ -1,0 +1,434 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "princess",
+    "verb": "put",
+    "obj": "shoe",
+    "label": "princess | put | shoe",
+    "sentence": "One pleasant evening, a young princess put on her bonnet and wooden shoes and went for a walk alone in the forest."
+  },
+  {
+    "sent_id": 1,
+    "subj": "she",
+    "verb": "sit",
+    "obj": "",
+    "label": "she | sit | \u2205",
+    "sentence": "When she came to a cool spring of water in the middle of the woods, she sat down to rest for a while."
+  },
+  {
+    "sent_id": 2,
+    "subj": "she",
+    "verb": "hold",
+    "obj": "toy",
+    "label": "she | hold | toy",
+    "sentence": "She was holding her favorite toy, a golden ball, which she liked to toss into the air and catch again."
+  },
+  {
+    "sent_id": 3,
+    "subj": "she",
+    "verb": "throw",
+    "obj": "it",
+    "label": "she | throw | it",
+    "sentence": "After a while, she threw it up so high that she missed catching it, and the ball bounced away and rolled on the ground until it finally fell into the spring."
+  },
+  {
+    "sent_id": 4,
+    "subj": "princess",
+    "verb": "look",
+    "obj": "water",
+    "label": "princess | look | water",
+    "sentence": "The princess looked into the deep water but couldn\u2019t see the bottom."
+  },
+  {
+    "sent_id": 5,
+    "subj": "she",
+    "verb": "begin",
+    "obj": "",
+    "label": "she | begin | \u2205",
+    "sentence": "She began to cry and said, \u201cOh no!"
+  },
+  {
+    "sent_id": 6,
+    "subj": "frog",
+    "verb": "pop",
+    "obj": "head",
+    "label": "frog | pop | head",
+    "sentence": "If only I could get my ball back, I would give all my fine clothes, jewels, and everything I own.\u201d\n\nWhile she was speaking, a frog popped its head out of the water and asked, \u201cPrincess, why are you crying so badly?\u201d"
+  },
+  {
+    "sent_id": 7,
+    "subj": "she",
+    "verb": "reply",
+    "obj": "",
+    "label": "she | reply | \u2205",
+    "sentence": "She replied, \u201cWhat can you do for me, you ugly frog?"
+  },
+  {
+    "sent_id": 8,
+    "subj": "ball",
+    "verb": "fall",
+    "obj": "spring",
+    "label": "ball | fall | spring",
+    "sentence": "My golden ball fell into the spring.\u201d"
+  },
+  {
+    "sent_id": 9,
+    "subj": "frog",
+    "verb": "say",
+    "obj": "",
+    "label": "frog | say | \u2205",
+    "sentence": "The frog said, \u201cI don\u2019t want your jewels or fine clothes."
+  },
+  {
+    "sent_id": 10,
+    "subj": "i",
+    "verb": "get",
+    "obj": "ball",
+    "label": "i | get | ball",
+    "sentence": "But if you love me, let me live with you, eat from your golden plate, and sleep on your bed, I will get your ball back.\u201d"
+  },
+  {
+    "sent_id": 11,
+    "subj": "",
+    "verb": "think",
+    "obj": "herself",
+    "label": "\u2205 | think | herself",
+    "sentence": "The princess thought to herself, \u201cWhat nonsense!"
+  },
+  {
+    "sent_id": 12,
+    "subj": "frog",
+    "verb": "leave",
+    "obj": "spring",
+    "label": "frog | leave | spring",
+    "sentence": "This silly frog can\u2019t even leave the spring."
+  },
+  {
+    "sent_id": 13,
+    "subj": "i",
+    "verb": "promise",
+    "obj": "he",
+    "label": "i | promise | he",
+    "sentence": "But if he can get my ball, I\u2019ll promise him whatever he wants.\u201d"
+  },
+  {
+    "sent_id": 14,
+    "subj": "she",
+    "verb": "say",
+    "obj": "",
+    "label": "she | say | \u2205",
+    "sentence": "So she said, \u201cAlright, if you bring me my ball, I\u2019ll do as you ask.\u201d"
+  },
+  {
+    "sent_id": 15,
+    "subj": "frog",
+    "verb": "dive",
+    "obj": "underwater",
+    "label": "frog | dive | underwater",
+    "sentence": "The frog then dived deep underwater and soon resurfaced with the ball in his mouth, tossing it onto the spring\u2019s edge."
+  },
+  {
+    "sent_id": 16,
+    "subj": "princess",
+    "verb": "be",
+    "obj": "",
+    "label": "princess | be | \u2205",
+    "sentence": "The princess was so happy to have her ball again that she forgot all about the frog and ran home as fast as she could."
+  },
+  {
+    "sent_id": 17,
+    "subj": "frog",
+    "verb": "call",
+    "obj": "wait",
+    "label": "frog | call | wait",
+    "sentence": "The frog called after her, \u201cWait, princess, take me with you as you promised!\u201d"
+  },
+  {
+    "sent_id": 18,
+    "subj": "she",
+    "verb": "stop",
+    "obj": "",
+    "label": "she | stop | \u2205",
+    "sentence": "But she didn\u2019t stop."
+  },
+  {
+    "sent_id": 19,
+    "subj": "she",
+    "verb": "hear",
+    "obj": "noise",
+    "label": "she | hear | noise",
+    "sentence": "The next day, just as the princess sat down to dinner, she heard a strange noise\u2014tap, tap\u2014plash, plash\u2014like something was climbing the marble stairs."
+  },
+  {
+    "sent_id": 20,
+    "subj": "",
+    "verb": "open",
+    "obj": "it",
+    "label": "\u2205 | open | it",
+    "sentence": "Soon there was a gentle knock on the door and a small voice called:\n\n\u201cOpen the door, my dear princess, \nOpen it to your true love here!"
+  },
+  {
+    "sent_id": 21,
+    "subj": "",
+    "verb": "remember",
+    "obj": "word",
+    "label": "\u2205 | remember | word",
+    "sentence": "Remember the words that you and I said \nBy the cool fountain in the green forest shade.\u201d"
+  },
+  {
+    "sent_id": 22,
+    "subj": "princess",
+    "verb": "run",
+    "obj": "door",
+    "label": "princess | run | door",
+    "sentence": "The princess ran to the door and opened it, and there was the frog she had forgotten."
+  },
+  {
+    "sent_id": 23,
+    "subj": "she",
+    "verb": "shut",
+    "obj": "door",
+    "label": "she | shut | door",
+    "sentence": "Frightened, she quickly shut the door and went back to her seat."
+  },
+  {
+    "sent_id": 24,
+    "subj": "father",
+    "verb": "ask",
+    "obj": "",
+    "label": "father | ask | \u2205",
+    "sentence": "Her father, the king, asked what was wrong."
+  },
+  {
+    "sent_id": 25,
+    "subj": "she",
+    "verb": "say",
+    "obj": "one",
+    "label": "she | say | one",
+    "sentence": "\u201cThere\u2019s a nasty frog at the door,\u201d she said, \u201cthe one who got my ball out of the spring this morning."
+  },
+  {
+    "sent_id": 26,
+    "subj": "i",
+    "verb": "tell",
+    "obj": "he",
+    "label": "i | tell | he",
+    "sentence": "I told him he could live with me, thinking he couldn\u2019t leave the spring\u2014but now he\u2019s at the door wanting to come in.\u201d"
+  },
+  {
+    "sent_id": 27,
+    "subj": "frog",
+    "verb": "knock",
+    "obj": "",
+    "label": "frog | knock | \u2205",
+    "sentence": "As she spoke, the frog knocked again and said:\n\n\u201cOpen the door, my dear princess, \nOpen it to your true love here!"
+  },
+  {
+    "sent_id": 28,
+    "subj": "",
+    "verb": "remember",
+    "obj": "word",
+    "label": "\u2205 | remember | word",
+    "sentence": "Remember the words that you and I said \nBy the cool fountain in the green forest shade.\u201d"
+  },
+  {
+    "sent_id": 29,
+    "subj": "king",
+    "verb": "tell",
+    "obj": "daughter",
+    "label": "king | tell | daughter",
+    "sentence": "The king told his daughter, \u201cSince you gave your word, you must keep it."
+  },
+  {
+    "sent_id": 30,
+    "subj": "",
+    "verb": "go",
+    "obj": "",
+    "label": "\u2205 | go | \u2205",
+    "sentence": "Go and let him in.\u201d"
+  },
+  {
+    "sent_id": 31,
+    "subj": "she",
+    "verb": "do",
+    "obj": "",
+    "label": "she | do | \u2205",
+    "sentence": "Reluctantly, she did."
+  },
+  {
+    "sent_id": 32,
+    "subj": "frog",
+    "verb": "hop",
+    "obj": "",
+    "label": "frog | hop | \u2205",
+    "sentence": "The frog hopped inside and then hopped all around the room until he reached the table where the princess sat."
+  },
+  {
+    "sent_id": 33,
+    "subj": "frog",
+    "verb": "say",
+    "obj": "",
+    "label": "frog | say | \u2205",
+    "sentence": "\u201cPlease lift me onto a chair,\u201d the frog said, \u201cand let me sit beside you.\u201d"
+  },
+  {
+    "sent_id": 34,
+    "subj": "she",
+    "verb": "do",
+    "obj": "",
+    "label": "she | do | \u2205",
+    "sentence": "She did so, and he said, \u201cMove your plate closer to me so I can eat.\u201d"
+  },
+  {
+    "sent_id": 35,
+    "subj": "i",
+    "verb": "be",
+    "obj": "",
+    "label": "i | be | \u2205",
+    "sentence": "She did, and when he had finished, he said, \u201cNow I am tired."
+  },
+  {
+    "sent_id": 36,
+    "subj": "",
+    "verb": "carry",
+    "obj": "i",
+    "label": "\u2205 | carry | i",
+    "sentence": "Carry me upstairs and put me to bed.\u201d"
+  },
+  {
+    "sent_id": 37,
+    "subj": "princess",
+    "verb": "carry",
+    "obj": "he",
+    "label": "princess | carry | he",
+    "sentence": "Though unwilling, the princess carried him to her bed, placed him on her pillow, and he slept all night."
+  },
+  {
+    "sent_id": 38,
+    "subj": "he",
+    "verb": "jump",
+    "obj": "dawn",
+    "label": "he | jump | dawn",
+    "sentence": "At dawn, he jumped up, hopped downstairs, and left the house."
+  },
+  {
+    "sent_id": 40,
+    "subj": "she",
+    "verb": "be",
+    "obj": "",
+    "label": "she | be | \u2205",
+    "sentence": "But she was wrong."
+  },
+  {
+    "sent_id": 41,
+    "subj": "she",
+    "verb": "hear",
+    "obj": "tapping",
+    "label": "she | hear | tapping",
+    "sentence": "That very night, she heard the same tapping at the door."
+  },
+  {
+    "sent_id": 42,
+    "subj": "frog",
+    "verb": "come",
+    "obj": "",
+    "label": "frog | come | \u2205",
+    "sentence": "The frog came again and said:\n\n\u201cOpen the door, my dear princess, \nOpen it to your true love here!"
+  },
+  {
+    "sent_id": 43,
+    "subj": "",
+    "verb": "remember",
+    "obj": "word",
+    "label": "\u2205 | remember | word",
+    "sentence": "Remember the words that you and I said \nBy the cool fountain in the green forest shade.\u201d"
+  },
+  {
+    "sent_id": 44,
+    "subj": "frog",
+    "verb": "come",
+    "obj": "",
+    "label": "frog | come | \u2205",
+    "sentence": "When the princess opened the door, the frog came in and slept on her pillow as before until morning."
+  },
+  {
+    "sent_id": 45,
+    "subj": "he",
+    "verb": "do",
+    "obj": "thing",
+    "label": "he | do | thing",
+    "sentence": "The next two nights he did the same thing."
+  },
+  {
+    "sent_id": 46,
+    "subj": "she",
+    "verb": "be",
+    "obj": "morning",
+    "label": "she | be | morning",
+    "sentence": "But on the morning after the third night, she was amazed to find, instead of the frog, a handsome prince looking at her with the most beautiful eyes she had ever seen, standing at the head of her bed."
+  },
+  {
+    "sent_id": 47,
+    "subj": "he",
+    "verb": "tell",
+    "obj": "she",
+    "label": "he | tell | she",
+    "sentence": "He told her that an evil fairy had enchanted him, turning him into a frog."
+  },
+  {
+    "sent_id": 48,
+    "subj": "he",
+    "verb": "have",
+    "obj": "",
+    "label": "he | have | \u2205",
+    "sentence": "He had to remain so until a princess rescued him from the spring, let him eat from her plate, and sleep in her bed for three nights."
+  },
+  {
+    "sent_id": 49,
+    "subj": "he",
+    "verb": "say",
+    "obj": "",
+    "label": "he | say | \u2205",
+    "sentence": "\u201cYou have broken this cruel spell,\u201d he said, \u201cand now I wish only to take you to my father\u2019s kingdom, marry you, and love you forever.\u201d"
+  },
+  {
+    "sent_id": 50,
+    "subj": "princess",
+    "verb": "agree",
+    "obj": "",
+    "label": "princess | agree | \u2205",
+    "sentence": "The young princess eagerly agreed."
+  },
+  {
+    "sent_id": 51,
+    "subj": "coach",
+    "verb": "arrive",
+    "obj": "",
+    "label": "coach | arrive | \u2205",
+    "sentence": "Just then, a splendid coach arrived, pulled by eight magnificent horses adorned with feather plumes and golden harnesses."
+  },
+  {
+    "sent_id": 52,
+    "subj": "",
+    "verb": "ride",
+    "obj": "servant",
+    "label": "\u2205 | ride | servant",
+    "sentence": "Behind the coach rode the prince\u2019s loyal servant, Heinrich, who had grieved bitterly over his master\u2019s curse."
+  },
+  {
+    "sent_id": 53,
+    "subj": "they",
+    "verb": "say",
+    "obj": "king",
+    "label": "they | say | king",
+    "sentence": "They said farewell to the king, climbed into the coach, and with joy and celebration, journeyed to the prince\u2019s kingdom."
+  },
+  {
+    "sent_id": 54,
+    "subj": "they",
+    "verb": "live",
+    "obj": "year",
+    "label": "they | live | year",
+    "sentence": "There, they lived happily for many years."
+  }
+]

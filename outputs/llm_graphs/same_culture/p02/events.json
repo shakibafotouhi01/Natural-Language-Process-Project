@@ -1,0 +1,434 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "friend",
+    "verb": "lament",
+    "obj": "time",
+    "label": "friend | lament | time",
+    "sentence": "A friend of mine once lamented about the hard times he was living through."
+  },
+  {
+    "sent_id": 1,
+    "subj": "he",
+    "verb": "tell",
+    "obj": "i",
+    "label": "he | tell | i",
+    "sentence": "He told me he had a small income and a large family, without the strength to handle the burden of poverty."
+  },
+  {
+    "sent_id": 2,
+    "subj": "he",
+    "verb": "think",
+    "obj": "",
+    "label": "he | think | \u2205",
+    "sentence": "Often, he thought about moving to another country so that, no matter how he lived, no one would know whether his fortune was good or bad."
+  },
+  {
+    "sent_id": 3,
+    "subj": "he",
+    "verb": "say",
+    "obj": "",
+    "label": "he | say | \u2205",
+    "sentence": "He said many people sleep hungry, and no one even knows who they are."
+  },
+  {
+    "sent_id": 4,
+    "subj": "",
+    "verb": "lie",
+    "obj": "death",
+    "label": "\u2205 | lie | death",
+    "sentence": "Many lie near death, but no one mourns for them."
+  },
+  {
+    "sent_id": 5,
+    "subj": "he",
+    "verb": "choose",
+    "obj": "comfort",
+    "label": "he | choose | comfort",
+    "sentence": "He was also worried about his enemies, who would mock him behind his back, accusing him of struggling for his family out of weakness rather than strength, and saying:\n\n\u201cLook at that dishonorable man who will never \nKnow prosperity\u2019s face,\nHe chooses comfort for himself,\nLeaving his wife and children to suffer.\u201d"
+  },
+  {
+    "sent_id": 6,
+    "subj": "he",
+    "verb": "ask",
+    "obj": "i",
+    "label": "he | ask | i",
+    "sentence": "He also asked me, since I knew he had some skill with numbers, if I could use my influence to get him a position."
+  },
+  {
+    "sent_id": 7,
+    "subj": "this",
+    "verb": "ease",
+    "obj": "mind",
+    "label": "this | ease | mind",
+    "sentence": "This would ease his mind and make him indebted to me, a debt he could never repay with simple thanks."
+  },
+  {
+    "sent_id": 8,
+    "subj": "i",
+    "verb": "answer",
+    "obj": "",
+    "label": "i | answer | \u2205",
+    "sentence": "I answered, \u201cMy friend, jobs under a king come with two things: hope for bread and risk to life."
+  },
+  {
+    "sent_id": 9,
+    "subj": "man",
+    "verb": "say",
+    "obj": "",
+    "label": "man | say | \u2205",
+    "sentence": "Wise men say it's unwise to take such risks just for hope.\u201d"
+  },
+  {
+    "sent_id": 10,
+    "subj": "one",
+    "verb": "visit",
+    "obj": "home",
+    "label": "one | visit | home",
+    "sentence": "No one visits a dervish\u2019s home\nTo demand taxes on his fields and gardens."
+  },
+  {
+    "sent_id": 11,
+    "subj": "you",
+    "verb": "accept",
+    "obj": "worry",
+    "label": "you | accept | worry",
+    "sentence": "You must either accept your worries and sorrows\nOr leave your beloved children to the crows."
+  },
+  {
+    "sent_id": 12,
+    "subj": "he",
+    "verb": "answer",
+    "obj": "",
+    "label": "he | answer | \u2205",
+    "sentence": "He answered, \u201cYou have not really addressed my situation or answered my question."
+  },
+  {
+    "sent_id": 13,
+    "subj": "honesty",
+    "verb": "be",
+    "obj": "way",
+    "label": "honesty | be | way",
+    "sentence": "Have you not heard the saying, \u2018Whoever betrays shall tremble when judged\u2019?\u201d\n\nHonesty is the way to God\u2019s favor."
+  },
+  {
+    "sent_id": 14,
+    "subj": "i",
+    "verb": "see",
+    "obj": "",
+    "label": "i | see | \u2205",
+    "sentence": "I have never seen anyone lost who walked the straight path."
+  },
+  {
+    "sent_id": 15,
+    "subj": "adulterer",
+    "verb": "fear",
+    "obj": "informer",
+    "label": "adulterer | fear | informer",
+    "sentence": "The wise say, \u201cFour types of people live in fear of four others: a robber fears the sultan, a thief fears the watchman, an adulterer fears the informer, and a harlot fears the overseer."
+  },
+  {
+    "sent_id": 16,
+    "subj": "",
+    "verb": "be",
+    "obj": "power",
+    "label": "\u2205 | be | power",
+    "sentence": "But who fears when their conscience is clear?\u201d\n\nDo not be wasteful while in power, if you want\nYour enemies to be embarrassed when you leave."
+  },
+  {
+    "sent_id": 17,
+    "subj": "",
+    "verb": "be",
+    "obj": "",
+    "label": "\u2205 | be | \u2205",
+    "sentence": "Be pure, brother, and fear no one."
+  },
+  {
+    "sent_id": 18,
+    "subj": "washerman",
+    "verb": "beat",
+    "obj": "clothe",
+    "label": "washerman | beat | clothe",
+    "sentence": "Washermen only beat dirty clothes on stones."
+  },
+  {
+    "sent_id": 19,
+    "subj": "i",
+    "verb": "say",
+    "obj": "",
+    "label": "i | say | \u2205",
+    "sentence": "I said, \u201cYour story reminds me of a fox I heard about."
+  },
+  {
+    "sent_id": 20,
+    "subj": "it",
+    "verb": "say",
+    "obj": "",
+    "label": "it | say | \u2205",
+    "sentence": "It was running with great fear and when asked why, it said, \u2018I heard camels are being forced into service.\u2019"
+  },
+  {
+    "sent_id": 21,
+    "subj": "people",
+    "verb": "say",
+    "obj": "",
+    "label": "people | say | \u2205",
+    "sentence": "People said, \u2018Fool, what do you have to do with camels?"
+  },
+  {
+    "sent_id": 22,
+    "subj": "you",
+    "verb": "resemble",
+    "obj": "one",
+    "label": "you | resemble | one",
+    "sentence": "You don\u2019t resemble one.\u2019"
+  },
+  {
+    "sent_id": 23,
+    "subj": "fox",
+    "verb": "reply",
+    "obj": "",
+    "label": "fox | reply | \u2205",
+    "sentence": "The fox replied, \u2018Quiet!"
+  },
+  {
+    "sent_id": 24,
+    "subj": "who",
+    "verb": "care",
+    "obj": "",
+    "label": "who | care | \u2205",
+    "sentence": "If my enemies maliciously call me a camel and I get caught, who will care to help or defend me?"
+  },
+  {
+    "sent_id": 25,
+    "subj": "person",
+    "verb": "die",
+    "obj": "",
+    "label": "person | die | \u2205",
+    "sentence": "By the time a cure comes from Iraq, the person bitten by the snake dies.\u2019"
+  },
+  {
+    "sent_id": 26,
+    "subj": "you",
+    "verb": "be",
+    "obj": "man",
+    "label": "you | be | man",
+    "sentence": "You are an excellent, honest man, but enemies lie in wait everywhere."
+  },
+  {
+    "sent_id": 27,
+    "subj": "you",
+    "verb": "force",
+    "obj": "",
+    "label": "you | force | \u2205",
+    "sentence": "If they twist your character, you\u2019ll be forced to explain yourself to the king and face blame."
+  },
+  {
+    "sent_id": 28,
+    "subj": "who",
+    "verb": "dare",
+    "obj": "",
+    "label": "who | dare | \u2205",
+    "sentence": "Who dares speak on your behalf then?"
+  },
+  {
+    "sent_id": 29,
+    "subj": "i",
+    "verb": "think",
+    "obj": "",
+    "label": "i | think | \u2205",
+    "sentence": "So, I think you should retreat into contentment and give up ambitions for power."
+  },
+  {
+    "sent_id": 30,
+    "subj": "wise",
+    "verb": "say",
+    "obj": "",
+    "label": "wise | say | \u2205",
+    "sentence": "The wise have said:\u201d\n\n\u201cThere are many treasures in the sea,"
+  },
+  {
+    "sent_id": 31,
+    "subj": "",
+    "verb": "stay",
+    "obj": "shore",
+    "label": "\u2205 | stay | shore",
+    "sentence": "But if you want safety, stay on shore.\u201d"
+  },
+  {
+    "sent_id": 32,
+    "subj": "friend",
+    "verb": "grow",
+    "obj": "",
+    "label": "friend | grow | \u2205",
+    "sentence": "My friend grew angry when he heard this."
+  },
+  {
+    "sent_id": 33,
+    "subj": "he",
+    "verb": "frown",
+    "obj": "",
+    "label": "he | frown | \u2205",
+    "sentence": "He frowned and scolded me, saying, \u201cWhat kind of wisdom is that?"
+  },
+  {
+    "sent_id": 34,
+    "subj": "",
+    "verb": "call",
+    "obj": "friend",
+    "label": "\u2205 | call | friend",
+    "sentence": "The philosophers\u2019 words prove true\u2014friends are useful only in prison, for when dining, all enemies act like friends.\u201d\n\nDo not call a friend one who knocks on your door\nOnly when you are prosperous,\nBoasting of friendship and calling himself your brother."
+  },
+  {
+    "sent_id": 35,
+    "subj": "i",
+    "verb": "call",
+    "obj": "friend",
+    "label": "i | call | friend",
+    "sentence": "I call a friend one who takes the hand of a friend\nWhen he is poor and distressed."
+  },
+  {
+    "sent_id": 36,
+    "subj": "i",
+    "verb": "go",
+    "obj": "president",
+    "label": "i | go | president",
+    "sentence": "Seeing he had changed and accused me of speaking out of self-interest, I went to the President of the State Council."
+  },
+  {
+    "sent_id": 37,
+    "subj": "i",
+    "verb": "explain",
+    "obj": "situation",
+    "label": "i | explain | situation",
+    "sentence": "Trusting my old friendship with him, I explained my friend\u2019s situation, and he gave my friend a small position."
+  },
+  {
+    "sent_id": 38,
+    "subj": "nature",
+    "verb": "earn",
+    "obj": "praise",
+    "label": "nature | earn | praise",
+    "sentence": "Soon my friend\u2019s good nature and management earned praise, and he was promoted to a higher office."
+  },
+  {
+    "sent_id": 39,
+    "subj": "fortune",
+    "verb": "rise",
+    "obj": "",
+    "label": "fortune | rise | \u2205",
+    "sentence": "His fortune rose steadily until he reached the peak of his hopes, becoming a courtier to the sultan, well-respected and trusted."
+  },
+  {
+    "sent_id": 40,
+    "subj": "i",
+    "verb": "feel",
+    "obj": "",
+    "label": "i | feel | \u2205",
+    "sentence": "I felt happy for his stable position and said:\n\n\u201cDo not fear complicated troubles or carry a broken heart,\nFor life\u2019s spring hides in darkness.\u201d\n\nDo not grieve, brother in hardship,\nFor the Merciless hides favor in shadows."
+  },
+  {
+    "sent_id": 41,
+    "subj": "fruit",
+    "verb": "be",
+    "obj": "",
+    "label": "fruit | be | \u2205",
+    "sentence": "Do not sit gloomy over life\u2019s changes;\nThough patience is bitter, its fruit is sweet."
+  },
+  {
+    "sent_id": 42,
+    "subj": "i",
+    "verb": "go",
+    "obj": "pilgrimage",
+    "label": "i | go | pilgrimage",
+    "sentence": "Later, I went on a pilgrimage to Mecca with friends, and on the way back, my friend met me two stages away, looking troubled and dressed like a dervish."
+  },
+  {
+    "sent_id": 43,
+    "subj": "i",
+    "verb": "ask",
+    "obj": "",
+    "label": "i | ask | \u2205",
+    "sentence": "I asked, \u201cWhat happened?\u201d"
+  },
+  {
+    "sent_id": 44,
+    "subj": "he",
+    "verb": "say",
+    "obj": "",
+    "label": "he | say | \u2205",
+    "sentence": "He said, \u201cAs you predicted, some envied me and accused me of treason."
+  },
+  {
+    "sent_id": 45,
+    "subj": "king",
+    "verb": "check",
+    "obj": "",
+    "label": "king | check | \u2205",
+    "sentence": "The king did not even check if it was true."
+  },
+  {
+    "sent_id": 46,
+    "subj": "supporter",
+    "verb": "forget",
+    "obj": "bond",
+    "label": "supporter | forget | bond",
+    "sentence": "My old supporters, kind friends who should have spoken the truth, forgot all our past bonds."
+  },
+  {
+    "sent_id": 47,
+    "subj": "you",
+    "verb": "see",
+    "obj": "",
+    "label": "you | see | \u2205",
+    "sentence": "\u201cDon\u2019t you see how before a man in power,\nPeople bow and praise him,\nBut when fortune turns,\nThey all trample on his head?\n\n\u201cFor weeks, I suffered persecution, until news arrived of pilgrims returning from Mecca."
+  },
+  {
+    "sent_id": 48,
+    "subj": "i",
+    "verb": "free",
+    "obj": "chain",
+    "label": "i | free | chain",
+    "sentence": "That day, I was freed from my heavy chains, but my inherited property was taken.\u201d"
+  },
+  {
+    "sent_id": 49,
+    "subj": "i",
+    "verb": "reply",
+    "obj": "",
+    "label": "i | reply | \u2205",
+    "sentence": "I replied, \u201cYou didn\u2019t listen when I said serving kings is like sailing the sea\u2014profitable but dangerous."
+  },
+  {
+    "sent_id": 50,
+    "subj": "you",
+    "verb": "gain",
+    "obj": "treasure",
+    "label": "you | gain | treasure",
+    "sentence": "You either gain treasure or are lost in the waves.\u201d"
+  },
+  {
+    "sent_id": 51,
+    "subj": "gold",
+    "verb": "throw",
+    "obj": "he",
+    "label": "gold | throw | he",
+    "sentence": "The official either grabs gold with both hands on shore,\nOr the waves one day throw him dead onto the shore."
+  },
+  {
+    "sent_id": 52,
+    "subj": "you",
+    "verb": "know",
+    "obj": "",
+    "label": "you | know | \u2205",
+    "sentence": "Not wanting to increase my friend\u2019s pain or rub salt into his wounds, I simply recited these two lines:\n\n\u201cDid you not know your feet would be in chains\nIf you cannot hear the advice of others?"
+  },
+  {
+    "sent_id": 53,
+    "subj": "",
+    "verb": "put",
+    "obj": "finger",
+    "label": "\u2205 | put | finger",
+    "sentence": "And if you cannot stand the sting\u2019s pain,\nDo not put your finger inside a scorpion\u2019s hole.\u201d"
+  }
+]

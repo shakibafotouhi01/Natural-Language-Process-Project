@@ -1,0 +1,658 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "waupee",
+    "verb": "call",
+    "obj": "hawk",
+    "label": "waupee | call | hawk",
+    "sentence": "Waupee, called the White Hawk, lived deep in the forest where animals were plentiful."
+  },
+  {
+    "sent_id": 1,
+    "subj": "he",
+    "verb": "return",
+    "obj": "",
+    "label": "he | return | \u2205",
+    "sentence": "Every day he returned from hunting with a hefty catch, for he was one of the most skilled and lucky hunters in his tribe."
+  },
+  {
+    "sent_id": 2,
+    "subj": "eye",
+    "verb": "shine",
+    "obj": "fire",
+    "label": "eye | shine | fire",
+    "sentence": "His body was strong like cedar, his eyes shone with youthful fire, and no forest was too dark for him to explore."
+  },
+  {
+    "sent_id": 3,
+    "subj": "he",
+    "verb": "follow",
+    "obj": "trail",
+    "label": "he | follow | trail",
+    "sentence": "He could follow any trail, whether made by bird or beast."
+  },
+  {
+    "sent_id": 4,
+    "subj": "he",
+    "verb": "travel",
+    "obj": "",
+    "label": "he | travel | \u2205",
+    "sentence": "One day, he traveled farther than ever before, moving through an open woodland that let him see across a great distance."
+  },
+  {
+    "sent_id": 5,
+    "subj": "he",
+    "verb": "spot",
+    "obj": "light",
+    "label": "he | spot | light",
+    "sentence": "Ahead, he spotted light shining through distant trees, and knew he was near a wide prairie."
+  },
+  {
+    "sent_id": 6,
+    "subj": "",
+    "verb": "stretch",
+    "obj": "",
+    "label": "\u2205 | stretch | \u2205",
+    "sentence": "The plain stretched far, covered in tall blue grass and bright with flowers in every color."
+  },
+  {
+    "sent_id": 7,
+    "subj": "he",
+    "verb": "come",
+    "obj": "ring",
+    "label": "he | come | ring",
+    "sentence": "Walking without a path, enjoying the breeze and the open land, he suddenly came upon a ring worn into the grass and flowers, as if footsteps had danced lightly around and around."
+  },
+  {
+    "sent_id": 8,
+    "subj": "it",
+    "verb": "be",
+    "obj": "",
+    "label": "it | be | \u2205",
+    "sentence": "But it was strange\u2014so strange that the White Hawk stopped to stare closely."
+  },
+  {
+    "sent_id": 9,
+    "subj": "",
+    "verb": "be",
+    "obj": "path",
+    "label": "\u2205 | be | path",
+    "sentence": "There was no path leading to the circle, not a crushed leaf, broken branch, or any sign of a footprint coming or going."
+  },
+  {
+    "sent_id": 10,
+    "subj": "he",
+    "verb": "decide",
+    "obj": "",
+    "label": "he | decide | \u2205",
+    "sentence": "Curious, he decided to hide nearby and wait to see what this circle was about."
+  },
+  {
+    "sent_id": 12,
+    "subj": "he",
+    "verb": "see",
+    "obj": "",
+    "label": "he | see | \u2205",
+    "sentence": "Looking up toward the sound, he saw a small, cloud-like basket drifting down from above."
+  },
+  {
+    "sent_id": 13,
+    "subj": "it",
+    "verb": "seem",
+    "obj": "tiny",
+    "label": "it | seem | tiny",
+    "sentence": "At first it seemed tiny, barely more than a wisp that the wind could blow away."
+  },
+  {
+    "sent_id": 14,
+    "subj": "it",
+    "verb": "grow",
+    "obj": "",
+    "label": "it | grow | \u2205",
+    "sentence": "But as it neared, it grew larger, and the music rang clearer and sweeter."
+  },
+  {
+    "sent_id": 15,
+    "subj": "it",
+    "verb": "look",
+    "obj": "basket",
+    "label": "it | look | basket",
+    "sentence": "When it touched the ground, it looked like a basket holding twelve sisters\u2014each more beautiful and graceful than any he had ever seen."
+  },
+  {
+    "sent_id": 16,
+    "subj": "sister",
+    "verb": "leapt",
+    "obj": "",
+    "label": "sister | leapt | \u2205",
+    "sentence": "The moment the basket landed, the sisters leapt out and began to dance joyfully in the magical ring, striking a shining ball that sang the loveliest melodies and kept time with their steps."
+  },
+  {
+    "sent_id": 17,
+    "subj": "hawk",
+    "verb": "watch",
+    "obj": "place",
+    "label": "hawk | watch | place",
+    "sentence": "From his hiding place, White Hawk watched, captivated by their movements and beauty."
+  },
+  {
+    "sent_id": 18,
+    "subj": "he",
+    "verb": "admire",
+    "obj": "",
+    "label": "he | admire | \u2205",
+    "sentence": "He admired all, but the youngest sister caught his heart most."
+  },
+  {
+    "sent_id": 19,
+    "subj": "he",
+    "verb": "long",
+    "obj": "",
+    "label": "he | long | \u2205",
+    "sentence": "He longed to be near her, to hold her, to call her his own."
+  },
+  {
+    "sent_id": 20,
+    "subj": "he",
+    "verb": "dash",
+    "obj": "",
+    "label": "he | dash | \u2205",
+    "sentence": "Unable to remain silent any longer, he dashed forward to seize the twelfth beauty who had enchanted him."
+  },
+  {
+    "sent_id": 21,
+    "subj": "sister",
+    "verb": "spot",
+    "obj": "he",
+    "label": "sister | spot | he",
+    "sentence": "But the sisters, quick as birds, spotted him and jumped back into the basket, which floated swiftly upward, carrying them away."
+  },
+  {
+    "sent_id": 22,
+    "subj": "waupee",
+    "verb": "star",
+    "obj": "",
+    "label": "waupee | star | \u2205",
+    "sentence": "Grieving his bad luck, Waupee stared longingly as the basket rose and vanished into the sky."
+  },
+  {
+    "sent_id": 23,
+    "subj": "he",
+    "verb": "say",
+    "obj": "",
+    "label": "he | say | \u2205",
+    "sentence": "\"They are gone,\" he said sadly, \"and I shall never see them again.\""
+  },
+  {
+    "sent_id": 24,
+    "subj": "he",
+    "verb": "return",
+    "obj": "lodge",
+    "label": "he | return | lodge",
+    "sentence": "He returned to his lonely lodge but found no peace."
+  },
+  {
+    "sent_id": 25,
+    "subj": "he",
+    "verb": "watch",
+    "obj": "sky",
+    "label": "he | watch | sky",
+    "sentence": "Outside, he could only watch the sky, which had taken away the only one he had ever loved."
+  },
+  {
+    "sent_id": 26,
+    "subj": "hawk",
+    "verb": "return",
+    "obj": "time",
+    "label": "hawk | return | time",
+    "sentence": "The next day, at the same time, White Hawk returned to the prairie and took his place near the ring."
+  },
+  {
+    "sent_id": 27,
+    "subj": "he",
+    "verb": "change",
+    "obj": "opossum",
+    "label": "he | change | opossum",
+    "sentence": "To trick the sisters, he changed into an opossum, sitting among the grass as if chewing quietly."
+  },
+  {
+    "sent_id": 28,
+    "subj": "basket",
+    "verb": "appear",
+    "obj": "",
+    "label": "basket | appear | \u2205",
+    "sentence": "Soon the basket appeared again, descending with its sweet music."
+  },
+  {
+    "sent_id": 29,
+    "subj": "he",
+    "verb": "creep",
+    "obj": "circle",
+    "label": "he | creep | circle",
+    "sentence": "He crept toward the circle, but the moment the sisters saw him, they jumped up startled and climbed into their basket."
+  },
+  {
+    "sent_id": 30,
+    "subj": "it",
+    "verb": "rise",
+    "obj": "",
+    "label": "it | rise | \u2205",
+    "sentence": "It rose a little before one of the elder sisters said, \u201cMaybe it\u2019s come to show us how mortals play this game.\u201d"
+  },
+  {
+    "sent_id": 31,
+    "subj": "",
+    "verb": "reply",
+    "obj": "",
+    "label": "\u2205 | reply | \u2205",
+    "sentence": "The youngest replied, \u201cNo, quick, let\u2019s go up,\u201d and together they rose out of sight."
+  },
+  {
+    "sent_id": 32,
+    "subj": "hawk",
+    "verb": "shed",
+    "obj": "disguise",
+    "label": "hawk | shed | disguise",
+    "sentence": "White Hawk shed his disguise and slowly walked back to his lodge, sorrow filling his heart."
+  },
+  {
+    "sent_id": 33,
+    "subj": "night",
+    "verb": "seem",
+    "obj": "",
+    "label": "night | seem | \u2205",
+    "sentence": "The night that followed seemed unbearably long to the lonely hunter."
+  },
+  {
+    "sent_id": 34,
+    "subj": "thought",
+    "verb": "stay",
+    "obj": "sister",
+    "label": "thought | stay | sister",
+    "sentence": "His thoughts stayed with the beautiful youngest sister."
+  },
+  {
+    "sent_id": 35,
+    "subj": "he",
+    "verb": "return",
+    "obj": "spot",
+    "label": "he | return | spot",
+    "sentence": "Early the next day, he returned once more to the enchanted spot, both hopeful and afraid, his soul heavy with longing."
+  },
+  {
+    "sent_id": 36,
+    "subj": "he",
+    "verb": "know",
+    "obj": "",
+    "label": "he | know | \u2205",
+    "sentence": "He knew a third failure would be his end."
+  },
+  {
+    "sent_id": 37,
+    "subj": "he",
+    "verb": "find",
+    "obj": "stump",
+    "label": "he | find | stump",
+    "sentence": "Nearby he found an old moss-covered stump, home to some traveling mice resting on their way to visit relatives beyond the prairie."
+  },
+  {
+    "sent_id": 38,
+    "subj": "he",
+    "verb": "charm",
+    "obj": "",
+    "label": "he | charm | \u2205",
+    "sentence": "He was so charmed by their small, neat forms that he decided to become a mouse."
+  },
+  {
+    "sent_id": 39,
+    "subj": "he",
+    "verb": "change",
+    "obj": "",
+    "label": "he | change | \u2205",
+    "sentence": "After setting the stump close to the ring, he quietly changed and scurried about, blending with the other mice, but always keeping an eye and ear trained on the sky."
+  },
+  {
+    "sent_id": 40,
+    "subj": "sister",
+    "verb": "arrive",
+    "obj": "",
+    "label": "sister | arrive | \u2205",
+    "sentence": "Soon the sisters arrived, and as usual they began their dance."
+  },
+  {
+    "sent_id": 41,
+    "subj": "young",
+    "verb": "say",
+    "obj": "",
+    "label": "young | say | \u2205",
+    "sentence": "\u201cLook,\u201d said the youngest, \u201cthat stump wasn\u2019t here before.\u201d"
+  },
+  {
+    "sent_id": 42,
+    "subj": "",
+    "verb": "frighten",
+    "obj": "",
+    "label": "\u2205 | frighten | \u2205",
+    "sentence": "She ran toward the basket, frightened."
+  },
+  {
+    "sent_id": 43,
+    "subj": "sister",
+    "verb": "smile",
+    "obj": "",
+    "label": "sister | smile | \u2205",
+    "sentence": "The other sisters only smiled and gathered around the stump, tapping it playfully\u2014when suddenly the mice scattered."
+  },
+  {
+    "sent_id": 44,
+    "subj": "waupee",
+    "verb": "be",
+    "obj": "they",
+    "label": "waupee | be | they",
+    "sentence": "Among them was Waupee in mouse form."
+  },
+  {
+    "sent_id": 45,
+    "subj": "sister",
+    "verb": "catch",
+    "obj": "",
+    "label": "sister | catch | \u2205",
+    "sentence": "The sisters caught and killed all the mice except one, which the youngest chased."
+  },
+  {
+    "sent_id": 46,
+    "subj": "hawk",
+    "verb": "appear",
+    "obj": "form",
+    "label": "hawk | appear | form",
+    "sentence": "Just as she raised a silver stick to finish it, the White Hawk appeared in his true form and caught the little sister in his arms."
+  },
+  {
+    "sent_id": 47,
+    "subj": "eleven",
+    "verb": "jump",
+    "obj": "basket",
+    "label": "eleven | jump | basket",
+    "sentence": "The other eleven jumped back into the basket and quickly rose to the heavens."
+  },
+  {
+    "sent_id": 48,
+    "subj": "waupee",
+    "verb": "devote",
+    "obj": "himself",
+    "label": "waupee | devote | himself",
+    "sentence": "Waupee devoted himself to winning his bride\u2019s affection."
+  },
+  {
+    "sent_id": 49,
+    "subj": "he",
+    "verb": "wipe",
+    "obj": "tear",
+    "label": "he | wipe | tear",
+    "sentence": "He wiped her tears, told stories of his hunting adventures, and spoke of the wonders of life on earth."
+  },
+  {
+    "sent_id": 50,
+    "subj": "he",
+    "verb": "stay",
+    "obj": "",
+    "label": "he | stay | \u2205",
+    "sentence": "He stayed close, gently leading her toward his home."
+  },
+  {
+    "sent_id": 51,
+    "subj": "heart",
+    "verb": "swell",
+    "obj": "joy",
+    "label": "heart | swell | joy",
+    "sentence": "His heart swelled with joy as he entered their lodge with her, becoming one of the happiest men alive."
+  },
+  {
+    "sent_id": 52,
+    "subj": "season",
+    "verb": "pass",
+    "obj": "",
+    "label": "season | pass | \u2205",
+    "sentence": "Seasons passed swiftly, and when spring came again, their happiness grew with the birth of a beautiful boy."
+  },
+  {
+    "sent_id": 53,
+    "subj": "blessing",
+    "verb": "bring",
+    "obj": "what",
+    "label": "blessing | bring | what",
+    "sentence": "What more could an earthly blessing bring?"
+  },
+  {
+    "sent_id": 54,
+    "subj": "wife",
+    "verb": "be",
+    "obj": "daughter",
+    "label": "wife | be | daughter",
+    "sentence": "His wife was the daughter of a star, and as the earth grew familiar, she began to long for her father\u2019s home."
+  },
+  {
+    "sent_id": 55,
+    "subj": "she",
+    "verb": "keep",
+    "obj": "secret",
+    "label": "she | keep | secret",
+    "sentence": "But she kept this secret from Waupee."
+  },
+  {
+    "sent_id": 56,
+    "subj": "she",
+    "verb": "remember",
+    "obj": "magic",
+    "label": "she | remember | magic",
+    "sentence": "She remembered the magic that once carried her down, and while her husband was away hunting, she quietly made a wicker basket and gathered rare earth treasures and fine foods to please her father."
+  },
+  {
+    "sent_id": 57,
+    "subj": "she",
+    "verb": "take",
+    "obj": "son",
+    "label": "she | take | son",
+    "sentence": "One day, when Waupee was gone and all was prepared, she took their son to the enchanted ring, climbed into the basket, and began her magic song."
+  },
+  {
+    "sent_id": 58,
+    "subj": "melody",
+    "verb": "recognize",
+    "obj": "",
+    "label": "melody | recognize | \u2205",
+    "sentence": "The basket rose slowly, the sad, low melody carried on the wind\u2014one her husband recognized instantly."
+  },
+  {
+    "sent_id": 59,
+    "subj": "he",
+    "verb": "run",
+    "obj": "prairie",
+    "label": "he | run | prairie",
+    "sentence": "He ran to the prairie, but despite his fastest pace, he could not reach the ring before his wife and child rose beyond his grasp."
+  },
+  {
+    "sent_id": 60,
+    "subj": "he",
+    "verb": "call",
+    "obj": "they",
+    "label": "he | call | they",
+    "sentence": "He called after them with desperate cries, but they only drifted farther away until the basket became a speck and vanished."
+  },
+  {
+    "sent_id": 61,
+    "subj": "waupee",
+    "verb": "feel",
+    "obj": "break",
+    "label": "waupee | feel | break",
+    "sentence": "His head bowed low, Waupee felt his heart break."
+  },
+  {
+    "sent_id": 62,
+    "subj": "waupee",
+    "verb": "spend",
+    "obj": "winter",
+    "label": "waupee | spend | winter",
+    "sentence": "Waupee spent the long winter and summer mourning, but found no comfort."
+  },
+  {
+    "sent_id": 63,
+    "subj": "spirit",
+    "verb": "come",
+    "obj": "",
+    "label": "spirit | come | \u2205",
+    "sentence": "The beautiful spirit had come and gone, and he would see her no more."
+  },
+  {
+    "sent_id": 64,
+    "subj": "he",
+    "verb": "grieve",
+    "obj": "loss",
+    "label": "he | grieve | loss",
+    "sentence": "He grieved the loss of his wife deeply\u2014and even more, their son, who had his mother\u2019s beauty and his own strength."
+  },
+  {
+    "sent_id": 65,
+    "subj": "wife",
+    "verb": "return",
+    "obj": "star",
+    "label": "wife | return | star",
+    "sentence": "Meanwhile, his wife had returned to the stars."
+  },
+  {
+    "sent_id": 66,
+    "subj": "she",
+    "verb": "forget",
+    "obj": "life",
+    "label": "she | forget | life",
+    "sentence": "Busy with joyful tasks in her father\u2019s realm, she had nearly forgotten her life on earth."
+  },
+  {
+    "sent_id": 67,
+    "subj": "son",
+    "verb": "grow",
+    "obj": "father",
+    "label": "son | grow | father",
+    "sentence": "But her son grew restless, more like his father every day, and longed to visit where he was born."
+  },
+  {
+    "sent_id": 68,
+    "subj": "chief",
+    "verb": "tell",
+    "obj": "daughter",
+    "label": "chief | tell | daughter",
+    "sentence": "One day the Star Chief told his daughter, \u201cGo, my child, and take your son down to his father."
+  },
+  {
+    "sent_id": 69,
+    "subj": "",
+    "verb": "ask",
+    "obj": "he",
+    "label": "\u2205 | ask | he",
+    "sentence": "Ask him to come with you to live among us, but tell him he must bring a gift\u2014a piece of every kind of bird and animal he has hunted.\u201d"
+  },
+  {
+    "sent_id": 70,
+    "subj": "she",
+    "verb": "take",
+    "obj": "boy",
+    "label": "she | take | boy",
+    "sentence": "She took the boy and descended to earth."
+  },
+  {
+    "sent_id": 71,
+    "subj": "hawk",
+    "verb": "hear",
+    "obj": "",
+    "label": "hawk | hear | \u2205",
+    "sentence": "White Hawk, often near the magic spot, heard her voice coming from the sky."
+  },
+  {
+    "sent_id": 72,
+    "subj": "he",
+    "verb": "hold",
+    "obj": "wife",
+    "label": "he | hold | wife",
+    "sentence": "His heart leapt as he saw the two; soon he held his wife and son once more."
+  },
+  {
+    "sent_id": 73,
+    "subj": "he",
+    "verb": "hear",
+    "obj": "message",
+    "label": "he | hear | message",
+    "sentence": "He heard the message from the Star Chief and began hunting with great eagerness, working day and night to collect every curious and beautiful animal and bird."
+  },
+  {
+    "sent_id": 74,
+    "subj": "he",
+    "verb": "save",
+    "obj": "foot",
+    "label": "he | save | foot",
+    "sentence": "He saved only a foot, a wing, or a tail from each."
+  },
+  {
+    "sent_id": 75,
+    "subj": "waupee",
+    "verb": "visit",
+    "obj": "place",
+    "label": "waupee | visit | place",
+    "sentence": "When his gifts were ready, Waupee visited every favorite place one last time\u2014the hill where he watched the sunrise, the stream where he played as a boy, and the quiet lodge he would no longer live in."
+  },
+  {
+    "sent_id": 76,
+    "subj": "he",
+    "verb": "take",
+    "obj": "wife",
+    "label": "he | take | wife",
+    "sentence": "Finally, at the magic circle, with tear-filled eyes, he took his wife and son by the hands, and all three entered the basket."
+  },
+  {
+    "sent_id": 77,
+    "subj": "it",
+    "verb": "rise",
+    "obj": "",
+    "label": "it | rise | \u2205",
+    "sentence": "It rose swiftly, carrying them beyond the reach of birds or mortal sight to the shining starry plains."
+  },
+  {
+    "sent_id": 78,
+    "subj": "chief",
+    "verb": "welcome",
+    "obj": "they",
+    "label": "chief | welcome | they",
+    "sentence": "Upon their arrival, the Star Chief welcomed them with a feast and declared that all might stay true to themselves or choose an earthly gift as they wished."
+  },
+  {
+    "sent_id": 80,
+    "subj": "those",
+    "verb": "turn",
+    "obj": "animal",
+    "label": "those | turn | animal",
+    "sentence": "Those who chose tails or claws turned into animals and ran off."
+  },
+  {
+    "sent_id": 81,
+    "subj": "rest",
+    "verb": "become",
+    "obj": "bird",
+    "label": "rest | become | bird",
+    "sentence": "The rest became birds and flew away."
+  },
+  {
+    "sent_id": 82,
+    "subj": "waupee",
+    "verb": "choose",
+    "obj": "feather",
+    "label": "waupee | choose | feather",
+    "sentence": "Waupee chose a white hawk feather, his wife and son followed his choice, and each became a white hawk."
+  },
+  {
+    "sent_id": 83,
+    "subj": "hawk",
+    "verb": "follow",
+    "obj": "bird",
+    "label": "hawk | follow | bird",
+    "sentence": "With wings spread wide, White Hawk and his family followed the other birds back to earth, still shining with the light of the starry plains in their eyes and carrying the freedom of the heavenly winds beneath their wings."
+  }
+]

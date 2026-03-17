@@ -1,0 +1,1584 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "\u2205 | be | queen",
+      "sent_id": 0,
+      "sentence": "Once there was a queen who had a little daughter, too young to walk on her own.",
+      "subj": "",
+      "verb": "be",
+      "obj": "queen"
+    },
+    {
+      "id": "e0001",
+      "label": "child | be | \u2205",
+      "sent_id": 1,
+      "sentence": "One day, the child was very difficult to calm, no matter what her mother did.",
+      "subj": "child",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0002",
+      "label": "queen | look | window",
+      "sent_id": 2,
+      "sentence": "Growing impatient, the queen looked out the window and saw the ravens flying around the castle.",
+      "subj": "queen",
+      "verb": "look",
+      "obj": "window"
+    },
+    {
+      "id": "e0003",
+      "label": "she | say | \u2205",
+      "sent_id": 3,
+      "sentence": "She said, \u201cI wish you were a raven and would just fly away so I could have some peace.\u201d",
+      "subj": "she",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0004",
+      "label": "she | speak | child",
+      "sent_id": 4,
+      "sentence": "No sooner had she spoken than the child she held was turned into a raven and flew out the window.",
+      "subj": "she",
+      "verb": "speak",
+      "obj": "child"
+    },
+    {
+      "id": "e0005",
+      "label": "bird | fly | forest",
+      "sent_id": 5,
+      "sentence": "The bird flew to a dark forest and stayed there a long time, while the parents heard nothing from their daughter.",
+      "subj": "bird",
+      "verb": "fly",
+      "obj": "forest"
+    },
+    {
+      "id": "e0006",
+      "label": "man | walk | forest",
+      "sent_id": 6,
+      "sentence": "Long afterward, a man was walking through the forest when he heard a raven\u2019s call and followed the sound.",
+      "subj": "man",
+      "verb": "walk",
+      "obj": "forest"
+    },
+    {
+      "id": "e0007",
+      "label": "raven | say | \u2205",
+      "sent_id": 7,
+      "sentence": "As he got closer, the raven said, \u201cI was born a king\u2019s daughter, but now I am under a curse.",
+      "subj": "raven",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0008",
+      "label": "you | free | i",
+      "sent_id": 8,
+      "sentence": "You can free me.\u201d",
+      "subj": "you",
+      "verb": "free",
+      "obj": "i"
+    },
+    {
+      "id": "e0009",
+      "label": "i | do | what",
+      "sent_id": 9,
+      "sentence": "\u201cWhat must I do?\u201d",
+      "subj": "i",
+      "verb": "do",
+      "obj": "what"
+    },
+    {
+      "id": "e0010",
+      "label": "man | ask | \u2205",
+      "sent_id": 10,
+      "sentence": "the man asked.",
+      "subj": "man",
+      "verb": "ask",
+      "obj": ""
+    },
+    {
+      "id": "e0011",
+      "label": "she | tell | he",
+      "sent_id": 11,
+      "sentence": "She told him, \u201cGo deeper into the forest until you find a house where an old woman lives.",
+      "subj": "she",
+      "verb": "tell",
+      "obj": "he"
+    },
+    {
+      "id": "e0012",
+      "label": "she | offer | food",
+      "sent_id": 12,
+      "sentence": "She will offer you food and drink, but you must not accept either, or you will fall into a deep sleep and won\u2019t be able to help me.",
+      "subj": "she",
+      "verb": "offer",
+      "obj": "food"
+    },
+    {
+      "id": "e0013",
+      "label": "\u2205 | be | heap",
+      "sent_id": 13,
+      "sentence": "Behind the house is a big tan heap, and you must stand there watching for me.",
+      "subj": "",
+      "verb": "be",
+      "obj": "heap"
+    },
+    {
+      "id": "e0014",
+      "label": "i | come | day",
+      "sent_id": 14,
+      "sentence": "For three days in a row, I will come in my carriage at two o\u2019clock in the afternoon.",
+      "subj": "i",
+      "verb": "come",
+      "obj": "day"
+    },
+    {
+      "id": "e0015",
+      "label": "it | draw | \u2205",
+      "sent_id": 15,
+      "sentence": "The first day, it will be drawn by four white horses; the second day by four chestnut horses; and the third by four black horses.",
+      "subj": "it",
+      "verb": "draw",
+      "obj": ""
+    },
+    {
+      "id": "e0016",
+      "label": "i | free | \u2205",
+      "sent_id": 16,
+      "sentence": "But if you fall asleep any day, I won\u2019t be freed.\u201d",
+      "subj": "i",
+      "verb": "free",
+      "obj": ""
+    },
+    {
+      "id": "e0017",
+      "label": "man | promise | \u2205",
+      "sent_id": 17,
+      "sentence": "The man promised to do as she said, but the raven sighed, \u201cI fear even now that you will take something from the woman and fail to save me.\u201d",
+      "subj": "man",
+      "verb": "promise",
+      "obj": ""
+    },
+    {
+      "id": "e0018",
+      "label": "he | promise | \u2205",
+      "sent_id": 18,
+      "sentence": "He once again promised not to eat or drink anything.",
+      "subj": "he",
+      "verb": "promise",
+      "obj": ""
+    },
+    {
+      "id": "e0019",
+      "label": "woman | greet | he",
+      "sent_id": 19,
+      "sentence": "When the man entered the house, the old woman greeted him, saying, \u201cYou look so tired!",
+      "subj": "woman",
+      "verb": "greet",
+      "obj": "he"
+    },
+    {
+      "id": "e0020",
+      "label": "\u2205 | let | \u2205",
+      "sent_id": 20,
+      "sentence": "Come and rest; let me give you some food and drink.\u201d",
+      "subj": "",
+      "verb": "let",
+      "obj": ""
+    },
+    {
+      "id": "e0021",
+      "label": "he | reply | \u2205",
+      "sent_id": 21,
+      "sentence": "\u201cNo,\u201d he replied, \u201cI won\u2019t eat or drink.\u201d",
+      "subj": "he",
+      "verb": "reply",
+      "obj": ""
+    },
+    {
+      "id": "e0022",
+      "label": "she | keep | \u2205",
+      "sent_id": 22,
+      "sentence": "But she kept urging him, \u201cIf you won\u2019t eat, at least have a sip of wine; one drink won\u2019t matter.\u201d",
+      "subj": "she",
+      "verb": "keep",
+      "obj": ""
+    },
+    {
+      "id": "e0023",
+      "label": "he | give | \u2205",
+      "sent_id": 23,
+      "sentence": "Eventually, he gave in and drank.",
+      "subj": "he",
+      "verb": "give",
+      "obj": ""
+    },
+    {
+      "id": "e0024",
+      "label": "he | go | garden",
+      "sent_id": 24,
+      "sentence": "As the appointed hour approached, he went out to the garden and climbed the tan heap to watch for the raven.",
+      "subj": "he",
+      "verb": "go",
+      "obj": "garden"
+    },
+    {
+      "id": "e0025",
+      "label": "he | feel | \u2205",
+      "sent_id": 25,
+      "sentence": "Suddenly, he felt very tired and, despite his determination to stay awake, lay down.",
+      "subj": "he",
+      "verb": "feel",
+      "obj": ""
+    },
+    {
+      "id": "e0026",
+      "label": "eye | close | moment",
+      "sent_id": 26,
+      "sentence": "Within moments his eyes closed and he fell into a deep sleep no noise could break.",
+      "subj": "eye",
+      "verb": "close",
+      "obj": "moment"
+    },
+    {
+      "id": "e0027",
+      "label": "she | sigh | \u2205",
+      "sent_id": 27,
+      "sentence": "When the raven\u2019s carriage arrived, drawn by four white horses, she sighed, \u201cI know he has fallen asleep.\u201d",
+      "subj": "she",
+      "verb": "sigh",
+      "obj": ""
+    },
+    {
+      "id": "e0028",
+      "label": "she | find | \u2205",
+      "sent_id": 28,
+      "sentence": "She found him sleeping on the tan heap, called to and shook him, but in vain.",
+      "subj": "she",
+      "verb": "find",
+      "obj": ""
+    },
+    {
+      "id": "e0029",
+      "label": "woman | offer | food",
+      "sent_id": 29,
+      "sentence": "The next day, at noon, the old woman offered him food and drink again, which he again refused at first.",
+      "subj": "woman",
+      "verb": "offer",
+      "obj": "food"
+    },
+    {
+      "id": "e0030",
+      "label": "he | take | drink",
+      "sent_id": 30,
+      "sentence": "Yet tired by her persistence, he eventually took another drink.",
+      "subj": "he",
+      "verb": "take",
+      "obj": "drink"
+    },
+    {
+      "id": "e0031",
+      "label": "he | go | o\u2019clock",
+      "sent_id": 31,
+      "sentence": "At two o\u2019clock, he went to the tan heap to watch for the raven but again felt overwhelmingly tired and fell asleep.",
+      "subj": "he",
+      "verb": "go",
+      "obj": "o\u2019clock"
+    },
+    {
+      "id": "e0032",
+      "label": "\u2205 | find | \u2205",
+      "sent_id": 32,
+      "sentence": "The raven arrived with her four chestnut horses and sadly admitted, \u201cI know he\u2019s fallen asleep,\u201d then found him asleep and could not wake him.",
+      "subj": "",
+      "verb": "find",
+      "obj": ""
+    },
+    {
+      "id": "e0033",
+      "label": "woman | ask | day",
+      "sent_id": 33,
+      "sentence": "On the third day, the old woman asked, \u201cWhy won\u2019t you eat or drink?",
+      "subj": "woman",
+      "verb": "ask",
+      "obj": "day"
+    },
+    {
+      "id": "e0034",
+      "label": "you | try | \u2205",
+      "sent_id": 34,
+      "sentence": "Are you trying to harm yourself?\u201d",
+      "subj": "you",
+      "verb": "try",
+      "obj": ""
+    },
+    {
+      "id": "e0035",
+      "label": "he | reply | \u2205",
+      "sent_id": 35,
+      "sentence": "He replied firmly that he would neither eat nor drink.",
+      "subj": "he",
+      "verb": "reply",
+      "obj": ""
+    },
+    {
+      "id": "e0036",
+      "label": "he | smell | wine",
+      "sent_id": 36,
+      "sentence": "But when she set down food and wine again, though he tried to resist, he smelled the wine and couldn\u2019t help drinking deeply.",
+      "subj": "he",
+      "verb": "smell",
+      "obj": "wine"
+    },
+    {
+      "id": "e0037",
+      "label": "he | go | heap",
+      "sent_id": 37,
+      "sentence": "When the time came, he once more went to the tan heap, but he felt even more exhausted than before and fell into an even deeper sleep.",
+      "subj": "he",
+      "verb": "go",
+      "obj": "heap"
+    },
+    {
+      "id": "e0038",
+      "label": "carriage | draw | \u2205",
+      "sent_id": 38,
+      "sentence": "This time the raven\u2019s carriage was drawn by black horses.",
+      "subj": "carriage",
+      "verb": "draw",
+      "obj": ""
+    },
+    {
+      "id": "e0039",
+      "label": "she | be | \u2205",
+      "sent_id": 39,
+      "sentence": "She was more sorrowful than ever as she said, \u201cI know he has fallen asleep and won\u2019t be able to free me.\u201d",
+      "subj": "she",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0040",
+      "label": "she | find | \u2205",
+      "sent_id": 40,
+      "sentence": "She found him deeply asleep, and nothing she tried could wake him.",
+      "subj": "she",
+      "verb": "find",
+      "obj": ""
+    },
+    {
+      "id": "e0041",
+      "label": "she | place | loaf",
+      "sent_id": 41,
+      "sentence": "Then she placed beside him a loaf, some meat, and a flask of wine that never grew any less, no matter how much he ate or drank.",
+      "subj": "she",
+      "verb": "place",
+      "obj": "loaf"
+    },
+    {
+      "id": "e0042",
+      "label": "she | take | ring",
+      "sent_id": 42,
+      "sentence": "She took a gold ring from her finger, engraved with her name, and put it on his finger.",
+      "subj": "she",
+      "verb": "take",
+      "obj": "ring"
+    },
+    {
+      "id": "e0043",
+      "label": "she | lay | letter",
+      "sent_id": 43,
+      "sentence": "Finally, she laid a letter near him, explaining what she had left and writing, \u201cI see you won\u2019t free me as long as you stay here.",
+      "subj": "she",
+      "verb": "lay",
+      "obj": "letter"
+    },
+    {
+      "id": "e0044",
+      "label": "it | \u2019 | power",
+      "sent_id": 44,
+      "sentence": "But if you still want to help me, come to the golden castle of Stromberg; it\u2019s well within your power.\u201d",
+      "subj": "it",
+      "verb": "\u2019",
+      "obj": "power"
+    },
+    {
+      "id": "e0045",
+      "label": "she | return | carriage",
+      "sent_id": 45,
+      "sentence": "Then she returned to her carriage and drove to the golden castle of Stromberg.",
+      "subj": "she",
+      "verb": "return",
+      "obj": "carriage"
+    },
+    {
+      "id": "e0046",
+      "label": "he | feel | \u2205",
+      "sent_id": 46,
+      "sentence": "When the man woke and realized how long he'd slept, he felt sad.",
+      "subj": "he",
+      "verb": "feel",
+      "obj": ""
+    },
+    {
+      "id": "e0047",
+      "label": "she | be | \u2205",
+      "sent_id": 47,
+      "sentence": "\u201cShe must have been here and left.",
+      "subj": "she",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0048",
+      "label": "it | \u2019 | \u2205",
+      "sent_id": 48,
+      "sentence": "It\u2019s too late now to save her.\u201d",
+      "subj": "it",
+      "verb": "\u2019",
+      "obj": ""
+    },
+    {
+      "id": "e0049",
+      "label": "eye | land | loaf",
+      "sent_id": 49,
+      "sentence": "His eyes landed on the loaf, meat, wine, ring, and letter.",
+      "subj": "eye",
+      "verb": "land",
+      "obj": "loaf"
+    },
+    {
+      "id": "e0050",
+      "label": "he | understand | everything",
+      "sent_id": 50,
+      "sentence": "Reading the letter, he understood everything.",
+      "subj": "he",
+      "verb": "understand",
+      "obj": "everything"
+    },
+    {
+      "id": "e0051",
+      "label": "he | get | \u2205",
+      "sent_id": 51,
+      "sentence": "He got up immediately, eager to set out for Stromberg, though he didn\u2019t know which way to go.",
+      "subj": "he",
+      "verb": "get",
+      "obj": ""
+    },
+    {
+      "id": "e0052",
+      "label": "he | travel | time",
+      "sent_id": 52,
+      "sentence": "He traveled for a long time, finally reaching a dark forest.",
+      "subj": "he",
+      "verb": "travel",
+      "obj": "time"
+    },
+    {
+      "id": "e0053",
+      "label": "he | walk | it",
+      "sent_id": 53,
+      "sentence": "He walked through it for fourteen days but couldn\u2019t find a way out.",
+      "subj": "he",
+      "verb": "walk",
+      "obj": "it"
+    },
+    {
+      "id": "e0054",
+      "label": "he | sleep | bush",
+      "sent_id": 54,
+      "sentence": "One night, exhausted, he slept under a bush.",
+      "subj": "he",
+      "verb": "sleep",
+      "obj": "bush"
+    },
+    {
+      "id": "e0055",
+      "label": "he | hear | \u2205",
+      "sent_id": 55,
+      "sentence": "The next day, while looking for a place to rest, he heard howling and crying that kept him awake.",
+      "subj": "he",
+      "verb": "hear",
+      "obj": ""
+    },
+    {
+      "id": "e0056",
+      "label": "he | see | light",
+      "sent_id": 56,
+      "sentence": "When it grew darker and people began lighting their homes, he saw a faint light ahead and went toward it.",
+      "subj": "he",
+      "verb": "see",
+      "obj": "light"
+    },
+    {
+      "id": "e0057",
+      "label": "he | find | house",
+      "sent_id": 57,
+      "sentence": "He found a house that looked smaller than it really was compared to a huge giant standing in front of it.",
+      "subj": "he",
+      "verb": "find",
+      "obj": "house"
+    },
+    {
+      "id": "e0058",
+      "label": "he | think | \u2205",
+      "sent_id": 58,
+      "sentence": "He thought, \u201cIf the giant sees me entering, my life might be at risk.\u201d",
+      "subj": "he",
+      "verb": "think",
+      "obj": ""
+    },
+    {
+      "id": "e0059",
+      "label": "he | gather | courage",
+      "sent_id": 59,
+      "sentence": "Still, he gathered courage and went on.",
+      "subj": "he",
+      "verb": "gather",
+      "obj": "courage"
+    },
+    {
+      "id": "e0060",
+      "label": "giant | shout | \u2205",
+      "sent_id": 60,
+      "sentence": "The giant shouted, \u201cLucky you came!",
+      "subj": "giant",
+      "verb": "shout",
+      "obj": ""
+    },
+    {
+      "id": "e0061",
+      "label": "i | starve | \u2205",
+      "sent_id": 61,
+      "sentence": "I\u2019m starving and could make you my supper.\u201d",
+      "subj": "i",
+      "verb": "starve",
+      "obj": ""
+    },
+    {
+      "id": "e0062",
+      "label": "man | say | \u2205",
+      "sent_id": 62,
+      "sentence": "\u201cI\u2019d rather you didn\u2019t,\u201d said the man.",
+      "subj": "man",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0063",
+      "label": "i | give | myself",
+      "sent_id": 63,
+      "sentence": "\u201cI won\u2019t just give myself up.",
+      "subj": "i",
+      "verb": "give",
+      "obj": "myself"
+    },
+    {
+      "id": "e0064",
+      "label": "i | have | food",
+      "sent_id": 64,
+      "sentence": "But if you\u2019re hungry, I have enough food and drink to satisfy you.\u201d",
+      "subj": "i",
+      "verb": "have",
+      "obj": "food"
+    },
+    {
+      "id": "e0065",
+      "label": "i | leave | you",
+      "sent_id": 65,
+      "sentence": "\u201cIf that\u2019s true,\u201d the giant said, \u201cI\u2019ll leave you alone.",
+      "subj": "i",
+      "verb": "leave",
+      "obj": "you"
+    },
+    {
+      "id": "e0066",
+      "label": "i | think | \u2205",
+      "sent_id": 66,
+      "sentence": "I only thought of eating you because I was so hungry.\u201d\n\nInside, the man brought out the endless bread, meat, and wine.",
+      "subj": "i",
+      "verb": "think",
+      "obj": ""
+    },
+    {
+      "id": "e0067",
+      "label": "giant | eat | \u2205",
+      "sent_id": 67,
+      "sentence": "The giant ate and drank heartily and was very pleased.",
+      "subj": "giant",
+      "verb": "eat",
+      "obj": ""
+    },
+    {
+      "id": "e0068",
+      "label": "man | ask | \u2205",
+      "sent_id": 68,
+      "sentence": "Afterward, the man asked if the giant could show him the castle of Stromberg.",
+      "subj": "man",
+      "verb": "ask",
+      "obj": ""
+    },
+    {
+      "id": "e0069",
+      "label": "giant | say | \u2205",
+      "sent_id": 69,
+      "sentence": "The giant said he\u2019d check his map, which showed all towns and villages.",
+      "subj": "giant",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0070",
+      "label": "he | find | castle",
+      "sent_id": 70,
+      "sentence": "But he couldn\u2019t find the castle.",
+      "subj": "he",
+      "verb": "find",
+      "obj": "castle"
+    },
+    {
+      "id": "e0071",
+      "label": "he | say | \u2205",
+      "sent_id": 71,
+      "sentence": "\u201cNo problem,\u201d he said.",
+      "subj": "he",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0072",
+      "label": "i | have | map",
+      "sent_id": 72,
+      "sentence": "\u201cI have larger maps upstairs.\u201d",
+      "subj": "i",
+      "verb": "have",
+      "obj": "map"
+    },
+    {
+      "id": "e0073",
+      "label": "they | search | those",
+      "sent_id": 73,
+      "sentence": "They searched those but still found no sign of it.",
+      "subj": "they",
+      "verb": "search",
+      "obj": "those"
+    },
+    {
+      "id": "e0074",
+      "label": "man | want | \u2205",
+      "sent_id": 74,
+      "sentence": "The man wanted to continue his journey, but the giant asked him to stay a day or two until his brother returned from gathering food.",
+      "subj": "man",
+      "verb": "want",
+      "obj": ""
+    },
+    {
+      "id": "e0075",
+      "label": "they | ask | he",
+      "sent_id": 75,
+      "sentence": "When the brother came back, they asked him about the castle.",
+      "subj": "they",
+      "verb": "ask",
+      "obj": "he"
+    },
+    {
+      "id": "e0076",
+      "label": "he | say | \u2205",
+      "sent_id": 76,
+      "sentence": "He said he\u2019d look after eating.",
+      "subj": "he",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0077",
+      "label": "they | go | room",
+      "sent_id": 77,
+      "sentence": "Once fed, they all went to his room to search through more maps.",
+      "subj": "they",
+      "verb": "go",
+      "obj": "room"
+    },
+    {
+      "id": "e0078",
+      "label": "they | find | castle",
+      "sent_id": 78,
+      "sentence": "After some time, they found the castle, but it was thousands of miles away.",
+      "subj": "they",
+      "verb": "find",
+      "obj": "castle"
+    },
+    {
+      "id": "e0079",
+      "label": "i | reach | it",
+      "sent_id": 79,
+      "sentence": "\u201cHow will I reach it?\u201d",
+      "subj": "i",
+      "verb": "reach",
+      "obj": "it"
+    },
+    {
+      "id": "e0080",
+      "label": "man | ask | \u2205",
+      "sent_id": 80,
+      "sentence": "the man asked.",
+      "subj": "man",
+      "verb": "ask",
+      "obj": ""
+    },
+    {
+      "id": "e0081",
+      "label": "giant | offer | \u2205",
+      "sent_id": 81,
+      "sentence": "\u201cI\u2019ve two hours free,\u201d the giant offered.",
+      "subj": "giant",
+      "verb": "offer",
+      "obj": ""
+    },
+    {
+      "id": "e0082",
+      "label": "i | return | \u2205",
+      "sent_id": 82,
+      "sentence": "\u201cI\u2019ll carry you close to the castle, then I must return to care for the child we\u2019re watching.\u201d",
+      "subj": "i",
+      "verb": "return",
+      "obj": ""
+    },
+    {
+      "id": "e0083",
+      "label": "giant | carry | man",
+      "sent_id": 83,
+      "sentence": "The giant carried the man to within about a hundred leagues of Stromberg castle, then left him, saying, \u201cYou can walk the rest yourself.\u201d",
+      "subj": "giant",
+      "verb": "carry",
+      "obj": "man"
+    },
+    {
+      "id": "e0084",
+      "label": "man | travel | \u2205",
+      "sent_id": 84,
+      "sentence": "The man traveled day and night until he reached the golden castle, which sat atop a glass mountain.",
+      "subj": "man",
+      "verb": "travel",
+      "obj": ""
+    },
+    {
+      "id": "e0085",
+      "label": "he | see | \u2205",
+      "sent_id": 85,
+      "sentence": "Looking up, he saw the cursed maiden driving around her castle before going inside.",
+      "subj": "he",
+      "verb": "see",
+      "obj": ""
+    },
+    {
+      "id": "e0086",
+      "label": "attempt | make | \u2205",
+      "sent_id": 86,
+      "sentence": "He was overjoyed but couldn\u2019t climb the slippery mountain; every attempt made him fall back.",
+      "subj": "attempt",
+      "verb": "make",
+      "obj": ""
+    },
+    {
+      "id": "e0087",
+      "label": "he | decide | \u2205",
+      "sent_id": 87,
+      "sentence": "Saddened, he decided to wait for her and built a small hut to live in, watching her daily for a whole year.",
+      "subj": "he",
+      "verb": "decide",
+      "obj": ""
+    },
+    {
+      "id": "e0088",
+      "label": "he | see | robber",
+      "sent_id": 88,
+      "sentence": "One day, from his hut, he saw three robbers fighting and called out, \u201cGod be with you.\u201d",
+      "subj": "he",
+      "verb": "see",
+      "obj": "robber"
+    },
+    {
+      "id": "e0089",
+      "label": "they | stop | \u2205",
+      "sent_id": 89,
+      "sentence": "They stopped temporarily, looked around, then returned to fighting more fiercely.",
+      "subj": "they",
+      "verb": "stop",
+      "obj": ""
+    },
+    {
+      "id": "e0090",
+      "label": "he | call | more",
+      "sent_id": 90,
+      "sentence": "He called again twice more, and the third time, curious, he went out and asked why they were fighting.",
+      "subj": "he",
+      "verb": "call",
+      "obj": "more"
+    },
+    {
+      "id": "e0091",
+      "label": "one | say | \u2205",
+      "sent_id": 91,
+      "sentence": "One said he had found a stick that could open any door by striking it.",
+      "subj": "one",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0092",
+      "label": "another | have | cloak",
+      "sent_id": 92,
+      "sentence": "Another had a cloak making its wearer invisible.",
+      "subj": "another",
+      "verb": "have",
+      "obj": "cloak"
+    },
+    {
+      "id": "e0093",
+      "label": "third | catch | horse",
+      "sent_id": 93,
+      "sentence": "The third caught a horse that could overcome any obstacle, even climb glass mountains.",
+      "subj": "third",
+      "verb": "catch",
+      "obj": "horse"
+    },
+    {
+      "id": "e0094",
+      "label": "they | agree | \u2205",
+      "sent_id": 94,
+      "sentence": "They couldn\u2019t agree whether to keep these treasures together or split up.",
+      "subj": "they",
+      "verb": "agree",
+      "obj": ""
+    },
+    {
+      "id": "e0095",
+      "label": "man | say | \u2205",
+      "sent_id": 95,
+      "sentence": "The man said, \u201cI\u2019ll trade you something far more valuable\u2014not money, since I have none, but something better.",
+      "subj": "man",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0096",
+      "label": "i | test | \u2205",
+      "sent_id": 96,
+      "sentence": "First, I\u2019ll test if your things really work.\u201d",
+      "subj": "i",
+      "verb": "test",
+      "obj": ""
+    },
+    {
+      "id": "e0097",
+      "label": "robber | give | horse",
+      "sent_id": 97,
+      "sentence": "The robbers gave him the horse, stick, and cloak.",
+      "subj": "robber",
+      "verb": "give",
+      "obj": "horse"
+    },
+    {
+      "id": "e0098",
+      "label": "he | vanish | sight",
+      "sent_id": 98,
+      "sentence": "Putting on the cloak, he vanished from sight.",
+      "subj": "he",
+      "verb": "vanish",
+      "obj": "sight"
+    },
+    {
+      "id": "e0099",
+      "label": "he | strike | they",
+      "sent_id": 99,
+      "sentence": "Then he struck at them with the stick, beating them one by one, shouting, \u201cThere, you lazy scoundrels, now are you satisfied?\u201d",
+      "subj": "he",
+      "verb": "strike",
+      "obj": "they"
+    },
+    {
+      "id": "e0100",
+      "label": "he | mount | horse",
+      "sent_id": 100,
+      "sentence": "He mounted the horse and rode up the glass mountain.",
+      "subj": "he",
+      "verb": "mount",
+      "obj": "horse"
+    },
+    {
+      "id": "e0101",
+      "label": "he | find | gate",
+      "sent_id": 101,
+      "sentence": "At the castle gate, he found it closed but struck it with the stick, and the door flew open.",
+      "subj": "he",
+      "verb": "find",
+      "obj": "gate"
+    },
+    {
+      "id": "e0102",
+      "label": "he | climb | step",
+      "sent_id": 102,
+      "sentence": "He climbed the steps and entered the room where the maiden sat with a golden goblet of wine.",
+      "subj": "he",
+      "verb": "climb",
+      "obj": "step"
+    },
+    {
+      "id": "e0103",
+      "label": "he | throw | ring",
+      "sent_id": 103,
+      "sentence": "Still invisible under the cloak, he threw the ring she had given him into her cup.",
+      "subj": "he",
+      "verb": "throw",
+      "obj": "ring"
+    },
+    {
+      "id": "e0104",
+      "label": "that | \u2019 | ring",
+      "sent_id": 104,
+      "sentence": "\u201cThat\u2019s my own ring!\u201d",
+      "subj": "that",
+      "verb": "\u2019",
+      "obj": "ring"
+    },
+    {
+      "id": "e0105",
+      "label": "she | exclaim | \u2205",
+      "sent_id": 105,
+      "sentence": "she exclaimed.",
+      "subj": "she",
+      "verb": "exclaim",
+      "obj": ""
+    },
+    {
+      "id": "e0106",
+      "label": "\u2205 | be | \u2205",
+      "sent_id": 106,
+      "sentence": "\u201cIf that\u2019s true, then the man destined to free me must be here.\u201d",
+      "subj": "",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0107",
+      "label": "she | search | \u2205",
+      "sent_id": 107,
+      "sentence": "She searched everywhere but couldn\u2019t find him.",
+      "subj": "she",
+      "verb": "search",
+      "obj": ""
+    },
+    {
+      "id": "e0108",
+      "label": "he | go | \u2205",
+      "sent_id": 108,
+      "sentence": "Meanwhile, he had gone outside, mounted the horse, and removed his cloak.",
+      "subj": "he",
+      "verb": "go",
+      "obj": ""
+    },
+    {
+      "id": "e0109",
+      "label": "she | see | he",
+      "sent_id": 109,
+      "sentence": "When she reached the castle gate, she saw him and cried for joy.",
+      "subj": "she",
+      "verb": "see",
+      "obj": "he"
+    },
+    {
+      "id": "e0110",
+      "label": "he | get | horse",
+      "sent_id": 110,
+      "sentence": "He got off the horse, took her in his arms, and she kissed him.",
+      "subj": "he",
+      "verb": "get",
+      "obj": "horse"
+    },
+    {
+      "id": "e0111",
+      "label": "she | say | \u2205",
+      "sent_id": 111,
+      "sentence": "\u201cNow you have truly freed me,\u201d she said.",
+      "subj": "she",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0112",
+      "label": "we | celebrate | wedding",
+      "sent_id": 112,
+      "sentence": "\u201cTomorrow we will celebrate our wedding.\u201d",
+      "subj": "we",
+      "verb": "celebrate",
+      "obj": "wedding"
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    },
+    {
+      "source": "e0029",
+      "target": "e0030",
+      "relation": "next"
+    },
+    {
+      "source": "e0030",
+      "target": "e0031",
+      "relation": "next"
+    },
+    {
+      "source": "e0031",
+      "target": "e0032",
+      "relation": "next"
+    },
+    {
+      "source": "e0032",
+      "target": "e0033",
+      "relation": "next"
+    },
+    {
+      "source": "e0033",
+      "target": "e0034",
+      "relation": "next"
+    },
+    {
+      "source": "e0034",
+      "target": "e0035",
+      "relation": "next"
+    },
+    {
+      "source": "e0035",
+      "target": "e0036",
+      "relation": "next"
+    },
+    {
+      "source": "e0036",
+      "target": "e0037",
+      "relation": "next"
+    },
+    {
+      "source": "e0037",
+      "target": "e0038",
+      "relation": "next"
+    },
+    {
+      "source": "e0038",
+      "target": "e0039",
+      "relation": "next"
+    },
+    {
+      "source": "e0039",
+      "target": "e0040",
+      "relation": "next"
+    },
+    {
+      "source": "e0040",
+      "target": "e0041",
+      "relation": "next"
+    },
+    {
+      "source": "e0041",
+      "target": "e0042",
+      "relation": "next"
+    },
+    {
+      "source": "e0042",
+      "target": "e0043",
+      "relation": "next"
+    },
+    {
+      "source": "e0043",
+      "target": "e0044",
+      "relation": "next"
+    },
+    {
+      "source": "e0044",
+      "target": "e0045",
+      "relation": "next"
+    },
+    {
+      "source": "e0045",
+      "target": "e0046",
+      "relation": "next"
+    },
+    {
+      "source": "e0046",
+      "target": "e0047",
+      "relation": "next"
+    },
+    {
+      "source": "e0047",
+      "target": "e0048",
+      "relation": "next"
+    },
+    {
+      "source": "e0048",
+      "target": "e0049",
+      "relation": "next"
+    },
+    {
+      "source": "e0049",
+      "target": "e0050",
+      "relation": "next"
+    },
+    {
+      "source": "e0050",
+      "target": "e0051",
+      "relation": "next"
+    },
+    {
+      "source": "e0051",
+      "target": "e0052",
+      "relation": "next"
+    },
+    {
+      "source": "e0052",
+      "target": "e0053",
+      "relation": "next"
+    },
+    {
+      "source": "e0053",
+      "target": "e0054",
+      "relation": "next"
+    },
+    {
+      "source": "e0054",
+      "target": "e0055",
+      "relation": "next"
+    },
+    {
+      "source": "e0055",
+      "target": "e0056",
+      "relation": "next"
+    },
+    {
+      "source": "e0056",
+      "target": "e0057",
+      "relation": "next"
+    },
+    {
+      "source": "e0057",
+      "target": "e0058",
+      "relation": "next"
+    },
+    {
+      "source": "e0058",
+      "target": "e0059",
+      "relation": "next"
+    },
+    {
+      "source": "e0059",
+      "target": "e0060",
+      "relation": "next"
+    },
+    {
+      "source": "e0060",
+      "target": "e0061",
+      "relation": "next"
+    },
+    {
+      "source": "e0061",
+      "target": "e0062",
+      "relation": "next"
+    },
+    {
+      "source": "e0062",
+      "target": "e0063",
+      "relation": "next"
+    },
+    {
+      "source": "e0063",
+      "target": "e0064",
+      "relation": "next"
+    },
+    {
+      "source": "e0064",
+      "target": "e0065",
+      "relation": "next"
+    },
+    {
+      "source": "e0065",
+      "target": "e0066",
+      "relation": "next"
+    },
+    {
+      "source": "e0066",
+      "target": "e0067",
+      "relation": "next"
+    },
+    {
+      "source": "e0067",
+      "target": "e0068",
+      "relation": "next"
+    },
+    {
+      "source": "e0068",
+      "target": "e0069",
+      "relation": "next"
+    },
+    {
+      "source": "e0069",
+      "target": "e0070",
+      "relation": "next"
+    },
+    {
+      "source": "e0070",
+      "target": "e0071",
+      "relation": "next"
+    },
+    {
+      "source": "e0071",
+      "target": "e0072",
+      "relation": "next"
+    },
+    {
+      "source": "e0072",
+      "target": "e0073",
+      "relation": "next"
+    },
+    {
+      "source": "e0073",
+      "target": "e0074",
+      "relation": "next"
+    },
+    {
+      "source": "e0074",
+      "target": "e0075",
+      "relation": "next"
+    },
+    {
+      "source": "e0075",
+      "target": "e0076",
+      "relation": "next"
+    },
+    {
+      "source": "e0076",
+      "target": "e0077",
+      "relation": "next"
+    },
+    {
+      "source": "e0077",
+      "target": "e0078",
+      "relation": "next"
+    },
+    {
+      "source": "e0078",
+      "target": "e0079",
+      "relation": "next"
+    },
+    {
+      "source": "e0079",
+      "target": "e0080",
+      "relation": "next"
+    },
+    {
+      "source": "e0080",
+      "target": "e0081",
+      "relation": "next"
+    },
+    {
+      "source": "e0081",
+      "target": "e0082",
+      "relation": "next"
+    },
+    {
+      "source": "e0082",
+      "target": "e0083",
+      "relation": "next"
+    },
+    {
+      "source": "e0083",
+      "target": "e0084",
+      "relation": "next"
+    },
+    {
+      "source": "e0084",
+      "target": "e0085",
+      "relation": "next"
+    },
+    {
+      "source": "e0085",
+      "target": "e0086",
+      "relation": "next"
+    },
+    {
+      "source": "e0086",
+      "target": "e0087",
+      "relation": "next"
+    },
+    {
+      "source": "e0087",
+      "target": "e0088",
+      "relation": "next"
+    },
+    {
+      "source": "e0088",
+      "target": "e0089",
+      "relation": "next"
+    },
+    {
+      "source": "e0089",
+      "target": "e0090",
+      "relation": "next"
+    },
+    {
+      "source": "e0090",
+      "target": "e0091",
+      "relation": "next"
+    },
+    {
+      "source": "e0091",
+      "target": "e0092",
+      "relation": "next"
+    },
+    {
+      "source": "e0092",
+      "target": "e0093",
+      "relation": "next"
+    },
+    {
+      "source": "e0093",
+      "target": "e0094",
+      "relation": "next"
+    },
+    {
+      "source": "e0094",
+      "target": "e0095",
+      "relation": "next"
+    },
+    {
+      "source": "e0095",
+      "target": "e0096",
+      "relation": "next"
+    },
+    {
+      "source": "e0096",
+      "target": "e0097",
+      "relation": "next"
+    },
+    {
+      "source": "e0097",
+      "target": "e0098",
+      "relation": "next"
+    },
+    {
+      "source": "e0098",
+      "target": "e0099",
+      "relation": "next"
+    },
+    {
+      "source": "e0099",
+      "target": "e0100",
+      "relation": "next"
+    },
+    {
+      "source": "e0100",
+      "target": "e0101",
+      "relation": "next"
+    },
+    {
+      "source": "e0101",
+      "target": "e0102",
+      "relation": "next"
+    },
+    {
+      "source": "e0102",
+      "target": "e0103",
+      "relation": "next"
+    },
+    {
+      "source": "e0103",
+      "target": "e0104",
+      "relation": "next"
+    },
+    {
+      "source": "e0104",
+      "target": "e0105",
+      "relation": "next"
+    },
+    {
+      "source": "e0105",
+      "target": "e0106",
+      "relation": "next"
+    },
+    {
+      "source": "e0106",
+      "target": "e0107",
+      "relation": "next"
+    },
+    {
+      "source": "e0107",
+      "target": "e0108",
+      "relation": "next"
+    },
+    {
+      "source": "e0108",
+      "target": "e0109",
+      "relation": "next"
+    },
+    {
+      "source": "e0109",
+      "target": "e0110",
+      "relation": "next"
+    },
+    {
+      "source": "e0110",
+      "target": "e0111",
+      "relation": "next"
+    },
+    {
+      "source": "e0111",
+      "target": "e0112",
+      "relation": "next"
+    }
+  ]
+}

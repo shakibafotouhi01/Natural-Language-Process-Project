@@ -1,0 +1,554 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "merchant",
+    "verb": "be",
+    "obj": "",
+    "label": "merchant | be | \u2205",
+    "sentence": "A merchant with three daughters was about to set off on a journey."
+  },
+  {
+    "sent_id": 1,
+    "subj": "he",
+    "verb": "ask",
+    "obj": "daughter",
+    "label": "he | ask | daughter",
+    "sentence": "Before leaving, he asked each daughter what gift she wanted him to bring back."
+  },
+  {
+    "sent_id": 2,
+    "subj": "eld",
+    "verb": "say",
+    "obj": "",
+    "label": "eld | say | \u2205",
+    "sentence": "The eldest asked for pearls, the second for jewels, but the youngest, named Lily, said, \u201cDear father, bring me a rose.\u201d"
+  },
+  {
+    "sent_id": 3,
+    "subj": "",
+    "verb": "be",
+    "obj": "task",
+    "label": "\u2205 | be | task",
+    "sentence": "It was the middle of winter, so finding a rose was no easy task."
+  },
+  {
+    "sent_id": 4,
+    "subj": "he",
+    "verb": "promise",
+    "obj": "",
+    "label": "he | promise | \u2205",
+    "sentence": "But since Lily was his most beloved daughter and loved flowers dearly, he promised to try."
+  },
+  {
+    "sent_id": 5,
+    "subj": "he",
+    "verb": "have",
+    "obj": "pearl",
+    "label": "he | have | pearl",
+    "sentence": "When the merchant returned, he had pearls and jewels for the two older daughters but had found no rose."
+  },
+  {
+    "sent_id": 6,
+    "subj": "people",
+    "verb": "laugh",
+    "obj": "",
+    "label": "people | laugh | \u2205",
+    "sentence": "Whenever he asked for one in any garden, people laughed and said roses don\u2019t grow in snow."
+  },
+  {
+    "sent_id": 7,
+    "subj": "he",
+    "verb": "think",
+    "obj": "",
+    "label": "he | think | \u2205",
+    "sentence": "Saddened, he thought hard about what to bring Lily."
+  },
+  {
+    "sent_id": 8,
+    "subj": "he",
+    "verb": "come",
+    "obj": "way",
+    "label": "he | come | way",
+    "sentence": "On the way home, he came upon a magnificent castle with a garden where one half was blooming in summer and the other covered in winter snow."
+  },
+  {
+    "sent_id": 9,
+    "subj": "he",
+    "verb": "tell",
+    "obj": "servant",
+    "label": "he | tell | servant",
+    "sentence": "Excited, he told his servant to pick a beautiful rose from the flowery half."
+  },
+  {
+    "sent_id": 10,
+    "subj": "lion",
+    "verb": "appear",
+    "obj": "",
+    "label": "lion | appear | \u2205",
+    "sentence": "As they rode away, suddenly a fierce lion appeared and roared, \u201cWhoever has stolen my roses will be eaten alive!\u201d"
+  },
+  {
+    "sent_id": 11,
+    "subj": "",
+    "verb": "say",
+    "obj": "",
+    "label": "\u2205 | say | \u2205",
+    "sentence": "The merchant, frightened, said he didn\u2019t know the garden belonged to the lion and begged for his life."
+  },
+  {
+    "sent_id": 12,
+    "subj": "lion",
+    "verb": "reply",
+    "obj": "",
+    "label": "lion | reply | \u2205",
+    "sentence": "The lion replied, \u201cOnly if you promise to give me whatever meets you first on your return will I let you live and take the rose with you.\u201d"
+  },
+  {
+    "sent_id": 13,
+    "subj": "merchant",
+    "verb": "agree",
+    "obj": "",
+    "label": "merchant | agree | \u2205",
+    "sentence": "Reluctantly, the merchant agreed, thinking it might be a dog or cat that meets him."
+  },
+  {
+    "sent_id": 14,
+    "subj": "it",
+    "verb": "be",
+    "obj": "lily",
+    "label": "it | be | lily",
+    "sentence": "When he neared home, it was Lily herself who ran to greet him, kissed him, and was delighted by the rose."
+  },
+  {
+    "sent_id": 15,
+    "subj": "i",
+    "verb": "promise",
+    "obj": "lion",
+    "label": "i | promise | lion",
+    "sentence": "But the merchant grew very sad and wept, telling her, \u201cI promised the lion whoever meets me first, and now you will have to go to him, or he will tear you apart.\u201d"
+  },
+  {
+    "sent_id": 16,
+    "subj": "lily",
+    "verb": "comfort",
+    "obj": "he",
+    "label": "lily | comfort | he",
+    "sentence": "Lily comforted him, saying, \u201cFather, promises must be kept."
+  },
+  {
+    "sent_id": 17,
+    "subj": "i",
+    "verb": "go",
+    "obj": "lion",
+    "label": "i | go | lion",
+    "sentence": "I will go to the lion and try to calm him."
+  },
+  {
+    "sent_id": 18,
+    "subj": "he",
+    "verb": "let",
+    "obj": "",
+    "label": "he | let | \u2205",
+    "sentence": "Maybe he will let me return safely.\u201d"
+  },
+  {
+    "sent_id": 19,
+    "subj": "lily",
+    "verb": "set",
+    "obj": "forest",
+    "label": "lily | set | forest",
+    "sentence": "The next morning, brave Lily set off into the forest."
+  },
+  {
+    "sent_id": 20,
+    "subj": "lion",
+    "verb": "be",
+    "obj": "prince",
+    "label": "lion | be | prince",
+    "sentence": "The lion was actually an enchanted prince."
+  },
+  {
+    "sent_id": 21,
+    "subj": "he",
+    "verb": "be",
+    "obj": "lion",
+    "label": "he | be | lion",
+    "sentence": "During the day he and his court were lions, but at night they returned to their human forms."
+  },
+  {
+    "sent_id": 22,
+    "subj": "prince",
+    "verb": "greet",
+    "obj": "she",
+    "label": "prince | greet | she",
+    "sentence": "When Lily arrived, the prince greeted her kindly, and she agreed to marry him."
+  },
+  {
+    "sent_id": 23,
+    "subj": "they",
+    "verb": "have",
+    "obj": "feast",
+    "label": "they | have | feast",
+    "sentence": "They had a wedding feast and lived happily for some time."
+  },
+  {
+    "sent_id": 24,
+    "subj": "prince",
+    "verb": "take",
+    "obj": "form",
+    "label": "prince | take | form",
+    "sentence": "Each evening the prince took his human form and held court, but every morning he left her alone, going somewhere she did not know."
+  },
+  {
+    "sent_id": 25,
+    "subj": "prince",
+    "verb": "tell",
+    "obj": "lily",
+    "label": "prince | tell | lily",
+    "sentence": "Later, the prince told Lily about a grand feast at her father\u2019s house for her eldest sister\u2019s wedding and offered to send his lions with her."
+  },
+  {
+    "sent_id": 26,
+    "subj": "she",
+    "verb": "be",
+    "obj": "",
+    "label": "she | be | \u2205",
+    "sentence": "She was happy to visit her family and stayed for the celebration, then returned to the woods."
+  },
+  {
+    "sent_id": 27,
+    "subj": "sister",
+    "verb": "be",
+    "obj": "",
+    "label": "sister | be | \u2205",
+    "sentence": "Soon after, her second sister was to be married, and Lily wanted the prince to go with her."
+  },
+  {
+    "sent_id": 28,
+    "subj": "he",
+    "verb": "warn",
+    "obj": "she",
+    "label": "he | warn | she",
+    "sentence": "He warned her it was dangerous\u2014if even one spark of torchlight touched him, his curse would worsen, transforming him into a dove forced to wander the earth for seven years."
+  },
+  {
+    "sent_id": 29,
+    "subj": "lily",
+    "verb": "insist",
+    "obj": "this",
+    "label": "lily | insist | this",
+    "sentence": "Despite this, Lily insisted and promised to keep him safe."
+  },
+  {
+    "sent_id": 30,
+    "subj": "they",
+    "verb": "bring",
+    "obj": "child",
+    "label": "they | bring | child",
+    "sentence": "At the wedding, they brought their child, and the prince sat in a thick-walled hall while the torches were lit."
+  },
+  {
+    "sent_id": 31,
+    "subj": "ray",
+    "verb": "enter",
+    "obj": "crack",
+    "label": "ray | enter | crack",
+    "sentence": "However, a tiny ray of light entered through a crack in the door and touched him."
+  },
+  {
+    "sent_id": 32,
+    "subj": "he",
+    "verb": "vanish",
+    "obj": "",
+    "label": "he | vanish | \u2205",
+    "sentence": "Instantly, he vanished and a white dove appeared instead."
+  },
+  {
+    "sent_id": 33,
+    "subj": "i",
+    "verb": "drop",
+    "obj": "feather",
+    "label": "i | drop | feather",
+    "sentence": "The dove told Lily, \u201cI must fly the world for seven years; occasionally I will drop a white feather to guide your path."
+  },
+  {
+    "sent_id": 34,
+    "subj": "",
+    "verb": "follow",
+    "obj": "it",
+    "label": "\u2205 | follow | it",
+    "sentence": "Follow it, and you can find and free me.\u201d"
+  },
+  {
+    "sent_id": 35,
+    "subj": "lily",
+    "verb": "follow",
+    "obj": "feather",
+    "label": "lily | follow | feather",
+    "sentence": "Lily followed the feather for seven years without rest, finally feeling hopeful."
+  },
+  {
+    "sent_id": 36,
+    "subj": "she",
+    "verb": "lose",
+    "obj": "sight",
+    "label": "she | lose | sight",
+    "sentence": "One day she lost sight of the feather and the dove."
+  },
+  {
+    "sent_id": 37,
+    "subj": "she",
+    "verb": "ask",
+    "obj": "sun",
+    "label": "she | ask | sun",
+    "sentence": "She asked the sun if it had seen her dove."
+  },
+  {
+    "sent_id": 38,
+    "subj": "sun",
+    "verb": "say",
+    "obj": "",
+    "label": "sun | say | \u2205",
+    "sentence": "The sun said no, but gave her a casket, telling her to open it in her hour of need."
+  },
+  {
+    "sent_id": 39,
+    "subj": "she",
+    "verb": "ask",
+    "obj": "moon",
+    "label": "she | ask | moon",
+    "sentence": "Then she asked the moon, who also had not seen the dove but gave her an egg, instructing her to break it when needed."
+  },
+  {
+    "sent_id": 40,
+    "subj": "she",
+    "verb": "ask",
+    "obj": "wind",
+    "label": "she | ask | wind",
+    "sentence": "Next, she asked the night wind, which hadn\u2019t seen the dove but promised to ask the other winds."
+  },
+  {
+    "sent_id": 41,
+    "subj": "wind",
+    "verb": "see",
+    "obj": "it",
+    "label": "wind | see | it",
+    "sentence": "The east and west winds hadn\u2019t seen it either, but the south wind said, \u201cThe dove flew to the Red Sea and changed back into a lion."
+  },
+  {
+    "sent_id": 42,
+    "subj": "he",
+    "verb": "fight",
+    "obj": "dragon",
+    "label": "he | fight | dragon",
+    "sentence": "He\u2019s fighting a dragon\u2014a cursed princess trying to separate you.\u201d"
+  },
+  {
+    "sent_id": 43,
+    "subj": "",
+    "verb": "break",
+    "obj": "eleventh",
+    "label": "\u2205 | break | eleventh",
+    "sentence": "The night wind gave her advice: at the Red Sea\u2019s shore, count the rods, break off the eleventh, and strike the dragon to win the fight."
+  },
+  {
+    "sent_id": 44,
+    "subj": "",
+    "verb": "find",
+    "obj": "griffin",
+    "label": "\u2205 | find | griffin",
+    "sentence": "Then find a griffin by the sea, mount it quickly with the prince, and fly home."
+  },
+  {
+    "sent_id": 45,
+    "subj": "it",
+    "verb": "grow",
+    "obj": "tree",
+    "label": "it | grow | tree",
+    "sentence": "The wind also gave her a nut to throw into the sea halfway back; it would grow a tree for the griffin to rest on."
+  },
+  {
+    "sent_id": 46,
+    "subj": "griffin",
+    "verb": "fall",
+    "obj": "this",
+    "label": "griffin | fall | this",
+    "sentence": "Without this, the griffin would fall."
+  },
+  {
+    "sent_id": 47,
+    "subj": "lily",
+    "verb": "find",
+    "obj": "place",
+    "label": "lily | find | place",
+    "sentence": "Lily found the place, struck the dragon with the rod, and the lion became a prince again, with the dragon turning back into a princess."
+  },
+  {
+    "sent_id": 48,
+    "subj": "princess",
+    "verb": "grab",
+    "obj": "prince",
+    "label": "princess | grab | prince",
+    "sentence": "But the princess grabbed the prince and escaped on the griffin\u2019s back, carrying him off."
+  },
+  {
+    "sent_id": 49,
+    "subj": "lily",
+    "verb": "set",
+    "obj": "",
+    "label": "lily | set | \u2205",
+    "sentence": "Heartbroken but determined, Lily set off to find him, traveling as far as the wind blows and the rooster crows."
+  },
+  {
+    "sent_id": 50,
+    "subj": "she",
+    "verb": "reach",
+    "obj": "castle",
+    "label": "she | reach | castle",
+    "sentence": "Eventually, she reached the castle where the princess and prince were about to be wed."
+  },
+  {
+    "sent_id": 51,
+    "subj": "she",
+    "verb": "open",
+    "obj": "casket",
+    "label": "she | open | casket",
+    "sentence": "She opened the sun\u2019s casket and found a dress shining like the sun."
+  },
+  {
+    "sent_id": 52,
+    "subj": "princess",
+    "verb": "admire",
+    "obj": "it",
+    "label": "princess | admire | it",
+    "sentence": "She wore it and entered the palace; the princess admired it and asked to buy it."
+  },
+  {
+    "sent_id": 53,
+    "subj": "lily",
+    "verb": "say",
+    "obj": "gold",
+    "label": "lily | say | gold",
+    "sentence": "Lily said, \u201cNot for gold or silver, but for a chance to speak with the prince alone tonight.\u201d"
+  },
+  {
+    "sent_id": 54,
+    "subj": "princess",
+    "verb": "agree",
+    "obj": "",
+    "label": "princess | agree | \u2205",
+    "sentence": "The princess agreed but told her chamberlain to drug the prince so he would not see Lily."
+  },
+  {
+    "sent_id": 55,
+    "subj": "lily",
+    "verb": "sit",
+    "obj": "night",
+    "label": "lily | sit | night",
+    "sentence": "At night, Lily sat at the prince\u2019s feet and told him how she had searched for him for seven years and helped free him from the dragon."
+  },
+  {
+    "sent_id": 56,
+    "subj": "prince",
+    "verb": "sleep",
+    "obj": "",
+    "label": "prince | sleep | \u2205",
+    "sentence": "But the prince only slept, enchanted by the princess."
+  },
+  {
+    "sent_id": 57,
+    "subj": "lily",
+    "verb": "force",
+    "obj": "",
+    "label": "lily | force | \u2205",
+    "sentence": "Lily was forced to give up the golden dress and left, sitting in a meadow to weep."
+  },
+  {
+    "sent_id": 58,
+    "subj": "she",
+    "verb": "remember",
+    "obj": "egg",
+    "label": "she | remember | egg",
+    "sentence": "Then she remembered the moon\u2019s egg and broke it."
+  },
+  {
+    "sent_id": 59,
+    "subj": "hen",
+    "verb": "come",
+    "obj": "",
+    "label": "hen | come | \u2205",
+    "sentence": "Out came a hen and twelve golden chicks that played and nestled beneath her wings, a beautiful sight."
+  },
+  {
+    "sent_id": 60,
+    "subj": "she",
+    "verb": "drive",
+    "obj": "they",
+    "label": "she | drive | they",
+    "sentence": "She drove them near the princess\u2019s window."
+  },
+  {
+    "sent_id": 61,
+    "subj": "princess",
+    "verb": "be",
+    "obj": "",
+    "label": "princess | be | \u2205",
+    "sentence": "The princess was so pleased she asked to buy them, and Lily repeated her offer: a chance to speak to the prince in exchange for the brood."
+  },
+  {
+    "sent_id": 62,
+    "subj": "princess",
+    "verb": "agree",
+    "obj": "",
+    "label": "princess | agree | \u2205",
+    "sentence": "The princess agreed again and planned to drug the prince, but the prince, suspicious, asked about the noise he heard."
+  },
+  {
+    "sent_id": 63,
+    "subj": "chamberlain",
+    "verb": "reveal",
+    "obj": "",
+    "label": "chamberlain | reveal | \u2205",
+    "sentence": "The chamberlain revealed all."
+  },
+  {
+    "sent_id": 64,
+    "subj": "prince",
+    "verb": "avoid",
+    "obj": "drug",
+    "label": "prince | avoid | drug",
+    "sentence": "This time the prince avoided the drug, and when Lily came to speak, he recognized her voice and woke, saying, \u201cYou have awakened me from the spell the princess cast.\u201d"
+  },
+  {
+    "sent_id": 65,
+    "subj": "they",
+    "verb": "escape",
+    "obj": "griffin",
+    "label": "they | escape | griffin",
+    "sentence": "Together they escaped on the griffin before dawn."
+  },
+  {
+    "sent_id": 66,
+    "subj": "lily",
+    "verb": "throw",
+    "obj": "nut",
+    "label": "lily | throw | nut",
+    "sentence": "Halfway home, Lily threw the nut into the sea, and the griffin rested on the grown nut-tree, then flew on safely."
+  },
+  {
+    "sent_id": 67,
+    "subj": "they",
+    "verb": "find",
+    "obj": "",
+    "label": "they | find | \u2205",
+    "sentence": "Back home, they found their child grown into a fine young person."
+  },
+  {
+    "sent_id": 68,
+    "subj": "they",
+    "verb": "live",
+    "obj": "trial",
+    "label": "they | live | trial",
+    "sentence": "After all their trials, they lived happily ever after."
+  }
+]

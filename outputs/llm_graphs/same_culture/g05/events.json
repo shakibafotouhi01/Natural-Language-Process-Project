@@ -1,0 +1,426 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "stream",
+    "verb": "flow",
+    "obj": "forest",
+    "label": "stream | flow | forest",
+    "sentence": "Near a forest in a distant land, a clear stream flowed beside a mill, and nearby stood the miller\u2019s house."
+  },
+  {
+    "sent_id": 1,
+    "subj": "miller",
+    "verb": "have",
+    "obj": "daughter",
+    "label": "miller | have | daughter",
+    "sentence": "The miller had a very beautiful daughter, who was also clever and sharp."
+  },
+  {
+    "sent_id": 2,
+    "subj": "miller",
+    "verb": "tell",
+    "obj": "king",
+    "label": "miller | tell | king",
+    "sentence": "Proud of her, the miller told the king, who often hunted in the woods, that his daughter could spin straw into gold."
+  },
+  {
+    "sent_id": 3,
+    "subj": "king",
+    "verb": "become",
+    "obj": "",
+    "label": "king | become | \u2205",
+    "sentence": "The king, who loved money, became greedy and ordered the girl to be brought before him."
+  },
+  {
+    "sent_id": 4,
+    "subj": "he",
+    "verb": "take",
+    "obj": "she",
+    "label": "he | take | she",
+    "sentence": "He took her to a room filled with straw, gave her a spinning wheel, and commanded, \u201cSpin all this straw into gold by morning, or your life is forfeit.\u201d"
+  },
+  {
+    "sent_id": 5,
+    "subj": "girl",
+    "verb": "protest",
+    "obj": "",
+    "label": "girl | protest | \u2205",
+    "sentence": "The poor girl protested that this was only her father\u2019s boast and she could not do such a thing, but the door was locked, and she was left alone.\n\nSitting down in a corner, she cried for her hard fate."
+  },
+  {
+    "sent_id": 6,
+    "subj": "door",
+    "verb": "open",
+    "obj": "",
+    "label": "door | open | \u2205",
+    "sentence": "Suddenly, the door opened, and a strange little man hobbled in."
+  },
+  {
+    "sent_id": 8,
+    "subj": "you",
+    "verb": "cry",
+    "obj": "",
+    "label": "you | cry | \u2205",
+    "sentence": "Why are you crying?\u201d"
+  },
+  {
+    "sent_id": 9,
+    "subj": "he",
+    "verb": "ask",
+    "obj": "",
+    "label": "he | ask | \u2205",
+    "sentence": "he asked."
+  },
+  {
+    "sent_id": 10,
+    "subj": "she",
+    "verb": "tell",
+    "obj": "he",
+    "label": "she | tell | he",
+    "sentence": "She told him of her impossible task."
+  },
+  {
+    "sent_id": 11,
+    "subj": "he",
+    "verb": "ask",
+    "obj": "",
+    "label": "he | ask | \u2205",
+    "sentence": "\u201cWhat will you give me to spin it into gold for you?\u201d he asked."
+  },
+  {
+    "sent_id": 12,
+    "subj": "she",
+    "verb": "offer",
+    "obj": "necklace",
+    "label": "she | offer | necklace",
+    "sentence": "She offered her necklace, and he agreed."
+  },
+  {
+    "sent_id": 13,
+    "subj": "he",
+    "verb": "whistle",
+    "obj": "",
+    "label": "he | whistle | \u2205",
+    "sentence": "Sitting at the wheel, he whistled and sang:\n\n\u201cRound about, round about, \nLook and see!"
+  },
+  {
+    "sent_id": 14,
+    "subj": "",
+    "verb": "reel",
+    "obj": "gold",
+    "label": "\u2205 | reel | gold",
+    "sentence": "Reel and spin, \nStraw to gold!\u201d"
+  },
+  {
+    "sent_id": 15,
+    "subj": "wheel",
+    "verb": "turn",
+    "obj": "",
+    "label": "wheel | turn | \u2205",
+    "sentence": "The wheel turned quickly, and by morning all the straw was spun into gold."
+  },
+  {
+    "sent_id": 16,
+    "subj": "he",
+    "verb": "be",
+    "obj": "",
+    "label": "he | be | \u2205",
+    "sentence": "When the king saw the gold, he was amazed and pleased, but his greed grew stronger."
+  },
+  {
+    "sent_id": 17,
+    "subj": "he",
+    "verb": "lock",
+    "obj": "daughter",
+    "label": "he | lock | daughter",
+    "sentence": "He locked the miller\u2019s daughter in a bigger room filled with more straw and ordered her to spin it all into gold by morning."
+  },
+  {
+    "sent_id": 18,
+    "subj": "she",
+    "verb": "weep",
+    "obj": "",
+    "label": "she | weep | \u2205",
+    "sentence": "Again, she wept not knowing what to do."
+  },
+  {
+    "sent_id": 19,
+    "subj": "man",
+    "verb": "appear",
+    "obj": "",
+    "label": "man | appear | \u2205",
+    "sentence": "The little man appeared and asked, \u201cWhat will you give me now?\u201d"
+  },
+  {
+    "sent_id": 20,
+    "subj": "she",
+    "verb": "offer",
+    "obj": "ring",
+    "label": "she | offer | ring",
+    "sentence": "She offered her ring."
+  },
+  {
+    "sent_id": 21,
+    "subj": "he",
+    "verb": "take",
+    "obj": "it",
+    "label": "he | take | it",
+    "sentence": "He took it and began to spin, singing his song, until all the straw was gold before dawn."
+  },
+  {
+    "sent_id": 22,
+    "subj": "king",
+    "verb": "overjoy",
+    "obj": "",
+    "label": "king | overjoy | \u2205",
+    "sentence": "The king was overjoyed but still desired more."
+  },
+  {
+    "sent_id": 23,
+    "subj": "he",
+    "verb": "lead",
+    "obj": "daughter",
+    "label": "he | lead | daughter",
+    "sentence": "He led the miller\u2019s daughter to an even larger pile of straw and declared that if she spun it all by morning, she could become his queen."
+  },
+  {
+    "sent_id": 24,
+    "subj": "dwarf",
+    "verb": "appear",
+    "obj": "",
+    "label": "dwarf | appear | \u2205",
+    "sentence": "Alone once more, the dwarf appeared and asked what she would give him this time."
+  },
+  {
+    "sent_id": 25,
+    "subj": "she",
+    "verb": "have",
+    "obj": "nothing",
+    "label": "she | have | nothing",
+    "sentence": "She had nothing left but agreed to give him the first child she would bear as queen."
+  },
+  {
+    "sent_id": 26,
+    "subj": "man",
+    "verb": "agree",
+    "obj": "",
+    "label": "man | agree | \u2205",
+    "sentence": "The little man agreed, spun the straw to gold again, and the king, seeing the gold, married her, making her queen."
+  },
+  {
+    "sent_id": 27,
+    "subj": "queen",
+    "verb": "be",
+    "obj": "",
+    "label": "queen | be | \u2205",
+    "sentence": "When her first child was born, the queen was happy and forgot the dwarf and their promise."
+  },
+  {
+    "sent_id": 28,
+    "subj": "man",
+    "verb": "appear",
+    "obj": "room",
+    "label": "man | appear | room",
+    "sentence": "One day, the little man appeared in her room while she played with her baby and reminded her of the bargain."
+  },
+  {
+    "sent_id": 29,
+    "subj": "she",
+    "verb": "heartbroken",
+    "obj": "",
+    "label": "she | heartbroken | \u2205",
+    "sentence": "She was heartbroken and offered him all her kingdom\u2019s wealth to let her keep the child, but he refused."
+  },
+  {
+    "sent_id": 30,
+    "subj": "i",
+    "verb": "give",
+    "obj": "day",
+    "label": "i | give | day",
+    "sentence": "Finally, moved by her tears, he said, \u201cI will give you three days."
+  },
+  {
+    "sent_id": 31,
+    "subj": "you",
+    "verb": "keep",
+    "obj": "baby",
+    "label": "you | keep | baby",
+    "sentence": "If by then you can guess my name, you may keep your baby.\u201d"
+  },
+  {
+    "sent_id": 32,
+    "subj": "queen",
+    "verb": "stay",
+    "obj": "",
+    "label": "queen | stay | \u2205",
+    "sentence": "The queen stayed awake all night thinking of every name she knew and sent messengers far and wide to find unusual names."
+  },
+  {
+    "sent_id": 33,
+    "subj": "she",
+    "verb": "guess",
+    "obj": "name",
+    "label": "she | guess | name",
+    "sentence": "On the first day, when the dwarf returned, she guessed many names\u2014Timothy, Ichabod, Benjamin, Jeremiah\u2014but he denied each one."
+  },
+  {
+    "sent_id": 34,
+    "subj": "she",
+    "verb": "try",
+    "obj": "name",
+    "label": "she | try | name",
+    "sentence": "On the second day, she tried funny names\u2014Bandy-legs, Hunchback, Crook-shanks\u2014but he rejected those too."
+  },
+  {
+    "sent_id": 35,
+    "subj": "messenger",
+    "verb": "return",
+    "obj": "day",
+    "label": "messenger | return | day",
+    "sentence": "On the third day, a messenger returned with news."
+  },
+  {
+    "sent_id": 36,
+    "subj": "he",
+    "verb": "spot",
+    "obj": "hut",
+    "label": "he | spot | hut",
+    "sentence": "While climbing a hill through the forest where fox and hare said goodnight, he had spotted a small hut."
+  },
+  {
+    "sent_id": 37,
+    "subj": "",
+    "verb": "stand",
+    "obj": "fire",
+    "label": "\u2205 | stand | fire",
+    "sentence": "By the fire stood a funny little dwarf dancing on one leg, singing:\n\n\u201cMerrily I feast and bake,"
+  },
+  {
+    "sent_id": 38,
+    "subj": "i",
+    "verb": "brew",
+    "obj": "",
+    "label": "i | brew | \u2205",
+    "sentence": "Today I\u2019ll brew and make;"
+  },
+  {
+    "sent_id": 39,
+    "subj": "lady",
+    "verb": "guess",
+    "obj": "name",
+    "label": "lady | guess | name",
+    "sentence": "Next day a stranger I will bring\u2014 \nLittle does my lady guess my name: \nRumpelstiltskin!\u201d"
+  },
+  {
+    "sent_id": 40,
+    "subj": "queen",
+    "verb": "be",
+    "obj": "",
+    "label": "queen | be | \u2205",
+    "sentence": "Hearing this, the queen was joyful."
+  },
+  {
+    "sent_id": 41,
+    "subj": "she",
+    "verb": "gather",
+    "obj": "court",
+    "label": "she | gather | court",
+    "sentence": "When the little man came again, she gathered her court around her throne, the nurse beside her holding the baby as if ready to give him up."
+  },
+  {
+    "sent_id": 42,
+    "subj": "child",
+    "verb": "be",
+    "obj": "his",
+    "label": "child | be | his",
+    "sentence": "The dwarf grinned, certain the child was his."
+  },
+  {
+    "sent_id": 43,
+    "subj": "he",
+    "verb": "demand",
+    "obj": "",
+    "label": "he | demand | \u2205",
+    "sentence": "\u201cTell me my name,\u201d he demanded."
+  },
+  {
+    "sent_id": 44,
+    "subj": "it",
+    "verb": "be",
+    "obj": "john",
+    "label": "it | be | john",
+    "sentence": "\u201cIs it John?\u201d"
+  },
+  {
+    "sent_id": 45,
+    "subj": "she",
+    "verb": "guess",
+    "obj": "",
+    "label": "she | guess | \u2205",
+    "sentence": "she guessed."
+  },
+  {
+    "sent_id": 46,
+    "subj": "he",
+    "verb": "say",
+    "obj": "",
+    "label": "he | say | \u2205",
+    "sentence": "\u201cNo,\u201d he said."
+  },
+  {
+    "sent_id": 51,
+    "subj": "it",
+    "verb": "be",
+    "obj": "rumpelstiltskin",
+    "label": "it | be | rumpelstiltskin",
+    "sentence": "\u201cIs it Rumpelstiltskin?\u201d"
+  },
+  {
+    "sent_id": 52,
+    "subj": "she",
+    "verb": "ask",
+    "obj": "",
+    "label": "she | ask | \u2205",
+    "sentence": "she asked slyly."
+  },
+  {
+    "sent_id": 53,
+    "subj": "man",
+    "verb": "shout",
+    "obj": "",
+    "label": "man | shout | \u2205",
+    "sentence": "The little man shouted, \u201cA witch told you that!"
+  },
+  {
+    "sent_id": 54,
+    "subj": "witch",
+    "verb": "tell",
+    "obj": "that",
+    "label": "witch | tell | that",
+    "sentence": "A witch told you that!\u201d"
+  },
+  {
+    "sent_id": 55,
+    "subj": "he",
+    "verb": "stamp",
+    "obj": "foot",
+    "label": "he | stamp | foot",
+    "sentence": "In a furious rage, he stamped his right foot so hard into the floor that he had to grab it with both hands to pull it out."
+  },
+  {
+    "sent_id": 56,
+    "subj": "he",
+    "verb": "run",
+    "obj": "",
+    "label": "he | run | \u2205",
+    "sentence": "Then he ran off as fast as he could."
+  },
+  {
+    "sent_id": 57,
+    "subj": "baby",
+    "verb": "coo",
+    "obj": "",
+    "label": "baby | coo | \u2205",
+    "sentence": "The nurse laughed, the baby cooed, and the whole court jeered at him for all his trouble, crying out, \u201cGood morning, Mr. Rumpelstiltskin, and happy feasting!\u201d"
+  }
+]

@@ -1,0 +1,914 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "",
+    "verb": "be",
+    "obj": "king",
+    "label": "\u2205 | be | king",
+    "sentence": "There once was a king who had a lovely garden with a tree that grew golden apples."
+  },
+  {
+    "sent_id": 1,
+    "subj": "apple",
+    "verb": "count",
+    "obj": "",
+    "label": "apple | count | \u2205",
+    "sentence": "Every night, the apples were counted, and as they began to ripen, it was noticed that one apple went missing each night."
+  },
+  {
+    "sent_id": 2,
+    "subj": "king",
+    "verb": "become",
+    "obj": "",
+    "label": "king | become | \u2205",
+    "sentence": "The king became very upset and ordered the gardener to keep watch all night by the tree."
+  },
+  {
+    "sent_id": 3,
+    "subj": "gardener",
+    "verb": "assign",
+    "obj": "son",
+    "label": "gardener | assign | son",
+    "sentence": "The gardener first assigned his oldest son to stand guard, but around midnight, the son fell asleep, and the next morning another apple was gone."
+  },
+  {
+    "sent_id": 4,
+    "subj": "son",
+    "verb": "take",
+    "obj": "watch",
+    "label": "son | take | watch",
+    "sentence": "Then the second son took the watch, but he too fell asleep by midnight, and again an apple had disappeared by morning."
+  },
+  {
+    "sent_id": 5,
+    "subj": "son",
+    "verb": "offer",
+    "obj": "",
+    "label": "son | offer | \u2205",
+    "sentence": "Finally, the youngest son offered to watch, though the gardener was hesitant fearing harm might come to him."
+  },
+  {
+    "sent_id": 6,
+    "subj": "man",
+    "verb": "allow",
+    "obj": "",
+    "label": "man | allow | \u2205",
+    "sentence": "Eventually, the young man was allowed to stand guard."
+  },
+  {
+    "sent_id": 7,
+    "subj": "sound",
+    "verb": "stir",
+    "obj": "air",
+    "label": "sound | stir | air",
+    "sentence": "At midnight, while he was watching, a rustling sound stirred the air, and a bird made of pure gold flew down, pecking at one of the apples."
+  },
+  {
+    "sent_id": 8,
+    "subj": "son",
+    "verb": "leapt",
+    "obj": "",
+    "label": "son | leapt | \u2205",
+    "sentence": "The youngest son leapt up and shot an arrow at the golden bird, but it was unharmed."
+  },
+  {
+    "sent_id": 9,
+    "subj": "it",
+    "verb": "drop",
+    "obj": "feather",
+    "label": "it | drop | feather",
+    "sentence": "Instead, it dropped a single golden feather from its tail and flew away."
+  },
+  {
+    "sent_id": 10,
+    "subj": "feather",
+    "verb": "bring",
+    "obj": "king",
+    "label": "feather | bring | king",
+    "sentence": "The next morning, the golden feather was brought to the king, who called a council."
+  },
+  {
+    "sent_id": 11,
+    "subj": "everyone",
+    "verb": "agree",
+    "obj": "",
+    "label": "everyone | agree | \u2205",
+    "sentence": "Everyone agreed the feather was worth more than all the kingdom\u2019s riches, but the king declared, \"One feather won\u2019t do."
+  },
+  {
+    "sent_id": 12,
+    "subj": "i",
+    "verb": "want",
+    "obj": "bird",
+    "label": "i | want | bird",
+    "sentence": "I want the whole golden bird."
+  },
+  {
+    "sent_id": 14,
+    "subj": "son",
+    "verb": "set",
+    "obj": "",
+    "label": "son | set | \u2205",
+    "sentence": "The gardener\u2019s eldest son set off to find the golden bird, thinking it would be easy."
+  },
+  {
+    "sent_id": 15,
+    "subj": "he",
+    "verb": "reach",
+    "obj": "forest",
+    "label": "he | reach | forest",
+    "sentence": "Shortly into his journey, he reached a forest where he saw a fox sitting nearby."
+  },
+  {
+    "sent_id": 16,
+    "subj": "son",
+    "verb": "take",
+    "obj": "aim",
+    "label": "son | take | aim",
+    "sentence": "The son took aim with his bow, ready to shoot, but the fox pleaded, \u201cDon\u2019t shoot me!"
+  },
+  {
+    "sent_id": 17,
+    "subj": "i",
+    "verb": "know",
+    "obj": "purpose",
+    "label": "i | know | purpose",
+    "sentence": "I know your purpose \u2014 you seek the golden bird."
+  },
+  {
+    "sent_id": 18,
+    "subj": "you",
+    "verb": "reach",
+    "obj": "village",
+    "label": "you | reach | village",
+    "sentence": "Tonight you\u2019ll reach a village with two inns opposite each other."
+  },
+  {
+    "sent_id": 19,
+    "subj": "one",
+    "verb": "look",
+    "obj": "",
+    "label": "one | look | \u2205",
+    "sentence": "One looks beautiful and inviting, the other shabby and poor."
+  },
+  {
+    "sent_id": 20,
+    "subj": "",
+    "verb": "go",
+    "obj": "one",
+    "label": "\u2205 | go | one",
+    "sentence": "Do not go into the fine one, but stay in the humble inn.\u201d"
+  },
+  {
+    "sent_id": 21,
+    "subj": "son",
+    "verb": "scoff",
+    "obj": "word",
+    "label": "son | scoff | word",
+    "sentence": "The son scoffed at the fox\u2019s words, doubting the animal\u2019s knowledge, and let fly his arrow but missed."
+  },
+  {
+    "sent_id": 22,
+    "subj": "fox",
+    "verb": "raise",
+    "obj": "tail",
+    "label": "fox | raise | tail",
+    "sentence": "The fox raised its tail and slipped away into the woods."
+  },
+  {
+    "sent_id": 23,
+    "subj": "he",
+    "verb": "see",
+    "obj": "inn",
+    "label": "he | see | inn",
+    "sentence": "When the son arrived at the village that evening, he saw one inn bustling with singing, dancing, and feasting, while the other looked dirty and cheap."
+  },
+  {
+    "sent_id": 24,
+    "subj": "he",
+    "verb": "think",
+    "obj": "",
+    "label": "he | think | \u2205",
+    "sentence": "\u201cI\u2019d be a fool to pick the shabby place when there\u2019s such a merry house nearby,\u201d he thought, and went into the nicer inn, ate and drank well, and soon forgot about the golden bird and his kingdom altogether."
+  },
+  {
+    "sent_id": 25,
+    "subj": "son",
+    "verb": "set",
+    "obj": "",
+    "label": "son | set | \u2205",
+    "sentence": "Time passed without word from the eldest son, so the second son set out next."
+  },
+  {
+    "sent_id": 26,
+    "subj": "he",
+    "verb": "meet",
+    "obj": "fox",
+    "label": "he | meet | fox",
+    "sentence": "The same thing happened to him: he met the fox, who gave the same advice, but when he arrived at the inns, he saw his eldest brother at a window, calling him to join the fun."
+  },
+  {
+    "sent_id": 27,
+    "subj": "he",
+    "verb": "enter",
+    "obj": "inn",
+    "label": "he | enter | inn",
+    "sentence": "Unable to resist, he entered the finer inn and quickly forgot the golden bird and his homeland as well."
+  },
+  {
+    "sent_id": 28,
+    "subj": "son",
+    "verb": "insist",
+    "obj": "fear",
+    "label": "son | insist | fear",
+    "sentence": "Finally, the youngest son insisted on going, despite his father\u2019s fears."
+  },
+  {
+    "sent_id": 29,
+    "subj": "he",
+    "verb": "meet",
+    "obj": "fox",
+    "label": "he | meet | fox",
+    "sentence": "When he entered the forest, he met the fox again and listened gratefully to its advice."
+  },
+  {
+    "sent_id": 30,
+    "subj": "creature",
+    "verb": "say",
+    "obj": "",
+    "label": "creature | say | \u2205",
+    "sentence": "Unlike his brothers, he did not try to harm the fox, so the creature said, \u201cClimb on my tail \u2014 I\u2019ll take you faster.\u201d"
+  },
+  {
+    "sent_id": 31,
+    "subj": "boy",
+    "verb": "do",
+    "obj": "",
+    "label": "boy | do | \u2205",
+    "sentence": "The boy did so, and off they sped so fast their hair whipped in the wind."
+  },
+  {
+    "sent_id": 32,
+    "subj": "he",
+    "verb": "ignore",
+    "obj": "inn",
+    "label": "he | ignore | inn",
+    "sentence": "They soon reached the village, and this time the son followed the fox\u2019s counsel: he ignored the elegant inn and rested quietly all night in the shabby one."
+  },
+  {
+    "sent_id": 33,
+    "subj": "fox",
+    "verb": "meet",
+    "obj": "he",
+    "label": "fox | meet | he",
+    "sentence": "The next morning, the fox met him and said, \u201cGo straight ahead until you reach a castle, where many sleeping soldiers lie before the gate."
+  },
+  {
+    "sent_id": 34,
+    "subj": "",
+    "verb": "disturb",
+    "obj": "they",
+    "label": "\u2205 | disturb | they",
+    "sentence": "Don\u2019t disturb them."
+  },
+  {
+    "sent_id": 35,
+    "subj": "",
+    "verb": "enter",
+    "obj": "",
+    "label": "\u2205 | enter | \u2205",
+    "sentence": "Enter and keep going until you find a room where the golden bird sits in a plain wooden cage."
+  },
+  {
+    "sent_id": 36,
+    "subj": "",
+    "verb": "stand",
+    "obj": "cage",
+    "label": "\u2205 | stand | cage",
+    "sentence": "Nearby stands a beautiful golden cage."
+  },
+  {
+    "sent_id": 37,
+    "subj": "you",
+    "verb": "regret",
+    "obj": "it",
+    "label": "you | regret | it",
+    "sentence": "Do not try to move the bird to that fine cage \u2014 you\u2019ll regret it.\u201d"
+  },
+  {
+    "sent_id": 38,
+    "subj": "fox",
+    "verb": "spread",
+    "obj": "tail",
+    "label": "fox | spread | tail",
+    "sentence": "The fox spread its tail again, and they raced off."
+  },
+  {
+    "sent_id": 39,
+    "subj": "all",
+    "verb": "be",
+    "obj": "castle",
+    "label": "all | be | castle",
+    "sentence": "At the castle, all was exactly as the fox said."
+  },
+  {
+    "sent_id": 40,
+    "subj": "man",
+    "verb": "see",
+    "obj": "bird",
+    "label": "man | see | bird",
+    "sentence": "Inside the room, the young man saw the bird in its shabby wooden cage and the golden cage beside it, along with the three golden apples he\u2019d been searching for."
+  },
+  {
+    "sent_id": 41,
+    "subj": "he",
+    "verb": "open",
+    "obj": "door",
+    "label": "he | open | door",
+    "sentence": "He thought it silly to carry such a fine bird away in that poor cage, so he opened the door, took the bird out, and placed it in the golden cage."
+  },
+  {
+    "sent_id": 42,
+    "subj": "bird",
+    "verb": "cry",
+    "obj": "",
+    "label": "bird | cry | \u2205",
+    "sentence": "At once, the bird cried out loudly, waking all the soldiers, who seized the young man and brought him before the king."
+  },
+  {
+    "sent_id": 43,
+    "subj": "court",
+    "verb": "judge",
+    "obj": "he",
+    "label": "court | judge | he",
+    "sentence": "The next day, the court judged him and condemned him to death \u2014 unless he could bring the king the golden horse that ran as fast as the wind."
+  },
+  {
+    "sent_id": 44,
+    "subj": "he",
+    "verb": "grant",
+    "obj": "bird",
+    "label": "he | grant | bird",
+    "sentence": "If he succeeded, he would be granted the golden bird for himself."
+  },
+  {
+    "sent_id": 45,
+    "subj": "man",
+    "verb": "set",
+    "obj": "",
+    "label": "man | set | \u2205",
+    "sentence": "Once more, the young man set out, worried and gloomy."
+  },
+  {
+    "sent_id": 46,
+    "subj": "fox",
+    "verb": "appear",
+    "obj": "",
+    "label": "fox | appear | \u2205",
+    "sentence": "Suddenly, the fox appeared again."
+  },
+  {
+    "sent_id": 47,
+    "subj": "fox",
+    "verb": "say",
+    "obj": "",
+    "label": "fox | say | \u2205",
+    "sentence": "\u201cSee what happened because you didn\u2019t listen to me,\u201d the fox said."
+  },
+  {
+    "sent_id": 48,
+    "subj": "i",
+    "verb": "tell",
+    "obj": "you",
+    "label": "i | tell | you",
+    "sentence": "\u201cBut I will still tell you how to find the golden horse\u2014if you do as I say."
+  },
+  {
+    "sent_id": 50,
+    "subj": "groom",
+    "verb": "be",
+    "obj": "",
+    "label": "groom | be | \u2205",
+    "sentence": "Next to it, the groom will be fast asleep."
+  },
+  {
+    "sent_id": 51,
+    "subj": "",
+    "verb": "take",
+    "obj": "horse",
+    "label": "\u2205 | take | horse",
+    "sentence": "Take the horse quietly, but be sure to saddle it with the old leather saddle, not the golden one nearby.\u201d"
+  },
+  {
+    "sent_id": 52,
+    "subj": "boy",
+    "verb": "climb",
+    "obj": "tail",
+    "label": "boy | climb | tail",
+    "sentence": "The boy climbed on the fox\u2019s tail, and away they went at great speed."
+  },
+  {
+    "sent_id": 53,
+    "subj": "groom",
+    "verb": "lie",
+    "obj": "",
+    "label": "groom | lie | \u2205",
+    "sentence": "When they arrived, the groom lay snoring with his hand on the golden saddle."
+  },
+  {
+    "sent_id": 54,
+    "subj": "boy",
+    "verb": "look",
+    "obj": "horse",
+    "label": "boy | look | horse",
+    "sentence": "The boy looked at the horse and thought, \u201cIt would be wrong to saddle him with the old leather one."
+  },
+  {
+    "sent_id": 55,
+    "subj": "horse",
+    "verb": "deserve",
+    "obj": "saddle",
+    "label": "horse | deserve | saddle",
+    "sentence": "The horse deserves the fine golden saddle.\u201d"
+  },
+  {
+    "sent_id": 56,
+    "subj": "alarm",
+    "verb": "sound",
+    "obj": "",
+    "label": "alarm | sound | \u2205",
+    "sentence": "As he reached for the golden saddle, the groom awoke with a shout, alarms sounded, guards rushed in, and the boy was captured again."
+  },
+  {
+    "sent_id": 57,
+    "subj": "he",
+    "verb": "be",
+    "obj": "court",
+    "label": "he | be | court",
+    "sentence": "The next morning, he was again before the court, sentenced to death."
+  },
+  {
+    "sent_id": 58,
+    "subj": "he",
+    "verb": "spare",
+    "obj": "life",
+    "label": "he | spare | life",
+    "sentence": "However, the king offered a new chance: if the boy could bring the king his beautiful daughter, the princess, he would spare his life and grant him both the golden bird and the horse."
+  },
+  {
+    "sent_id": 59,
+    "subj": "boy",
+    "verb": "set",
+    "obj": "",
+    "label": "boy | set | \u2205",
+    "sentence": "The boy set off sadly, but the fox appeared once more."
+  },
+  {
+    "sent_id": 60,
+    "subj": "you",
+    "verb": "heed",
+    "obj": "advice",
+    "label": "you | heed | advice",
+    "sentence": "\u201cWhy didn\u2019t you heed my advice?\u201d"
+  },
+  {
+    "sent_id": 61,
+    "subj": "fox",
+    "verb": "ask",
+    "obj": "",
+    "label": "fox | ask | \u2205",
+    "sentence": "the fox asked."
+  },
+  {
+    "sent_id": 62,
+    "subj": "you",
+    "verb": "have",
+    "obj": "bird",
+    "label": "you | have | bird",
+    "sentence": "\u201cIf you had, you would already have the bird and the horse."
+  },
+  {
+    "sent_id": 63,
+    "subj": "i",
+    "verb": "help",
+    "obj": "you",
+    "label": "i | help | you",
+    "sentence": "But I\u2019ll help you again."
+  },
+  {
+    "sent_id": 64,
+    "subj": "",
+    "verb": "keep",
+    "obj": "",
+    "label": "\u2205 | keep | \u2205",
+    "sentence": "Keep going straight, and in the evening you\u2019ll come upon a castle."
+  },
+  {
+    "sent_id": 65,
+    "subj": "princess",
+    "verb": "go",
+    "obj": "midnight",
+    "label": "princess | go | midnight",
+    "sentence": "At midnight, the princess goes to the bathhouse."
+  },
+  {
+    "sent_id": 66,
+    "subj": "",
+    "verb": "approach",
+    "obj": "she",
+    "label": "\u2205 | approach | she",
+    "sentence": "Approach her quickly and give her a kiss."
+  },
+  {
+    "sent_id": 67,
+    "subj": "she",
+    "verb": "come",
+    "obj": "you",
+    "label": "she | come | you",
+    "sentence": "She will come with you, but be careful not to let her go back to say farewell to her father and mother.\u201d"
+  },
+  {
+    "sent_id": 68,
+    "subj": "fox",
+    "verb": "stretch",
+    "obj": "tail",
+    "label": "fox | stretch | tail",
+    "sentence": "The fox stretched out its tail, and off they went with the wind in their hair."
+  },
+  {
+    "sent_id": 69,
+    "subj": "everything",
+    "verb": "happen",
+    "obj": "castle",
+    "label": "everything | happen | castle",
+    "sentence": "At the castle, everything happened as the fox had said."
+  },
+  {
+    "sent_id": 70,
+    "subj": "man",
+    "verb": "meet",
+    "obj": "walk",
+    "label": "man | meet | walk",
+    "sentence": "At midnight, the young man met the princess walking to the bath and kissed her."
+  },
+  {
+    "sent_id": 71,
+    "subj": "she",
+    "verb": "agree",
+    "obj": "",
+    "label": "she | agree | \u2205",
+    "sentence": "She agreed to escape with him, but pleaded to be allowed to say goodbye to her parents."
+  },
+  {
+    "sent_id": 72,
+    "subj": "he",
+    "verb": "refuse",
+    "obj": "",
+    "label": "he | refuse | \u2205",
+    "sentence": "At first, he refused, but when she continued to cry and beg, he relented."
+  },
+  {
+    "sent_id": 73,
+    "subj": "guard",
+    "verb": "spring",
+    "obj": "",
+    "label": "guard | spring | \u2205",
+    "sentence": "As soon as she stepped into her father\u2019s house, the guards sprang awake and took the young man prisoner again."
+  },
+  {
+    "sent_id": 74,
+    "subj": "man",
+    "verb": "tell",
+    "obj": "",
+    "label": "man | tell | \u2205",
+    "sentence": "Brought before the king, the young man was told he would never have the princess unless, within eight days, he removed a large hill blocking the king\u2019s view out his window."
+  },
+  {
+    "sent_id": 75,
+    "subj": "hill",
+    "verb": "be",
+    "obj": "",
+    "label": "hill | be | \u2205",
+    "sentence": "The hill was enormous \u2014 too big for any man to move."
+  },
+  {
+    "sent_id": 76,
+    "subj": "boy",
+    "verb": "work",
+    "obj": "day",
+    "label": "boy | work | day",
+    "sentence": "The boy worked for seven days but barely made a dent."
+  },
+  {
+    "sent_id": 77,
+    "subj": "fox",
+    "verb": "come",
+    "obj": "",
+    "label": "fox | come | \u2205",
+    "sentence": "Then the fox came and said, \u201cLie down and rest."
+  },
+  {
+    "sent_id": 78,
+    "subj": "i",
+    "verb": "do",
+    "obj": "it",
+    "label": "i | do | it",
+    "sentence": "I\u2019ll do it for you.\u201d"
+  },
+  {
+    "sent_id": 79,
+    "subj": "hill",
+    "verb": "go",
+    "obj": "morning",
+    "label": "hill | go | morning",
+    "sentence": "In the morning, the hill was gone."
+  },
+  {
+    "sent_id": 80,
+    "subj": "king",
+    "verb": "have",
+    "obj": "",
+    "label": "king | have | \u2205",
+    "sentence": "The young man went to the king and told him the hill was removed, so the king had to fulfill his promise and give him the princess."
+  },
+  {
+    "sent_id": 81,
+    "subj": "fox",
+    "verb": "say",
+    "obj": "",
+    "label": "fox | say | \u2205",
+    "sentence": "The fox said, \u201cNow we will have all three \u2014 the princess, the horse, and the bird.\u201d"
+  },
+  {
+    "sent_id": 82,
+    "subj": "man",
+    "verb": "ask",
+    "obj": "",
+    "label": "man | ask | \u2205",
+    "sentence": "The young man asked how this could be done."
+  },
+  {
+    "sent_id": 83,
+    "subj": "fox",
+    "verb": "say",
+    "obj": "",
+    "label": "fox | say | \u2205",
+    "sentence": "\u201cIf you listen carefully,\u201d the fox said, \u201cWhen the king asks for his daughter, say, \u2018Here she is!\u2019"
+  },
+  {
+    "sent_id": 84,
+    "subj": "he",
+    "verb": "be",
+    "obj": "",
+    "label": "he | be | \u2205",
+    "sentence": "He will be delighted."
+  },
+  {
+    "sent_id": 85,
+    "subj": "",
+    "verb": "mount",
+    "obj": "horse",
+    "label": "\u2205 | mount | horse",
+    "sentence": "Then mount the golden horse they give you, and reach out to say goodbye\u2014but shake the princess\u2019 hand last."
+  },
+  {
+    "sent_id": 86,
+    "subj": "",
+    "verb": "lift",
+    "obj": "she",
+    "label": "\u2205 | lift | she",
+    "sentence": "Quickly lift her behind you onto the horse, spur him on, and ride away as fast as you can.\u201d"
+  },
+  {
+    "sent_id": 87,
+    "subj": "everything",
+    "verb": "go",
+    "obj": "",
+    "label": "everything | go | \u2205",
+    "sentence": "Everything went according to plan."
+  },
+  {
+    "sent_id": 88,
+    "subj": "fox",
+    "verb": "wait",
+    "obj": "castle",
+    "label": "fox | wait | castle",
+    "sentence": "At the castle where the bird was kept, the fox waited with the princess at the door while the young man entered and spoke to the king."
+  },
+  {
+    "sent_id": 89,
+    "subj": "he",
+    "verb": "bring",
+    "obj": "bird",
+    "label": "he | bring | bird",
+    "sentence": "When the king saw the horse was the true golden one, he brought out the bird."
+  },
+  {
+    "sent_id": 90,
+    "subj": "man",
+    "verb": "ask",
+    "obj": "",
+    "label": "man | ask | \u2205",
+    "sentence": "The young man asked to examine the bird before taking it, and when he held it in his hand, he quickly rode away."
+  },
+  {
+    "sent_id": 91,
+    "subj": "they",
+    "verb": "ride",
+    "obj": "bird",
+    "label": "they | ride | bird",
+    "sentence": "With the bird and princess behind him, they rode into a large forest."
+  },
+  {
+    "sent_id": 92,
+    "subj": "fox",
+    "verb": "say",
+    "obj": "",
+    "label": "fox | say | \u2205",
+    "sentence": "Then the fox said, \u201cPlease, kill me, and cut off my head and feet.\u201d"
+  },
+  {
+    "sent_id": 93,
+    "subj": "",
+    "verb": "ransom",
+    "obj": "anyone",
+    "label": "\u2205 | ransom | anyone",
+    "sentence": "The young man refused, so the fox said, \u201cAt least listen to my advice: never ransom anyone from the gallows, and never sit beside a river.\u201d"
+  },
+  {
+    "sent_id": 94,
+    "subj": "fox",
+    "verb": "leave",
+    "obj": "",
+    "label": "fox | leave | \u2205",
+    "sentence": "Then the fox left."
+  },
+  {
+    "sent_id": 95,
+    "subj": "man",
+    "verb": "ride",
+    "obj": "",
+    "label": "man | ride | \u2205",
+    "sentence": "The young man and princess rode on until they reached the village where his two brothers lived."
+  },
+  {
+    "sent_id": 96,
+    "subj": "",
+    "verb": "be",
+    "obj": "commotion",
+    "label": "\u2205 | be | commotion",
+    "sentence": "There was a commotion, and when he asked, the villagers said, \u201cTwo men are going to be hanged.\u201d"
+  },
+  {
+    "sent_id": 97,
+    "subj": "he",
+    "verb": "see",
+    "obj": "",
+    "label": "he | see | \u2205",
+    "sentence": "As the young man drew closer, he saw the two men were his brothers, now turned to robbers."
+  },
+  {
+    "sent_id": 98,
+    "subj": "he",
+    "verb": "ask",
+    "obj": "",
+    "label": "he | ask | \u2205",
+    "sentence": "He asked if there was any way to save them, and was told only by paying a ransom could the men be freed."
+  },
+  {
+    "sent_id": 99,
+    "subj": "he",
+    "verb": "give",
+    "obj": "money",
+    "label": "he | give | money",
+    "sentence": "Without hesitation, he gave all his money to buy their liberty, and his brothers joined him."
+  },
+  {
+    "sent_id": 100,
+    "subj": "brother",
+    "verb": "suggest",
+    "obj": "",
+    "label": "brother | suggest | \u2205",
+    "sentence": "As they approached the forest where the fox first met them, the brothers suggested they rest and eat by the river."
+  },
+  {
+    "sent_id": 101,
+    "subj": "man",
+    "verb": "agree",
+    "obj": "",
+    "label": "man | agree | \u2205",
+    "sentence": "The young man agreed, forgetting the fox\u2019s warning."
+  },
+  {
+    "sent_id": 102,
+    "subj": "brother",
+    "verb": "push",
+    "obj": "he",
+    "label": "brother | push | he",
+    "sentence": "While he was unsuspecting, his brothers pushed him down the steep bank, seized the princess, the horse, and the bird, and took them to their master, the king."
+  },
+  {
+    "sent_id": 103,
+    "subj": "they",
+    "verb": "claim",
+    "obj": "treasure",
+    "label": "they | claim | treasure",
+    "sentence": "They claimed all the treasures as their own."
+  },
+  {
+    "sent_id": 104,
+    "subj": "",
+    "verb": "be",
+    "obj": "rejoice",
+    "label": "\u2205 | be | rejoice",
+    "sentence": "There was much rejoicing, but the horse refused to eat, the bird would not sing, and the princess wept."
+  },
+  {
+    "sent_id": 105,
+    "subj": "son",
+    "verb": "lie",
+    "obj": "",
+    "label": "son | lie | \u2205",
+    "sentence": "The youngest son lay trapped at the bottom of the nearly dry riverbed, his bones aching and the steep banks blocking escape."
+  },
+  {
+    "sent_id": 106,
+    "subj": "fox",
+    "verb": "appear",
+    "obj": "",
+    "label": "fox | appear | \u2205",
+    "sentence": "Once more, the old fox appeared and scolded him for ignoring its advice."
+  },
+  {
+    "sent_id": 107,
+    "subj": "nothing",
+    "verb": "happen",
+    "obj": "",
+    "label": "nothing | happen | \u2205",
+    "sentence": "\u201cIf you had, nothing bad would have happened."
+  },
+  {
+    "sent_id": 108,
+    "subj": "i",
+    "verb": "leave",
+    "obj": "you",
+    "label": "i | leave | you",
+    "sentence": "But I can\u2019t leave you here \u2014 grab my tail and hold tight.\u201d"
+  },
+  {
+    "sent_id": 109,
+    "subj": "fox",
+    "verb": "pull",
+    "obj": "he",
+    "label": "fox | pull | he",
+    "sentence": "The fox pulled him out of the river and warned, \u201cYour brothers have set watch to kill you if they find you in the kingdom.\u201d"
+  },
+  {
+    "sent_id": 110,
+    "subj": "he",
+    "verb": "sneak",
+    "obj": "court",
+    "label": "he | sneak | court",
+    "sentence": "Disguised as a poor man, he sneaked into the king\u2019s court."
+  },
+  {
+    "sent_id": 111,
+    "subj": "horse",
+    "verb": "eat",
+    "obj": "",
+    "label": "horse | eat | \u2205",
+    "sentence": "The moment he entered, the horse ate again, the bird sang, and the princess stopped crying."
+  },
+  {
+    "sent_id": 112,
+    "subj": "they",
+    "verb": "punish",
+    "obj": "",
+    "label": "they | punish | \u2205",
+    "sentence": "The young man exposed his brothers\u2019 treachery; they were punished, and he regained the princess."
+  },
+  {
+    "sent_id": 113,
+    "subj": "he",
+    "verb": "inherit",
+    "obj": "kingdom",
+    "label": "he | inherit | kingdom",
+    "sentence": "After the king\u2019s death, he inherited the kingdom."
+  },
+  {
+    "sent_id": 114,
+    "subj": "man",
+    "verb": "walk",
+    "obj": "forest",
+    "label": "man | walk | forest",
+    "sentence": "Many years later, the young man was walking in the forest when the old fox approached him, tears in its eyes, begging, \u201cPlease kill me, and cut off my head and feet.\u201d"
+  },
+  {
+    "sent_id": 115,
+    "subj": "man",
+    "verb": "do",
+    "obj": "",
+    "label": "man | do | \u2205",
+    "sentence": "At last, the young man did as he asked, and in an instant, the fox transformed into a man \u2014 the lost brother of the princess, who had been missing for many years."
+  }
+]

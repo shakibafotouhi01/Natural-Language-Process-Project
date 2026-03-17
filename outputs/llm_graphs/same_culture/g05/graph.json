@@ -1,0 +1,744 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "stream | flow | forest",
+      "sent_id": 0,
+      "sentence": "Near a forest in a distant land, a clear stream flowed beside a mill, and nearby stood the miller\u2019s house.",
+      "subj": "stream",
+      "verb": "flow",
+      "obj": "forest"
+    },
+    {
+      "id": "e0001",
+      "label": "miller | have | daughter",
+      "sent_id": 1,
+      "sentence": "The miller had a very beautiful daughter, who was also clever and sharp.",
+      "subj": "miller",
+      "verb": "have",
+      "obj": "daughter"
+    },
+    {
+      "id": "e0002",
+      "label": "miller | tell | king",
+      "sent_id": 2,
+      "sentence": "Proud of her, the miller told the king, who often hunted in the woods, that his daughter could spin straw into gold.",
+      "subj": "miller",
+      "verb": "tell",
+      "obj": "king"
+    },
+    {
+      "id": "e0003",
+      "label": "king | become | \u2205",
+      "sent_id": 3,
+      "sentence": "The king, who loved money, became greedy and ordered the girl to be brought before him.",
+      "subj": "king",
+      "verb": "become",
+      "obj": ""
+    },
+    {
+      "id": "e0004",
+      "label": "he | take | she",
+      "sent_id": 4,
+      "sentence": "He took her to a room filled with straw, gave her a spinning wheel, and commanded, \u201cSpin all this straw into gold by morning, or your life is forfeit.\u201d",
+      "subj": "he",
+      "verb": "take",
+      "obj": "she"
+    },
+    {
+      "id": "e0005",
+      "label": "girl | protest | \u2205",
+      "sent_id": 5,
+      "sentence": "The poor girl protested that this was only her father\u2019s boast and she could not do such a thing, but the door was locked, and she was left alone.\n\nSitting down in a corner, she cried for her hard fate.",
+      "subj": "girl",
+      "verb": "protest",
+      "obj": ""
+    },
+    {
+      "id": "e0006",
+      "label": "door | open | \u2205",
+      "sent_id": 6,
+      "sentence": "Suddenly, the door opened, and a strange little man hobbled in.",
+      "subj": "door",
+      "verb": "open",
+      "obj": ""
+    },
+    {
+      "id": "e0007",
+      "label": "you | cry | \u2205",
+      "sent_id": 8,
+      "sentence": "Why are you crying?\u201d",
+      "subj": "you",
+      "verb": "cry",
+      "obj": ""
+    },
+    {
+      "id": "e0008",
+      "label": "he | ask | \u2205",
+      "sent_id": 9,
+      "sentence": "he asked.",
+      "subj": "he",
+      "verb": "ask",
+      "obj": ""
+    },
+    {
+      "id": "e0009",
+      "label": "she | tell | he",
+      "sent_id": 10,
+      "sentence": "She told him of her impossible task.",
+      "subj": "she",
+      "verb": "tell",
+      "obj": "he"
+    },
+    {
+      "id": "e0010",
+      "label": "he | ask | \u2205",
+      "sent_id": 11,
+      "sentence": "\u201cWhat will you give me to spin it into gold for you?\u201d he asked.",
+      "subj": "he",
+      "verb": "ask",
+      "obj": ""
+    },
+    {
+      "id": "e0011",
+      "label": "she | offer | necklace",
+      "sent_id": 12,
+      "sentence": "She offered her necklace, and he agreed.",
+      "subj": "she",
+      "verb": "offer",
+      "obj": "necklace"
+    },
+    {
+      "id": "e0012",
+      "label": "he | whistle | \u2205",
+      "sent_id": 13,
+      "sentence": "Sitting at the wheel, he whistled and sang:\n\n\u201cRound about, round about, \nLook and see!",
+      "subj": "he",
+      "verb": "whistle",
+      "obj": ""
+    },
+    {
+      "id": "e0013",
+      "label": "\u2205 | reel | gold",
+      "sent_id": 14,
+      "sentence": "Reel and spin, \nStraw to gold!\u201d",
+      "subj": "",
+      "verb": "reel",
+      "obj": "gold"
+    },
+    {
+      "id": "e0014",
+      "label": "wheel | turn | \u2205",
+      "sent_id": 15,
+      "sentence": "The wheel turned quickly, and by morning all the straw was spun into gold.",
+      "subj": "wheel",
+      "verb": "turn",
+      "obj": ""
+    },
+    {
+      "id": "e0015",
+      "label": "he | be | \u2205",
+      "sent_id": 16,
+      "sentence": "When the king saw the gold, he was amazed and pleased, but his greed grew stronger.",
+      "subj": "he",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0016",
+      "label": "he | lock | daughter",
+      "sent_id": 17,
+      "sentence": "He locked the miller\u2019s daughter in a bigger room filled with more straw and ordered her to spin it all into gold by morning.",
+      "subj": "he",
+      "verb": "lock",
+      "obj": "daughter"
+    },
+    {
+      "id": "e0017",
+      "label": "she | weep | \u2205",
+      "sent_id": 18,
+      "sentence": "Again, she wept not knowing what to do.",
+      "subj": "she",
+      "verb": "weep",
+      "obj": ""
+    },
+    {
+      "id": "e0018",
+      "label": "man | appear | \u2205",
+      "sent_id": 19,
+      "sentence": "The little man appeared and asked, \u201cWhat will you give me now?\u201d",
+      "subj": "man",
+      "verb": "appear",
+      "obj": ""
+    },
+    {
+      "id": "e0019",
+      "label": "she | offer | ring",
+      "sent_id": 20,
+      "sentence": "She offered her ring.",
+      "subj": "she",
+      "verb": "offer",
+      "obj": "ring"
+    },
+    {
+      "id": "e0020",
+      "label": "he | take | it",
+      "sent_id": 21,
+      "sentence": "He took it and began to spin, singing his song, until all the straw was gold before dawn.",
+      "subj": "he",
+      "verb": "take",
+      "obj": "it"
+    },
+    {
+      "id": "e0021",
+      "label": "king | overjoy | \u2205",
+      "sent_id": 22,
+      "sentence": "The king was overjoyed but still desired more.",
+      "subj": "king",
+      "verb": "overjoy",
+      "obj": ""
+    },
+    {
+      "id": "e0022",
+      "label": "he | lead | daughter",
+      "sent_id": 23,
+      "sentence": "He led the miller\u2019s daughter to an even larger pile of straw and declared that if she spun it all by morning, she could become his queen.",
+      "subj": "he",
+      "verb": "lead",
+      "obj": "daughter"
+    },
+    {
+      "id": "e0023",
+      "label": "dwarf | appear | \u2205",
+      "sent_id": 24,
+      "sentence": "Alone once more, the dwarf appeared and asked what she would give him this time.",
+      "subj": "dwarf",
+      "verb": "appear",
+      "obj": ""
+    },
+    {
+      "id": "e0024",
+      "label": "she | have | nothing",
+      "sent_id": 25,
+      "sentence": "She had nothing left but agreed to give him the first child she would bear as queen.",
+      "subj": "she",
+      "verb": "have",
+      "obj": "nothing"
+    },
+    {
+      "id": "e0025",
+      "label": "man | agree | \u2205",
+      "sent_id": 26,
+      "sentence": "The little man agreed, spun the straw to gold again, and the king, seeing the gold, married her, making her queen.",
+      "subj": "man",
+      "verb": "agree",
+      "obj": ""
+    },
+    {
+      "id": "e0026",
+      "label": "queen | be | \u2205",
+      "sent_id": 27,
+      "sentence": "When her first child was born, the queen was happy and forgot the dwarf and their promise.",
+      "subj": "queen",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0027",
+      "label": "man | appear | room",
+      "sent_id": 28,
+      "sentence": "One day, the little man appeared in her room while she played with her baby and reminded her of the bargain.",
+      "subj": "man",
+      "verb": "appear",
+      "obj": "room"
+    },
+    {
+      "id": "e0028",
+      "label": "she | heartbroken | \u2205",
+      "sent_id": 29,
+      "sentence": "She was heartbroken and offered him all her kingdom\u2019s wealth to let her keep the child, but he refused.",
+      "subj": "she",
+      "verb": "heartbroken",
+      "obj": ""
+    },
+    {
+      "id": "e0029",
+      "label": "i | give | day",
+      "sent_id": 30,
+      "sentence": "Finally, moved by her tears, he said, \u201cI will give you three days.",
+      "subj": "i",
+      "verb": "give",
+      "obj": "day"
+    },
+    {
+      "id": "e0030",
+      "label": "you | keep | baby",
+      "sent_id": 31,
+      "sentence": "If by then you can guess my name, you may keep your baby.\u201d",
+      "subj": "you",
+      "verb": "keep",
+      "obj": "baby"
+    },
+    {
+      "id": "e0031",
+      "label": "queen | stay | \u2205",
+      "sent_id": 32,
+      "sentence": "The queen stayed awake all night thinking of every name she knew and sent messengers far and wide to find unusual names.",
+      "subj": "queen",
+      "verb": "stay",
+      "obj": ""
+    },
+    {
+      "id": "e0032",
+      "label": "she | guess | name",
+      "sent_id": 33,
+      "sentence": "On the first day, when the dwarf returned, she guessed many names\u2014Timothy, Ichabod, Benjamin, Jeremiah\u2014but he denied each one.",
+      "subj": "she",
+      "verb": "guess",
+      "obj": "name"
+    },
+    {
+      "id": "e0033",
+      "label": "she | try | name",
+      "sent_id": 34,
+      "sentence": "On the second day, she tried funny names\u2014Bandy-legs, Hunchback, Crook-shanks\u2014but he rejected those too.",
+      "subj": "she",
+      "verb": "try",
+      "obj": "name"
+    },
+    {
+      "id": "e0034",
+      "label": "messenger | return | day",
+      "sent_id": 35,
+      "sentence": "On the third day, a messenger returned with news.",
+      "subj": "messenger",
+      "verb": "return",
+      "obj": "day"
+    },
+    {
+      "id": "e0035",
+      "label": "he | spot | hut",
+      "sent_id": 36,
+      "sentence": "While climbing a hill through the forest where fox and hare said goodnight, he had spotted a small hut.",
+      "subj": "he",
+      "verb": "spot",
+      "obj": "hut"
+    },
+    {
+      "id": "e0036",
+      "label": "\u2205 | stand | fire",
+      "sent_id": 37,
+      "sentence": "By the fire stood a funny little dwarf dancing on one leg, singing:\n\n\u201cMerrily I feast and bake,",
+      "subj": "",
+      "verb": "stand",
+      "obj": "fire"
+    },
+    {
+      "id": "e0037",
+      "label": "i | brew | \u2205",
+      "sent_id": 38,
+      "sentence": "Today I\u2019ll brew and make;",
+      "subj": "i",
+      "verb": "brew",
+      "obj": ""
+    },
+    {
+      "id": "e0038",
+      "label": "lady | guess | name",
+      "sent_id": 39,
+      "sentence": "Next day a stranger I will bring\u2014 \nLittle does my lady guess my name: \nRumpelstiltskin!\u201d",
+      "subj": "lady",
+      "verb": "guess",
+      "obj": "name"
+    },
+    {
+      "id": "e0039",
+      "label": "queen | be | \u2205",
+      "sent_id": 40,
+      "sentence": "Hearing this, the queen was joyful.",
+      "subj": "queen",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0040",
+      "label": "she | gather | court",
+      "sent_id": 41,
+      "sentence": "When the little man came again, she gathered her court around her throne, the nurse beside her holding the baby as if ready to give him up.",
+      "subj": "she",
+      "verb": "gather",
+      "obj": "court"
+    },
+    {
+      "id": "e0041",
+      "label": "child | be | his",
+      "sent_id": 42,
+      "sentence": "The dwarf grinned, certain the child was his.",
+      "subj": "child",
+      "verb": "be",
+      "obj": "his"
+    },
+    {
+      "id": "e0042",
+      "label": "he | demand | \u2205",
+      "sent_id": 43,
+      "sentence": "\u201cTell me my name,\u201d he demanded.",
+      "subj": "he",
+      "verb": "demand",
+      "obj": ""
+    },
+    {
+      "id": "e0043",
+      "label": "it | be | john",
+      "sent_id": 44,
+      "sentence": "\u201cIs it John?\u201d",
+      "subj": "it",
+      "verb": "be",
+      "obj": "john"
+    },
+    {
+      "id": "e0044",
+      "label": "she | guess | \u2205",
+      "sent_id": 45,
+      "sentence": "she guessed.",
+      "subj": "she",
+      "verb": "guess",
+      "obj": ""
+    },
+    {
+      "id": "e0045",
+      "label": "he | say | \u2205",
+      "sent_id": 46,
+      "sentence": "\u201cNo,\u201d he said.",
+      "subj": "he",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0046",
+      "label": "it | be | rumpelstiltskin",
+      "sent_id": 51,
+      "sentence": "\u201cIs it Rumpelstiltskin?\u201d",
+      "subj": "it",
+      "verb": "be",
+      "obj": "rumpelstiltskin"
+    },
+    {
+      "id": "e0047",
+      "label": "she | ask | \u2205",
+      "sent_id": 52,
+      "sentence": "she asked slyly.",
+      "subj": "she",
+      "verb": "ask",
+      "obj": ""
+    },
+    {
+      "id": "e0048",
+      "label": "man | shout | \u2205",
+      "sent_id": 53,
+      "sentence": "The little man shouted, \u201cA witch told you that!",
+      "subj": "man",
+      "verb": "shout",
+      "obj": ""
+    },
+    {
+      "id": "e0049",
+      "label": "witch | tell | that",
+      "sent_id": 54,
+      "sentence": "A witch told you that!\u201d",
+      "subj": "witch",
+      "verb": "tell",
+      "obj": "that"
+    },
+    {
+      "id": "e0050",
+      "label": "he | stamp | foot",
+      "sent_id": 55,
+      "sentence": "In a furious rage, he stamped his right foot so hard into the floor that he had to grab it with both hands to pull it out.",
+      "subj": "he",
+      "verb": "stamp",
+      "obj": "foot"
+    },
+    {
+      "id": "e0051",
+      "label": "he | run | \u2205",
+      "sent_id": 56,
+      "sentence": "Then he ran off as fast as he could.",
+      "subj": "he",
+      "verb": "run",
+      "obj": ""
+    },
+    {
+      "id": "e0052",
+      "label": "baby | coo | \u2205",
+      "sent_id": 57,
+      "sentence": "The nurse laughed, the baby cooed, and the whole court jeered at him for all his trouble, crying out, \u201cGood morning, Mr. Rumpelstiltskin, and happy feasting!\u201d",
+      "subj": "baby",
+      "verb": "coo",
+      "obj": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    },
+    {
+      "source": "e0029",
+      "target": "e0030",
+      "relation": "next"
+    },
+    {
+      "source": "e0030",
+      "target": "e0031",
+      "relation": "next"
+    },
+    {
+      "source": "e0031",
+      "target": "e0032",
+      "relation": "next"
+    },
+    {
+      "source": "e0032",
+      "target": "e0033",
+      "relation": "next"
+    },
+    {
+      "source": "e0033",
+      "target": "e0034",
+      "relation": "next"
+    },
+    {
+      "source": "e0034",
+      "target": "e0035",
+      "relation": "next"
+    },
+    {
+      "source": "e0035",
+      "target": "e0036",
+      "relation": "next"
+    },
+    {
+      "source": "e0036",
+      "target": "e0037",
+      "relation": "next"
+    },
+    {
+      "source": "e0037",
+      "target": "e0038",
+      "relation": "next"
+    },
+    {
+      "source": "e0038",
+      "target": "e0039",
+      "relation": "next"
+    },
+    {
+      "source": "e0039",
+      "target": "e0040",
+      "relation": "next"
+    },
+    {
+      "source": "e0040",
+      "target": "e0041",
+      "relation": "next"
+    },
+    {
+      "source": "e0041",
+      "target": "e0042",
+      "relation": "next"
+    },
+    {
+      "source": "e0042",
+      "target": "e0043",
+      "relation": "next"
+    },
+    {
+      "source": "e0043",
+      "target": "e0044",
+      "relation": "next"
+    },
+    {
+      "source": "e0044",
+      "target": "e0045",
+      "relation": "next"
+    },
+    {
+      "source": "e0045",
+      "target": "e0046",
+      "relation": "next"
+    },
+    {
+      "source": "e0046",
+      "target": "e0047",
+      "relation": "next"
+    },
+    {
+      "source": "e0047",
+      "target": "e0048",
+      "relation": "next"
+    },
+    {
+      "source": "e0048",
+      "target": "e0049",
+      "relation": "next"
+    },
+    {
+      "source": "e0049",
+      "target": "e0050",
+      "relation": "next"
+    },
+    {
+      "source": "e0050",
+      "target": "e0051",
+      "relation": "next"
+    },
+    {
+      "source": "e0051",
+      "target": "e0052",
+      "relation": "next"
+    }
+  ]
+}

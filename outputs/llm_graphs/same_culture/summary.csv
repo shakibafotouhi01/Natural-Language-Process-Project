@@ -1,0 +1,31 @@
+story_id,culture,title,word_count,num_events,events_per_100_words,input_path,output_dir
+g01,german,THE GOLDEN BIRD,1871,114,6.09299839657937,data/llm/same_culture/g01.txt,outputs/llm_graphs/same_culture/g01
+g02,german,HANSEL AND GRETEL,1529,127,8.306082406801831,data/llm/same_culture/g02.txt,outputs/llm_graphs/same_culture/g02
+g03,german,RAPUNZEL,1250,87,6.959999999999999,data/llm/same_culture/g03.txt,outputs/llm_graphs/same_culture/g03
+g04,german,THE FROG-PRINCE,898,54,6.013363028953229,data/llm/same_culture/g04.txt,outputs/llm_graphs/same_culture/g04
+g05,german,RUMPELSTILTSKIN,739,53,7.171853856562922,data/llm/same_culture/g05.txt,outputs/llm_graphs/same_culture/g05
+g06,german,THE TWELVE DANCING PRINCESSES,913,51,5.585980284775466,data/llm/same_culture/g06.txt,outputs/llm_graphs/same_culture/g06
+g07,german,THE FISHERMAN AND HIS WIFE,1045,111,10.62200956937799,data/llm/same_culture/g07.txt,outputs/llm_graphs/same_culture/g07
+g08,german,THE GOLDEN GOOSE,1157,67,5.790838375108038,data/llm/same_culture/g08.txt,outputs/llm_graphs/same_culture/g08
+g09,german,LILY AND THE LION,1149,69,6.005221932114883,data/llm/same_culture/g09.txt,outputs/llm_graphs/same_culture/g09
+g10,german,THE RAVEN,1572,113,7.188295165394402,data/llm/same_culture/g10.txt,outputs/llm_graphs/same_culture/g10
+n01,native american,Raven Steals the Sun,334,19,5.688622754491018,data/llm/same_culture/n01.txt,outputs/llm_graphs/same_culture/n01
+n02,native american,The origin of fire,493,31,6.288032454361055,data/llm/same_culture/n02.txt,outputs/llm_graphs/same_culture/n02
+n03,native american,Legend of the Corn,675,56,8.296296296296296,data/llm/same_culture/n03.txt,outputs/llm_graphs/same_culture/n03
+n04,native american,The Creation Story – Turtle Island,687,54,7.860262008733625,data/llm/same_culture/n04.txt,outputs/llm_graphs/same_culture/n04
+n05,native american,White Feather and the Six Giants,1778,107,6.017997750281215,data/llm/same_culture/n05.txt,outputs/llm_graphs/same_culture/n05
+n06,native american,The Celestial Sisters,1443,82,5.682605682605683,data/llm/same_culture/n06.txt,outputs/llm_graphs/same_culture/n06
+n07,native american,He of the Little Shell,1179,78,6.615776081424936,data/llm/same_culture/n07.txt,outputs/llm_graphs/same_culture/n07
+n08,native american,The Man with his Leg Tied Up,1185,70,5.9071729957805905,data/llm/same_culture/n08.txt,outputs/llm_graphs/same_culture/n08
+n09,native american,The Crane that Crossed the River,916,66,7.20524017467249,data/llm/same_culture/n09.txt,outputs/llm_graphs/same_culture/n09
+n10,native american,Strong Desire and the Red Sorcerer,1483,103,6.945380984490897,data/llm/same_culture/n10.txt,outputs/llm_graphs/same_culture/n10
+p01,persian,The faith of a starving man,349,16,4.584527220630372,data/llm/same_culture/p01.txt,outputs/llm_graphs/same_culture/p01
+p02,persian,Gulistan - story 16,951,54,5.678233438485805,data/llm/same_culture/p02.txt,outputs/llm_graphs/same_culture/p02
+p03,persian,Gulistan -chapter III- story 28,1816,116,6.387665198237885,data/llm/same_culture/p03.txt,outputs/llm_graphs/same_culture/p03
+p04,persian,Gulistan chapter II - story 5,445,28,6.292134831460674,data/llm/same_culture/p04.txt,outputs/llm_graphs/same_culture/p04
+p05,persian,Gulistan Chapter II- sotry 20,506,26,5.138339920948617,data/llm/same_culture/p05.txt,outputs/llm_graphs/same_culture/p05
+p06,persian,The fox that rode a camel,889,61,6.86164229471316,data/llm/same_culture/p06.txt,outputs/llm_graphs/same_culture/p06
+p07,persian,The smart rabbit,782,60,7.672634271099745,data/llm/same_culture/p07.txt,outputs/llm_graphs/same_culture/p07
+p08,persian,Rostam and Sohrab,2369,152,6.416209371042634,data/llm/same_culture/p08.txt,outputs/llm_graphs/same_culture/p08
+p09,persian,4 - Zal and Rodabeh,2828,219,7.743988684582743,data/llm/same_culture/p09.txt,outputs/llm_graphs/same_culture/p09
+p10,persian,9  - Saiawosh,1662,111,6.678700361010831,data/llm/same_culture/p10.txt,outputs/llm_graphs/same_culture/p10

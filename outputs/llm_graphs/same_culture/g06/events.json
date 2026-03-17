@@ -1,0 +1,410 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "",
+    "verb": "be",
+    "obj": "king",
+    "label": "\u2205 | be | king",
+    "sentence": "There was once a king who had twelve beautiful daughters."
+  },
+  {
+    "sent_id": 1,
+    "subj": "they",
+    "verb": "sleep",
+    "obj": "room",
+    "label": "they | sleep | room",
+    "sentence": "They all slept in one room, each in her own bed, and every night the doors were locked tight."
+  },
+  {
+    "sent_id": 2,
+    "subj": "shoe",
+    "verb": "find",
+    "obj": "wear",
+    "label": "shoe | find | wear",
+    "sentence": "Yet each morning, their shoes were found worn through, as though they had been dancing all night."
+  },
+  {
+    "sent_id": 3,
+    "subj": "nobody",
+    "verb": "figure",
+    "obj": "",
+    "label": "nobody | figure | \u2205",
+    "sentence": "Nobody could figure out how this was possible or where the princesses had been."
+  },
+  {
+    "sent_id": 4,
+    "subj": "king",
+    "verb": "announce",
+    "obj": "",
+    "label": "king | announce | \u2205",
+    "sentence": "The king announced that anyone who could discover the secret of where the princesses danced at night would be allowed to marry whichever princess he chose and would become king after the current king\u2019s death."
+  },
+  {
+    "sent_id": 5,
+    "subj": "they",
+    "verb": "execute",
+    "obj": "",
+    "label": "they | execute | \u2205",
+    "sentence": "But if anyone failed after trying for three days and nights, they would be executed."
+  },
+  {
+    "sent_id": 6,
+    "subj": "son",
+    "verb": "arrive",
+    "obj": "",
+    "label": "son | arrive | \u2205",
+    "sentence": "Soon, the son of another king arrived."
+  },
+  {
+    "sent_id": 7,
+    "subj": "he",
+    "verb": "welcome",
+    "obj": "",
+    "label": "he | welcome | \u2205",
+    "sentence": "He was welcomed and given a room next to the princesses\u2019 chamber, and his door was left open so he could hear everything."
+  },
+  {
+    "sent_id": 8,
+    "subj": "he",
+    "verb": "fall",
+    "obj": "",
+    "label": "he | fall | \u2205",
+    "sentence": "But each night, he fell asleep and when morning came, the princesses\u2019 shoes were again worn out."
+  },
+  {
+    "sent_id": 9,
+    "subj": "king",
+    "verb": "order",
+    "obj": "head",
+    "label": "king | order | head",
+    "sentence": "After three failed nights, the king ordered the prince\u2019s head to be cut off."
+  },
+  {
+    "sent_id": 10,
+    "subj": "other",
+    "verb": "try",
+    "obj": "",
+    "label": "other | try | \u2205",
+    "sentence": "Many others tried and failed just the same."
+  },
+  {
+    "sent_id": 12,
+    "subj": "he",
+    "verb": "meet",
+    "obj": "woman",
+    "label": "he | meet | woman",
+    "sentence": "As he wandered through the forest, he met an old woman who asked where he was headed."
+  },
+  {
+    "sent_id": 13,
+    "subj": "he",
+    "verb": "reply",
+    "obj": "",
+    "label": "he | reply | \u2205",
+    "sentence": "He replied that he wasn\u2019t sure, but he was curious to find out where the princesses danced, hoping to become king someday."
+  },
+  {
+    "sent_id": 14,
+    "subj": "she",
+    "verb": "tell",
+    "obj": "he",
+    "label": "she | tell | he",
+    "sentence": "She told him it wasn\u2019t a difficult task but warned him not to drink any wine offered by the princesses at night and to pretend to be fast asleep as soon as she left."
+  },
+  {
+    "sent_id": 15,
+    "subj": "he",
+    "verb": "follow",
+    "obj": "princess",
+    "label": "he | follow | princess",
+    "sentence": "She then gave him a cloak that would make him invisible, so he could follow the princesses without being seen."
+  },
+  {
+    "sent_id": 16,
+    "subj": "soldier",
+    "verb": "go",
+    "obj": "king",
+    "label": "soldier | go | king",
+    "sentence": "Encouraged by her advice, the soldier went to the king and offered to try."
+  },
+  {
+    "sent_id": 17,
+    "subj": "he",
+    "verb": "receive",
+    "obj": "welcome",
+    "label": "he | receive | welcome",
+    "sentence": "He received a royal welcome and fine clothes, and was taken to the outer chamber at night."
+  },
+  {
+    "sent_id": 18,
+    "subj": "he",
+    "verb": "throw",
+    "obj": "it",
+    "label": "he | throw | it",
+    "sentence": "When the eldest princess brought him a cup of wine, he discreetly threw it away, avoiding a single sip."
+  },
+  {
+    "sent_id": 19,
+    "subj": "he",
+    "verb": "lie",
+    "obj": "",
+    "label": "he | lie | \u2205",
+    "sentence": "Then he lay down and began to snore loudly, pretending to sleep."
+  },
+  {
+    "sent_id": 20,
+    "subj": "princess",
+    "verb": "laugh",
+    "obj": "",
+    "label": "princess | laugh | \u2205",
+    "sentence": "The princesses laughed when they heard him and said he was wasting his life like the others."
+  },
+  {
+    "sent_id": 21,
+    "subj": "they",
+    "verb": "open",
+    "obj": "drawer",
+    "label": "they | open | drawer",
+    "sentence": "They opened their drawers, dressed in their finest clothes, and prepared to dance."
+  },
+  {
+    "sent_id": 22,
+    "subj": "princess",
+    "verb": "warn",
+    "obj": "",
+    "label": "princess | warn | \u2205",
+    "sentence": "The youngest princess, uneasy and fearful, warned something might go wrong, but the eldest dismissed her worries, reminding her how many princes had already failed."
+  },
+  {
+    "sent_id": 23,
+    "subj": "eld",
+    "verb": "clap",
+    "obj": "hand",
+    "label": "eld | clap | hand",
+    "sentence": "The eldest clapped her hands, and the bed sank into the floor as a trapdoor opened beneath it."
+  },
+  {
+    "sent_id": 24,
+    "subj": "princess",
+    "verb": "descend",
+    "obj": "",
+    "label": "princess | descend | \u2205",
+    "sentence": "One by one, the princesses descended, and the soldier quickly put on his cloak and followed."
+  },
+  {
+    "sent_id": 25,
+    "subj": "he",
+    "verb": "catch",
+    "obj": "gown",
+    "label": "he | catch | gown",
+    "sentence": "But halfway down, he caught the gown of the youngest princess and she cried out, warning the others."
+  },
+  {
+    "sent_id": 26,
+    "subj": "eld",
+    "verb": "tell",
+    "obj": "she",
+    "label": "eld | tell | she",
+    "sentence": "The eldest told her it was nothing but a nail."
+  },
+  {
+    "sent_id": 27,
+    "subj": "they",
+    "verb": "find",
+    "obj": "themselves",
+    "label": "they | find | themselves",
+    "sentence": "At the bottom, they found themselves in a magical forest where the leaves were silver and shimmered beautifully."
+  },
+  {
+    "sent_id": 28,
+    "subj": "soldier",
+    "verb": "break",
+    "obj": "branch",
+    "label": "soldier | break | branch",
+    "sentence": "The soldier broke off a small branch as proof, which caused a loud noise that frightened the youngest princess, but the eldest assured her it was only the princes shouting with joy."
+  },
+  {
+    "sent_id": 29,
+    "subj": "they",
+    "verb": "move",
+    "obj": "forest",
+    "label": "they | move | forest",
+    "sentence": "They moved on to another forest where the leaves were gold, and then to a third with leaves sparkling like diamonds."
+  },
+  {
+    "sent_id": 30,
+    "subj": "soldier",
+    "verb": "break",
+    "obj": "branch",
+    "label": "soldier | break | branch",
+    "sentence": "Each time, the soldier broke off a branch, triggering a noise that made the youngest sister uneasy, but the eldest always calmed her fears."
+  },
+  {
+    "sent_id": 31,
+    "subj": "they",
+    "verb": "reach",
+    "obj": "lake",
+    "label": "they | reach | lake",
+    "sentence": "They reached a large lake where twelve small boats waited, each with a handsome prince."
+  },
+  {
+    "sent_id": 32,
+    "subj": "princess",
+    "verb": "step",
+    "obj": "boat",
+    "label": "princess | step | boat",
+    "sentence": "The princesses each stepped into a boat, and the soldier took the one with the youngest princess."
+  },
+  {
+    "sent_id": 33,
+    "subj": "prince",
+    "verb": "say",
+    "obj": "",
+    "label": "prince | say | \u2205",
+    "sentence": "The prince rowing the boat said they were slower than usual and he felt tired, but the princess blamed the warm weather."
+  },
+  {
+    "sent_id": 34,
+    "subj": "they",
+    "verb": "cross",
+    "obj": "castle",
+    "label": "they | cross | castle",
+    "sentence": "They crossed to a shining castle filled with music from horns and trumpets."
+  },
+  {
+    "sent_id": 35,
+    "subj": "they",
+    "verb": "dance",
+    "obj": "princess",
+    "label": "they | dance | princess",
+    "sentence": "They all danced there\u2014each princess with a prince, and the soldier, invisible, danced among them as well."
+  },
+  {
+    "sent_id": 36,
+    "subj": "he",
+    "verb": "drink",
+    "obj": "it",
+    "label": "he | drink | it",
+    "sentence": "Whenever a princess had a cup of wine, he drank it all, leaving the cup empty."
+  },
+  {
+    "sent_id": 37,
+    "subj": "this",
+    "verb": "frighten",
+    "obj": "princess",
+    "label": "this | frighten | princess",
+    "sentence": "This frightened the youngest princess, but again the eldest reassured her."
+  },
+  {
+    "sent_id": 38,
+    "subj": "they",
+    "verb": "dance",
+    "obj": "three",
+    "label": "they | dance | three",
+    "sentence": "They danced until three in the morning, wearing out their shoes, then sailed back across the lake."
+  },
+  {
+    "sent_id": 40,
+    "subj": "they",
+    "verb": "say",
+    "obj": "goodbye",
+    "label": "they | say | goodbye",
+    "sentence": "They said their goodbyes and promised to return the next night."
+  },
+  {
+    "sent_id": 41,
+    "subj": "soldier",
+    "verb": "race",
+    "obj": "stair",
+    "label": "soldier | race | stair",
+    "sentence": "At the stairs leading back, the soldier raced ahead and pretended to sleep again."
+  },
+  {
+    "sent_id": 42,
+    "subj": "princess",
+    "verb": "creep",
+    "obj": "",
+    "label": "princess | creep | \u2205",
+    "sentence": "The tired princesses crept upstairs quietly, believing all was safe, undressed, put away their fine clothes, took off their worn shoes, and went to bed."
+  },
+  {
+    "sent_id": 43,
+    "subj": "soldier",
+    "verb": "keep",
+    "obj": "silent",
+    "label": "soldier | keep | silent",
+    "sentence": "The soldier kept silent about what he had seen, resolved to watch again the next two nights."
+  },
+  {
+    "sent_id": 44,
+    "subj": "routine",
+    "verb": "play",
+    "obj": "",
+    "label": "routine | play | \u2205",
+    "sentence": "Each night the same routine played out, with dancing until their shoes were ruined, followed by the row back across the lake."
+  },
+  {
+    "sent_id": 45,
+    "subj": "soldier",
+    "verb": "take",
+    "obj": "cup",
+    "label": "soldier | take | cup",
+    "sentence": "On the third night, the soldier took a golden cup as proof of where they had been."
+  },
+  {
+    "sent_id": 46,
+    "subj": "soldier",
+    "verb": "bring",
+    "obj": "king",
+    "label": "soldier | bring | king",
+    "sentence": "When the time came to reveal the secret, the soldier was brought before the king with the branches and the golden cup."
+  },
+  {
+    "sent_id": 47,
+    "subj": "princess",
+    "verb": "listen",
+    "obj": "",
+    "label": "princess | listen | \u2205",
+    "sentence": "The twelve princesses listened from behind a door as the soldier told the king they danced underground with twelve princes, then showed the items he had taken."
+  },
+  {
+    "sent_id": 48,
+    "subj": "king",
+    "verb": "summon",
+    "obj": "princess",
+    "label": "king | summon | princess",
+    "sentence": "The king summoned the princesses and asked if it was true."
+  },
+  {
+    "sent_id": 49,
+    "subj": "they",
+    "verb": "admit",
+    "obj": "everything",
+    "label": "they | admit | everything",
+    "sentence": "Faced with the evidence, they admitted everything."
+  },
+  {
+    "sent_id": 50,
+    "subj": "king",
+    "verb": "ask",
+    "obj": "soldier",
+    "label": "king | ask | soldier",
+    "sentence": "The king then asked the soldier which princess he wished to marry."
+  },
+  {
+    "sent_id": 51,
+    "subj": "he",
+    "verb": "reply",
+    "obj": "",
+    "label": "he | reply | \u2205",
+    "sentence": "He replied that, being no longer young, he would choose the eldest."
+  },
+  {
+    "sent_id": 52,
+    "subj": "they",
+    "verb": "be",
+    "obj": "",
+    "label": "they | be | \u2205",
+    "sentence": "They were married that very day, and the soldier was named heir to the throne."
+  }
+]
