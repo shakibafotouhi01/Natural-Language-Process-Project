@@ -1,0 +1,378 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "one",
+    "verb": "complain",
+    "obj": "time",
+    "label": "one | complain | time",
+    "sentence": "Gulistan - story 16\n\nOne of my friends complained of the unpropitious times, telling me that he had a slender income, a large family, without strength to bear the load of poverty and had often entertained the idea to emigrate to another country so that no matter how he made a living no one might become aware of his good or ill luck."
+  },
+  {
+    "sent_id": 1,
+    "subj": "man",
+    "verb": "sleep",
+    "obj": "hungry",
+    "label": "man | sleep | hungry",
+    "sentence": "Many a man slept hungry and no one knew who he was."
+  },
+  {
+    "sent_id": 2,
+    "subj": "man",
+    "verb": "be",
+    "obj": "point",
+    "label": "man | be | point",
+    "sentence": "Many a man was at the point of death and no one wept for him."
+  },
+  {
+    "sent_id": 3,
+    "subj": "he",
+    "verb": "be",
+    "obj": "",
+    "label": "he | be | \u2205",
+    "sentence": "He was also apprehensive of the malevolence of enemies who would laugh behind his back and would attribute the struggle he underwent for the benefit of his family to his want of manly independence and that they will say:\n\n'Behold that dishonourable fellow who will never\nSee the face of prosperity,\nWill choose bodily comfort for himself,\nAbandoning his wife and children to misery.'"
+  },
+  {
+    "sent_id": 4,
+    "subj": "he",
+    "verb": "tell",
+    "obj": "i",
+    "label": "he | tell | i",
+    "sentence": "He also told me that as I knew he possessed some knowledge of arithmetic, I might, through my influence, get him appointed to a post which would become the means of putting his mind at ease and place him under obligations to me, which he could not requite by gratitude during the rest of his life."
+  },
+  {
+    "sent_id": 5,
+    "subj": "i",
+    "verb": "reply",
+    "obj": "",
+    "label": "i | reply | \u2205",
+    "sentence": "I replied: 'Dear friend!"
+  },
+  {
+    "sent_id": 6,
+    "subj": "employment",
+    "verb": "consist",
+    "obj": "part",
+    "label": "employment | consist | part",
+    "sentence": "Employment by a padshah consists of two parts, namely, the hope for bread and the danger of life, but it is against the opinion of intelligent men to incur this danger for that hope.'"
+  },
+  {
+    "sent_id": 7,
+    "subj": "one",
+    "verb": "come",
+    "obj": "house",
+    "label": "one | come | house",
+    "sentence": "No one comes to the house of a dervish\nTo levy a tax on land and garden."
+  },
+  {
+    "sent_id": 9,
+    "subj": "he",
+    "verb": "reply",
+    "obj": "",
+    "label": "he | reply | \u2205",
+    "sentence": "He replied: 'Thou hast not uttered these words in conformity with my case nor answered my question."
+  },
+  {
+    "sent_id": 10,
+    "subj": "thou",
+    "verb": "hear",
+    "obj": "saying",
+    "label": "thou | hear | saying",
+    "sentence": "Hast thou not heard the saying?"
+  },
+  {
+    "sent_id": 11,
+    "subj": "",
+    "verb": "let",
+    "obj": "",
+    "label": "\u2205 | let | \u2205",
+    "sentence": "\"Whoever commits treachery let his hand tremble at the account."
+  },
+  {
+    "sent_id": 12,
+    "subj": "straightness",
+    "verb": "be",
+    "obj": "mean",
+    "label": "straightness | be | mean",
+    "sentence": "\"'\n\nStraightness is the means of acceptance with God."
+  },
+  {
+    "sent_id": 13,
+    "subj": "i",
+    "verb": "see",
+    "obj": "",
+    "label": "i | see | \u2205",
+    "sentence": "I saw no one lost on the straight road."
+  },
+  {
+    "sent_id": 14,
+    "subj": "sage",
+    "verb": "say",
+    "obj": "",
+    "label": "sage | say | \u2205",
+    "sentence": "Sages have said: 'Four persons are for life in dread of four persons: a robber of the sultan, a thief of the watchman, an adulterer of an informer, and a harlot of the muhtasib."
+  },
+  {
+    "sent_id": 15,
+    "subj": "he",
+    "verb": "fear",
+    "obj": "what",
+    "label": "he | fear | what",
+    "sentence": "But what has he to fear whose account of the conscience is clear?'\n\nBe not extravagant when in office, if thou desirest\nOn thy removal to see thy foes embarrassed for imputations against\nthee."
+  },
+  {
+    "sent_id": 16,
+    "subj": "",
+    "verb": "be",
+    "obj": "brother",
+    "label": "\u2205 | be | brother",
+    "sentence": "Be thou pure, O brother, and in fear of no one."
+  },
+  {
+    "sent_id": 17,
+    "subj": "washerman",
+    "verb": "beat",
+    "obj": "garment",
+    "label": "washerman | beat | garment",
+    "sentence": "Washermen beat only impure garments against stones."
+  },
+  {
+    "sent_id": 18,
+    "subj": "i",
+    "verb": "say",
+    "obj": "",
+    "label": "i | say | \u2205",
+    "sentence": "I said: 'The story of that fox resembles thy case, who was by some persons seen fleeing with much trouble and asked for the cause of his fear replied: 'I have heard that camels are being forced into the service.'"
+  },
+  {
+    "sent_id": 19,
+    "subj": "they",
+    "verb": "say",
+    "obj": "",
+    "label": "they | say | \u2205",
+    "sentence": "They said: 'O fool, what connection hast thou with a camel and what resemblance does the latter bear to thee?'"
+  },
+  {
+    "sent_id": 20,
+    "subj": "fox",
+    "verb": "rejoin",
+    "obj": "",
+    "label": "fox | rejoin | \u2205",
+    "sentence": "The fox rejoined: 'Hush."
+  },
+  {
+    "sent_id": 21,
+    "subj": "envious",
+    "verb": "say",
+    "obj": "",
+    "label": "envious | say | \u2205",
+    "sentence": "If the envious malevolently say that I am a camel and I am caught, who will care to release me or investigate my case?"
+  },
+  {
+    "sent_id": 22,
+    "subj": "person",
+    "verb": "die",
+    "obj": "",
+    "label": "person | die | \u2205",
+    "sentence": "Till the antidote is brought from Eraq the snake-bitten person dies.'"
+  },
+  {
+    "sent_id": 23,
+    "subj": "art",
+    "verb": "sit",
+    "obj": "ambush",
+    "label": "art | sit | ambush",
+    "sentence": "Thou art a very excellent and honest man but enemies sit in ambush and competitors in every corner."
+  },
+  {
+    "sent_id": 24,
+    "subj": "thou",
+    "verb": "call",
+    "obj": "",
+    "label": "thou | call | \u2205",
+    "sentence": "If they describe thy character in a contrary manner, thou wouldst be called upon to give explanations to the padshah and incur reproof."
+  },
+  {
+    "sent_id": 26,
+    "subj": "i",
+    "verb": "be",
+    "obj": "opinion",
+    "label": "i | be | opinion",
+    "sentence": "Accordingly I am of opinion that thou shouldst retire to the domain of contentment and abandon aspirations to dominion."
+  },
+  {
+    "sent_id": 27,
+    "subj": "man",
+    "verb": "say",
+    "obj": "",
+    "label": "man | say | \u2205",
+    "sentence": "Wise men have said:\n\n'In the sea there are countless gains,"
+  },
+  {
+    "sent_id": 28,
+    "subj": "it",
+    "verb": "be",
+    "obj": "shore",
+    "label": "it | be | shore",
+    "sentence": "But if thou desirest safety, it will be on the shore.'"
+  },
+  {
+    "sent_id": 29,
+    "subj": "friend",
+    "verb": "become",
+    "obj": "",
+    "label": "friend | become | \u2205",
+    "sentence": "My friend, having heard these words, became angry, made a wry face and began to reproach me, saying: 'What sufficiency of wisdom and maturity of intellect is this?"
+  },
+  {
+    "sent_id": 30,
+    "subj": "saying",
+    "verb": "come",
+    "obj": "",
+    "label": "saying | come | \u2205",
+    "sentence": "The saying of philosophers has come true, that friends are useful in prison because at table all enemies appear as friends.'"
+  },
+  {
+    "sent_id": 31,
+    "subj": "",
+    "verb": "account",
+    "obj": "he",
+    "label": "\u2205 | account | he",
+    "sentence": "Account him not a friend who knocks at the door of prosperity,\nBoasts of amity and calls himself thy adopted brother."
+  },
+  {
+    "sent_id": 32,
+    "subj": "i",
+    "verb": "consider",
+    "obj": "",
+    "label": "i | consider | \u2205",
+    "sentence": "I consider him a friend who takes a friend's hand\nWhen he is in a distressed state and in poverty."
+  },
+  {
+    "sent_id": 33,
+    "subj": "",
+    "verb": "explain",
+    "obj": "case",
+    "label": "\u2205 | explain | case",
+    "sentence": "Seeing that he had thus changed and ascribed my advice to an interested motive, I paid a visit to the President of the State Council and, trusting in my old acquaintance with him, explained the case of my friend whom he then appointed to a small post."
+  },
+  {
+    "sent_id": 34,
+    "subj": "behaviour",
+    "verb": "elicit",
+    "obj": "approbation",
+    "label": "behaviour | elicit | approbation",
+    "sentence": "In a short time my friend's affable behaviour and good management elicited approbation so that he was promoted to a higher office."
+  },
+  {
+    "sent_id": 35,
+    "subj": "star",
+    "verb": "ascend",
+    "obj": "manner",
+    "label": "star | ascend | manner",
+    "sentence": "In this manner the star of his good luck ascended till he reached the zenith of his aspirations, became a courtier of his majesty the sultan, generally esteemed and trusted."
+  },
+  {
+    "sent_id": 36,
+    "subj": "i",
+    "verb": "be",
+    "obj": "",
+    "label": "i | be | \u2205",
+    "sentence": "I was delighted with his safe position and said:\n\n'Be not apprehensive of tangled affairs and keep not a broken heart\nBecause the spring of life is in darkness.'\n\nDo not grieve, O brother in misery,\nBecause the Ill-merciful has hidden favours."
+  },
+  {
+    "sent_id": 37,
+    "subj": "",
+    "verb": "possess",
+    "obj": "fruit",
+    "label": "\u2205 | possess | fruit",
+    "sentence": "Sit not morose on account of the turns of time; for patience,\nAlthough bitter, nevertheless possesses a sweet fruit."
+  },
+  {
+    "sent_id": 38,
+    "subj": "i",
+    "verb": "happen",
+    "obj": "time",
+    "label": "i | happen | time",
+    "sentence": "At that time I happened to go with a company of friends on a journey to Mekkah and on my return he met me at a distance of two stages."
+  },
+  {
+    "sent_id": 39,
+    "subj": "i",
+    "verb": "perceive",
+    "obj": "appearance",
+    "label": "i | perceive | appearance",
+    "sentence": "I perceived his outward appearance to be distressed, his costume being that of dervishes."
+  },
+  {
+    "sent_id": 40,
+    "subj": "i",
+    "verb": "ask",
+    "obj": "",
+    "label": "i | ask | \u2205",
+    "sentence": "I asked: 'What is the matter?'"
+  },
+  {
+    "sent_id": 41,
+    "subj": "he",
+    "verb": "reply",
+    "obj": "",
+    "label": "he | reply | \u2205",
+    "sentence": "He replied: 'As thou hast predicted, some persons envied me and brought against me an accusation of treason."
+  },
+  {
+    "sent_id": 42,
+    "subj": "king",
+    "verb": "order",
+    "obj": "inquiry",
+    "label": "king | order | inquiry",
+    "sentence": "The king ordered no inquiry on its truthfulness and my old well-wishers with my kind friends who failed to speak the word of truth forgot our old intimacy."
+  },
+  {
+    "sent_id": 43,
+    "subj": "they",
+    "verb": "place",
+    "obj": "hand",
+    "label": "they | place | hand",
+    "sentence": "'Seest thou not in front of the possessor of dignity\nThey place the hands on their heads, praising him;"
+  },
+  {
+    "sent_id": 45,
+    "subj": "whereon",
+    "verb": "confiscate",
+    "obj": "",
+    "label": "whereon | confiscate | \u2205",
+    "sentence": "'In short, I was till this week undergoing various persecutions, when the news of the pilgrims' approach from Mekkah arrived, whereon I was released from my heavy bonds and my hereditary property confiscated.'"
+  },
+  {
+    "sent_id": 46,
+    "subj": "i",
+    "verb": "reply",
+    "obj": "",
+    "label": "i | reply | \u2205",
+    "sentence": "I replied: 'Thou hast not paid attention to my remarks when I said that the service of padshahs is like a sea voyage, profitable and dangerous, so that thou wilt either gain a treasure or perish in the waves.'"
+  },
+  {
+    "sent_id": 47,
+    "subj": "khajah",
+    "verb": "take",
+    "obj": "gold",
+    "label": "khajah | take | gold",
+    "sentence": "The khajah either takes gold with both hands to the shore\nOr the waves throw him one day dead upon the shore."
+  },
+  {
+    "sent_id": 48,
+    "subj": "i",
+    "verb": "content",
+    "obj": "myself",
+    "label": "i | content | myself",
+    "sentence": "Not thinking it suitable to scratch the wound of the dervish more than I had already done and so sprinkle salt thereon, I contented myself with reciting the following two distichs:"
+  },
+  {
+    "sent_id": 49,
+    "subj": "wilt",
+    "verb": "see",
+    "obj": "foot",
+    "label": "wilt | see | foot",
+    "sentence": "Knewest thou not that thou wilt see thy feet in bonds\nIf the advice of people cannot penetrate into thy ear?"
+  }
+]

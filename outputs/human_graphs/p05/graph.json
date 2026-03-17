@@ -1,0 +1,352 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "desire | be | \u2205",
+      "sent_id": 0,
+      "sentence": "Gulistan Chapter II- sotry 20\n\nDespite the abundant admonitions of the most illustrious Sheikh Abulfaraj Ben Juzi to shun musical entertainments and to prefer solitude and retirement, the budding of my youth overcame me, my sensual desires were excited so that, unable to resist them, I walked some steps contrary to the opinion of my tutor, enjoying myself in musical amusements and convivial meetings.",
+      "subj": "desire",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0001",
+      "label": "i | say | \u2205",
+      "sent_id": 1,
+      "sentence": "When the advice of my sheikh occurred to my mind, I said:\n\n'If the qazi were sitting with us, he would clap his hands.",
+      "subj": "i",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0002",
+      "label": "he | excuse | drunkard",
+      "sent_id": 2,
+      "sentence": "If the muhtasib were bibbing wine, he would excuse a drunkard.'",
+      "subj": "he",
+      "verb": "excuse",
+      "obj": "drunkard"
+    },
+    {
+      "id": "e0003",
+      "label": "i | live | \u2205",
+      "sent_id": 3,
+      "sentence": "Thus I lived till I paid one night a visit to an assembly of people in which I saw a musician.",
+      "subj": "i",
+      "verb": "live",
+      "obj": ""
+    },
+    {
+      "id": "e0004",
+      "label": "thou | say | \u2205",
+      "sent_id": 4,
+      "sentence": "Thou wouldst have said he is tearing up the vital artery\nwith his fiddle-bow.",
+      "subj": "thou",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0005",
+      "label": "voice | be | \u2205",
+      "sent_id": 5,
+      "sentence": "His voice was more unpleasant than the wailing of one who\nlost his father.",
+      "subj": "voice",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0006",
+      "label": "audience | stop | ear",
+      "sent_id": 6,
+      "sentence": "The audience now stopped their ears with their fingers, and now put them on their lips to silence him.",
+      "subj": "audience",
+      "verb": "stop",
+      "obj": "ear"
+    },
+    {
+      "id": "e0007",
+      "label": "we | become | sound",
+      "sent_id": 7,
+      "sentence": "We became ecstatic by the sounds of pleasing songs but thou art such a singer that when thou art silent we are pleased.",
+      "subj": "we",
+      "verb": "become",
+      "obj": "sound"
+    },
+    {
+      "id": "e0008",
+      "label": "one | feel | \u2205",
+      "sent_id": 8,
+      "sentence": "No one feels pleased by thy performance\nExcept at the time of departure when thou pleasest.",
+      "subj": "one",
+      "verb": "feel",
+      "obj": ""
+    },
+    {
+      "id": "e0009",
+      "label": "i | say | host",
+      "sent_id": 9,
+      "sentence": "When that harper began to sing\nI said to the host: 'For God's sake\nPut mercury in my ear that I may not hear\nOr open the door that I may go away.'",
+      "subj": "i",
+      "verb": "say",
+      "obj": "host"
+    },
+    {
+      "id": "e0010",
+      "label": "i | try | \u2205",
+      "sent_id": 10,
+      "sentence": "In short, I tried to please my friends and succeeded after a considerable struggle in spending the whole night there.",
+      "subj": "i",
+      "verb": "try",
+      "obj": ""
+    },
+    {
+      "id": "e0011",
+      "label": "muezzin | shout | call",
+      "sent_id": 11,
+      "sentence": "The muezzin shouted the call to prayers out of time,\nNot knowing how much of the night had elapsed.",
+      "subj": "muezzin",
+      "verb": "shout",
+      "obj": "call"
+    },
+    {
+      "id": "e0012",
+      "label": "\u2205 | enter | eye",
+      "sent_id": 12,
+      "sentence": "Ask the length of the night from my eyelids\nFor sleep did not enter my eyes one moment.",
+      "subj": "",
+      "verb": "enter",
+      "obj": "eye"
+    },
+    {
+      "id": "e0013",
+      "label": "i | take | turban",
+      "sent_id": 13,
+      "sentence": "In the morning I took my turban from my head, with one dinar from my belt by way of gratification, and placed them before the musician whom I embraced and thanked.",
+      "subj": "i",
+      "verb": "take",
+      "obj": "turban"
+    },
+    {
+      "id": "e0014",
+      "label": "friend | attribute | it",
+      "sent_id": 14,
+      "sentence": "My friends who saw that my appreciation of his merits was unusual attributed it to the levity of my intellect and laughed secretly.",
+      "subj": "friend",
+      "verb": "attribute",
+      "obj": "it"
+    },
+    {
+      "id": "e0015",
+      "label": "one | lengthen | tongue",
+      "sent_id": 15,
+      "sentence": "One of them, however, lengthened out his tongue of objection and began to reproach me, saying that I had committed an act repugnant to intelligent men by bestowing a portion of my professional dress upon a musician who had all his life not a dirhem laid upon the palm of his hand nor filings of silver or of gold placed on his drum.",
+      "subj": "one",
+      "verb": "lengthen",
+      "obj": "tongue"
+    },
+    {
+      "id": "e0016",
+      "label": "he | be | abode",
+      "sent_id": 17,
+      "sentence": "Far be he from this happy abode.",
+      "subj": "he",
+      "verb": "be",
+      "obj": "abode"
+    },
+    {
+      "id": "e0017",
+      "label": "one | see | he",
+      "sent_id": 18,
+      "sentence": "No one ever saw him twice in the same place.",
+      "subj": "one",
+      "verb": "see",
+      "obj": "he"
+    },
+    {
+      "id": "e0018",
+      "label": "hair | stand | end",
+      "sent_id": 19,
+      "sentence": "As soon as the shout rose from his mouth\nThe hair on the bodies of the people stood on end.",
+      "subj": "hair",
+      "verb": "stand",
+      "obj": "end"
+    },
+    {
+      "id": "e0019",
+      "label": "fowl | fly | \u2205",
+      "sent_id": 20,
+      "sentence": "The fowls of the house, terrified by him, flew away\nWhilst he distracted our senses and tore his throat.",
+      "subj": "fowl",
+      "verb": "fly",
+      "obj": ""
+    },
+    {
+      "id": "e0020",
+      "label": "i | say | \u2205",
+      "sent_id": 21,
+      "sentence": "I said: 'It will be proper to shorten the tongue of objection because his talent has become evident to me.'",
+      "subj": "i",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0021",
+      "label": "he | ask | i",
+      "sent_id": 22,
+      "sentence": "He then asked me to explain the quality of it in order to inform the company so that all might apologize for the jokes they had cracked about me.",
+      "subj": "he",
+      "verb": "ask",
+      "obj": "i"
+    },
+    {
+      "id": "e0022",
+      "label": "i | reply | \u2205",
+      "sent_id": 23,
+      "sentence": "I replied: 'Although my sheikh had often told me to abandon musical entertainments and had given me abundant advice, I did not mind it.",
+      "subj": "i",
+      "verb": "reply",
+      "obj": ""
+    },
+    {
+      "id": "e0023",
+      "label": "horoscope | guide | i",
+      "sent_id": 24,
+      "sentence": "This night my propitious horoscope and my august luck have guided me to this place where I have, on hearing the performance of this musician, repented and vowed never again to attend at singing and convivial parties.'",
+      "subj": "horoscope",
+      "verb": "guide",
+      "obj": "i"
+    },
+    {
+      "id": "e0024",
+      "label": "voice | enchant | heart",
+      "sent_id": 25,
+      "sentence": "A pleasant voice, from a sweet palate, mouth and lips,\nWhether employed in singing or not, enchants the heart\nBut the melodies of lovers of Isfahan or of the Hejaz\nFrom the windpipe of a bad singer are not nice.",
+      "subj": "voice",
+      "verb": "enchant",
+      "obj": "heart"
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    }
+  ]
+}

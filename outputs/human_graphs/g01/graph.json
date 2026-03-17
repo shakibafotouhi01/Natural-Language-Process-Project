@@ -1,0 +1,1066 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "apple | count | \u2205",
+      "sent_id": 1,
+      "sentence": "These apples were always counted, and about the time when they began to grow ripe it was found that every night one of them was gone.",
+      "subj": "apple",
+      "verb": "count",
+      "obj": ""
+    },
+    {
+      "id": "e0001",
+      "label": "king | become | \u2205",
+      "sent_id": 2,
+      "sentence": "The king became very angry at this, and ordered the gardener to keep watch all night under the tree.",
+      "subj": "king",
+      "verb": "become",
+      "obj": ""
+    },
+    {
+      "id": "e0002",
+      "label": "gardener | set | son",
+      "sent_id": 3,
+      "sentence": "The gardener set his eldest son to watch; but about twelve o\u2019clock he fell asleep, and in the morning another of the apples was missing.",
+      "subj": "gardener",
+      "verb": "set",
+      "obj": "son"
+    },
+    {
+      "id": "e0003",
+      "label": "son | order | \u2205",
+      "sent_id": 4,
+      "sentence": "Then the second son was ordered to watch; and at midnight he too fell asleep, and in the morning another apple was gone.",
+      "subj": "son",
+      "verb": "order",
+      "obj": ""
+    },
+    {
+      "id": "e0004",
+      "label": "son | offer | \u2205",
+      "sent_id": 5,
+      "sentence": "Then the third son offered to keep watch; but the gardener at first would not let him, for fear some harm should come to him: however, at last he consented, and the young man laid himself under the tree to watch.",
+      "subj": "son",
+      "verb": "offer",
+      "obj": ""
+    },
+    {
+      "id": "e0005",
+      "label": "he | hear | noise",
+      "sent_id": 6,
+      "sentence": "As the clock struck twelve he heard a rustling noise in the air, and a bird came flying that was of pure gold; and as it was snapping at one of the apples with its beak, the gardener\u2019s son jumped up and shot an arrow at it.",
+      "subj": "he",
+      "verb": "hear",
+      "obj": "noise"
+    },
+    {
+      "id": "e0006",
+      "label": "it | drop | feather",
+      "sent_id": 7,
+      "sentence": "But the arrow did the bird no harm; only it dropped a golden feather from its tail, and then flew away.",
+      "subj": "it",
+      "verb": "drop",
+      "obj": "feather"
+    },
+    {
+      "id": "e0007",
+      "label": "feather | bring | king",
+      "sent_id": 8,
+      "sentence": "The golden feather was brought to the king in the morning, and all the council was called together.",
+      "subj": "feather",
+      "verb": "bring",
+      "obj": "king"
+    },
+    {
+      "id": "e0008",
+      "label": "everyone | agree | \u2205",
+      "sent_id": 9,
+      "sentence": "Everyone agreed that it was worth more than all the wealth of the kingdom: but the king said, \u2018One feather is of no use to me, I must have the whole bird.\u2019",
+      "subj": "everyone",
+      "verb": "agree",
+      "obj": ""
+    },
+    {
+      "id": "e0009",
+      "label": "son | set | \u2205",
+      "sent_id": 10,
+      "sentence": "Then the gardener\u2019s eldest son set out and thought to find the golden bird very easily; and when he had gone but a little way, he came to a wood, and by the side of the wood he saw a fox sitting; so he took his bow and made ready to shoot at it.",
+      "subj": "son",
+      "verb": "set",
+      "obj": ""
+    },
+    {
+      "id": "e0010",
+      "label": "fox | say | \u2205",
+      "sent_id": 11,
+      "sentence": "Then the fox said, \u2018Do not shoot me, for I will give you good counsel; I know what your business is, and that you want to find the golden bird.",
+      "subj": "fox",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0011",
+      "label": "you | reach | village",
+      "sent_id": 12,
+      "sentence": "You will reach a village in the evening; and when you get there, you will see two inns opposite to each other, one of which is very pleasant and beautiful to look at: go not in there, but rest for the night in the other, though it may appear to you to be very poor and mean.\u2019",
+      "subj": "you",
+      "verb": "reach",
+      "obj": "village"
+    },
+    {
+      "id": "e0012",
+      "label": "son | think | himself",
+      "sent_id": 13,
+      "sentence": "But the son thought to himself, \u2018What can such a beast as this know about the matter?\u2019",
+      "subj": "son",
+      "verb": "think",
+      "obj": "himself"
+    },
+    {
+      "id": "e0013",
+      "label": "he | shoot | arrow",
+      "sent_id": 14,
+      "sentence": "So he shot his arrow at the fox; but he missed it, and it set up its tail above its back and ran into the wood.",
+      "subj": "he",
+      "verb": "shoot",
+      "obj": "arrow"
+    },
+    {
+      "id": "e0014",
+      "label": "he | go | \u2205",
+      "sent_id": 15,
+      "sentence": "Then he went his way, and in the evening came to the village where the two inns were; and in one of these were people singing, and dancing, and feasting; but the other looked very dirty, and poor.",
+      "subj": "he",
+      "verb": "go",
+      "obj": ""
+    },
+    {
+      "id": "e0015",
+      "label": "he | say | \u2205",
+      "sent_id": 16,
+      "sentence": "\u2018I should be very silly,\u2019 said he, \u2018if I went to that shabby house, and left this charming place\u2019; so he went into the smart house, and ate and drank at his ease, and forgot the bird, and his country too.",
+      "subj": "he",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0016",
+      "label": "time | pass | \u2205",
+      "sent_id": 17,
+      "sentence": "Time passed on; and as the eldest son did not come back, and no tidings were heard of him, the second son set out, and the same thing happened to him.",
+      "subj": "time",
+      "verb": "pass",
+      "obj": ""
+    },
+    {
+      "id": "e0017",
+      "label": "he | meet | fox",
+      "sent_id": 18,
+      "sentence": "He met the fox, who gave him the good advice: but when he came to the two inns, his eldest brother was standing at the window where the merrymaking was, and called to him to come in; and he could not withstand the temptation, but went in, and forgot the golden bird and his country in the same manner.",
+      "subj": "he",
+      "verb": "meet",
+      "obj": "fox"
+    },
+    {
+      "id": "e0018",
+      "label": "time | pass | \u2205",
+      "sent_id": 19,
+      "sentence": "Time passed on again, and the youngest son too wished to set out into the wide world to seek for the golden bird; but his father would not listen to it for a long while, for he was very fond of his son, and was afraid that some ill luck might happen to him also, and prevent his coming back.",
+      "subj": "time",
+      "verb": "pass",
+      "obj": ""
+    },
+    {
+      "id": "e0019",
+      "label": "it | agree | \u2205",
+      "sent_id": 20,
+      "sentence": "However, at last it was agreed he should go, for he would not rest at home; and as he came to the wood, he met the fox, and heard the same good counsel.",
+      "subj": "it",
+      "verb": "agree",
+      "obj": ""
+    },
+    {
+      "id": "e0020",
+      "label": "fox | say | \u2205",
+      "sent_id": 21,
+      "sentence": "But he was thankful to the fox, and did not attempt his life as his brothers had done; so the fox said, \u2018Sit upon my tail, and you will travel faster.\u2019",
+      "subj": "fox",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0021",
+      "label": "he | sit | \u2205",
+      "sent_id": 22,
+      "sentence": "So he sat down, and the fox began to run, and away they went over stock and stone so quick that their hair whistled in the wind.",
+      "subj": "he",
+      "verb": "sit",
+      "obj": ""
+    },
+    {
+      "id": "e0022",
+      "label": "son | follow | counsel",
+      "sent_id": 23,
+      "sentence": "When they came to the village, the son followed the fox\u2019s counsel, and without looking about him went to the shabby inn and rested there all night at his ease.",
+      "subj": "son",
+      "verb": "follow",
+      "obj": "counsel"
+    },
+    {
+      "id": "e0023",
+      "label": "fox | come | morning",
+      "sent_id": 24,
+      "sentence": "In the morning came the fox again and met him as he was beginning his journey, and said, \u2018Go straight forward, till you come to a castle, before which lie a whole troop of soldiers fast asleep and snoring: take no notice of them, but go into the castle and pass on and on till you come to a room, where the golden bird sits in a wooden cage; close by it stands a beautiful golden cage; but do not try to take the bird out of the shabby cage and put it into the handsome one, otherwise you will repent it.\u2019",
+      "subj": "fox",
+      "verb": "come",
+      "obj": "morning"
+    },
+    {
+      "id": "e0024",
+      "label": "fox | stretch | tail",
+      "sent_id": 25,
+      "sentence": "Then the fox stretched out his tail again, and the young man sat himself down, and away they went over stock and stone till their hair whistled in the wind.",
+      "subj": "fox",
+      "verb": "stretch",
+      "obj": "tail"
+    },
+    {
+      "id": "e0025",
+      "label": "son | go | \u2205",
+      "sent_id": 26,
+      "sentence": "Before the castle gate all was as the fox had said: so the son went in and found the chamber where the golden bird hung in a wooden cage, and below stood the golden cage, and the three golden apples that had been lost were lying close by it.",
+      "subj": "son",
+      "verb": "go",
+      "obj": ""
+    },
+    {
+      "id": "e0026",
+      "label": "he | open | door",
+      "sent_id": 27,
+      "sentence": "Then thought he to himself, \u2018It will be a very droll thing to bring away such a fine bird in this shabby cage\u2019; so he opened the door and took hold of it and put it into the golden cage.",
+      "subj": "he",
+      "verb": "open",
+      "obj": "door"
+    },
+    {
+      "id": "e0027",
+      "label": "bird | set | scream",
+      "sent_id": 28,
+      "sentence": "But the bird set up such a loud scream that all the soldiers awoke, and they took him prisoner and carried him before the king.",
+      "subj": "bird",
+      "verb": "set",
+      "obj": "scream"
+    },
+    {
+      "id": "e0028",
+      "label": "court | sit | \u2205",
+      "sent_id": 29,
+      "sentence": "The next morning the court sat to judge him; and when all was heard, it sentenced him to die, unless he should bring the king the golden horse which could run as swiftly as the wind; and if he did this, he was to have the golden bird given him for his own.",
+      "subj": "court",
+      "verb": "sit",
+      "obj": ""
+    },
+    {
+      "id": "e0029",
+      "label": "he | set | journey",
+      "sent_id": 30,
+      "sentence": "So he set out once more on his journey, sighing, and in great despair, when on a sudden his friend the fox met him, and said, \u2018You see now what has happened on account of your not listening to my counsel.",
+      "subj": "he",
+      "verb": "set",
+      "obj": "journey"
+    },
+    {
+      "id": "e0030",
+      "label": "i | tell | you",
+      "sent_id": 31,
+      "sentence": "I will still, however, tell you how to find the golden horse, if you will do as I bid you.",
+      "subj": "i",
+      "verb": "tell",
+      "obj": "you"
+    },
+    {
+      "id": "e0031",
+      "label": "\u2205 | lie | groom",
+      "sent_id": 32,
+      "sentence": "You must go straight on till you come to the castle where the horse stands in his stall: by his side will lie the groom fast asleep and snoring: take away the horse quietly, but be sure to put the old leathern saddle upon him, and not the golden one that is close by it.\u2019",
+      "subj": "",
+      "verb": "lie",
+      "obj": "groom"
+    },
+    {
+      "id": "e0032",
+      "label": "son | sit | tail",
+      "sent_id": 33,
+      "sentence": "Then the son sat down on the fox\u2019s tail, and away they went over stock and stone till their hair whistled in the wind.",
+      "subj": "son",
+      "verb": "sit",
+      "obj": "tail"
+    },
+    {
+      "id": "e0033",
+      "label": "all | go | \u2205",
+      "sent_id": 34,
+      "sentence": "All went right, and the groom lay snoring with his hand upon the golden saddle.",
+      "subj": "all",
+      "verb": "go",
+      "obj": ""
+    },
+    {
+      "id": "e0034",
+      "label": "he | think | \u2205",
+      "sent_id": 35,
+      "sentence": "But when the son looked at the horse, he thought it a great pity to put the leathern saddle upon it.",
+      "subj": "he",
+      "verb": "think",
+      "obj": ""
+    },
+    {
+      "id": "e0035",
+      "label": "he | say | \u2205",
+      "sent_id": 36,
+      "sentence": "\u2018I will give him the good one,\u2019 said he; \u2018I am sure he deserves it.\u2019",
+      "subj": "he",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0036",
+      "label": "groom | awake | \u2205",
+      "sent_id": 37,
+      "sentence": "As he took up the golden saddle the groom awoke and cried out so loud, that all the guards ran in and took him prisoner, and in the morning he was again brought before the court to be judged, and was sentenced to die.",
+      "subj": "groom",
+      "verb": "awake",
+      "obj": ""
+    },
+    {
+      "id": "e0037",
+      "label": "it | agree | \u2205",
+      "sent_id": 38,
+      "sentence": "But it was agreed, that, if he could bring thither the beautiful princess, he should live, and have the bird and the horse given him for his own.",
+      "subj": "it",
+      "verb": "agree",
+      "obj": ""
+    },
+    {
+      "id": "e0038",
+      "label": "he | go | way",
+      "sent_id": 39,
+      "sentence": "Then he went his way very sorrowful; but the old fox came and said, \u2018Why did not you listen to me?",
+      "subj": "he",
+      "verb": "go",
+      "obj": "way"
+    },
+    {
+      "id": "e0039",
+      "label": "i | give | counsel",
+      "sent_id": 40,
+      "sentence": "If you had, you would have carried away both the bird and the horse; yet will I once more give you counsel.",
+      "subj": "i",
+      "verb": "give",
+      "obj": "counsel"
+    },
+    {
+      "id": "e0040",
+      "label": "\u2205 | go | \u2205",
+      "sent_id": 41,
+      "sentence": "Go straight on, and in the evening you will arrive at a castle.",
+      "subj": "",
+      "verb": "go",
+      "obj": ""
+    },
+    {
+      "id": "e0041",
+      "label": "princess | go | o\u2019clock",
+      "sent_id": 42,
+      "sentence": "At twelve o\u2019clock at night the princess goes to the bathing-house: go up to her and give her a kiss, and she will let you lead her away; but take care you do not suffer her to go and take leave of her father and mother.\u2019",
+      "subj": "princess",
+      "verb": "go",
+      "obj": "o\u2019clock"
+    },
+    {
+      "id": "e0042",
+      "label": "fox | stretch | tail",
+      "sent_id": 43,
+      "sentence": "Then the fox stretched out his tail, and so away they went over stock and stone till their hair whistled again.",
+      "subj": "fox",
+      "verb": "stretch",
+      "obj": "tail"
+    },
+    {
+      "id": "e0043",
+      "label": "all | be | \u2205",
+      "sent_id": 44,
+      "sentence": "As they came to the castle, all was as the fox had said, and at twelve o\u2019clock the young man met the princess going to the bath and gave her the kiss, and she agreed to run away with him, but begged with many tears that he would let her take leave of her father.",
+      "subj": "all",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0044",
+      "label": "he | refuse | \u2205",
+      "sent_id": 45,
+      "sentence": "At first he refused, but she wept still more and more, and fell at his feet, till at last he consented; but the moment she came to her father\u2019s house the guards awoke and he was taken prisoner again.",
+      "subj": "he",
+      "verb": "refuse",
+      "obj": ""
+    },
+    {
+      "id": "e0045",
+      "label": "he | bring | king",
+      "sent_id": 46,
+      "sentence": "Then he was brought before the king, and the king said, \u2018You shall never have my daughter unless in eight days you dig away the hill that stops the view from my window.\u2019",
+      "subj": "he",
+      "verb": "bring",
+      "obj": "king"
+    },
+    {
+      "id": "e0046",
+      "label": "hill | be | \u2205",
+      "sent_id": 47,
+      "sentence": "Now this hill was so big that the whole world could not take it away: and when he had worked for seven days, and had done very little, the fox came and said.",
+      "subj": "hill",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0047",
+      "label": "i | work | you",
+      "sent_id": 48,
+      "sentence": "\u2018Lie down and go to sleep; I will work for you.\u2019",
+      "subj": "i",
+      "verb": "work",
+      "obj": "you"
+    },
+    {
+      "id": "e0048",
+      "label": "he | go | king",
+      "sent_id": 49,
+      "sentence": "And in the morning he awoke and the hill was gone; so he went merrily to the king, and told him that now that it was removed he must give him the princess.",
+      "subj": "he",
+      "verb": "go",
+      "obj": "king"
+    },
+    {
+      "id": "e0049",
+      "label": "king | oblige | \u2205",
+      "sent_id": 50,
+      "sentence": "Then the king was obliged to keep his word, and away went the young man and the princess; and the fox came and said to him, \u2018We will have all three, the princess, the horse, and the bird.\u2019",
+      "subj": "king",
+      "verb": "oblige",
+      "obj": ""
+    },
+    {
+      "id": "e0050",
+      "label": "man | say | \u2205",
+      "sent_id": 51,
+      "sentence": "\u2018Ah!\u2019 said the young man, \u2018that would be a great thing, but how can you contrive it?\u2019",
+      "subj": "man",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0051",
+      "label": "fox | say | \u2205",
+      "sent_id": 52,
+      "sentence": "\u2018If you will only listen,\u2019 said the fox, \u2018it can be done.",
+      "subj": "fox",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0052",
+      "label": "you | say | \u2205",
+      "sent_id": 53,
+      "sentence": "When you come to the king, and he asks for the beautiful princess, you must say, \u201cHere she is!\u201d",
+      "subj": "you",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0053",
+      "label": "he | be | \u2205",
+      "sent_id": 54,
+      "sentence": "Then he will be very joyful; and you will mount the golden horse that they are to give you, and put out your hand to take leave of them; but shake hands with the princess last.",
+      "subj": "he",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0054",
+      "label": "fox | say | \u2205",
+      "sent_id": 55,
+      "sentence": "Then lift her quickly on to the horse behind you; clap your spurs to his side, and gallop away as fast as you can.\u2019\n\nAll went right: then the fox said, \u2018When you come to the castle where the bird is, I will stay with the princess at the door, and you will ride in and speak to the king; and when he sees that it is the right horse, he will bring out the bird; but you must sit still, and say that you want to look at it, to see whether it is the true golden bird; and when you get it into your hand, ride away.\u2019",
+      "subj": "fox",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0055",
+      "label": "princess | mount | \u2205",
+      "sent_id": 56,
+      "sentence": "This, too, happened as the fox said; they carried off the bird, the princess mounted again, and they rode on to a great wood.",
+      "subj": "princess",
+      "verb": "mount",
+      "obj": ""
+    },
+    {
+      "id": "e0056",
+      "label": "fox | come | \u2205",
+      "sent_id": 57,
+      "sentence": "Then the fox came, and said, \u2018Pray kill me, and cut off my head and my feet.\u2019",
+      "subj": "fox",
+      "verb": "come",
+      "obj": ""
+    },
+    {
+      "id": "e0057",
+      "label": "fox | say | \u2205",
+      "sent_id": 58,
+      "sentence": "But the young man refused to do it: so the fox said, \u2018I will at any rate give you good counsel: beware of two things; ransom no one from the gallows, and sit down by the side of no river.\u2019",
+      "subj": "fox",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0058",
+      "label": "he | go | \u2205",
+      "sent_id": 59,
+      "sentence": "Then away he went.",
+      "subj": "he",
+      "verb": "go",
+      "obj": ""
+    },
+    {
+      "id": "e0059",
+      "label": "man | think | \u2205",
+      "sent_id": 60,
+      "sentence": "\u2018Well,\u2019 thought the young man, \u2018it is no hard matter to keep that advice.\u2019",
+      "subj": "man",
+      "verb": "think",
+      "obj": ""
+    },
+    {
+      "id": "e0060",
+      "label": "he | ride | princess",
+      "sent_id": 61,
+      "sentence": "He rode on with the princess, till at last he came to the village where he had left his two brothers.",
+      "subj": "he",
+      "verb": "ride",
+      "obj": "princess"
+    },
+    {
+      "id": "e0061",
+      "label": "he | hear | noise",
+      "sent_id": 62,
+      "sentence": "And there he heard a great noise and uproar; and when he asked what was the matter, the people said, \u2018Two men are going to be hanged.\u2019",
+      "subj": "he",
+      "verb": "hear",
+      "obj": "noise"
+    },
+    {
+      "id": "e0062",
+      "label": "he | say | \u2205",
+      "sent_id": 63,
+      "sentence": "As he came nearer, he saw that the two men were his brothers, who had turned robbers; so he said, \u2018Cannot they in any way be saved?\u2019",
+      "subj": "he",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0063",
+      "label": "people | say | \u2205",
+      "sent_id": 64,
+      "sentence": "But the people said \u2018No,\u2019 unless he would bestow all his money upon the rascals and buy their liberty.",
+      "subj": "people",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0064",
+      "label": "he | stay | \u2205",
+      "sent_id": 65,
+      "sentence": "Then he did not stay to think about the matter, but paid what was asked, and his brothers were given up, and went on with him towards their home.",
+      "subj": "he",
+      "verb": "stay",
+      "obj": ""
+    },
+    {
+      "id": "e0065",
+      "label": "it | be | \u2205",
+      "sent_id": 66,
+      "sentence": "And as they came to the wood where the fox first met them, it was so cool and pleasant that the two brothers said, \u2018Let us sit down by the side of the river, and rest a while, to eat and drink.\u2019",
+      "subj": "it",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0066",
+      "label": "he | say | \u2205",
+      "sent_id": 67,
+      "sentence": "So he said, \u2018Yes,\u2019 and forgot the fox\u2019s counsel, and sat down on the side of the river; and while he suspected nothing, they came behind, and threw him down the bank, and took the princess, the horse, and the bird, and went home to the king their master, and said.",
+      "subj": "he",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0067",
+      "label": "this | win | \u2205",
+      "sent_id": 68,
+      "sentence": "\u2018All this have we won by our labour.\u2019",
+      "subj": "this",
+      "verb": "win",
+      "obj": ""
+    },
+    {
+      "id": "e0068",
+      "label": "\u2205 | be | rejoicing",
+      "sent_id": 69,
+      "sentence": "Then there was great rejoicing made; but the horse would not eat, the bird would not sing, and the princess wept.",
+      "subj": "",
+      "verb": "be",
+      "obj": "rejoicing"
+    },
+    {
+      "id": "e0069",
+      "label": "it | be | \u2205",
+      "sent_id": 70,
+      "sentence": "The youngest son fell to the bottom of the river\u2019s bed: luckily it was nearly dry, but his bones were almost broken, and the bank was so steep that he could find no way to get out.",
+      "subj": "it",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0070",
+      "label": "he | say | \u2205",
+      "sent_id": 71,
+      "sentence": "Then the old fox came once more, and scolded him for not following his advice; otherwise no evil would have befallen him: \u2018Yet,\u2019 said he, \u2018I cannot leave you here, so lay hold of my tail and hold fast.\u2019",
+      "subj": "he",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0071",
+      "label": "he | pull | he",
+      "sent_id": 72,
+      "sentence": "Then he pulled him out of the river, and said to him, as he got upon the bank, \u2018Your brothers have set watch to kill you, if they find you in the kingdom.\u2019",
+      "subj": "he",
+      "verb": "pull",
+      "obj": "he"
+    },
+    {
+      "id": "e0072",
+      "label": "he | dress | himself",
+      "sent_id": 73,
+      "sentence": "So he dressed himself as a poor man, and came secretly to the king\u2019s court, and was scarcely within the doors when the horse began to eat, and the bird to sing, and the princess left off weeping.",
+      "subj": "he",
+      "verb": "dress",
+      "obj": "himself"
+    },
+    {
+      "id": "e0073",
+      "label": "he | go | king",
+      "sent_id": 74,
+      "sentence": "Then he went to the king, and told him all his brothers\u2019 roguery; and they were seized and punished, and he had the princess given to him again; and after the king\u2019s death he was heir to his kingdom.",
+      "subj": "he",
+      "verb": "go",
+      "obj": "king"
+    },
+    {
+      "id": "e0074",
+      "label": "he | go | \u2205",
+      "sent_id": 75,
+      "sentence": "A long while after, he went to walk one day in the wood, and the old fox met him, and besought him with tears in his eyes to kill him, and cut off his head and feet.",
+      "subj": "he",
+      "verb": "go",
+      "obj": ""
+    },
+    {
+      "id": "e0075",
+      "label": "he | do | \u2205",
+      "sent_id": 76,
+      "sentence": "And at last he did so, and in a moment the fox was changed into a man, and turned out to be the brother of the princess, who had been lost a great many many years.",
+      "subj": "he",
+      "verb": "do",
+      "obj": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    },
+    {
+      "source": "e0029",
+      "target": "e0030",
+      "relation": "next"
+    },
+    {
+      "source": "e0030",
+      "target": "e0031",
+      "relation": "next"
+    },
+    {
+      "source": "e0031",
+      "target": "e0032",
+      "relation": "next"
+    },
+    {
+      "source": "e0032",
+      "target": "e0033",
+      "relation": "next"
+    },
+    {
+      "source": "e0033",
+      "target": "e0034",
+      "relation": "next"
+    },
+    {
+      "source": "e0034",
+      "target": "e0035",
+      "relation": "next"
+    },
+    {
+      "source": "e0035",
+      "target": "e0036",
+      "relation": "next"
+    },
+    {
+      "source": "e0036",
+      "target": "e0037",
+      "relation": "next"
+    },
+    {
+      "source": "e0037",
+      "target": "e0038",
+      "relation": "next"
+    },
+    {
+      "source": "e0038",
+      "target": "e0039",
+      "relation": "next"
+    },
+    {
+      "source": "e0039",
+      "target": "e0040",
+      "relation": "next"
+    },
+    {
+      "source": "e0040",
+      "target": "e0041",
+      "relation": "next"
+    },
+    {
+      "source": "e0041",
+      "target": "e0042",
+      "relation": "next"
+    },
+    {
+      "source": "e0042",
+      "target": "e0043",
+      "relation": "next"
+    },
+    {
+      "source": "e0043",
+      "target": "e0044",
+      "relation": "next"
+    },
+    {
+      "source": "e0044",
+      "target": "e0045",
+      "relation": "next"
+    },
+    {
+      "source": "e0045",
+      "target": "e0046",
+      "relation": "next"
+    },
+    {
+      "source": "e0046",
+      "target": "e0047",
+      "relation": "next"
+    },
+    {
+      "source": "e0047",
+      "target": "e0048",
+      "relation": "next"
+    },
+    {
+      "source": "e0048",
+      "target": "e0049",
+      "relation": "next"
+    },
+    {
+      "source": "e0049",
+      "target": "e0050",
+      "relation": "next"
+    },
+    {
+      "source": "e0050",
+      "target": "e0051",
+      "relation": "next"
+    },
+    {
+      "source": "e0051",
+      "target": "e0052",
+      "relation": "next"
+    },
+    {
+      "source": "e0052",
+      "target": "e0053",
+      "relation": "next"
+    },
+    {
+      "source": "e0053",
+      "target": "e0054",
+      "relation": "next"
+    },
+    {
+      "source": "e0054",
+      "target": "e0055",
+      "relation": "next"
+    },
+    {
+      "source": "e0055",
+      "target": "e0056",
+      "relation": "next"
+    },
+    {
+      "source": "e0056",
+      "target": "e0057",
+      "relation": "next"
+    },
+    {
+      "source": "e0057",
+      "target": "e0058",
+      "relation": "next"
+    },
+    {
+      "source": "e0058",
+      "target": "e0059",
+      "relation": "next"
+    },
+    {
+      "source": "e0059",
+      "target": "e0060",
+      "relation": "next"
+    },
+    {
+      "source": "e0060",
+      "target": "e0061",
+      "relation": "next"
+    },
+    {
+      "source": "e0061",
+      "target": "e0062",
+      "relation": "next"
+    },
+    {
+      "source": "e0062",
+      "target": "e0063",
+      "relation": "next"
+    },
+    {
+      "source": "e0063",
+      "target": "e0064",
+      "relation": "next"
+    },
+    {
+      "source": "e0064",
+      "target": "e0065",
+      "relation": "next"
+    },
+    {
+      "source": "e0065",
+      "target": "e0066",
+      "relation": "next"
+    },
+    {
+      "source": "e0066",
+      "target": "e0067",
+      "relation": "next"
+    },
+    {
+      "source": "e0067",
+      "target": "e0068",
+      "relation": "next"
+    },
+    {
+      "source": "e0068",
+      "target": "e0069",
+      "relation": "next"
+    },
+    {
+      "source": "e0069",
+      "target": "e0070",
+      "relation": "next"
+    },
+    {
+      "source": "e0070",
+      "target": "e0071",
+      "relation": "next"
+    },
+    {
+      "source": "e0071",
+      "target": "e0072",
+      "relation": "next"
+    },
+    {
+      "source": "e0072",
+      "target": "e0073",
+      "relation": "next"
+    },
+    {
+      "source": "e0073",
+      "target": "e0074",
+      "relation": "next"
+    },
+    {
+      "source": "e0074",
+      "target": "e0075",
+      "relation": "next"
+    }
+  ]
+}

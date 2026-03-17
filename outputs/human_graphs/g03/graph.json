@@ -1,0 +1,1402 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "\u2205 | be | \u2205",
+      "sent_id": 0,
+      "sentence": "RAPUNZEL\n\nThere were once a man and a woman who had long in vain wished for a child.",
+      "subj": "",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0001",
+      "label": "woman | hop | length",
+      "sent_id": 1,
+      "sentence": "At length the woman hoped that God was about to grant her desire.",
+      "subj": "woman",
+      "verb": "hop",
+      "obj": "length"
+    },
+    {
+      "id": "e0002",
+      "label": "people | have | window",
+      "sent_id": 2,
+      "sentence": "These people had a little window at the back of their house from which a splendid garden could be seen, which was full of the most beautiful flowers and herbs.",
+      "subj": "people",
+      "verb": "have",
+      "obj": "window"
+    },
+    {
+      "id": "e0003",
+      "label": "it | be | \u2205",
+      "sent_id": 3,
+      "sentence": "It was, however, surrounded by a high wall, and no one dared to go into it because it belonged to an enchantress, who had great power and was dreaded by all the world.",
+      "subj": "it",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0004",
+      "label": "woman | stand | window",
+      "sent_id": 4,
+      "sentence": "One day the woman was standing by this window and looking down into the garden, when she saw a bed which was planted with the most beautiful rampion (rapunzel), and it looked so fresh and green that she longed for it, she quite pined away, and began to look pale and miserable.",
+      "subj": "woman",
+      "verb": "stand",
+      "obj": "window"
+    },
+    {
+      "id": "e0005",
+      "label": "husband | be | \u2205",
+      "sent_id": 5,
+      "sentence": "Then her husband was alarmed, and asked: \u2018What ails you, dear wife?\u2019",
+      "subj": "husband",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0006",
+      "label": "she | reply | \u2205",
+      "sent_id": 6,
+      "sentence": "\u2018Ah,\u2019 she replied, \u2018if I can\u2019t eat some of the rampion, which is in the garden behind our house, I shall die.\u2019",
+      "subj": "she",
+      "verb": "reply",
+      "obj": ""
+    },
+    {
+      "id": "e0007",
+      "label": "man | think | \u2205",
+      "sent_id": 7,
+      "sentence": "The man, who loved her, thought: \u2018Sooner than let your wife die, bring her some of the rampion yourself, let it cost what it will.\u2019",
+      "subj": "man",
+      "verb": "think",
+      "obj": ""
+    },
+    {
+      "id": "e0008",
+      "label": "he | clamber | twilight",
+      "sent_id": 8,
+      "sentence": "At twilight, he clambered down over the wall into the garden of the enchantress, hastily clutched a handful of rampion, and took it to his wife.",
+      "subj": "he",
+      "verb": "clamber",
+      "obj": "twilight"
+    },
+    {
+      "id": "e0009",
+      "label": "she | make | \u2205",
+      "sent_id": 9,
+      "sentence": "She at once made herself a salad of it, and ate it greedily.",
+      "subj": "she",
+      "verb": "make",
+      "obj": ""
+    },
+    {
+      "id": "e0010",
+      "label": "it | taste | \u2205",
+      "sent_id": 10,
+      "sentence": "It tasted so good to her\u2014so very good, that the next day she longed for it three times as much as before.",
+      "subj": "it",
+      "verb": "taste",
+      "obj": ""
+    },
+    {
+      "id": "e0011",
+      "label": "husband | descend | garden",
+      "sent_id": 11,
+      "sentence": "If he was to have any rest, her husband must once more descend into the garden.",
+      "subj": "husband",
+      "verb": "descend",
+      "obj": "garden"
+    },
+    {
+      "id": "e0012",
+      "label": "he | let | gloom",
+      "sent_id": 12,
+      "sentence": "In the gloom of evening therefore, he let himself down again; but when he had clambered down the wall he was terribly afraid, for he saw the enchantress standing before him.",
+      "subj": "he",
+      "verb": "let",
+      "obj": "gloom"
+    },
+    {
+      "id": "e0013",
+      "label": "she | say | look",
+      "sent_id": 13,
+      "sentence": "\u2018How can you dare,\u2019 said she with angry look, \u2018descend into my garden and steal my rampion like a thief?",
+      "subj": "she",
+      "verb": "say",
+      "obj": "look"
+    },
+    {
+      "id": "e0014",
+      "label": "you | suffer | it",
+      "sent_id": 14,
+      "sentence": "You shall suffer for it!\u2019",
+      "subj": "you",
+      "verb": "suffer",
+      "obj": "it"
+    },
+    {
+      "id": "e0015",
+      "label": "i | make | mind",
+      "sent_id": 15,
+      "sentence": "\u2018Ah,\u2019 answered he, \u2018let mercy take the place of justice, I only made up my mind to do it out of necessity.",
+      "subj": "i",
+      "verb": "make",
+      "obj": "mind"
+    },
+    {
+      "id": "e0016",
+      "label": "wife | see | rampion",
+      "sent_id": 16,
+      "sentence": "My wife saw your rampion from the window, and felt such a longing for it that she would have died if she had not got some to eat.\u2019",
+      "subj": "wife",
+      "verb": "see",
+      "obj": "rampion"
+    },
+    {
+      "id": "e0017",
+      "label": "enchantress | allow | \u2205",
+      "sent_id": 17,
+      "sentence": "Then the enchantress allowed her anger to be softened, and said to him: \u2018If the case be as you say, I will allow you to take away with you as much rampion as you will, only I make one condition, you must give me the child which your wife will bring into the world; it shall be well treated, and I will care for it like a mother.\u2019",
+      "subj": "enchantress",
+      "verb": "allow",
+      "obj": ""
+    },
+    {
+      "id": "e0018",
+      "label": "man | consent | everything",
+      "sent_id": 18,
+      "sentence": "The man in his terror consented to everything, and when the woman was brought to bed, the enchantress appeared at once, gave the child the name of Rapunzel, and took it away with her.",
+      "subj": "man",
+      "verb": "consent",
+      "obj": "everything"
+    },
+    {
+      "id": "e0019",
+      "label": "rapunzel | grow | child",
+      "sent_id": 19,
+      "sentence": "Rapunzel grew into the most beautiful child under the sun.",
+      "subj": "rapunzel",
+      "verb": "grow",
+      "obj": "child"
+    },
+    {
+      "id": "e0020",
+      "label": "enchantress | shut | she",
+      "sent_id": 20,
+      "sentence": "When she was twelve years old, the enchantress shut her into a tower, which lay in a forest, and had neither stairs nor door, but quite at the top was a little window.",
+      "subj": "enchantress",
+      "verb": "shut",
+      "obj": "she"
+    },
+    {
+      "id": "e0021",
+      "label": "she | place | herself",
+      "sent_id": 21,
+      "sentence": "When the enchantress wanted to go in, she placed herself beneath it and cried:\n\n \u2018Rapunzel, Rapunzel,\n Let down your hair to me.\u2019",
+      "subj": "she",
+      "verb": "place",
+      "obj": "herself"
+    },
+    {
+      "id": "e0022",
+      "label": "rapunzel | have | hair",
+      "sent_id": 22,
+      "sentence": "Rapunzel had magnificent long hair, fine as spun gold, and when she heard the voice of the enchantress she unfastened her braided tresses, wound them round one of the hooks of the window above, and then the hair fell twenty ells down, and the enchantress climbed up by it.",
+      "subj": "rapunzel",
+      "verb": "have",
+      "obj": "hair"
+    },
+    {
+      "id": "e0023",
+      "label": "it | come | year",
+      "sent_id": 23,
+      "sentence": "After a year or two, it came to pass that the king\u2019s son rode through the forest and passed by the tower.",
+      "subj": "it",
+      "verb": "come",
+      "obj": "year"
+    },
+    {
+      "id": "e0024",
+      "label": "he | hear | song",
+      "sent_id": 24,
+      "sentence": "Then he heard a song, which was so charming that he stood still and listened.",
+      "subj": "he",
+      "verb": "hear",
+      "obj": "song"
+    },
+    {
+      "id": "e0025",
+      "label": "this | be | rapunzel",
+      "sent_id": 25,
+      "sentence": "This was Rapunzel, who in her solitude passed her time in letting her sweet voice resound.",
+      "subj": "this",
+      "verb": "be",
+      "obj": "rapunzel"
+    },
+    {
+      "id": "e0026",
+      "label": "son | want | \u2205",
+      "sent_id": 26,
+      "sentence": "The king\u2019s son wanted to climb up to her, and looked for the door of the tower, but none was to be found.",
+      "subj": "son",
+      "verb": "want",
+      "obj": ""
+    },
+    {
+      "id": "e0027",
+      "label": "he | ride | \u2205",
+      "sent_id": 27,
+      "sentence": "He rode home, but the singing had so deeply touched his heart, that every day he went out into the forest and listened to it.",
+      "subj": "he",
+      "verb": "ride",
+      "obj": ""
+    },
+    {
+      "id": "e0028",
+      "label": "he | see | \u2205",
+      "sent_id": 28,
+      "sentence": "Once when he was thus standing behind a tree, he saw that an enchantress came there, and he heard how she cried:\n\n \u2018Rapunzel, Rapunzel,\n Let down your hair to me.\u2019",
+      "subj": "he",
+      "verb": "see",
+      "obj": ""
+    },
+    {
+      "id": "e0029",
+      "label": "rapunzel | let | braid",
+      "sent_id": 29,
+      "sentence": "Then Rapunzel let down the braids of her hair, and the enchantress climbed up to her.",
+      "subj": "rapunzel",
+      "verb": "let",
+      "obj": "braid"
+    },
+    {
+      "id": "e0030",
+      "label": "\u2205 | say | \u2205",
+      "sent_id": 30,
+      "sentence": "\u2018If that is the ladder by which one mounts, I too will try my fortune,\u2019 said he, and the next day when it began to grow dark, he went to the tower and cried:\n\n \u2018Rapunzel, Rapunzel,\n Let down your hair to me.\u2019",
+      "subj": "",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0031",
+      "label": "hair | fall | \u2205",
+      "sent_id": 31,
+      "sentence": "Immediately the hair fell down and the king\u2019s son climbed up.",
+      "subj": "hair",
+      "verb": "fall",
+      "obj": ""
+    },
+    {
+      "id": "e0032",
+      "label": "\u2205 | be | rapunzel",
+      "sent_id": 32,
+      "sentence": "At first Rapunzel was terribly frightened when a man, such as her eyes had never yet beheld, came to her; but the king\u2019s son began to talk to her quite like a friend, and told her that his heart had been so stirred that it had let him have no rest, and he had been forced to see her.",
+      "subj": "",
+      "verb": "be",
+      "obj": "rapunzel"
+    },
+    {
+      "id": "e0033",
+      "label": "she | think | \u2205",
+      "sent_id": 33,
+      "sentence": "Then Rapunzel lost her fear, and when he asked her if she would take him for her husband, and she saw that he was young and handsome, she thought: \u2018He will love me more than old Dame Gothel does\u2019; and she said yes, and laid her hand in his.",
+      "subj": "she",
+      "verb": "think",
+      "obj": ""
+    },
+    {
+      "id": "e0034",
+      "label": "she | say | \u2205",
+      "sent_id": 34,
+      "sentence": "She said: \u2018I will willingly go away with you, but I do not know how to get down.",
+      "subj": "she",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0035",
+      "label": "\u2205 | bring | skein",
+      "sent_id": 35,
+      "sentence": "Bring with you a skein of silk every time that you come, and I will weave a ladder with it, and when that is ready I will descend, and you will take me on your horse.\u2019",
+      "subj": "",
+      "verb": "bring",
+      "obj": "skein"
+    },
+    {
+      "id": "e0036",
+      "label": "they | agree | \u2205",
+      "sent_id": 36,
+      "sentence": "They agreed that until that time he should come to her every evening, for the old woman came by day.",
+      "subj": "they",
+      "verb": "agree",
+      "obj": ""
+    },
+    {
+      "id": "e0037",
+      "label": "enchantress | remark | nothing",
+      "sent_id": 37,
+      "sentence": "The enchantress remarked nothing of this, until once Rapunzel said to her: \u2018Tell me, Dame Gothel, how it happens that you are so much heavier for me to draw up than the young king\u2019s son\u2014he is with me in a moment.\u2019",
+      "subj": "enchantress",
+      "verb": "remark",
+      "obj": "nothing"
+    },
+    {
+      "id": "e0038",
+      "label": "\u2205 | cry | enchantress",
+      "sent_id": 38,
+      "sentence": "\u2018Ah! you wicked child,\u2019 cried the enchantress.",
+      "subj": "",
+      "verb": "cry",
+      "obj": "enchantress"
+    },
+    {
+      "id": "e0039",
+      "label": "i | hear | what",
+      "sent_id": 39,
+      "sentence": "\u2018What do I hear you say!",
+      "subj": "i",
+      "verb": "hear",
+      "obj": "what"
+    },
+    {
+      "id": "e0040",
+      "label": "i | think | \u2205",
+      "sent_id": 40,
+      "sentence": "I thought I had separated you from all the world, and yet you have deceived me!\u2019",
+      "subj": "i",
+      "verb": "think",
+      "obj": ""
+    },
+    {
+      "id": "e0041",
+      "label": "she | clutch | tress",
+      "sent_id": 41,
+      "sentence": "In her anger she clutched Rapunzel\u2019s beautiful tresses, wrapped them twice round her left hand, seized a pair of scissors with the right, and snip, snap, they were cut off, and the lovely braids lay on the ground.",
+      "subj": "she",
+      "verb": "clutch",
+      "obj": "tress"
+    },
+    {
+      "id": "e0042",
+      "label": "she | be | pitiless",
+      "sent_id": 42,
+      "sentence": "And she was so pitiless that she took poor Rapunzel into a desert where she had to live in great grief and misery.",
+      "subj": "she",
+      "verb": "be",
+      "obj": "pitiless"
+    },
+    {
+      "id": "e0043",
+      "label": "enchantress | fasten | braid",
+      "sent_id": 43,
+      "sentence": "On the same day that she cast out Rapunzel, however, the enchantress fastened the braids of hair, which she had cut off, to the hook of the window, and when the king\u2019s son came and cried:\n\n \u2018Rapunzel, Rapunzel,\n Let down your hair to me.\u2019",
+      "subj": "enchantress",
+      "verb": "fasten",
+      "obj": "braid"
+    },
+    {
+      "id": "e0044",
+      "label": "she | let | \u2205",
+      "sent_id": 44,
+      "sentence": "she let the hair down.",
+      "subj": "she",
+      "verb": "let",
+      "obj": ""
+    },
+    {
+      "id": "e0045",
+      "label": "son | ascend | \u2205",
+      "sent_id": 45,
+      "sentence": "The king\u2019s son ascended, but instead of finding his dearest Rapunzel, he found the enchantress, who gazed at him with wicked and venomous looks.",
+      "subj": "son",
+      "verb": "ascend",
+      "obj": ""
+    },
+    {
+      "id": "e0046",
+      "label": "\u2205 | aha | \u2205",
+      "sent_id": 46,
+      "sentence": "\u2018Aha!\u2019",
+      "subj": "",
+      "verb": "aha",
+      "obj": ""
+    },
+    {
+      "id": "e0047",
+      "label": "she | cry | \u2205",
+      "sent_id": 47,
+      "sentence": "she cried mockingly, \u2018you would fetch your dearest, but the beautiful bird sits no longer singing in the nest; the cat has got it, and will scratch out your eyes as well.",
+      "subj": "she",
+      "verb": "cry",
+      "obj": ""
+    },
+    {
+      "id": "e0048",
+      "label": "you | see | she",
+      "sent_id": 48,
+      "sentence": "Rapunzel is lost to you; you will never see her again.\u2019",
+      "subj": "you",
+      "verb": "see",
+      "obj": "she"
+    },
+    {
+      "id": "e0049",
+      "label": "son | be | himself",
+      "sent_id": 49,
+      "sentence": "The king\u2019s son was beside himself with pain, and in his despair he leapt down from the tower.",
+      "subj": "son",
+      "verb": "be",
+      "obj": "himself"
+    },
+    {
+      "id": "e0050",
+      "label": "he | escape | life",
+      "sent_id": 50,
+      "sentence": "He escaped with his life, but the thorns into which he fell pierced his eyes.",
+      "subj": "he",
+      "verb": "escape",
+      "obj": "life"
+    },
+    {
+      "id": "e0051",
+      "label": "he | wander | \u2205",
+      "sent_id": 51,
+      "sentence": "Then he wandered quite blind about the forest, ate nothing but roots and berries, and did naught but lament and weep over the loss of his dearest wife.",
+      "subj": "he",
+      "verb": "wander",
+      "obj": ""
+    },
+    {
+      "id": "e0052",
+      "label": "he | roam | misery",
+      "sent_id": 52,
+      "sentence": "Thus he roamed about in misery for some years, and at length came to the desert where Rapunzel, with the twins to which she had given birth, a boy and a girl, lived in wretchedness.",
+      "subj": "he",
+      "verb": "roam",
+      "obj": "misery"
+    },
+    {
+      "id": "e0053",
+      "label": "he | hear | voice",
+      "sent_id": 53,
+      "sentence": "He heard a voice, and it seemed so familiar to him that he went towards it, and when he approached, Rapunzel knew him and fell on his neck and wept.",
+      "subj": "he",
+      "verb": "hear",
+      "obj": "voice"
+    },
+    {
+      "id": "e0054",
+      "label": "two | wet | eye",
+      "sent_id": 54,
+      "sentence": "Two of her tears wetted his eyes and they grew clear again, and he could see with them as before.",
+      "subj": "two",
+      "verb": "wet",
+      "obj": "eye"
+    },
+    {
+      "id": "e0055",
+      "label": "he | lead | she",
+      "sent_id": 55,
+      "sentence": "He led her to his kingdom where he was joyfully received, and they lived for a long time afterwards, happy and contented.",
+      "subj": "he",
+      "verb": "lead",
+      "obj": "she"
+    },
+    {
+      "id": "e0056",
+      "label": "he | follow | sound",
+      "sent_id": 57,
+      "sentence": "He followed the sound, and at last came to a high tree, and at the top of this a little child was sitting, for the mother had fallen asleep under the tree with the child, and a bird of prey had seen it in her arms, had flown down, snatched it away, and set it on the high tree.",
+      "subj": "he",
+      "verb": "follow",
+      "obj": "sound"
+    },
+    {
+      "id": "e0057",
+      "label": "forester | climb | \u2205",
+      "sent_id": 58,
+      "sentence": "The forester climbed up, brought the child down, and thought to himself: \u2018You will take him home with you, and bring him up with your Lina.\u2019",
+      "subj": "forester",
+      "verb": "climb",
+      "obj": ""
+    },
+    {
+      "id": "e0058",
+      "label": "he | take | it",
+      "sent_id": 59,
+      "sentence": "He took it home, therefore, and the two children grew up together.",
+      "subj": "he",
+      "verb": "take",
+      "obj": "it"
+    },
+    {
+      "id": "e0059",
+      "label": "one | call | fundevogel",
+      "sent_id": 60,
+      "sentence": "And the one, which he had found on a tree was called Fundevogel, because a bird had carried it away.",
+      "subj": "one",
+      "verb": "call",
+      "obj": "fundevogel"
+    },
+    {
+      "id": "e0060",
+      "label": "fundevogel | love | other",
+      "sent_id": 61,
+      "sentence": "Fundevogel and Lina loved each other so dearly that when they did not see each other they were sad.",
+      "subj": "fundevogel",
+      "verb": "love",
+      "obj": "other"
+    },
+    {
+      "id": "e0061",
+      "label": "forester | have | cook",
+      "sent_id": 62,
+      "sentence": "Now the forester had an old cook, who one evening took two pails and began to fetch water, and did not go once only, but many times, out to the spring.",
+      "subj": "forester",
+      "verb": "have",
+      "obj": "cook"
+    },
+    {
+      "id": "e0062",
+      "label": "lina | see | this",
+      "sent_id": 63,
+      "sentence": "Lina saw this and said, \u2018Listen, old Sanna, why are you fetching so much water?\u2019",
+      "subj": "lina",
+      "verb": "see",
+      "obj": "this"
+    },
+    {
+      "id": "e0063",
+      "label": "i | tell | you",
+      "sent_id": 64,
+      "sentence": "\u2018If you will never repeat it to anyone, I will tell you why.\u2019",
+      "subj": "i",
+      "verb": "tell",
+      "obj": "you"
+    },
+    {
+      "id": "e0064",
+      "label": "lina | say | \u2205",
+      "sent_id": 65,
+      "sentence": "So Lina said, no, she would never repeat it to anyone, and then the cook said: \u2018Early tomorrow morning, when the forester is out hunting, I will heat the water, and when it is boiling in the kettle, I will throw in Fundevogel, and will boil him in it.\u2019",
+      "subj": "lina",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0065",
+      "label": "forester | get | \u2205",
+      "sent_id": 66,
+      "sentence": "Early next morning the forester got up and went out hunting, and when he was gone the children were still in bed.",
+      "subj": "forester",
+      "verb": "get",
+      "obj": ""
+    },
+    {
+      "id": "e0066",
+      "label": "lina | say | fundevogel",
+      "sent_id": 67,
+      "sentence": "Then Lina said to Fundevogel: \u2018If you will never leave me, I too will never leave you.\u2019",
+      "subj": "lina",
+      "verb": "say",
+      "obj": "fundevogel"
+    },
+    {
+      "id": "e0067",
+      "label": "fundevogel | say | \u2205",
+      "sent_id": 68,
+      "sentence": "Fundevogel said: \u2018Neither now, nor ever will I leave you.\u2019",
+      "subj": "fundevogel",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0068",
+      "label": "lina | say | \u2205",
+      "sent_id": 69,
+      "sentence": "Then said Lina: \u2018Then will I tell you.",
+      "subj": "lina",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0069",
+      "label": "sanna | carry | bucket",
+      "sent_id": 70,
+      "sentence": "Last night, old Sanna carried so many buckets of water into the house that I asked her why she was doing that, and she said that if I would promise not to tell anyone, and she said that early tomorrow morning when father was out hunting, she would set the kettle full of water, throw you into it and boil you; but we will get up quickly, dress ourselves, and go away together.\u2019",
+      "subj": "sanna",
+      "verb": "carry",
+      "obj": "bucket"
+    },
+    {
+      "id": "e0070",
+      "label": "child | get | \u2205",
+      "sent_id": 71,
+      "sentence": "The two children therefore got up, dressed themselves quickly, and went away.",
+      "subj": "child",
+      "verb": "get",
+      "obj": ""
+    },
+    {
+      "id": "e0071",
+      "label": "cook | go | bedroom",
+      "sent_id": 72,
+      "sentence": "When the water in the kettle was boiling, the cook went into the bedroom to fetch Fundevogel and throw him into it.",
+      "subj": "cook",
+      "verb": "go",
+      "obj": "bedroom"
+    },
+    {
+      "id": "e0072",
+      "label": "\u2205 | go | \u2205",
+      "sent_id": 73,
+      "sentence": "But when she came in, and went to the beds, both the children were gone.",
+      "subj": "",
+      "verb": "go",
+      "obj": ""
+    },
+    {
+      "id": "e0073",
+      "label": "she | be | \u2205",
+      "sent_id": 74,
+      "sentence": "Then she was terribly alarmed, and she said to herself: \u2018What shall I say now when the forester comes home and sees that the children are gone?",
+      "subj": "she",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0074",
+      "label": "they | follow | \u2205",
+      "sent_id": 75,
+      "sentence": "They must be followed instantly to get them back again.\u2019",
+      "subj": "they",
+      "verb": "follow",
+      "obj": ""
+    },
+    {
+      "id": "e0075",
+      "label": "cook | send | servant",
+      "sent_id": 76,
+      "sentence": "Then the cook sent three servants after them, who were to run and overtake the children.",
+      "subj": "cook",
+      "verb": "send",
+      "obj": "servant"
+    },
+    {
+      "id": "e0076",
+      "label": "child | sit | forest",
+      "sent_id": 77,
+      "sentence": "The children, however, were sitting outside the forest, and when they saw from afar the three servants running, Lina said to Fundevogel: \u2018Never leave me, and I will never leave you.\u2019",
+      "subj": "child",
+      "verb": "sit",
+      "obj": "forest"
+    },
+    {
+      "id": "e0077",
+      "label": "fundevogel | say | \u2205",
+      "sent_id": 78,
+      "sentence": "Fundevogel said: \u2018Neither now, nor ever.\u2019",
+      "subj": "fundevogel",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0078",
+      "label": "lina | say | \u2205",
+      "sent_id": 79,
+      "sentence": "Then said Lina: \u2018Do you become a rose-tree, and I the rose upon it.\u2019",
+      "subj": "lina",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0079",
+      "label": "nothing | be | \u2205",
+      "sent_id": 80,
+      "sentence": "When the three servants came to the forest, nothing was there but a rose-tree and one rose on it, but the children were nowhere.",
+      "subj": "nothing",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0080",
+      "label": "they | say | \u2205",
+      "sent_id": 81,
+      "sentence": "Then said they: \u2018There is nothing to be done here,\u2019 and they went home and told the cook that they had seen nothing in the forest but a little rose-bush with one rose on it.",
+      "subj": "they",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0081",
+      "label": "cook | scold | \u2205",
+      "sent_id": 82,
+      "sentence": "Then the old cook scolded and said: \u2018You simpletons, you should have cut the rose-bush in two, and have broken off the rose and brought it home with you; go, and do it at once.\u2019",
+      "subj": "cook",
+      "verb": "scold",
+      "obj": ""
+    },
+    {
+      "id": "e0082",
+      "label": "they | have | \u2205",
+      "sent_id": 83,
+      "sentence": "They had therefore to go out and look for the second time.",
+      "subj": "they",
+      "verb": "have",
+      "obj": ""
+    },
+    {
+      "id": "e0083",
+      "label": "child | see | \u2205",
+      "sent_id": 84,
+      "sentence": "The children, however, saw them coming from a distance.",
+      "subj": "child",
+      "verb": "see",
+      "obj": ""
+    },
+    {
+      "id": "e0084",
+      "label": "lina | say | \u2205",
+      "sent_id": 85,
+      "sentence": "Then Lina said: \u2018Fundevogel, never leave me, and I will never leave you.\u2019",
+      "subj": "lina",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0085",
+      "label": "fundevogel | say | \u2205",
+      "sent_id": 86,
+      "sentence": "Fundevogel said: \u2018Neither now; nor ever.\u2019",
+      "subj": "fundevogel",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0086",
+      "label": "lina | say | \u2205",
+      "sent_id": 87,
+      "sentence": "Said Lina: \u2018Then do you become a church, and I\u2019ll be the chandelier in it.\u2019",
+      "subj": "lina",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0087",
+      "label": "nothing | be | \u2205",
+      "sent_id": 88,
+      "sentence": "So when the three servants came, nothing was there but a church, with a chandelier in it.",
+      "subj": "nothing",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0088",
+      "label": "they | say | other",
+      "sent_id": 89,
+      "sentence": "They said therefore to each other: \u2018What can we do here, let us go home.\u2019",
+      "subj": "they",
+      "verb": "say",
+      "obj": "other"
+    },
+    {
+      "id": "e0089",
+      "label": "they | say | \u2205",
+      "sent_id": 90,
+      "sentence": "When they got home, the cook asked if they had not found them; so they said no, they had found nothing but a church, and there was a chandelier in it.",
+      "subj": "they",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0090",
+      "label": "cook | scold | they",
+      "sent_id": 91,
+      "sentence": "And the cook scolded them and said: \u2018You fools!",
+      "subj": "cook",
+      "verb": "scold",
+      "obj": "they"
+    },
+    {
+      "id": "e0091",
+      "label": "you | pull | church",
+      "sent_id": 92,
+      "sentence": "why did you not pull the church to pieces, and bring the chandelier home with you?\u2019",
+      "subj": "you",
+      "verb": "pull",
+      "obj": "church"
+    },
+    {
+      "id": "e0092",
+      "label": "cook | get | leg",
+      "sent_id": 93,
+      "sentence": "And now the old cook herself got on her legs, and went with the three servants in pursuit of the children.",
+      "subj": "cook",
+      "verb": "get",
+      "obj": "leg"
+    },
+    {
+      "id": "e0093",
+      "label": "child | see | \u2205",
+      "sent_id": 94,
+      "sentence": "The children, however, saw from afar that the three servants were coming, and the cook waddling after them.",
+      "subj": "child",
+      "verb": "see",
+      "obj": ""
+    },
+    {
+      "id": "e0094",
+      "label": "lina | say | \u2205",
+      "sent_id": 95,
+      "sentence": "Then said Lina: \u2018Fundevogel, never leave me, and I will never leave you.\u2019",
+      "subj": "lina",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0095",
+      "label": "fundevogel | say | \u2205",
+      "sent_id": 96,
+      "sentence": "Then said Fundevogel: \u2018Neither now, nor ever.\u2019",
+      "subj": "fundevogel",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0096",
+      "label": "lina | say | \u2205",
+      "sent_id": 97,
+      "sentence": "Said Lina: \u2018Be a fishpond, and I will be the duck upon it.\u2019",
+      "subj": "lina",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0097",
+      "label": "cook | come | they",
+      "sent_id": 98,
+      "sentence": "The cook, however, came up to them, and when she saw the pond she lay down by it, and was about to drink it up.",
+      "subj": "cook",
+      "verb": "come",
+      "obj": "they"
+    },
+    {
+      "id": "e0098",
+      "label": "duck | swam | she",
+      "sent_id": 99,
+      "sentence": "But the duck swam quickly to her, seized her head in its beak and drew her into the water, and there the old witch had to drown.",
+      "subj": "duck",
+      "verb": "swam",
+      "obj": "she"
+    },
+    {
+      "id": "e0099",
+      "label": "child | go | \u2205",
+      "sent_id": 100,
+      "sentence": "Then the children went home together, and were heartily delighted, and if they have not died, they are living still.",
+      "subj": "child",
+      "verb": "go",
+      "obj": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    },
+    {
+      "source": "e0029",
+      "target": "e0030",
+      "relation": "next"
+    },
+    {
+      "source": "e0030",
+      "target": "e0031",
+      "relation": "next"
+    },
+    {
+      "source": "e0031",
+      "target": "e0032",
+      "relation": "next"
+    },
+    {
+      "source": "e0032",
+      "target": "e0033",
+      "relation": "next"
+    },
+    {
+      "source": "e0033",
+      "target": "e0034",
+      "relation": "next"
+    },
+    {
+      "source": "e0034",
+      "target": "e0035",
+      "relation": "next"
+    },
+    {
+      "source": "e0035",
+      "target": "e0036",
+      "relation": "next"
+    },
+    {
+      "source": "e0036",
+      "target": "e0037",
+      "relation": "next"
+    },
+    {
+      "source": "e0037",
+      "target": "e0038",
+      "relation": "next"
+    },
+    {
+      "source": "e0038",
+      "target": "e0039",
+      "relation": "next"
+    },
+    {
+      "source": "e0039",
+      "target": "e0040",
+      "relation": "next"
+    },
+    {
+      "source": "e0040",
+      "target": "e0041",
+      "relation": "next"
+    },
+    {
+      "source": "e0041",
+      "target": "e0042",
+      "relation": "next"
+    },
+    {
+      "source": "e0042",
+      "target": "e0043",
+      "relation": "next"
+    },
+    {
+      "source": "e0043",
+      "target": "e0044",
+      "relation": "next"
+    },
+    {
+      "source": "e0044",
+      "target": "e0045",
+      "relation": "next"
+    },
+    {
+      "source": "e0045",
+      "target": "e0046",
+      "relation": "next"
+    },
+    {
+      "source": "e0046",
+      "target": "e0047",
+      "relation": "next"
+    },
+    {
+      "source": "e0047",
+      "target": "e0048",
+      "relation": "next"
+    },
+    {
+      "source": "e0048",
+      "target": "e0049",
+      "relation": "next"
+    },
+    {
+      "source": "e0049",
+      "target": "e0050",
+      "relation": "next"
+    },
+    {
+      "source": "e0050",
+      "target": "e0051",
+      "relation": "next"
+    },
+    {
+      "source": "e0051",
+      "target": "e0052",
+      "relation": "next"
+    },
+    {
+      "source": "e0052",
+      "target": "e0053",
+      "relation": "next"
+    },
+    {
+      "source": "e0053",
+      "target": "e0054",
+      "relation": "next"
+    },
+    {
+      "source": "e0054",
+      "target": "e0055",
+      "relation": "next"
+    },
+    {
+      "source": "e0055",
+      "target": "e0056",
+      "relation": "next"
+    },
+    {
+      "source": "e0056",
+      "target": "e0057",
+      "relation": "next"
+    },
+    {
+      "source": "e0057",
+      "target": "e0058",
+      "relation": "next"
+    },
+    {
+      "source": "e0058",
+      "target": "e0059",
+      "relation": "next"
+    },
+    {
+      "source": "e0059",
+      "target": "e0060",
+      "relation": "next"
+    },
+    {
+      "source": "e0060",
+      "target": "e0061",
+      "relation": "next"
+    },
+    {
+      "source": "e0061",
+      "target": "e0062",
+      "relation": "next"
+    },
+    {
+      "source": "e0062",
+      "target": "e0063",
+      "relation": "next"
+    },
+    {
+      "source": "e0063",
+      "target": "e0064",
+      "relation": "next"
+    },
+    {
+      "source": "e0064",
+      "target": "e0065",
+      "relation": "next"
+    },
+    {
+      "source": "e0065",
+      "target": "e0066",
+      "relation": "next"
+    },
+    {
+      "source": "e0066",
+      "target": "e0067",
+      "relation": "next"
+    },
+    {
+      "source": "e0067",
+      "target": "e0068",
+      "relation": "next"
+    },
+    {
+      "source": "e0068",
+      "target": "e0069",
+      "relation": "next"
+    },
+    {
+      "source": "e0069",
+      "target": "e0070",
+      "relation": "next"
+    },
+    {
+      "source": "e0070",
+      "target": "e0071",
+      "relation": "next"
+    },
+    {
+      "source": "e0071",
+      "target": "e0072",
+      "relation": "next"
+    },
+    {
+      "source": "e0072",
+      "target": "e0073",
+      "relation": "next"
+    },
+    {
+      "source": "e0073",
+      "target": "e0074",
+      "relation": "next"
+    },
+    {
+      "source": "e0074",
+      "target": "e0075",
+      "relation": "next"
+    },
+    {
+      "source": "e0075",
+      "target": "e0076",
+      "relation": "next"
+    },
+    {
+      "source": "e0076",
+      "target": "e0077",
+      "relation": "next"
+    },
+    {
+      "source": "e0077",
+      "target": "e0078",
+      "relation": "next"
+    },
+    {
+      "source": "e0078",
+      "target": "e0079",
+      "relation": "next"
+    },
+    {
+      "source": "e0079",
+      "target": "e0080",
+      "relation": "next"
+    },
+    {
+      "source": "e0080",
+      "target": "e0081",
+      "relation": "next"
+    },
+    {
+      "source": "e0081",
+      "target": "e0082",
+      "relation": "next"
+    },
+    {
+      "source": "e0082",
+      "target": "e0083",
+      "relation": "next"
+    },
+    {
+      "source": "e0083",
+      "target": "e0084",
+      "relation": "next"
+    },
+    {
+      "source": "e0084",
+      "target": "e0085",
+      "relation": "next"
+    },
+    {
+      "source": "e0085",
+      "target": "e0086",
+      "relation": "next"
+    },
+    {
+      "source": "e0086",
+      "target": "e0087",
+      "relation": "next"
+    },
+    {
+      "source": "e0087",
+      "target": "e0088",
+      "relation": "next"
+    },
+    {
+      "source": "e0088",
+      "target": "e0089",
+      "relation": "next"
+    },
+    {
+      "source": "e0089",
+      "target": "e0090",
+      "relation": "next"
+    },
+    {
+      "source": "e0090",
+      "target": "e0091",
+      "relation": "next"
+    },
+    {
+      "source": "e0091",
+      "target": "e0092",
+      "relation": "next"
+    },
+    {
+      "source": "e0092",
+      "target": "e0093",
+      "relation": "next"
+    },
+    {
+      "source": "e0093",
+      "target": "e0094",
+      "relation": "next"
+    },
+    {
+      "source": "e0094",
+      "target": "e0095",
+      "relation": "next"
+    },
+    {
+      "source": "e0095",
+      "target": "e0096",
+      "relation": "next"
+    },
+    {
+      "source": "e0096",
+      "target": "e0097",
+      "relation": "next"
+    },
+    {
+      "source": "e0097",
+      "target": "e0098",
+      "relation": "next"
+    },
+    {
+      "source": "e0098",
+      "target": "e0099",
+      "relation": "next"
+    }
+  ]
+}

@@ -1,0 +1,534 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "she | sit | herself",
+      "sent_id": 0,
+      "sentence": "THE FROG-PRINCE\n\nOne fine evening a young princess put on her bonnet and clogs, and went out to take a walk by herself in a wood; and when she came to a cool spring of water, that rose in the midst of it, she sat herself down to rest a while.",
+      "subj": "she",
+      "verb": "sit",
+      "obj": "herself"
+    },
+    {
+      "id": "e0001",
+      "label": "she | have | ball",
+      "sent_id": 1,
+      "sentence": "Now she had a golden ball in her hand, which was her favourite plaything; and she was always tossing it up into the air, and catching it again as it fell.",
+      "subj": "she",
+      "verb": "have",
+      "obj": "ball"
+    },
+    {
+      "id": "e0002",
+      "label": "it | fall | spring",
+      "sent_id": 2,
+      "sentence": "After a time she threw it up so high that she missed catching it as it fell; and the ball bounded away, and rolled along upon the ground, till at last it fell down into the spring.",
+      "subj": "it",
+      "verb": "fall",
+      "obj": "spring"
+    },
+    {
+      "id": "e0003",
+      "label": "princess | look | spring",
+      "sent_id": 3,
+      "sentence": "The princess looked into the spring after her ball, but it was very deep, so deep that she could not see the bottom of it.",
+      "subj": "princess",
+      "verb": "look",
+      "obj": "spring"
+    },
+    {
+      "id": "e0004",
+      "label": "she | begin | \u2205",
+      "sent_id": 4,
+      "sentence": "Then she began to bewail her loss, and said, \u2018Alas!",
+      "subj": "she",
+      "verb": "begin",
+      "obj": ""
+    },
+    {
+      "id": "e0005",
+      "label": "i | give | clothe",
+      "sent_id": 5,
+      "sentence": "if I could only get my ball again, I would give all my fine clothes and jewels, and everything that I have in the world.\u2019",
+      "subj": "i",
+      "verb": "give",
+      "obj": "clothe"
+    },
+    {
+      "id": "e0006",
+      "label": "frog | put | head",
+      "sent_id": 6,
+      "sentence": "Whilst she was speaking, a frog put its head out of the water, and said, \u2018Princess, why do you weep so bitterly?\u2019",
+      "subj": "frog",
+      "verb": "put",
+      "obj": "head"
+    },
+    {
+      "id": "e0007",
+      "label": "she | say | \u2205",
+      "sent_id": 7,
+      "sentence": "\u2018Alas!\u2019 said she, \u2018what can you do for me, you nasty frog?",
+      "subj": "she",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0008",
+      "label": "ball | fall | spring",
+      "sent_id": 8,
+      "sentence": "My golden ball has fallen into the spring.\u2019",
+      "subj": "ball",
+      "verb": "fall",
+      "obj": "spring"
+    },
+    {
+      "id": "e0009",
+      "label": "frog | say | \u2205",
+      "sent_id": 9,
+      "sentence": "The frog said, \u2018I want not your pearls, and jewels, and fine clothes; but if you will love me, and let me live with you and eat from off your golden plate, and sleep upon your bed, I will bring you your ball again.\u2019",
+      "subj": "frog",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0010",
+      "label": "princess | think | \u2205",
+      "sent_id": 10,
+      "sentence": "\u2018What nonsense,\u2019 thought the princess, \u2018this silly frog is talking!",
+      "subj": "princess",
+      "verb": "think",
+      "obj": ""
+    },
+    {
+      "id": "e0011",
+      "label": "he | get | \u2205",
+      "sent_id": 11,
+      "sentence": "He can never even get out of the spring to visit me, though he may be able to get my ball for me, and therefore I will tell him he shall have what he asks.\u2019",
+      "subj": "he",
+      "verb": "get",
+      "obj": ""
+    },
+    {
+      "id": "e0012",
+      "label": "she | say | frog",
+      "sent_id": 12,
+      "sentence": "So she said to the frog, \u2018Well, if you will bring me my ball, I will do all you ask.\u2019",
+      "subj": "she",
+      "verb": "say",
+      "obj": "frog"
+    },
+    {
+      "id": "e0013",
+      "label": "frog | put | head",
+      "sent_id": 13,
+      "sentence": "Then the frog put his head down, and dived deep under the water; and after a little while he came up again, with the ball in his mouth, and threw it on the edge of the spring.",
+      "subj": "frog",
+      "verb": "put",
+      "obj": "head"
+    },
+    {
+      "id": "e0014",
+      "label": "she | run | \u2205",
+      "sent_id": 14,
+      "sentence": "As soon as the young princess saw her ball, she ran to pick it up; and she was so overjoyed to have it in her hand again, that she never thought of the frog, but ran home with it as fast as she could.",
+      "subj": "she",
+      "verb": "run",
+      "obj": ""
+    },
+    {
+      "id": "e0015",
+      "label": "frog | call | stay",
+      "sent_id": 15,
+      "sentence": "The frog called after her, \u2018Stay, princess, and take me with you as you said,\u2019 But she did not stop to hear a word.",
+      "subj": "frog",
+      "verb": "call",
+      "obj": "stay"
+    },
+    {
+      "id": "e0016",
+      "label": "she | hear | noise",
+      "sent_id": 16,
+      "sentence": "The next day, just as the princess had sat down to dinner, she heard a strange noise\u2014tap, tap\u2014plash, plash\u2014as if something was coming up the marble staircase: and soon afterwards there was a gentle knock at the door, and a little voice cried out and said:\n\n \u2018Open the door, my princess dear,\n Open the door to thy true love here!\n And mind the words that thou and I said\n By the fountain cool, in the greenwood shade.\u2019",
+      "subj": "she",
+      "verb": "hear",
+      "obj": "noise"
+    },
+    {
+      "id": "e0017",
+      "label": "princess | run | door",
+      "sent_id": 17,
+      "sentence": "Then the princess ran to the door and opened it, and there she saw the frog, whom she had quite forgotten.",
+      "subj": "princess",
+      "verb": "run",
+      "obj": "door"
+    },
+    {
+      "id": "e0018",
+      "label": "she | be | sight",
+      "sent_id": 18,
+      "sentence": "At this sight she was sadly frightened, and shutting the door as fast as she could came back to her seat.",
+      "subj": "she",
+      "verb": "be",
+      "obj": "sight"
+    },
+    {
+      "id": "e0019",
+      "label": "king | ask | she",
+      "sent_id": 19,
+      "sentence": "The king, her father, seeing that something had frightened her, asked her what was the matter.",
+      "subj": "king",
+      "verb": "ask",
+      "obj": "she"
+    },
+    {
+      "id": "e0020",
+      "label": "she | say | \u2205",
+      "sent_id": 20,
+      "sentence": "\u2018There is a nasty frog,\u2019 said she, \u2018at the door, that lifted my ball for me out of the spring this morning: I told him that he should live with me here, thinking that he could never get out of the spring; but there he is at the door, and he wants to come in.\u2019\n\nWhile she was speaking the frog knocked again at the door, and said:\n\n \u2018Open the door, my princess dear,\n Open the door to thy true love here!",
+      "subj": "she",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0021",
+      "label": "\u2205 | mind | word",
+      "sent_id": 21,
+      "sentence": "And mind the words that thou and I said\n By the fountain cool, in the greenwood shade.\u2019",
+      "subj": "",
+      "verb": "mind",
+      "obj": "word"
+    },
+    {
+      "id": "e0022",
+      "label": "king | say | princess",
+      "sent_id": 22,
+      "sentence": "Then the king said to the young princess, \u2018As you have given your word you must keep it; so go and let him in.\u2019",
+      "subj": "king",
+      "verb": "say",
+      "obj": "princess"
+    },
+    {
+      "id": "e0023",
+      "label": "she | do | \u2205",
+      "sent_id": 23,
+      "sentence": "She did so, and the frog hopped into the room, and then straight on\u2014tap, tap\u2014plash, plash\u2014from the bottom of the room to the top, till he came up close to the table where the princess sat.",
+      "subj": "she",
+      "verb": "do",
+      "obj": ""
+    },
+    {
+      "id": "e0024",
+      "label": "he | say | princess",
+      "sent_id": 24,
+      "sentence": "\u2018Pray lift me upon chair,\u2019 said he to the princess, \u2018and let me sit next to you.\u2019",
+      "subj": "he",
+      "verb": "say",
+      "obj": "princess"
+    },
+    {
+      "id": "e0025",
+      "label": "frog | say | \u2205",
+      "sent_id": 25,
+      "sentence": "As soon as she had done this, the frog said, \u2018Put your plate nearer to me, that I may eat out of it.\u2019",
+      "subj": "frog",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0026",
+      "label": "he | say | \u2205",
+      "sent_id": 26,
+      "sentence": "This she did, and when he had eaten as much as he could, he said, \u2018Now I am tired; carry me upstairs, and put me into your bed.\u2019",
+      "subj": "he",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0027",
+      "label": "princess | take | he",
+      "sent_id": 27,
+      "sentence": "And the princess, though very unwilling, took him up in her hand, and put him upon the pillow of her own bed, where he slept all night long.",
+      "subj": "princess",
+      "verb": "take",
+      "obj": "he"
+    },
+    {
+      "id": "e0028",
+      "label": "he | jump | \u2205",
+      "sent_id": 28,
+      "sentence": "As soon as it was light he jumped up, hopped downstairs, and went out of the house.",
+      "subj": "he",
+      "verb": "jump",
+      "obj": ""
+    },
+    {
+      "id": "e0029",
+      "label": "\u2205 | think | princess",
+      "sent_id": 29,
+      "sentence": "\u2018Now, then,\u2019 thought the princess, \u2018at last he is gone, and I shall be troubled with him no more.\u2019",
+      "subj": "",
+      "verb": "think",
+      "obj": "princess"
+    },
+    {
+      "id": "e0030",
+      "label": "she | hear | tapping",
+      "sent_id": 30,
+      "sentence": "But she was mistaken; for when night came again she heard the same tapping at the door; and the frog came once more, and said:\n\n \u2018Open the door, my princess dear,\n Open the door to thy true love here!",
+      "subj": "she",
+      "verb": "hear",
+      "obj": "tapping"
+    },
+    {
+      "id": "e0031",
+      "label": "\u2205 | mind | word",
+      "sent_id": 31,
+      "sentence": "And mind the words that thou and I said\n By the fountain cool, in the greenwood shade.\u2019",
+      "subj": "",
+      "verb": "mind",
+      "obj": "word"
+    },
+    {
+      "id": "e0032",
+      "label": "he | do | same",
+      "sent_id": 33,
+      "sentence": "And the third night he did the same.",
+      "subj": "he",
+      "verb": "do",
+      "obj": "same"
+    },
+    {
+      "id": "e0033",
+      "label": "she | astonish | \u2205",
+      "sent_id": 34,
+      "sentence": "But when the princess awoke on the following morning she was astonished to see, instead of the frog, a handsome prince, gazing on her with the most beautiful eyes she had ever seen, and standing at the head of her bed.",
+      "subj": "she",
+      "verb": "astonish",
+      "obj": ""
+    },
+    {
+      "id": "e0034",
+      "label": "he | tell | she",
+      "sent_id": 35,
+      "sentence": "He told her that he had been enchanted by a spiteful fairy, who had changed him into a frog; and that he had been fated so to abide till some princess should take him out of the spring, and let him eat from her plate, and sleep upon her bed for three nights.",
+      "subj": "he",
+      "verb": "tell",
+      "obj": "she"
+    },
+    {
+      "id": "e0035",
+      "label": "you | say | \u2205",
+      "sent_id": 36,
+      "sentence": "\u2018You,\u2019 said the prince, \u2018have broken his cruel charm, and now I have nothing to wish for but that you should go with me into my father\u2019s kingdom, where I will marry you, and love you as long as you live.\u2019",
+      "subj": "you",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0036",
+      "label": "you | be | \u2205",
+      "sent_id": 37,
+      "sentence": "The young princess, you may be sure, was not long in saying \u2018Yes\u2019 to all this; and as they spoke a gay coach drove up, with eight beautiful horses, decked with plumes of feathers and a golden harness; and behind the coach rode the prince\u2019s servant, faithful Heinrich, who had bewailed the misfortunes of his dear master during his enchantment so long and so bitterly, that his heart had well-nigh burst.",
+      "subj": "you",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0037",
+      "label": "they | take | leave",
+      "sent_id": 38,
+      "sentence": "They then took leave of the king, and got into the coach with eight horses, and all set out, full of joy and merriment, for the prince\u2019s kingdom, which they reached safely; and there they lived happily a great many years.",
+      "subj": "they",
+      "verb": "take",
+      "obj": "leave"
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    },
+    {
+      "source": "e0029",
+      "target": "e0030",
+      "relation": "next"
+    },
+    {
+      "source": "e0030",
+      "target": "e0031",
+      "relation": "next"
+    },
+    {
+      "source": "e0031",
+      "target": "e0032",
+      "relation": "next"
+    },
+    {
+      "source": "e0032",
+      "target": "e0033",
+      "relation": "next"
+    },
+    {
+      "source": "e0033",
+      "target": "e0034",
+      "relation": "next"
+    },
+    {
+      "source": "e0034",
+      "target": "e0035",
+      "relation": "next"
+    },
+    {
+      "source": "e0035",
+      "target": "e0036",
+      "relation": "next"
+    },
+    {
+      "source": "e0036",
+      "target": "e0037",
+      "relation": "next"
+    }
+  ]
+}

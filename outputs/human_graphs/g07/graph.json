@@ -1,0 +1,1640 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "\u2205 | be | fisherman",
+      "sent_id": 0,
+      "sentence": "THE FISHERMAN AND HIS WIFE\n\nThere was once a fisherman who lived with his wife in a pigsty, close by the seaside.",
+      "subj": "",
+      "verb": "be",
+      "obj": "fisherman"
+    },
+    {
+      "id": "e0001",
+      "label": "fisherman | drag | water",
+      "sent_id": 1,
+      "sentence": "The fisherman used to go out all day long a-fishing; and one day, as he sat on the shore with his rod, looking at the sparkling waves and watching his line, all on a sudden his float was dragged away deep into the water: and in drawing it up he pulled out a great fish.",
+      "subj": "fisherman",
+      "verb": "drag",
+      "obj": "water"
+    },
+    {
+      "id": "e0002",
+      "label": "fish | say | \u2205",
+      "sent_id": 2,
+      "sentence": "But the fish said, \u2018Pray let me live!",
+      "subj": "fish",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0003",
+      "label": "i | be | prince",
+      "sent_id": 3,
+      "sentence": "I am not a real fish; I am an enchanted prince: put me in the water again, and let me go!\u2019",
+      "subj": "i",
+      "verb": "be",
+      "obj": "prince"
+    },
+    {
+      "id": "e0004",
+      "label": "man | say | \u2205",
+      "sent_id": 4,
+      "sentence": "\u2018Oh, ho!\u2019 said the man, \u2018you need not make so many words about the matter; I will have nothing to do with a fish that can talk: so swim away, sir, as soon as you please!\u2019",
+      "subj": "man",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0005",
+      "label": "he | put | he",
+      "sent_id": 5,
+      "sentence": "Then he put him back into the water, and the fish darted straight down to the bottom, and left a long streak of blood behind him on the wave.",
+      "subj": "he",
+      "verb": "put",
+      "obj": "he"
+    },
+    {
+      "id": "e0006",
+      "label": "he | tell | she",
+      "sent_id": 6,
+      "sentence": "When the fisherman went home to his wife in the pigsty, he told her how he had caught a great fish, and how it had told him it was an enchanted prince, and how, on hearing it speak, he had let it go again.",
+      "subj": "he",
+      "verb": "tell",
+      "obj": "she"
+    },
+    {
+      "id": "e0007",
+      "label": "you | ask | it",
+      "sent_id": 7,
+      "sentence": "\u2018Did not you ask it for anything?\u2019 said the wife, \u2018we live very wretchedly here, in this nasty dirty pigsty; do go back and tell the fish we want a snug little cottage.\u2019",
+      "subj": "you",
+      "verb": "ask",
+      "obj": "it"
+    },
+    {
+      "id": "e0008",
+      "label": "he | go | seashore",
+      "sent_id": 8,
+      "sentence": "The fisherman did not much like the business: however, he went to the seashore; and when he came back there the water looked all yellow and green.",
+      "subj": "he",
+      "verb": "go",
+      "obj": "seashore"
+    },
+    {
+      "id": "e0009",
+      "label": "he | stand | edge",
+      "sent_id": 9,
+      "sentence": "And he stood at the water\u2019s edge, and said:\n\n \u2018O man of the sea!",
+      "subj": "he",
+      "verb": "stand",
+      "obj": "edge"
+    },
+    {
+      "id": "e0010",
+      "label": "\u2205 | hearken | i",
+      "sent_id": 10,
+      "sentence": "Hearken to me!",
+      "subj": "",
+      "verb": "hearken",
+      "obj": "i"
+    },
+    {
+      "id": "e0011",
+      "label": "wife | have | will",
+      "sent_id": 11,
+      "sentence": "My wife Ilsabill\n Will have her own will,\n And hath sent me to beg a boon of thee!\u2019",
+      "subj": "wife",
+      "verb": "have",
+      "obj": "will"
+    },
+    {
+      "id": "e0012",
+      "label": "fish | swim | he",
+      "sent_id": 12,
+      "sentence": "Then the fish came swimming to him, and said, \u2018Well, what is her will?",
+      "subj": "fish",
+      "verb": "swim",
+      "obj": "he"
+    },
+    {
+      "id": "e0013",
+      "label": "wife | want | what",
+      "sent_id": 13,
+      "sentence": "What does your wife want?\u2019",
+      "subj": "wife",
+      "verb": "want",
+      "obj": "what"
+    },
+    {
+      "id": "e0014",
+      "label": "fisherman | say | \u2205",
+      "sent_id": 14,
+      "sentence": "\u2018Ah!\u2019 said the fisherman, \u2018she says that when I had caught you, I ought to have asked you for something before I let you go; she does not like living any longer in the pigsty, and wants a snug little cottage.\u2019",
+      "subj": "fisherman",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0015",
+      "label": "she | be | cottage",
+      "sent_id": 15,
+      "sentence": "\u2018Go home, then,\u2019 said the fish; \u2018she is in the cottage already!\u2019",
+      "subj": "she",
+      "verb": "be",
+      "obj": "cottage"
+    },
+    {
+      "id": "e0016",
+      "label": "man | go | \u2205",
+      "sent_id": 16,
+      "sentence": "So the man went home, and saw his wife standing at the door of a nice trim little cottage.",
+      "subj": "man",
+      "verb": "go",
+      "obj": ""
+    },
+    {
+      "id": "e0017",
+      "label": "\u2205 | come | \u2205",
+      "sent_id": 17,
+      "sentence": "\u2018Come in, come in!\u2019",
+      "subj": "",
+      "verb": "come",
+      "obj": ""
+    },
+    {
+      "id": "e0018",
+      "label": "she | say | \u2205",
+      "sent_id": 18,
+      "sentence": "said she; \u2018is not this much better than the filthy pigsty we had?\u2019",
+      "subj": "she",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0019",
+      "label": "\u2205 | be | parlour",
+      "sent_id": 19,
+      "sentence": "And there was a parlour, and a bedchamber, and a kitchen; and behind the cottage there was a little garden, planted with all sorts of flowers and fruits; and there was a courtyard behind, full of ducks and chickens.",
+      "subj": "",
+      "verb": "be",
+      "obj": "parlour"
+    },
+    {
+      "id": "e0020",
+      "label": "! | say | \u2205",
+      "sent_id": 20,
+      "sentence": "\u2018Ah!\u2019 said the fisherman, \u2018how happily we shall live now!\u2019",
+      "subj": "!",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0021",
+      "label": "wife | say | \u2205",
+      "sent_id": 21,
+      "sentence": "\u2018We will try to do so, at least,\u2019 said his wife.",
+      "subj": "wife",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0022",
+      "label": "everything | go | week",
+      "sent_id": 22,
+      "sentence": "Everything went right for a week or two, and then Dame Ilsabill said, \u2018Husband, there is not near room enough for us in this cottage; the courtyard and the garden are a great deal too small; I should like to have a large stone castle to live in: go to the fish again and tell him to give us a castle.\u2019",
+      "subj": "everything",
+      "verb": "go",
+      "obj": "week"
+    },
+    {
+      "id": "e0023",
+      "label": "we | ought | \u2205",
+      "sent_id": 23,
+      "sentence": "\u2018Wife,\u2019 said the fisherman, \u2018I don\u2019t like to go to him again, for perhaps he will be angry; we ought to be easy with this pretty cottage to live in.\u2019",
+      "subj": "we",
+      "verb": "ought",
+      "obj": ""
+    },
+    {
+      "id": "e0024",
+      "label": "he | do | it",
+      "sent_id": 24,
+      "sentence": "\u2018Nonsense!\u2019 said the wife; \u2018he will do it very willingly, I know; go along and try!\u2019",
+      "subj": "he",
+      "verb": "do",
+      "obj": "it"
+    },
+    {
+      "id": "e0025",
+      "label": "fisherman | go | \u2205",
+      "sent_id": 25,
+      "sentence": "The fisherman went, but his heart was very heavy: and when he came to the sea, it looked blue and gloomy, though it was very calm; and he went close to the edge of the waves, and said:\n\n \u2018O man of the sea!",
+      "subj": "fisherman",
+      "verb": "go",
+      "obj": ""
+    },
+    {
+      "id": "e0026",
+      "label": "\u2205 | hearken | i",
+      "sent_id": 26,
+      "sentence": "Hearken to me!",
+      "subj": "",
+      "verb": "hearken",
+      "obj": "i"
+    },
+    {
+      "id": "e0027",
+      "label": "wife | have | will",
+      "sent_id": 27,
+      "sentence": "My wife Ilsabill\n Will have her own will,\n And hath sent me to beg a boon of thee!\u2019",
+      "subj": "wife",
+      "verb": "have",
+      "obj": "will"
+    },
+    {
+      "id": "e0028",
+      "label": "fish | say | \u2205",
+      "sent_id": 28,
+      "sentence": "\u2018Well, what does she want now?\u2019 said the fish.",
+      "subj": "fish",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0029",
+      "label": "man | say | \u2205",
+      "sent_id": 29,
+      "sentence": "\u2018Ah!\u2019 said the man, dolefully, \u2018my wife wants to live in a stone castle.\u2019",
+      "subj": "man",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0030",
+      "label": "she | stand | gate",
+      "sent_id": 30,
+      "sentence": "\u2018Go home, then,\u2019 said the fish; \u2018she is standing at the gate of it already.\u2019",
+      "subj": "she",
+      "verb": "stand",
+      "obj": "gate"
+    },
+    {
+      "id": "e0031",
+      "label": "\u2205 | go | fisherman",
+      "sent_id": 31,
+      "sentence": "So away went the fisherman, and found his wife standing before the gate of a great castle.",
+      "subj": "",
+      "verb": "go",
+      "obj": "fisherman"
+    },
+    {
+      "id": "e0032",
+      "label": "she | say | \u2205",
+      "sent_id": 32,
+      "sentence": "\u2018See,\u2019 said she, \u2018is not this grand?\u2019",
+      "subj": "she",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0033",
+      "label": "they | go | that",
+      "sent_id": 33,
+      "sentence": "With that they went into the castle together, and found a great many servants there, and the rooms all richly furnished, and full of golden chairs and tables; and behind the castle was a garden, and around it was a park half a mile long, full of sheep, and goats, and hares, and deer; and in the courtyard were stables and cow-houses.",
+      "subj": "they",
+      "verb": "go",
+      "obj": "that"
+    },
+    {
+      "id": "e0034",
+      "label": "man | say | \u2205",
+      "sent_id": 34,
+      "sentence": "\u2018Well,\u2019 said the man, \u2018now we will live cheerful and happy in this beautiful castle for the rest of our lives.\u2019",
+      "subj": "man",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0035",
+      "label": "wife | say | \u2205",
+      "sent_id": 35,
+      "sentence": "\u2018Perhaps we may,\u2019 said the wife; \u2018but let us sleep upon it, before we make up our minds to that.\u2019",
+      "subj": "wife",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0036",
+      "label": "they | go | bed",
+      "sent_id": 36,
+      "sentence": "So they went to bed.",
+      "subj": "they",
+      "verb": "go",
+      "obj": "bed"
+    },
+    {
+      "id": "e0037",
+      "label": "it | be | daylight",
+      "sent_id": 37,
+      "sentence": "The next morning when Dame Ilsabill awoke it was broad daylight, and she jogged the fisherman with her elbow, and said, \u2018Get up, husband, and bestir yourself, for we must be king of all the land.\u2019",
+      "subj": "it",
+      "verb": "be",
+      "obj": "daylight"
+    },
+    {
+      "id": "e0038",
+      "label": "wife | say | \u2205",
+      "sent_id": 38,
+      "sentence": "\u2018Wife, wife,\u2019 said the man, \u2018why should we wish to be the king?",
+      "subj": "wife",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0039",
+      "label": "i | be | king",
+      "sent_id": 39,
+      "sentence": "I will not be king.\u2019",
+      "subj": "i",
+      "verb": "be",
+      "obj": "king"
+    },
+    {
+      "id": "e0040",
+      "label": "she | say | \u2205",
+      "sent_id": 40,
+      "sentence": "\u2018Then I will,\u2019 said she.",
+      "subj": "she",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0041",
+      "label": "wife | say | \u2205",
+      "sent_id": 41,
+      "sentence": "\u2018But, wife,\u2019 said the fisherman, \u2018how can you be king\u2014the fish cannot make you a king?\u2019",
+      "subj": "wife",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0042",
+      "label": "husband | say | \u2205",
+      "sent_id": 42,
+      "sentence": "\u2018Husband,\u2019 said she, \u2018say no more about it, but go and try!",
+      "subj": "husband",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0043",
+      "label": "i | be | king",
+      "sent_id": 43,
+      "sentence": "I will be king.\u2019",
+      "subj": "i",
+      "verb": "be",
+      "obj": "king"
+    },
+    {
+      "id": "e0044",
+      "label": "man | go | \u2205",
+      "sent_id": 44,
+      "sentence": "So the man went away quite sorrowful to think that his wife should want to be king.",
+      "subj": "man",
+      "verb": "go",
+      "obj": ""
+    },
+    {
+      "id": "e0045",
+      "label": "sea | look | colour",
+      "sent_id": 45,
+      "sentence": "This time the sea looked a dark grey colour, and was overspread with curling waves and the ridges of foam as he cried out:\n\n \u2018O man of the sea!",
+      "subj": "sea",
+      "verb": "look",
+      "obj": "colour"
+    },
+    {
+      "id": "e0046",
+      "label": "\u2205 | hearken | i",
+      "sent_id": 46,
+      "sentence": "Hearken to me!",
+      "subj": "",
+      "verb": "hearken",
+      "obj": "i"
+    },
+    {
+      "id": "e0047",
+      "label": "wife | have | will",
+      "sent_id": 47,
+      "sentence": "My wife Ilsabill\n Will have her own will,\n And hath sent me to beg a boon of thee!\u2019",
+      "subj": "wife",
+      "verb": "have",
+      "obj": "will"
+    },
+    {
+      "id": "e0048",
+      "label": "fish | say | \u2205",
+      "sent_id": 48,
+      "sentence": "\u2018Well, what would she have now?\u2019 said the fish.",
+      "subj": "fish",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0049",
+      "label": "man | say | \u2205",
+      "sent_id": 49,
+      "sentence": "\u2018Alas!\u2019 said the poor man, \u2018my wife wants to be king.\u2019",
+      "subj": "man",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0050",
+      "label": "she | be | king",
+      "sent_id": 50,
+      "sentence": "\u2018Go home,\u2019 said the fish; \u2018she is king already.\u2019",
+      "subj": "she",
+      "verb": "be",
+      "obj": "king"
+    },
+    {
+      "id": "e0051",
+      "label": "fisherman | go | \u2205",
+      "sent_id": 51,
+      "sentence": "Then the fisherman went home; and as he came close to the palace he saw a troop of soldiers, and heard the sound of drums and trumpets.",
+      "subj": "fisherman",
+      "verb": "go",
+      "obj": ""
+    },
+    {
+      "id": "e0052",
+      "label": "he | see | \u2205",
+      "sent_id": 52,
+      "sentence": "And when he went in he saw his wife sitting on a throne of gold and diamonds, with a golden crown upon her head; and on each side of her stood six fair maidens, each a head taller than the other.",
+      "subj": "he",
+      "verb": "see",
+      "obj": ""
+    },
+    {
+      "id": "e0053",
+      "label": "wife | say | \u2205",
+      "sent_id": 53,
+      "sentence": "\u2018Well, wife,\u2019 said the fisherman, \u2018are you king?\u2019",
+      "subj": "wife",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0054",
+      "label": "she | say | \u2205",
+      "sent_id": 54,
+      "sentence": "\u2018Yes,\u2019 said she, \u2018I am king.\u2019",
+      "subj": "she",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0055",
+      "label": "he | say | \u2205",
+      "sent_id": 55,
+      "sentence": "And when he had looked at her for a long time, he said, \u2018Ah, wife!",
+      "subj": "he",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0056",
+      "label": "it | be | thing",
+      "sent_id": 56,
+      "sentence": "what a fine thing it is to be king!",
+      "subj": "it",
+      "verb": "be",
+      "obj": "thing"
+    },
+    {
+      "id": "e0057",
+      "label": "we | have | anything",
+      "sent_id": 57,
+      "sentence": "Now we shall never have anything more to wish for as long as we live.\u2019",
+      "subj": "we",
+      "verb": "have",
+      "obj": "anything"
+    },
+    {
+      "id": "e0058",
+      "label": "she | say | \u2205",
+      "sent_id": 58,
+      "sentence": "\u2018I don\u2019t know how that may be,\u2019 said she; \u2018never is a long time.",
+      "subj": "she",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0059",
+      "label": "it | be | \u2205",
+      "sent_id": 59,
+      "sentence": "I am king, it is true; but I begin to be tired of that, and I think I should like to be emperor.\u2019",
+      "subj": "it",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0060",
+      "label": "fisherman | say | \u2205",
+      "sent_id": 61,
+      "sentence": "why should you wish to be emperor?\u2019 said the fisherman.",
+      "subj": "fisherman",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0061",
+      "label": "husband | say | \u2205",
+      "sent_id": 62,
+      "sentence": "\u2018Husband,\u2019 said she, \u2018go to the fish!",
+      "subj": "husband",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0062",
+      "label": "i | say | \u2205",
+      "sent_id": 63,
+      "sentence": "I say I will be emperor.\u2019",
+      "subj": "i",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0063",
+      "label": "i | be | \u2205",
+      "sent_id": 64,
+      "sentence": "\u2018Ah, wife!\u2019 replied the fisherman, \u2018the fish cannot make an emperor, I am sure, and I should not like to ask him for such a thing.\u2019",
+      "subj": "i",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0064",
+      "label": "ilsabill | say | \u2205",
+      "sent_id": 65,
+      "sentence": "\u2018I am king,\u2019 said Ilsabill, \u2018and you are my slave; so go at once!\u2019",
+      "subj": "ilsabill",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0065",
+      "label": "fisherman | force | \u2205",
+      "sent_id": 66,
+      "sentence": "So the fisherman was forced to go; and he muttered as he went along, \u2018This will come to no good, it is too much to ask; the fish will be tired at last, and then we shall be sorry for what we have done.\u2019",
+      "subj": "fisherman",
+      "verb": "force",
+      "obj": ""
+    },
+    {
+      "id": "e0066",
+      "label": "he | come | seashore",
+      "sent_id": 67,
+      "sentence": "He soon came to the seashore; and the water was quite black and muddy, and a mighty whirlwind blew over the waves and rolled them about, but he went as near as he could to the water\u2019s brink, and said:\n\n \u2018O man of the sea!",
+      "subj": "he",
+      "verb": "come",
+      "obj": "seashore"
+    },
+    {
+      "id": "e0067",
+      "label": "\u2205 | hearken | i",
+      "sent_id": 68,
+      "sentence": "Hearken to me!",
+      "subj": "",
+      "verb": "hearken",
+      "obj": "i"
+    },
+    {
+      "id": "e0068",
+      "label": "wife | have | will",
+      "sent_id": 69,
+      "sentence": "My wife Ilsabill\n Will have her own will,\n And hath sent me to beg a boon of thee!\u2019",
+      "subj": "wife",
+      "verb": "have",
+      "obj": "will"
+    },
+    {
+      "id": "e0069",
+      "label": "fish | say | \u2205",
+      "sent_id": 70,
+      "sentence": "\u2018What would she have now?\u2019 said the fish.",
+      "subj": "fish",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0070",
+      "label": "! | say | \u2205",
+      "sent_id": 71,
+      "sentence": "\u2018Ah!\u2019 said the fisherman, \u2018she wants to be emperor.\u2019",
+      "subj": "!",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0071",
+      "label": "she | be | emperor",
+      "sent_id": 72,
+      "sentence": "\u2018Go home,\u2019 said the fish; \u2018she is emperor already.\u2019",
+      "subj": "she",
+      "verb": "be",
+      "obj": "emperor"
+    },
+    {
+      "id": "e0072",
+      "label": "he | go | \u2205",
+      "sent_id": 73,
+      "sentence": "So he went home again; and as he came near he saw his wife Ilsabill sitting on a very lofty throne made of solid gold, with a great crown on her head full two yards high; and on each side of her stood her guards and attendants in a row, each one smaller than the other, from the tallest giant down to a little dwarf no bigger than my finger.",
+      "subj": "he",
+      "verb": "go",
+      "obj": ""
+    },
+    {
+      "id": "e0073",
+      "label": "she | stand | prince",
+      "sent_id": 74,
+      "sentence": "And before her stood princes, and dukes, and earls: and the fisherman went up to her and said, \u2018Wife, are you emperor?\u2019",
+      "subj": "she",
+      "verb": "stand",
+      "obj": "prince"
+    },
+    {
+      "id": "e0074",
+      "label": "she | say | \u2205",
+      "sent_id": 75,
+      "sentence": "\u2018Yes,\u2019 said she, \u2018I am emperor.\u2019",
+      "subj": "she",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0075",
+      "label": "man | say | \u2205",
+      "sent_id": 76,
+      "sentence": "\u2018Ah!\u2019 said the man, as he gazed upon her, \u2018what a fine thing it is to be emperor!\u2019",
+      "subj": "man",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0076",
+      "label": "husband | say | \u2205",
+      "sent_id": 77,
+      "sentence": "\u2018Husband,\u2019 said she, \u2018why should we stop at being emperor?",
+      "subj": "husband",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0077",
+      "label": "i | be | pope",
+      "sent_id": 78,
+      "sentence": "I will be pope next.\u2019",
+      "subj": "i",
+      "verb": "be",
+      "obj": "pope"
+    },
+    {
+      "id": "e0078",
+      "label": "wife | say | \u2205",
+      "sent_id": 79,
+      "sentence": "\u2018O wife, wife!\u2019 said he, \u2018how can you be pope?",
+      "subj": "wife",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0079",
+      "label": "\u2205 | be | pope",
+      "sent_id": 80,
+      "sentence": "there is but one pope at a time in Christendom.\u2019",
+      "subj": "",
+      "verb": "be",
+      "obj": "pope"
+    },
+    {
+      "id": "e0080",
+      "label": "husband | say | \u2205",
+      "sent_id": 81,
+      "sentence": "\u2018Husband,\u2019 said she, \u2018I will be pope this very day.\u2019",
+      "subj": "husband",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0081",
+      "label": "\u2205 | reply | husband",
+      "sent_id": 82,
+      "sentence": "\u2018But,\u2019 replied the husband, \u2018the fish cannot make you pope.\u2019",
+      "subj": "",
+      "verb": "reply",
+      "obj": "husband"
+    },
+    {
+      "id": "e0082",
+      "label": "nonsense | say | \u2205",
+      "sent_id": 83,
+      "sentence": "\u2018What nonsense!\u2019 said she; \u2018if he can make an emperor, he can make a pope: go and try him.\u2019",
+      "subj": "nonsense",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0083",
+      "label": "fisherman | go | \u2205",
+      "sent_id": 84,
+      "sentence": "So the fisherman went.",
+      "subj": "fisherman",
+      "verb": "go",
+      "obj": ""
+    },
+    {
+      "id": "e0084",
+      "label": "he | come | shore",
+      "sent_id": 85,
+      "sentence": "But when he came to the shore the wind was raging and the sea was tossed up and down in boiling waves, and the ships were in trouble, and rolled fearfully upon the tops of the billows.",
+      "subj": "he",
+      "verb": "come",
+      "obj": "shore"
+    },
+    {
+      "id": "e0085",
+      "label": "\u2205 | be | piece",
+      "sent_id": 86,
+      "sentence": "In the middle of the heavens there was a little piece of blue sky, but towards the south all was red, as if a dreadful storm was rising.",
+      "subj": "",
+      "verb": "be",
+      "obj": "piece"
+    },
+    {
+      "id": "e0086",
+      "label": "fisherman | be | sight",
+      "sent_id": 87,
+      "sentence": "At this sight the fisherman was dreadfully frightened, and he trembled so that his knees knocked together: but still he went down near to the shore, and said:\n\n \u2018O man of the sea!",
+      "subj": "fisherman",
+      "verb": "be",
+      "obj": "sight"
+    },
+    {
+      "id": "e0087",
+      "label": "\u2205 | hearken | i",
+      "sent_id": 88,
+      "sentence": "Hearken to me!",
+      "subj": "",
+      "verb": "hearken",
+      "obj": "i"
+    },
+    {
+      "id": "e0088",
+      "label": "wife | have | will",
+      "sent_id": 89,
+      "sentence": "My wife Ilsabill\n Will have her own will,\n And hath sent me to beg a boon of thee!\u2019",
+      "subj": "wife",
+      "verb": "have",
+      "obj": "will"
+    },
+    {
+      "id": "e0089",
+      "label": "fish | say | \u2205",
+      "sent_id": 90,
+      "sentence": "\u2018What does she want now?\u2019 said the fish.",
+      "subj": "fish",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0090",
+      "label": "wife | want | \u2205",
+      "sent_id": 91,
+      "sentence": "\u2018Ah!\u2019 said the fisherman, \u2018my wife wants to be pope.\u2019",
+      "subj": "wife",
+      "verb": "want",
+      "obj": ""
+    },
+    {
+      "id": "e0091",
+      "label": "she | be | pope",
+      "sent_id": 92,
+      "sentence": "\u2018Go home,\u2019 said the fish; \u2018she is pope already.\u2019",
+      "subj": "she",
+      "verb": "be",
+      "obj": "pope"
+    },
+    {
+      "id": "e0092",
+      "label": "fisherman | go | \u2205",
+      "sent_id": 93,
+      "sentence": "Then the fisherman went home, and found Ilsabill sitting on a throne that was two miles high.",
+      "subj": "fisherman",
+      "verb": "go",
+      "obj": ""
+    },
+    {
+      "id": "e0093",
+      "label": "she | have | crown",
+      "sent_id": 94,
+      "sentence": "And she had three great crowns on her head, and around her stood all the pomp and power of the Church.",
+      "subj": "she",
+      "verb": "have",
+      "obj": "crown"
+    },
+    {
+      "id": "e0094",
+      "label": "\u2205 | be | row",
+      "sent_id": 95,
+      "sentence": "And on each side of her were two rows of burning lights, of all sizes, the greatest as large as the highest and biggest tower in the world, and the least no larger than a small rushlight.",
+      "subj": "",
+      "verb": "be",
+      "obj": "row"
+    },
+    {
+      "id": "e0095",
+      "label": "wife | say | \u2205",
+      "sent_id": 96,
+      "sentence": "\u2018Wife,\u2019 said the fisherman, as he looked at all this greatness, \u2018are you pope?\u2019",
+      "subj": "wife",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0096",
+      "label": "she | say | \u2205",
+      "sent_id": 97,
+      "sentence": "\u2018Yes,\u2019 said she, \u2018I am pope.\u2019",
+      "subj": "she",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0097",
+      "label": "wife | reply | he",
+      "sent_id": 98,
+      "sentence": "\u2018Well, wife,\u2019 replied he, \u2018it is a grand thing to be pope; and now you must be easy, for you can be nothing greater.\u2019",
+      "subj": "wife",
+      "verb": "reply",
+      "obj": "he"
+    },
+    {
+      "id": "e0098",
+      "label": "wife | say | \u2205",
+      "sent_id": 99,
+      "sentence": "\u2018I will think about that,\u2019 said the wife.",
+      "subj": "wife",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0099",
+      "label": "they | go | bed",
+      "sent_id": 100,
+      "sentence": "Then they went to bed: but Dame Ilsabill could not sleep all night for thinking what she should be next.",
+      "subj": "they",
+      "verb": "go",
+      "obj": "bed"
+    },
+    {
+      "id": "e0100",
+      "label": "morning | break | \u2205",
+      "sent_id": 101,
+      "sentence": "At last, as she was dropping asleep, morning broke, and the sun rose.",
+      "subj": "morning",
+      "verb": "break",
+      "obj": ""
+    },
+    {
+      "id": "e0101",
+      "label": "\u2205 | ha | \u2205",
+      "sent_id": 102,
+      "sentence": "\u2018Ha!\u2019",
+      "subj": "",
+      "verb": "ha",
+      "obj": ""
+    },
+    {
+      "id": "e0102",
+      "label": "she | think | \u2205",
+      "sent_id": 103,
+      "sentence": "thought she, as she woke up and looked at it through the window, \u2018after all I cannot prevent the sun rising.\u2019",
+      "subj": "she",
+      "verb": "think",
+      "obj": ""
+    },
+    {
+      "id": "e0103",
+      "label": "she | be | thought",
+      "sent_id": 104,
+      "sentence": "At this thought she was very angry, and wakened her husband, and said, \u2018Husband, go to the fish and tell him I must be lord of the sun and moon.\u2019",
+      "subj": "she",
+      "verb": "be",
+      "obj": "thought"
+    },
+    {
+      "id": "e0104",
+      "label": "fisherman | be | \u2205",
+      "sent_id": 105,
+      "sentence": "The fisherman was half asleep, but the thought frightened him so much that he started and fell out of bed.",
+      "subj": "fisherman",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0105",
+      "label": "wife | say | \u2205",
+      "sent_id": 106,
+      "sentence": "\u2018Alas, wife!\u2019 said he, \u2018cannot you be easy with being pope?\u2019",
+      "subj": "wife",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0106",
+      "label": "she | say | \u2205",
+      "sent_id": 107,
+      "sentence": "\u2018No,\u2019 said she, \u2018I am very uneasy as long as the sun and moon rise without my leave.",
+      "subj": "she",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0107",
+      "label": "\u2205 | go | fish",
+      "sent_id": 108,
+      "sentence": "Go to the fish at once!\u2019",
+      "subj": "",
+      "verb": "go",
+      "obj": "fish"
+    },
+    {
+      "id": "e0108",
+      "label": "man | go | \u2205",
+      "sent_id": 109,
+      "sentence": "Then the man went shivering with fear; and as he was going down to the shore a dreadful storm arose, so that the trees and the very rocks shook.",
+      "subj": "man",
+      "verb": "go",
+      "obj": ""
+    },
+    {
+      "id": "e0109",
+      "label": "heaven | become | \u2205",
+      "sent_id": 110,
+      "sentence": "And all the heavens became black with stormy clouds, and the lightnings played, and the thunders rolled; and you might have seen in the sea great black waves, swelling up like mountains with crowns of white foam upon their heads.",
+      "subj": "heaven",
+      "verb": "become",
+      "obj": ""
+    },
+    {
+      "id": "e0110",
+      "label": "fisherman | creep | sea",
+      "sent_id": 111,
+      "sentence": "And the fisherman crept towards the sea, and cried out, as well as he could:\n\n \u2018O man of the sea!",
+      "subj": "fisherman",
+      "verb": "creep",
+      "obj": "sea"
+    },
+    {
+      "id": "e0111",
+      "label": "\u2205 | hearken | i",
+      "sent_id": 112,
+      "sentence": "Hearken to me!",
+      "subj": "",
+      "verb": "hearken",
+      "obj": "i"
+    },
+    {
+      "id": "e0112",
+      "label": "wife | have | will",
+      "sent_id": 113,
+      "sentence": "My wife Ilsabill\n Will have her own will,\n And hath sent me to beg a boon of thee!\u2019",
+      "subj": "wife",
+      "verb": "have",
+      "obj": "will"
+    },
+    {
+      "id": "e0113",
+      "label": "fish | say | \u2205",
+      "sent_id": 114,
+      "sentence": "\u2018What does she want now?\u2019 said the fish.",
+      "subj": "fish",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0114",
+      "label": "he | say | \u2205",
+      "sent_id": 115,
+      "sentence": "\u2018Ah!\u2019 said he, \u2018she wants to be lord of the sun and moon.\u2019",
+      "subj": "he",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0115",
+      "label": "fish | say | pigsty",
+      "sent_id": 116,
+      "sentence": "\u2018Go home,\u2019 said the fish, \u2018to your pigsty again.\u2019",
+      "subj": "fish",
+      "verb": "say",
+      "obj": "pigsty"
+    },
+    {
+      "id": "e0116",
+      "label": "they | live | day",
+      "sent_id": 117,
+      "sentence": "And there they live to this very day.",
+      "subj": "they",
+      "verb": "live",
+      "obj": "day"
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    },
+    {
+      "source": "e0029",
+      "target": "e0030",
+      "relation": "next"
+    },
+    {
+      "source": "e0030",
+      "target": "e0031",
+      "relation": "next"
+    },
+    {
+      "source": "e0031",
+      "target": "e0032",
+      "relation": "next"
+    },
+    {
+      "source": "e0032",
+      "target": "e0033",
+      "relation": "next"
+    },
+    {
+      "source": "e0033",
+      "target": "e0034",
+      "relation": "next"
+    },
+    {
+      "source": "e0034",
+      "target": "e0035",
+      "relation": "next"
+    },
+    {
+      "source": "e0035",
+      "target": "e0036",
+      "relation": "next"
+    },
+    {
+      "source": "e0036",
+      "target": "e0037",
+      "relation": "next"
+    },
+    {
+      "source": "e0037",
+      "target": "e0038",
+      "relation": "next"
+    },
+    {
+      "source": "e0038",
+      "target": "e0039",
+      "relation": "next"
+    },
+    {
+      "source": "e0039",
+      "target": "e0040",
+      "relation": "next"
+    },
+    {
+      "source": "e0040",
+      "target": "e0041",
+      "relation": "next"
+    },
+    {
+      "source": "e0041",
+      "target": "e0042",
+      "relation": "next"
+    },
+    {
+      "source": "e0042",
+      "target": "e0043",
+      "relation": "next"
+    },
+    {
+      "source": "e0043",
+      "target": "e0044",
+      "relation": "next"
+    },
+    {
+      "source": "e0044",
+      "target": "e0045",
+      "relation": "next"
+    },
+    {
+      "source": "e0045",
+      "target": "e0046",
+      "relation": "next"
+    },
+    {
+      "source": "e0046",
+      "target": "e0047",
+      "relation": "next"
+    },
+    {
+      "source": "e0047",
+      "target": "e0048",
+      "relation": "next"
+    },
+    {
+      "source": "e0048",
+      "target": "e0049",
+      "relation": "next"
+    },
+    {
+      "source": "e0049",
+      "target": "e0050",
+      "relation": "next"
+    },
+    {
+      "source": "e0050",
+      "target": "e0051",
+      "relation": "next"
+    },
+    {
+      "source": "e0051",
+      "target": "e0052",
+      "relation": "next"
+    },
+    {
+      "source": "e0052",
+      "target": "e0053",
+      "relation": "next"
+    },
+    {
+      "source": "e0053",
+      "target": "e0054",
+      "relation": "next"
+    },
+    {
+      "source": "e0054",
+      "target": "e0055",
+      "relation": "next"
+    },
+    {
+      "source": "e0055",
+      "target": "e0056",
+      "relation": "next"
+    },
+    {
+      "source": "e0056",
+      "target": "e0057",
+      "relation": "next"
+    },
+    {
+      "source": "e0057",
+      "target": "e0058",
+      "relation": "next"
+    },
+    {
+      "source": "e0058",
+      "target": "e0059",
+      "relation": "next"
+    },
+    {
+      "source": "e0059",
+      "target": "e0060",
+      "relation": "next"
+    },
+    {
+      "source": "e0060",
+      "target": "e0061",
+      "relation": "next"
+    },
+    {
+      "source": "e0061",
+      "target": "e0062",
+      "relation": "next"
+    },
+    {
+      "source": "e0062",
+      "target": "e0063",
+      "relation": "next"
+    },
+    {
+      "source": "e0063",
+      "target": "e0064",
+      "relation": "next"
+    },
+    {
+      "source": "e0064",
+      "target": "e0065",
+      "relation": "next"
+    },
+    {
+      "source": "e0065",
+      "target": "e0066",
+      "relation": "next"
+    },
+    {
+      "source": "e0066",
+      "target": "e0067",
+      "relation": "next"
+    },
+    {
+      "source": "e0067",
+      "target": "e0068",
+      "relation": "next"
+    },
+    {
+      "source": "e0068",
+      "target": "e0069",
+      "relation": "next"
+    },
+    {
+      "source": "e0069",
+      "target": "e0070",
+      "relation": "next"
+    },
+    {
+      "source": "e0070",
+      "target": "e0071",
+      "relation": "next"
+    },
+    {
+      "source": "e0071",
+      "target": "e0072",
+      "relation": "next"
+    },
+    {
+      "source": "e0072",
+      "target": "e0073",
+      "relation": "next"
+    },
+    {
+      "source": "e0073",
+      "target": "e0074",
+      "relation": "next"
+    },
+    {
+      "source": "e0074",
+      "target": "e0075",
+      "relation": "next"
+    },
+    {
+      "source": "e0075",
+      "target": "e0076",
+      "relation": "next"
+    },
+    {
+      "source": "e0076",
+      "target": "e0077",
+      "relation": "next"
+    },
+    {
+      "source": "e0077",
+      "target": "e0078",
+      "relation": "next"
+    },
+    {
+      "source": "e0078",
+      "target": "e0079",
+      "relation": "next"
+    },
+    {
+      "source": "e0079",
+      "target": "e0080",
+      "relation": "next"
+    },
+    {
+      "source": "e0080",
+      "target": "e0081",
+      "relation": "next"
+    },
+    {
+      "source": "e0081",
+      "target": "e0082",
+      "relation": "next"
+    },
+    {
+      "source": "e0082",
+      "target": "e0083",
+      "relation": "next"
+    },
+    {
+      "source": "e0083",
+      "target": "e0084",
+      "relation": "next"
+    },
+    {
+      "source": "e0084",
+      "target": "e0085",
+      "relation": "next"
+    },
+    {
+      "source": "e0085",
+      "target": "e0086",
+      "relation": "next"
+    },
+    {
+      "source": "e0086",
+      "target": "e0087",
+      "relation": "next"
+    },
+    {
+      "source": "e0087",
+      "target": "e0088",
+      "relation": "next"
+    },
+    {
+      "source": "e0088",
+      "target": "e0089",
+      "relation": "next"
+    },
+    {
+      "source": "e0089",
+      "target": "e0090",
+      "relation": "next"
+    },
+    {
+      "source": "e0090",
+      "target": "e0091",
+      "relation": "next"
+    },
+    {
+      "source": "e0091",
+      "target": "e0092",
+      "relation": "next"
+    },
+    {
+      "source": "e0092",
+      "target": "e0093",
+      "relation": "next"
+    },
+    {
+      "source": "e0093",
+      "target": "e0094",
+      "relation": "next"
+    },
+    {
+      "source": "e0094",
+      "target": "e0095",
+      "relation": "next"
+    },
+    {
+      "source": "e0095",
+      "target": "e0096",
+      "relation": "next"
+    },
+    {
+      "source": "e0096",
+      "target": "e0097",
+      "relation": "next"
+    },
+    {
+      "source": "e0097",
+      "target": "e0098",
+      "relation": "next"
+    },
+    {
+      "source": "e0098",
+      "target": "e0099",
+      "relation": "next"
+    },
+    {
+      "source": "e0099",
+      "target": "e0100",
+      "relation": "next"
+    },
+    {
+      "source": "e0100",
+      "target": "e0101",
+      "relation": "next"
+    },
+    {
+      "source": "e0101",
+      "target": "e0102",
+      "relation": "next"
+    },
+    {
+      "source": "e0102",
+      "target": "e0103",
+      "relation": "next"
+    },
+    {
+      "source": "e0103",
+      "target": "e0104",
+      "relation": "next"
+    },
+    {
+      "source": "e0104",
+      "target": "e0105",
+      "relation": "next"
+    },
+    {
+      "source": "e0105",
+      "target": "e0106",
+      "relation": "next"
+    },
+    {
+      "source": "e0106",
+      "target": "e0107",
+      "relation": "next"
+    },
+    {
+      "source": "e0107",
+      "target": "e0108",
+      "relation": "next"
+    },
+    {
+      "source": "e0108",
+      "target": "e0109",
+      "relation": "next"
+    },
+    {
+      "source": "e0109",
+      "target": "e0110",
+      "relation": "next"
+    },
+    {
+      "source": "e0110",
+      "target": "e0111",
+      "relation": "next"
+    },
+    {
+      "source": "e0111",
+      "target": "e0112",
+      "relation": "next"
+    },
+    {
+      "source": "e0112",
+      "target": "e0113",
+      "relation": "next"
+    },
+    {
+      "source": "e0113",
+      "target": "e0114",
+      "relation": "next"
+    },
+    {
+      "source": "e0114",
+      "target": "e0115",
+      "relation": "next"
+    },
+    {
+      "source": "e0115",
+      "target": "e0116",
+      "relation": "next"
+    }
+  ]
+}

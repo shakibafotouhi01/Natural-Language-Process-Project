@@ -1,0 +1,324 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "traveller | be | journey",
+      "sent_id": 0,
+      "sentence": "Gulistan chapter II - story 5\n\nSeveral travellers were on a journey together and equally sharing each other's troubles and comforts.",
+      "subj": "traveller",
+      "verb": "be",
+      "obj": "journey"
+    },
+    {
+      "id": "e0001",
+      "label": "i | desire | \u2205",
+      "sent_id": 1,
+      "sentence": "I desired to accompany them but they would not agree.",
+      "subj": "i",
+      "verb": "desire",
+      "obj": ""
+    },
+    {
+      "id": "e0002",
+      "label": "i | say | \u2205",
+      "sent_id": 2,
+      "sentence": "Then I said: 'It is foreign to the manners of great men to turn away the face from the company of the poor and so deprive themselves of the advantage they might derive therefrom because I for one consider myself sufficiently strong and energetic to be of service to men and not an encumbrance.",
+      "subj": "i",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0003",
+      "label": "i | aid | you",
+      "sent_id": 3,
+      "sentence": "Although I am not riding on a beast, I shall aid you in carrying blankets.'",
+      "subj": "i",
+      "verb": "aid",
+      "obj": "you"
+    },
+    {
+      "id": "e0004",
+      "label": "one | say | \u2205",
+      "sent_id": 4,
+      "sentence": "One of them said: 'Do not be grieved at the words thou hast heard because some days ago a thief in the guise of a dervish arrived and joined our company.'\n\nHow can people know who is in the dress?",
+      "subj": "one",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0005",
+      "label": "writer | be | \u2205",
+      "sent_id": 5,
+      "sentence": "The writer is aware what the book contains.",
+      "subj": "writer",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0006",
+      "label": "they | entertain | suspicion",
+      "sent_id": 6,
+      "sentence": "As the state of dervishes is safe, they entertained no suspicion about him and received him as a friend.",
+      "subj": "they",
+      "verb": "entertain",
+      "obj": "suspicion"
+    },
+    {
+      "id": "e0007",
+      "label": "state | be | dress",
+      "sent_id": 7,
+      "sentence": "The outward state of Arifs is the patched dress.",
+      "subj": "state",
+      "verb": "be",
+      "obj": "dress"
+    },
+    {
+      "id": "e0008",
+      "label": "it | suffice | display",
+      "sent_id": 8,
+      "sentence": "It suffices as a display to the face of the people.",
+      "subj": "it",
+      "verb": "suffice",
+      "obj": "display"
+    },
+    {
+      "id": "e0009",
+      "label": "\u2205 | strive | act",
+      "sent_id": 9,
+      "sentence": "Strive by thy acts to be good and wear anything thou listest.",
+      "subj": "",
+      "verb": "strive",
+      "obj": "act"
+    },
+    {
+      "id": "e0010",
+      "label": "abandoning | be | sanctity",
+      "sent_id": 11,
+      "sentence": "The abandoning of the world, of lust, and of desire\nIs sanctity, not the abandonment of the robe only.",
+      "subj": "abandoning",
+      "verb": "be",
+      "obj": "sanctity"
+    },
+    {
+      "id": "e0011",
+      "label": "it | be | \u2205",
+      "sent_id": 12,
+      "sentence": "It is necessary to show manhood in the fight.",
+      "subj": "it",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0012",
+      "label": "\u2205 | be | weapon",
+      "sent_id": 13,
+      "sentence": "Of what profit are weapons of war to an hermaphrodite?",
+      "subj": "",
+      "verb": "be",
+      "obj": "weapon"
+    },
+    {
+      "id": "e0013",
+      "label": "we | travel | \u2205",
+      "sent_id": 14,
+      "sentence": "We travelled one day till the night set in during which we slept near a fort and the graceless thief, taking up the water-pot of a companion, pretending to go for an ablution, departed for plunder.",
+      "subj": "we",
+      "verb": "travel",
+      "obj": ""
+    },
+    {
+      "id": "e0014",
+      "label": "saint | make | covering",
+      "sent_id": 15,
+      "sentence": "A pretended saint who wears the dervish garb\nHas made of the Ka'bah's robes the covering of an ass.",
+      "subj": "saint",
+      "verb": "make",
+      "obj": "covering"
+    },
+    {
+      "id": "e0015",
+      "label": "he | go | tower",
+      "sent_id": 16,
+      "sentence": "After disappearing from the sight of the dervishes, he went to a tower from which he stole a casket and, when the day dawned, the dark-hearted wretch had already progressed a considerable distance.",
+      "subj": "he",
+      "verb": "go",
+      "obj": "tower"
+    },
+    {
+      "id": "e0016",
+      "label": "guiltless | take | morning",
+      "sent_id": 17,
+      "sentence": "In the morning the guiltless sleeping companions were all taken to the fort and thrown into prison.",
+      "subj": "guiltless",
+      "verb": "take",
+      "obj": "morning"
+    },
+    {
+      "id": "e0017",
+      "label": "we | renounce | companionship",
+      "sent_id": 18,
+      "sentence": "From that date we renounced companionship and took the road of solitude, according to the maxim: Safety is in solitude.",
+      "subj": "we",
+      "verb": "renounce",
+      "obj": "companionship"
+    },
+    {
+      "id": "e0018",
+      "label": "honour | leave | low",
+      "sent_id": 19,
+      "sentence": "When one of a tribe has done a foolish thing\nNo honour is left either to the low or the high.",
+      "subj": "honour",
+      "verb": "leave",
+      "obj": "low"
+    },
+    {
+      "id": "e0019",
+      "label": "i | exclude | advantage",
+      "sent_id": 21,
+      "sentence": "I replied: 'Thanks be to the God of majesty and glory, I have not been excluded from the advantages enjoyed by dervishes, although I have separated myself from their society.",
+      "subj": "i",
+      "verb": "exclude",
+      "obj": "advantage"
+    },
+    {
+      "id": "e0020",
+      "label": "i | profit | \u2205",
+      "sent_id": 22,
+      "sentence": "I have profited by what thou hast narrated to me and this admonition will be of use through life to persons like me.'",
+      "subj": "i",
+      "verb": "profit",
+      "obj": ""
+    },
+    {
+      "id": "e0021",
+      "label": "\u2205 | grieve | fellow",
+      "sent_id": 23,
+      "sentence": "For one rude fellow in the assembly\nThe heart of intelligent men is much grieved.",
+      "subj": "",
+      "verb": "grieve",
+      "obj": "fellow"
+    },
+    {
+      "id": "e0022",
+      "label": "\u2205 | pollute | whole",
+      "sent_id": 24,
+      "sentence": "If a tank be filled with rose-water\nA dog falling into it pollutes the whole.",
+      "subj": "",
+      "verb": "pollute",
+      "obj": "whole"
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    }
+  ]
+}

@@ -1,0 +1,938 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "",
+    "verb": "be",
+    "obj": "fisherman",
+    "label": "\u2205 | be | fisherman",
+    "sentence": "THE FISHERMAN AND HIS WIFE\n\nThere was once a fisherman who lived with his wife in a pigsty, close by the seaside."
+  },
+  {
+    "sent_id": 1,
+    "subj": "fisherman",
+    "verb": "drag",
+    "obj": "water",
+    "label": "fisherman | drag | water",
+    "sentence": "The fisherman used to go out all day long a-fishing; and one day, as he sat on the shore with his rod, looking at the sparkling waves and watching his line, all on a sudden his float was dragged away deep into the water: and in drawing it up he pulled out a great fish."
+  },
+  {
+    "sent_id": 2,
+    "subj": "fish",
+    "verb": "say",
+    "obj": "",
+    "label": "fish | say | \u2205",
+    "sentence": "But the fish said, \u2018Pray let me live!"
+  },
+  {
+    "sent_id": 3,
+    "subj": "i",
+    "verb": "be",
+    "obj": "prince",
+    "label": "i | be | prince",
+    "sentence": "I am not a real fish; I am an enchanted prince: put me in the water again, and let me go!\u2019"
+  },
+  {
+    "sent_id": 4,
+    "subj": "man",
+    "verb": "say",
+    "obj": "",
+    "label": "man | say | \u2205",
+    "sentence": "\u2018Oh, ho!\u2019 said the man, \u2018you need not make so many words about the matter; I will have nothing to do with a fish that can talk: so swim away, sir, as soon as you please!\u2019"
+  },
+  {
+    "sent_id": 5,
+    "subj": "he",
+    "verb": "put",
+    "obj": "he",
+    "label": "he | put | he",
+    "sentence": "Then he put him back into the water, and the fish darted straight down to the bottom, and left a long streak of blood behind him on the wave."
+  },
+  {
+    "sent_id": 6,
+    "subj": "he",
+    "verb": "tell",
+    "obj": "she",
+    "label": "he | tell | she",
+    "sentence": "When the fisherman went home to his wife in the pigsty, he told her how he had caught a great fish, and how it had told him it was an enchanted prince, and how, on hearing it speak, he had let it go again."
+  },
+  {
+    "sent_id": 7,
+    "subj": "you",
+    "verb": "ask",
+    "obj": "it",
+    "label": "you | ask | it",
+    "sentence": "\u2018Did not you ask it for anything?\u2019 said the wife, \u2018we live very wretchedly here, in this nasty dirty pigsty; do go back and tell the fish we want a snug little cottage.\u2019"
+  },
+  {
+    "sent_id": 8,
+    "subj": "he",
+    "verb": "go",
+    "obj": "seashore",
+    "label": "he | go | seashore",
+    "sentence": "The fisherman did not much like the business: however, he went to the seashore; and when he came back there the water looked all yellow and green."
+  },
+  {
+    "sent_id": 9,
+    "subj": "he",
+    "verb": "stand",
+    "obj": "edge",
+    "label": "he | stand | edge",
+    "sentence": "And he stood at the water\u2019s edge, and said:\n\n \u2018O man of the sea!"
+  },
+  {
+    "sent_id": 10,
+    "subj": "",
+    "verb": "hearken",
+    "obj": "i",
+    "label": "\u2205 | hearken | i",
+    "sentence": "Hearken to me!"
+  },
+  {
+    "sent_id": 11,
+    "subj": "wife",
+    "verb": "have",
+    "obj": "will",
+    "label": "wife | have | will",
+    "sentence": "My wife Ilsabill\n Will have her own will,\n And hath sent me to beg a boon of thee!\u2019"
+  },
+  {
+    "sent_id": 12,
+    "subj": "fish",
+    "verb": "swim",
+    "obj": "he",
+    "label": "fish | swim | he",
+    "sentence": "Then the fish came swimming to him, and said, \u2018Well, what is her will?"
+  },
+  {
+    "sent_id": 13,
+    "subj": "wife",
+    "verb": "want",
+    "obj": "what",
+    "label": "wife | want | what",
+    "sentence": "What does your wife want?\u2019"
+  },
+  {
+    "sent_id": 14,
+    "subj": "fisherman",
+    "verb": "say",
+    "obj": "",
+    "label": "fisherman | say | \u2205",
+    "sentence": "\u2018Ah!\u2019 said the fisherman, \u2018she says that when I had caught you, I ought to have asked you for something before I let you go; she does not like living any longer in the pigsty, and wants a snug little cottage.\u2019"
+  },
+  {
+    "sent_id": 15,
+    "subj": "she",
+    "verb": "be",
+    "obj": "cottage",
+    "label": "she | be | cottage",
+    "sentence": "\u2018Go home, then,\u2019 said the fish; \u2018she is in the cottage already!\u2019"
+  },
+  {
+    "sent_id": 16,
+    "subj": "man",
+    "verb": "go",
+    "obj": "",
+    "label": "man | go | \u2205",
+    "sentence": "So the man went home, and saw his wife standing at the door of a nice trim little cottage."
+  },
+  {
+    "sent_id": 17,
+    "subj": "",
+    "verb": "come",
+    "obj": "",
+    "label": "\u2205 | come | \u2205",
+    "sentence": "\u2018Come in, come in!\u2019"
+  },
+  {
+    "sent_id": 18,
+    "subj": "she",
+    "verb": "say",
+    "obj": "",
+    "label": "she | say | \u2205",
+    "sentence": "said she; \u2018is not this much better than the filthy pigsty we had?\u2019"
+  },
+  {
+    "sent_id": 19,
+    "subj": "",
+    "verb": "be",
+    "obj": "parlour",
+    "label": "\u2205 | be | parlour",
+    "sentence": "And there was a parlour, and a bedchamber, and a kitchen; and behind the cottage there was a little garden, planted with all sorts of flowers and fruits; and there was a courtyard behind, full of ducks and chickens."
+  },
+  {
+    "sent_id": 20,
+    "subj": "!",
+    "verb": "say",
+    "obj": "",
+    "label": "! | say | \u2205",
+    "sentence": "\u2018Ah!\u2019 said the fisherman, \u2018how happily we shall live now!\u2019"
+  },
+  {
+    "sent_id": 21,
+    "subj": "wife",
+    "verb": "say",
+    "obj": "",
+    "label": "wife | say | \u2205",
+    "sentence": "\u2018We will try to do so, at least,\u2019 said his wife."
+  },
+  {
+    "sent_id": 22,
+    "subj": "everything",
+    "verb": "go",
+    "obj": "week",
+    "label": "everything | go | week",
+    "sentence": "Everything went right for a week or two, and then Dame Ilsabill said, \u2018Husband, there is not near room enough for us in this cottage; the courtyard and the garden are a great deal too small; I should like to have a large stone castle to live in: go to the fish again and tell him to give us a castle.\u2019"
+  },
+  {
+    "sent_id": 23,
+    "subj": "we",
+    "verb": "ought",
+    "obj": "",
+    "label": "we | ought | \u2205",
+    "sentence": "\u2018Wife,\u2019 said the fisherman, \u2018I don\u2019t like to go to him again, for perhaps he will be angry; we ought to be easy with this pretty cottage to live in.\u2019"
+  },
+  {
+    "sent_id": 24,
+    "subj": "he",
+    "verb": "do",
+    "obj": "it",
+    "label": "he | do | it",
+    "sentence": "\u2018Nonsense!\u2019 said the wife; \u2018he will do it very willingly, I know; go along and try!\u2019"
+  },
+  {
+    "sent_id": 25,
+    "subj": "fisherman",
+    "verb": "go",
+    "obj": "",
+    "label": "fisherman | go | \u2205",
+    "sentence": "The fisherman went, but his heart was very heavy: and when he came to the sea, it looked blue and gloomy, though it was very calm; and he went close to the edge of the waves, and said:\n\n \u2018O man of the sea!"
+  },
+  {
+    "sent_id": 26,
+    "subj": "",
+    "verb": "hearken",
+    "obj": "i",
+    "label": "\u2205 | hearken | i",
+    "sentence": "Hearken to me!"
+  },
+  {
+    "sent_id": 27,
+    "subj": "wife",
+    "verb": "have",
+    "obj": "will",
+    "label": "wife | have | will",
+    "sentence": "My wife Ilsabill\n Will have her own will,\n And hath sent me to beg a boon of thee!\u2019"
+  },
+  {
+    "sent_id": 28,
+    "subj": "fish",
+    "verb": "say",
+    "obj": "",
+    "label": "fish | say | \u2205",
+    "sentence": "\u2018Well, what does she want now?\u2019 said the fish."
+  },
+  {
+    "sent_id": 29,
+    "subj": "man",
+    "verb": "say",
+    "obj": "",
+    "label": "man | say | \u2205",
+    "sentence": "\u2018Ah!\u2019 said the man, dolefully, \u2018my wife wants to live in a stone castle.\u2019"
+  },
+  {
+    "sent_id": 30,
+    "subj": "she",
+    "verb": "stand",
+    "obj": "gate",
+    "label": "she | stand | gate",
+    "sentence": "\u2018Go home, then,\u2019 said the fish; \u2018she is standing at the gate of it already.\u2019"
+  },
+  {
+    "sent_id": 31,
+    "subj": "",
+    "verb": "go",
+    "obj": "fisherman",
+    "label": "\u2205 | go | fisherman",
+    "sentence": "So away went the fisherman, and found his wife standing before the gate of a great castle."
+  },
+  {
+    "sent_id": 32,
+    "subj": "she",
+    "verb": "say",
+    "obj": "",
+    "label": "she | say | \u2205",
+    "sentence": "\u2018See,\u2019 said she, \u2018is not this grand?\u2019"
+  },
+  {
+    "sent_id": 33,
+    "subj": "they",
+    "verb": "go",
+    "obj": "that",
+    "label": "they | go | that",
+    "sentence": "With that they went into the castle together, and found a great many servants there, and the rooms all richly furnished, and full of golden chairs and tables; and behind the castle was a garden, and around it was a park half a mile long, full of sheep, and goats, and hares, and deer; and in the courtyard were stables and cow-houses."
+  },
+  {
+    "sent_id": 34,
+    "subj": "man",
+    "verb": "say",
+    "obj": "",
+    "label": "man | say | \u2205",
+    "sentence": "\u2018Well,\u2019 said the man, \u2018now we will live cheerful and happy in this beautiful castle for the rest of our lives.\u2019"
+  },
+  {
+    "sent_id": 35,
+    "subj": "wife",
+    "verb": "say",
+    "obj": "",
+    "label": "wife | say | \u2205",
+    "sentence": "\u2018Perhaps we may,\u2019 said the wife; \u2018but let us sleep upon it, before we make up our minds to that.\u2019"
+  },
+  {
+    "sent_id": 36,
+    "subj": "they",
+    "verb": "go",
+    "obj": "bed",
+    "label": "they | go | bed",
+    "sentence": "So they went to bed."
+  },
+  {
+    "sent_id": 37,
+    "subj": "it",
+    "verb": "be",
+    "obj": "daylight",
+    "label": "it | be | daylight",
+    "sentence": "The next morning when Dame Ilsabill awoke it was broad daylight, and she jogged the fisherman with her elbow, and said, \u2018Get up, husband, and bestir yourself, for we must be king of all the land.\u2019"
+  },
+  {
+    "sent_id": 38,
+    "subj": "wife",
+    "verb": "say",
+    "obj": "",
+    "label": "wife | say | \u2205",
+    "sentence": "\u2018Wife, wife,\u2019 said the man, \u2018why should we wish to be the king?"
+  },
+  {
+    "sent_id": 39,
+    "subj": "i",
+    "verb": "be",
+    "obj": "king",
+    "label": "i | be | king",
+    "sentence": "I will not be king.\u2019"
+  },
+  {
+    "sent_id": 40,
+    "subj": "she",
+    "verb": "say",
+    "obj": "",
+    "label": "she | say | \u2205",
+    "sentence": "\u2018Then I will,\u2019 said she."
+  },
+  {
+    "sent_id": 41,
+    "subj": "wife",
+    "verb": "say",
+    "obj": "",
+    "label": "wife | say | \u2205",
+    "sentence": "\u2018But, wife,\u2019 said the fisherman, \u2018how can you be king\u2014the fish cannot make you a king?\u2019"
+  },
+  {
+    "sent_id": 42,
+    "subj": "husband",
+    "verb": "say",
+    "obj": "",
+    "label": "husband | say | \u2205",
+    "sentence": "\u2018Husband,\u2019 said she, \u2018say no more about it, but go and try!"
+  },
+  {
+    "sent_id": 43,
+    "subj": "i",
+    "verb": "be",
+    "obj": "king",
+    "label": "i | be | king",
+    "sentence": "I will be king.\u2019"
+  },
+  {
+    "sent_id": 44,
+    "subj": "man",
+    "verb": "go",
+    "obj": "",
+    "label": "man | go | \u2205",
+    "sentence": "So the man went away quite sorrowful to think that his wife should want to be king."
+  },
+  {
+    "sent_id": 45,
+    "subj": "sea",
+    "verb": "look",
+    "obj": "colour",
+    "label": "sea | look | colour",
+    "sentence": "This time the sea looked a dark grey colour, and was overspread with curling waves and the ridges of foam as he cried out:\n\n \u2018O man of the sea!"
+  },
+  {
+    "sent_id": 46,
+    "subj": "",
+    "verb": "hearken",
+    "obj": "i",
+    "label": "\u2205 | hearken | i",
+    "sentence": "Hearken to me!"
+  },
+  {
+    "sent_id": 47,
+    "subj": "wife",
+    "verb": "have",
+    "obj": "will",
+    "label": "wife | have | will",
+    "sentence": "My wife Ilsabill\n Will have her own will,\n And hath sent me to beg a boon of thee!\u2019"
+  },
+  {
+    "sent_id": 48,
+    "subj": "fish",
+    "verb": "say",
+    "obj": "",
+    "label": "fish | say | \u2205",
+    "sentence": "\u2018Well, what would she have now?\u2019 said the fish."
+  },
+  {
+    "sent_id": 49,
+    "subj": "man",
+    "verb": "say",
+    "obj": "",
+    "label": "man | say | \u2205",
+    "sentence": "\u2018Alas!\u2019 said the poor man, \u2018my wife wants to be king.\u2019"
+  },
+  {
+    "sent_id": 50,
+    "subj": "she",
+    "verb": "be",
+    "obj": "king",
+    "label": "she | be | king",
+    "sentence": "\u2018Go home,\u2019 said the fish; \u2018she is king already.\u2019"
+  },
+  {
+    "sent_id": 51,
+    "subj": "fisherman",
+    "verb": "go",
+    "obj": "",
+    "label": "fisherman | go | \u2205",
+    "sentence": "Then the fisherman went home; and as he came close to the palace he saw a troop of soldiers, and heard the sound of drums and trumpets."
+  },
+  {
+    "sent_id": 52,
+    "subj": "he",
+    "verb": "see",
+    "obj": "",
+    "label": "he | see | \u2205",
+    "sentence": "And when he went in he saw his wife sitting on a throne of gold and diamonds, with a golden crown upon her head; and on each side of her stood six fair maidens, each a head taller than the other."
+  },
+  {
+    "sent_id": 53,
+    "subj": "wife",
+    "verb": "say",
+    "obj": "",
+    "label": "wife | say | \u2205",
+    "sentence": "\u2018Well, wife,\u2019 said the fisherman, \u2018are you king?\u2019"
+  },
+  {
+    "sent_id": 54,
+    "subj": "she",
+    "verb": "say",
+    "obj": "",
+    "label": "she | say | \u2205",
+    "sentence": "\u2018Yes,\u2019 said she, \u2018I am king.\u2019"
+  },
+  {
+    "sent_id": 55,
+    "subj": "he",
+    "verb": "say",
+    "obj": "",
+    "label": "he | say | \u2205",
+    "sentence": "And when he had looked at her for a long time, he said, \u2018Ah, wife!"
+  },
+  {
+    "sent_id": 56,
+    "subj": "it",
+    "verb": "be",
+    "obj": "thing",
+    "label": "it | be | thing",
+    "sentence": "what a fine thing it is to be king!"
+  },
+  {
+    "sent_id": 57,
+    "subj": "we",
+    "verb": "have",
+    "obj": "anything",
+    "label": "we | have | anything",
+    "sentence": "Now we shall never have anything more to wish for as long as we live.\u2019"
+  },
+  {
+    "sent_id": 58,
+    "subj": "she",
+    "verb": "say",
+    "obj": "",
+    "label": "she | say | \u2205",
+    "sentence": "\u2018I don\u2019t know how that may be,\u2019 said she; \u2018never is a long time."
+  },
+  {
+    "sent_id": 59,
+    "subj": "it",
+    "verb": "be",
+    "obj": "",
+    "label": "it | be | \u2205",
+    "sentence": "I am king, it is true; but I begin to be tired of that, and I think I should like to be emperor.\u2019"
+  },
+  {
+    "sent_id": 61,
+    "subj": "fisherman",
+    "verb": "say",
+    "obj": "",
+    "label": "fisherman | say | \u2205",
+    "sentence": "why should you wish to be emperor?\u2019 said the fisherman."
+  },
+  {
+    "sent_id": 62,
+    "subj": "husband",
+    "verb": "say",
+    "obj": "",
+    "label": "husband | say | \u2205",
+    "sentence": "\u2018Husband,\u2019 said she, \u2018go to the fish!"
+  },
+  {
+    "sent_id": 63,
+    "subj": "i",
+    "verb": "say",
+    "obj": "",
+    "label": "i | say | \u2205",
+    "sentence": "I say I will be emperor.\u2019"
+  },
+  {
+    "sent_id": 64,
+    "subj": "i",
+    "verb": "be",
+    "obj": "",
+    "label": "i | be | \u2205",
+    "sentence": "\u2018Ah, wife!\u2019 replied the fisherman, \u2018the fish cannot make an emperor, I am sure, and I should not like to ask him for such a thing.\u2019"
+  },
+  {
+    "sent_id": 65,
+    "subj": "ilsabill",
+    "verb": "say",
+    "obj": "",
+    "label": "ilsabill | say | \u2205",
+    "sentence": "\u2018I am king,\u2019 said Ilsabill, \u2018and you are my slave; so go at once!\u2019"
+  },
+  {
+    "sent_id": 66,
+    "subj": "fisherman",
+    "verb": "force",
+    "obj": "",
+    "label": "fisherman | force | \u2205",
+    "sentence": "So the fisherman was forced to go; and he muttered as he went along, \u2018This will come to no good, it is too much to ask; the fish will be tired at last, and then we shall be sorry for what we have done.\u2019"
+  },
+  {
+    "sent_id": 67,
+    "subj": "he",
+    "verb": "come",
+    "obj": "seashore",
+    "label": "he | come | seashore",
+    "sentence": "He soon came to the seashore; and the water was quite black and muddy, and a mighty whirlwind blew over the waves and rolled them about, but he went as near as he could to the water\u2019s brink, and said:\n\n \u2018O man of the sea!"
+  },
+  {
+    "sent_id": 68,
+    "subj": "",
+    "verb": "hearken",
+    "obj": "i",
+    "label": "\u2205 | hearken | i",
+    "sentence": "Hearken to me!"
+  },
+  {
+    "sent_id": 69,
+    "subj": "wife",
+    "verb": "have",
+    "obj": "will",
+    "label": "wife | have | will",
+    "sentence": "My wife Ilsabill\n Will have her own will,\n And hath sent me to beg a boon of thee!\u2019"
+  },
+  {
+    "sent_id": 70,
+    "subj": "fish",
+    "verb": "say",
+    "obj": "",
+    "label": "fish | say | \u2205",
+    "sentence": "\u2018What would she have now?\u2019 said the fish."
+  },
+  {
+    "sent_id": 71,
+    "subj": "!",
+    "verb": "say",
+    "obj": "",
+    "label": "! | say | \u2205",
+    "sentence": "\u2018Ah!\u2019 said the fisherman, \u2018she wants to be emperor.\u2019"
+  },
+  {
+    "sent_id": 72,
+    "subj": "she",
+    "verb": "be",
+    "obj": "emperor",
+    "label": "she | be | emperor",
+    "sentence": "\u2018Go home,\u2019 said the fish; \u2018she is emperor already.\u2019"
+  },
+  {
+    "sent_id": 73,
+    "subj": "he",
+    "verb": "go",
+    "obj": "",
+    "label": "he | go | \u2205",
+    "sentence": "So he went home again; and as he came near he saw his wife Ilsabill sitting on a very lofty throne made of solid gold, with a great crown on her head full two yards high; and on each side of her stood her guards and attendants in a row, each one smaller than the other, from the tallest giant down to a little dwarf no bigger than my finger."
+  },
+  {
+    "sent_id": 74,
+    "subj": "she",
+    "verb": "stand",
+    "obj": "prince",
+    "label": "she | stand | prince",
+    "sentence": "And before her stood princes, and dukes, and earls: and the fisherman went up to her and said, \u2018Wife, are you emperor?\u2019"
+  },
+  {
+    "sent_id": 75,
+    "subj": "she",
+    "verb": "say",
+    "obj": "",
+    "label": "she | say | \u2205",
+    "sentence": "\u2018Yes,\u2019 said she, \u2018I am emperor.\u2019"
+  },
+  {
+    "sent_id": 76,
+    "subj": "man",
+    "verb": "say",
+    "obj": "",
+    "label": "man | say | \u2205",
+    "sentence": "\u2018Ah!\u2019 said the man, as he gazed upon her, \u2018what a fine thing it is to be emperor!\u2019"
+  },
+  {
+    "sent_id": 77,
+    "subj": "husband",
+    "verb": "say",
+    "obj": "",
+    "label": "husband | say | \u2205",
+    "sentence": "\u2018Husband,\u2019 said she, \u2018why should we stop at being emperor?"
+  },
+  {
+    "sent_id": 78,
+    "subj": "i",
+    "verb": "be",
+    "obj": "pope",
+    "label": "i | be | pope",
+    "sentence": "I will be pope next.\u2019"
+  },
+  {
+    "sent_id": 79,
+    "subj": "wife",
+    "verb": "say",
+    "obj": "",
+    "label": "wife | say | \u2205",
+    "sentence": "\u2018O wife, wife!\u2019 said he, \u2018how can you be pope?"
+  },
+  {
+    "sent_id": 80,
+    "subj": "",
+    "verb": "be",
+    "obj": "pope",
+    "label": "\u2205 | be | pope",
+    "sentence": "there is but one pope at a time in Christendom.\u2019"
+  },
+  {
+    "sent_id": 81,
+    "subj": "husband",
+    "verb": "say",
+    "obj": "",
+    "label": "husband | say | \u2205",
+    "sentence": "\u2018Husband,\u2019 said she, \u2018I will be pope this very day.\u2019"
+  },
+  {
+    "sent_id": 82,
+    "subj": "",
+    "verb": "reply",
+    "obj": "husband",
+    "label": "\u2205 | reply | husband",
+    "sentence": "\u2018But,\u2019 replied the husband, \u2018the fish cannot make you pope.\u2019"
+  },
+  {
+    "sent_id": 83,
+    "subj": "nonsense",
+    "verb": "say",
+    "obj": "",
+    "label": "nonsense | say | \u2205",
+    "sentence": "\u2018What nonsense!\u2019 said she; \u2018if he can make an emperor, he can make a pope: go and try him.\u2019"
+  },
+  {
+    "sent_id": 84,
+    "subj": "fisherman",
+    "verb": "go",
+    "obj": "",
+    "label": "fisherman | go | \u2205",
+    "sentence": "So the fisherman went."
+  },
+  {
+    "sent_id": 85,
+    "subj": "he",
+    "verb": "come",
+    "obj": "shore",
+    "label": "he | come | shore",
+    "sentence": "But when he came to the shore the wind was raging and the sea was tossed up and down in boiling waves, and the ships were in trouble, and rolled fearfully upon the tops of the billows."
+  },
+  {
+    "sent_id": 86,
+    "subj": "",
+    "verb": "be",
+    "obj": "piece",
+    "label": "\u2205 | be | piece",
+    "sentence": "In the middle of the heavens there was a little piece of blue sky, but towards the south all was red, as if a dreadful storm was rising."
+  },
+  {
+    "sent_id": 87,
+    "subj": "fisherman",
+    "verb": "be",
+    "obj": "sight",
+    "label": "fisherman | be | sight",
+    "sentence": "At this sight the fisherman was dreadfully frightened, and he trembled so that his knees knocked together: but still he went down near to the shore, and said:\n\n \u2018O man of the sea!"
+  },
+  {
+    "sent_id": 88,
+    "subj": "",
+    "verb": "hearken",
+    "obj": "i",
+    "label": "\u2205 | hearken | i",
+    "sentence": "Hearken to me!"
+  },
+  {
+    "sent_id": 89,
+    "subj": "wife",
+    "verb": "have",
+    "obj": "will",
+    "label": "wife | have | will",
+    "sentence": "My wife Ilsabill\n Will have her own will,\n And hath sent me to beg a boon of thee!\u2019"
+  },
+  {
+    "sent_id": 90,
+    "subj": "fish",
+    "verb": "say",
+    "obj": "",
+    "label": "fish | say | \u2205",
+    "sentence": "\u2018What does she want now?\u2019 said the fish."
+  },
+  {
+    "sent_id": 91,
+    "subj": "wife",
+    "verb": "want",
+    "obj": "",
+    "label": "wife | want | \u2205",
+    "sentence": "\u2018Ah!\u2019 said the fisherman, \u2018my wife wants to be pope.\u2019"
+  },
+  {
+    "sent_id": 92,
+    "subj": "she",
+    "verb": "be",
+    "obj": "pope",
+    "label": "she | be | pope",
+    "sentence": "\u2018Go home,\u2019 said the fish; \u2018she is pope already.\u2019"
+  },
+  {
+    "sent_id": 93,
+    "subj": "fisherman",
+    "verb": "go",
+    "obj": "",
+    "label": "fisherman | go | \u2205",
+    "sentence": "Then the fisherman went home, and found Ilsabill sitting on a throne that was two miles high."
+  },
+  {
+    "sent_id": 94,
+    "subj": "she",
+    "verb": "have",
+    "obj": "crown",
+    "label": "she | have | crown",
+    "sentence": "And she had three great crowns on her head, and around her stood all the pomp and power of the Church."
+  },
+  {
+    "sent_id": 95,
+    "subj": "",
+    "verb": "be",
+    "obj": "row",
+    "label": "\u2205 | be | row",
+    "sentence": "And on each side of her were two rows of burning lights, of all sizes, the greatest as large as the highest and biggest tower in the world, and the least no larger than a small rushlight."
+  },
+  {
+    "sent_id": 96,
+    "subj": "wife",
+    "verb": "say",
+    "obj": "",
+    "label": "wife | say | \u2205",
+    "sentence": "\u2018Wife,\u2019 said the fisherman, as he looked at all this greatness, \u2018are you pope?\u2019"
+  },
+  {
+    "sent_id": 97,
+    "subj": "she",
+    "verb": "say",
+    "obj": "",
+    "label": "she | say | \u2205",
+    "sentence": "\u2018Yes,\u2019 said she, \u2018I am pope.\u2019"
+  },
+  {
+    "sent_id": 98,
+    "subj": "wife",
+    "verb": "reply",
+    "obj": "he",
+    "label": "wife | reply | he",
+    "sentence": "\u2018Well, wife,\u2019 replied he, \u2018it is a grand thing to be pope; and now you must be easy, for you can be nothing greater.\u2019"
+  },
+  {
+    "sent_id": 99,
+    "subj": "wife",
+    "verb": "say",
+    "obj": "",
+    "label": "wife | say | \u2205",
+    "sentence": "\u2018I will think about that,\u2019 said the wife."
+  },
+  {
+    "sent_id": 100,
+    "subj": "they",
+    "verb": "go",
+    "obj": "bed",
+    "label": "they | go | bed",
+    "sentence": "Then they went to bed: but Dame Ilsabill could not sleep all night for thinking what she should be next."
+  },
+  {
+    "sent_id": 101,
+    "subj": "morning",
+    "verb": "break",
+    "obj": "",
+    "label": "morning | break | \u2205",
+    "sentence": "At last, as she was dropping asleep, morning broke, and the sun rose."
+  },
+  {
+    "sent_id": 102,
+    "subj": "",
+    "verb": "ha",
+    "obj": "",
+    "label": "\u2205 | ha | \u2205",
+    "sentence": "\u2018Ha!\u2019"
+  },
+  {
+    "sent_id": 103,
+    "subj": "she",
+    "verb": "think",
+    "obj": "",
+    "label": "she | think | \u2205",
+    "sentence": "thought she, as she woke up and looked at it through the window, \u2018after all I cannot prevent the sun rising.\u2019"
+  },
+  {
+    "sent_id": 104,
+    "subj": "she",
+    "verb": "be",
+    "obj": "thought",
+    "label": "she | be | thought",
+    "sentence": "At this thought she was very angry, and wakened her husband, and said, \u2018Husband, go to the fish and tell him I must be lord of the sun and moon.\u2019"
+  },
+  {
+    "sent_id": 105,
+    "subj": "fisherman",
+    "verb": "be",
+    "obj": "",
+    "label": "fisherman | be | \u2205",
+    "sentence": "The fisherman was half asleep, but the thought frightened him so much that he started and fell out of bed."
+  },
+  {
+    "sent_id": 106,
+    "subj": "wife",
+    "verb": "say",
+    "obj": "",
+    "label": "wife | say | \u2205",
+    "sentence": "\u2018Alas, wife!\u2019 said he, \u2018cannot you be easy with being pope?\u2019"
+  },
+  {
+    "sent_id": 107,
+    "subj": "she",
+    "verb": "say",
+    "obj": "",
+    "label": "she | say | \u2205",
+    "sentence": "\u2018No,\u2019 said she, \u2018I am very uneasy as long as the sun and moon rise without my leave."
+  },
+  {
+    "sent_id": 108,
+    "subj": "",
+    "verb": "go",
+    "obj": "fish",
+    "label": "\u2205 | go | fish",
+    "sentence": "Go to the fish at once!\u2019"
+  },
+  {
+    "sent_id": 109,
+    "subj": "man",
+    "verb": "go",
+    "obj": "",
+    "label": "man | go | \u2205",
+    "sentence": "Then the man went shivering with fear; and as he was going down to the shore a dreadful storm arose, so that the trees and the very rocks shook."
+  },
+  {
+    "sent_id": 110,
+    "subj": "heaven",
+    "verb": "become",
+    "obj": "",
+    "label": "heaven | become | \u2205",
+    "sentence": "And all the heavens became black with stormy clouds, and the lightnings played, and the thunders rolled; and you might have seen in the sea great black waves, swelling up like mountains with crowns of white foam upon their heads."
+  },
+  {
+    "sent_id": 111,
+    "subj": "fisherman",
+    "verb": "creep",
+    "obj": "sea",
+    "label": "fisherman | creep | sea",
+    "sentence": "And the fisherman crept towards the sea, and cried out, as well as he could:\n\n \u2018O man of the sea!"
+  },
+  {
+    "sent_id": 112,
+    "subj": "",
+    "verb": "hearken",
+    "obj": "i",
+    "label": "\u2205 | hearken | i",
+    "sentence": "Hearken to me!"
+  },
+  {
+    "sent_id": 113,
+    "subj": "wife",
+    "verb": "have",
+    "obj": "will",
+    "label": "wife | have | will",
+    "sentence": "My wife Ilsabill\n Will have her own will,\n And hath sent me to beg a boon of thee!\u2019"
+  },
+  {
+    "sent_id": 114,
+    "subj": "fish",
+    "verb": "say",
+    "obj": "",
+    "label": "fish | say | \u2205",
+    "sentence": "\u2018What does she want now?\u2019 said the fish."
+  },
+  {
+    "sent_id": 115,
+    "subj": "he",
+    "verb": "say",
+    "obj": "",
+    "label": "he | say | \u2205",
+    "sentence": "\u2018Ah!\u2019 said he, \u2018she wants to be lord of the sun and moon.\u2019"
+  },
+  {
+    "sent_id": 116,
+    "subj": "fish",
+    "verb": "say",
+    "obj": "pigsty",
+    "label": "fish | say | pigsty",
+    "sentence": "\u2018Go home,\u2019 said the fish, \u2018to your pigsty again.\u2019"
+  },
+  {
+    "sent_id": 117,
+    "subj": "they",
+    "verb": "live",
+    "obj": "day",
+    "label": "they | live | day",
+    "sentence": "And there they live to this very day."
+  }
+]

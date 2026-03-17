@@ -1,0 +1,954 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "feather",
+    "verb": "be",
+    "obj": "man",
+    "label": "feather | be | man",
+    "sentence": "White Feather and the Six Giants\n\nThere was an old man living in the depth of a forest, with his grandson, whom he had taken in charge when quite an infant."
+  },
+  {
+    "sent_id": 1,
+    "subj": "they",
+    "verb": "destroy",
+    "obj": "",
+    "label": "they | destroy | \u2205",
+    "sentence": "The child had no parents, brothers, or sisters; they had all been destroyed by six large giants, and he had been informed that he had no other relative living beside his grandfather."
+  },
+  {
+    "sent_id": 2,
+    "subj": "band",
+    "verb": "put",
+    "obj": "child",
+    "label": "band | put | child",
+    "sentence": "The band to whom he had belonged had put up their children on a wager in a race against those of the giants, and had thus lost them."
+  },
+  {
+    "sent_id": 3,
+    "subj": "",
+    "verb": "be",
+    "obj": "tradition",
+    "label": "\u2205 | be | tradition",
+    "sentence": "There was an old tradition in the tribe, that, one day, it would produce a great man, who would wear a white feather, and who would astonish every one by his feats of skill and bravery."
+  },
+  {
+    "sent_id": 4,
+    "subj": "grandfather",
+    "verb": "give",
+    "obj": "bow",
+    "label": "grandfather | give | bow",
+    "sentence": "The grandfather, as soon as the child could play about, gave him a bow and arrows to amuse himself with."
+  },
+  {
+    "sent_id": 5,
+    "subj": "he",
+    "verb": "go",
+    "obj": "edge",
+    "label": "he | go | edge",
+    "sentence": "He went into the edge of the woods one day, and saw a rabbit; but not knowing what it was, he ran home and described it to his grandfather."
+  },
+  {
+    "sent_id": 6,
+    "subj": "he",
+    "verb": "tell",
+    "obj": "he",
+    "label": "he | tell | he",
+    "sentence": "He told him what it was, that its flesh was good to eat, and that if he would shoot one of his arrows into its body he would kill it."
+  },
+  {
+    "sent_id": 7,
+    "subj": "boy",
+    "verb": "go",
+    "obj": "",
+    "label": "boy | go | \u2205",
+    "sentence": "The boy went out again and brought home the little animal, which he asked his grandfather to boil, that they might feast on it."
+  },
+  {
+    "sent_id": 8,
+    "subj": "he",
+    "verb": "humor",
+    "obj": "boy",
+    "label": "he | humor | boy",
+    "sentence": "He humored the boy in this, and he encouraged him to go on in acquiring the knowledge of hunting, until he could kill deer and the larger kinds of game; and he became, as he grew up, an expert hunter."
+  },
+  {
+    "sent_id": 9,
+    "subj": "they",
+    "verb": "live",
+    "obj": "",
+    "label": "they | live | \u2205",
+    "sentence": "As they lived alone, and away from other Indians, the curiosity of the stripling was excited to know what was passing in the world."
+  },
+  {
+    "sent_id": 10,
+    "subj": "he",
+    "verb": "come",
+    "obj": "edge",
+    "label": "he | come | edge",
+    "sentence": "One day he came to the edge of a prairie, where he saw ashes like those at his grandfather's lodge, and lodge-poles left standing."
+  },
+  {
+    "sent_id": 11,
+    "subj": "he",
+    "verb": "return",
+    "obj": "",
+    "label": "he | return | \u2205",
+    "sentence": "He returned, and inquired whether his grandfather had put up the poles and made the fire."
+  },
+  {
+    "sent_id": 12,
+    "subj": "he",
+    "verb": "answer",
+    "obj": "",
+    "label": "he | answer | \u2205",
+    "sentence": "He was answered, No."
+  },
+  {
+    "sent_id": 13,
+    "subj": "he",
+    "verb": "believe",
+    "obj": "",
+    "label": "he | believe | \u2205",
+    "sentence": "Nor did he believe that he had seen any thing of the kind."
+  },
+  {
+    "sent_id": 14,
+    "subj": "he",
+    "verb": "lose",
+    "obj": "sens",
+    "label": "he | lose | sens",
+    "sentence": "He must have lost his senses to be talking of such things."
+  },
+  {
+    "sent_id": 15,
+    "subj": "you",
+    "verb": "destine",
+    "obj": "wearer",
+    "label": "you | destine | wearer",
+    "sentence": "Another day the young man went out to see what there was, within a day's hunt, that was curious; and on entering the woods he heard a voice calling out to him, \"Come here, you destined wearer of the White Feather."
+  },
+  {
+    "sent_id": 16,
+    "subj": "you",
+    "verb": "wear",
+    "obj": "it",
+    "label": "you | wear | it",
+    "sentence": "You do not wear it, yet, but you are worthy of it."
+  },
+  {
+    "sent_id": 17,
+    "subj": "",
+    "verb": "return",
+    "obj": "",
+    "label": "\u2205 | return | \u2205",
+    "sentence": "Return home and take a short nap."
+  },
+  {
+    "sent_id": 18,
+    "subj": "you",
+    "verb": "dream",
+    "obj": "",
+    "label": "you | dream | \u2205",
+    "sentence": "You will dream of hearing a voice, which will tell you to rise and smoke."
+  },
+  {
+    "sent_id": 19,
+    "subj": "you",
+    "verb": "see",
+    "obj": "pipe",
+    "label": "you | see | pipe",
+    "sentence": "You will see in your dream a pipe, a smoking-sack, and a large white feather."
+  },
+  {
+    "sent_id": 20,
+    "subj": "you",
+    "verb": "find",
+    "obj": "article",
+    "label": "you | find | article",
+    "sentence": "When you awake you will find these articles."
+  },
+  {
+    "sent_id": 21,
+    "subj": "",
+    "verb": "put",
+    "obj": "feather",
+    "label": "\u2205 | put | feather",
+    "sentence": "Put the feather on your head, and you will become a great hunter, a great warrior, and a great man, able to do any thing."
+  },
+  {
+    "sent_id": 22,
+    "subj": "smoke",
+    "verb": "turn",
+    "obj": "proof",
+    "label": "smoke | turn | proof",
+    "sentence": "As a proof that these things shall come to pass, when you smoke, the smoke will turn into pigeons."
+  },
+  {
+    "sent_id": 23,
+    "subj": "voice",
+    "verb": "inform",
+    "obj": "man",
+    "label": "voice | inform | man",
+    "sentence": "\"\n\nThe voice then informed the young man who he was, and made known the character of his grandfather, who was imposing upon him to serve his own ends."
+  },
+  {
+    "sent_id": 24,
+    "subj": "spirit",
+    "verb": "cause",
+    "obj": "",
+    "label": "spirit | cause | \u2205",
+    "sentence": "The voice-spirit then caused a vine to be laid at his side, and told him that he was now of an age to avenge the wrongs of his kindred."
+  },
+  {
+    "sent_id": 25,
+    "subj": "you",
+    "verb": "run",
+    "obj": "race",
+    "label": "you | run | race",
+    "sentence": "\"When you meet your enemy,\" the spirit added, \"you will run a race with him."
+  },
+  {
+    "sent_id": 26,
+    "subj": "he",
+    "verb": "see",
+    "obj": "vine",
+    "label": "he | see | vine",
+    "sentence": "He will not see the vine, because it is enchanted."
+  },
+  {
+    "sent_id": 27,
+    "subj": "you",
+    "verb": "throw",
+    "obj": "it",
+    "label": "you | throw | it",
+    "sentence": "While you are running, you will throw it over his head and entangle him, so that you will win the race.\""
+  },
+  {
+    "sent_id": 28,
+    "subj": "man",
+    "verb": "turn",
+    "obj": "quarter",
+    "label": "man | turn | quarter",
+    "sentence": "Long before this speech was ended the young man had turned to the quarter from which the voice proceeded, and he was astonished to behold a man; for as yet he had never seen any human being beside his grandfather."
+  },
+  {
+    "sent_id": 29,
+    "subj": "he",
+    "verb": "see",
+    "obj": "",
+    "label": "he | see | \u2205",
+    "sentence": "As he looked more keenly, he saw that this man, who had the looks of great age, was wood from the breast downward, and that he appeared to be fixed in the earth."
+  },
+  {
+    "sent_id": 30,
+    "subj": "countenance",
+    "verb": "fade",
+    "obj": "",
+    "label": "countenance | fade | \u2205",
+    "sentence": "As his eye dwelt upon this strange being, the countenance by degrees faded away, and when he advanced to the spot whence it had addressed him, it was gone."
+  },
+  {
+    "sent_id": 31,
+    "subj": "",
+    "verb": "waken",
+    "obj": "",
+    "label": "\u2205 | waken | \u2205",
+    "sentence": "He returned home; slept; in the midst of his slumbers, as from the hollow of the air, heard the voice; wakened and found the promised gifts."
+  },
+  {
+    "sent_id": 32,
+    "subj": "grandfather",
+    "verb": "be",
+    "obj": "",
+    "label": "grandfather | be | \u2205",
+    "sentence": "His grandfather, when his attention was called to his awakening, was greatly surprised to find the youth with a white feather on his forehead, and to see flocks of pigeons flying out of his lodge."
+  },
+  {
+    "sent_id": 33,
+    "subj": "he",
+    "verb": "remember",
+    "obj": "tradition",
+    "label": "he | remember | tradition",
+    "sentence": "He then remembered the old tradition, and knowing that now the day when he should lose control of his charge had begun, he bitterly bewailed the hour."
+  },
+  {
+    "sent_id": 34,
+    "subj": "man",
+    "verb": "depart",
+    "obj": "",
+    "label": "man | depart | \u2205",
+    "sentence": "Possessed of his three magic gifts, the young man departed the next morning, to seek his enemies, and to demand revenge."
+  },
+  {
+    "sent_id": 35,
+    "subj": "giant",
+    "verb": "live",
+    "obj": "lodge",
+    "label": "giant | live | lodge",
+    "sentence": "The six giants lived in a very high lodge in the middle of a wood."
+  },
+  {
+    "sent_id": 36,
+    "subj": "he",
+    "verb": "travel",
+    "obj": "heart",
+    "label": "he | travel | heart",
+    "sentence": "He traveled on, in good heart, till he reached this lodge, where he found that his coming had been made known by the little spirits who carry the news."
+  },
+  {
+    "sent_id": 37,
+    "subj": "giant",
+    "verb": "hasten",
+    "obj": "",
+    "label": "giant | hasten | \u2205",
+    "sentence": "The giants hastened out, and gave a cry of joy as they saw him drawing near."
+  },
+  {
+    "sent_id": 38,
+    "subj": "they",
+    "verb": "begin",
+    "obj": "",
+    "label": "they | begin | \u2205",
+    "sentence": "When he approached within hail, they began to make sport of him, saying, \"Here comes the little man with the white feather, who is to achieve such wonderful wonders."
+  },
+  {
+    "sent_id": 40,
+    "subj": "they",
+    "verb": "speak",
+    "obj": "he",
+    "label": "they | speak | he",
+    "sentence": "When, however, he had arrived among them, they spoke him fair, saying he was a brave man and would do brave things."
+  },
+  {
+    "sent_id": 41,
+    "subj": "object",
+    "verb": "be",
+    "obj": "",
+    "label": "object | be | \u2205",
+    "sentence": "Their object was to encourage him, so that he would be bold to engage in some fool-hardy trial of strength."
+  },
+  {
+    "sent_id": 42,
+    "subj": "feather",
+    "verb": "go",
+    "obj": "lodge",
+    "label": "feather | go | lodge",
+    "sentence": "Without paying much heed to their fine speeches, White Feather went fearlessly into their lodge; and without waiting for invitation, he challenged them to a foot-match."
+  },
+  {
+    "sent_id": 43,
+    "subj": "they",
+    "verb": "agree",
+    "obj": "",
+    "label": "they | agree | \u2205",
+    "sentence": "They agreed; and, as they said, by way of being easy with him, they told him to begin the race with the smallest of their number."
+  },
+  {
+    "sent_id": 44,
+    "subj": "point",
+    "verb": "be",
+    "obj": "tree",
+    "label": "point | be | tree",
+    "sentence": "The point to which they were to run was a peeled tree toward the rising sun, and then back to the starting-place, which was a war-club of iron."
+  },
+  {
+    "sent_id": 45,
+    "subj": "",
+    "verb": "empower",
+    "obj": "",
+    "label": "\u2205 | empower | \u2205",
+    "sentence": "Whoever won this stake, was empowered to use it in dispatching the defeated champion."
+  },
+  {
+    "sent_id": 46,
+    "subj": "he",
+    "verb": "be",
+    "obj": "",
+    "label": "he | be | \u2205",
+    "sentence": "If White Feather should overcome the first giant, he was to try the second, and so on, until they had all measured speed with him."
+  },
+  {
+    "sent_id": 47,
+    "subj": "he",
+    "verb": "gain",
+    "obj": "race",
+    "label": "he | gain | race",
+    "sentence": "By a dexterous use of the vine, he gained the first race, struck down his competitor, and cut off his head."
+  },
+  {
+    "sent_id": 48,
+    "subj": "he",
+    "verb": "run",
+    "obj": "giant",
+    "label": "he | run | giant",
+    "sentence": "The next morning he ran with the second giant, whom he also outran, killed and beheaded."
+  },
+  {
+    "sent_id": 49,
+    "subj": "he",
+    "verb": "go",
+    "obj": "way",
+    "label": "he | go | way",
+    "sentence": "He went on in this way for the five mornings, always conquering by the aid of his vine, and lopping off the heads of the vanquished giants."
+  },
+  {
+    "sent_id": 50,
+    "subj": "last",
+    "verb": "acknowledge",
+    "obj": "power",
+    "label": "last | acknowledge | power",
+    "sentence": "The last of the giants who was yet to run with him acknowledged his power, but prepared secretly to deceive him."
+  },
+  {
+    "sent_id": 51,
+    "subj": "he",
+    "verb": "propose",
+    "obj": "way",
+    "label": "he | propose | way",
+    "sentence": "By way of parley, he proposed that White Feather should leave the heads with him, and that he would give him a handsome start for odds."
+  },
+  {
+    "sent_id": 52,
+    "subj": "feather",
+    "verb": "decline",
+    "obj": "",
+    "label": "feather | decline | \u2205",
+    "sentence": "This White Feather declined, as he preferred to keep the heads as trophies of his victory."
+  },
+  {
+    "sent_id": 53,
+    "subj": "he",
+    "verb": "meet",
+    "obj": "counselor",
+    "label": "he | meet | counselor",
+    "sentence": "Before going to the giant's lodge, on the sixth morning, he met his old counselor in the woods, standing rooted in the earth, as before."
+  },
+  {
+    "sent_id": 54,
+    "subj": "he",
+    "verb": "know",
+    "obj": "sex",
+    "label": "he | know | sex",
+    "sentence": "He told White Feather that he was about to be deceived; that he had never known any other sex but his own, but that as he went on his way to the lodge he would meet the most beautiful woman in the world."
+  },
+  {
+    "sent_id": 55,
+    "subj": "he",
+    "verb": "pay",
+    "obj": "attention",
+    "label": "he | pay | attention",
+    "sentence": "He must pay no attention to her, but as soon as he caught her eye he must wish himself changed into an elk."
+  },
+  {
+    "sent_id": 56,
+    "subj": "change",
+    "verb": "take",
+    "obj": "place",
+    "label": "change | take | place",
+    "sentence": "The change would take place immediately, and he must go to feeding and not look at her again."
+  },
+  {
+    "sent_id": 57,
+    "subj": "feather",
+    "verb": "thank",
+    "obj": "adviser",
+    "label": "feather | thank | adviser",
+    "sentence": "White Feather thanked his kind adviser, and when he turned to take his leave he was gone as before."
+  },
+  {
+    "sent_id": 58,
+    "subj": "he",
+    "verb": "proceed",
+    "obj": "lodge",
+    "label": "he | proceed | lodge",
+    "sentence": "He proceeded toward the lodge, met the female as had been foretold to him, and became an elk."
+  },
+  {
+    "sent_id": 59,
+    "subj": "she",
+    "verb": "reproach",
+    "obj": "he",
+    "label": "she | reproach | he",
+    "sentence": "She reproached him that he had cast aside the form of a man that he might avoid her."
+  },
+  {
+    "sent_id": 60,
+    "subj": "she",
+    "verb": "add",
+    "obj": "",
+    "label": "she | add | \u2205",
+    "sentence": "\"I have traveled a great distance,\" she added, \"to see you and to become your wife; for I have heard of your great achievements, and admire you very much."
+  },
+  {
+    "sent_id": 61,
+    "subj": "woman",
+    "verb": "be",
+    "obj": "giant",
+    "label": "woman | be | giant",
+    "sentence": "\"\n\nNow this woman was the sixth giant, who had assumed this disguise to entrap White Feather."
+  },
+  {
+    "sent_id": 62,
+    "subj": "",
+    "verb": "affect",
+    "obj": "he",
+    "label": "\u2205 | affect | he",
+    "sentence": "Without a suspicion of her real character, her reproaches and her beauty affected him so deeply that he wished himself a man again, and he at once resumed his natural shape."
+  },
+  {
+    "sent_id": 63,
+    "subj": "they",
+    "verb": "sit",
+    "obj": "",
+    "label": "they | sit | \u2205",
+    "sentence": "They sat down together, and he began to caress and to make love to her."
+  },
+  {
+    "sent_id": 64,
+    "subj": "he",
+    "verb": "venture",
+    "obj": "",
+    "label": "he | venture | \u2205",
+    "sentence": "Soothed by her smiles and her gracious manners, he ventured to lay his head on her lap, and in a little while he fell into a deep slumber."
+  },
+  {
+    "sent_id": 65,
+    "subj": "she",
+    "verb": "doubt",
+    "obj": "",
+    "label": "she | doubt | \u2205",
+    "sentence": "Even then, such was her fear of White Feather, she doubted whether his sleep might not be feigned."
+  },
+  {
+    "sent_id": 66,
+    "subj": "she",
+    "verb": "assume",
+    "obj": "form",
+    "label": "she | assume | form",
+    "sentence": "To assure herself she pushed his head aside, and seeing that he remained unconscious, she quickly assumed her own form as the sixth giant, took the plume from the brow of White Feather and placed it upon his own head, and with a sudden blow of his war-club changed him into a dog, in which degraded form he followed his enemy to the lodge."
+  },
+  {
+    "sent_id": 67,
+    "subj": "",
+    "verb": "live",
+    "obj": "village",
+    "label": "\u2205 | live | village",
+    "sentence": "While these things were passing, there were living in an Indian village at some distance, two sisters, the daughters of a chief, who were rivals, and they were at that very time fasting to acquire power, for the purpose of enticing the wearer of the white feather to visit their lodge."
+  },
+  {
+    "sent_id": 68,
+    "subj": "they",
+    "verb": "hop",
+    "obj": "",
+    "label": "they | hop | \u2205",
+    "sentence": "They each secretly hoped to engage his affections, and each had built a lodge in the border of the village encampment."
+  },
+  {
+    "sent_id": 69,
+    "subj": "giant",
+    "verb": "go",
+    "obj": "",
+    "label": "giant | go | \u2205",
+    "sentence": "The giant knowing this, and having become possessed of the magic plume, went immediately to visit them."
+  },
+  {
+    "sent_id": 71,
+    "subj": "sister",
+    "verb": "prepare",
+    "obj": "lodge",
+    "label": "sister | prepare | lodge",
+    "sentence": "The eldest sister had prepared her lodge with great show, and all the finery she could command, so as to attract the eye."
+  },
+  {
+    "sent_id": 72,
+    "subj": "",
+    "verb": "touch",
+    "obj": "nothing",
+    "label": "\u2205 | touch | nothing",
+    "sentence": "The youngest touched nothing in her lodge, but left it in its ordinary state."
+  },
+  {
+    "sent_id": 73,
+    "subj": "eld",
+    "verb": "go",
+    "obj": "",
+    "label": "eld | go | \u2205",
+    "sentence": "The eldest went out to meet the giant, and invited him in."
+  },
+  {
+    "sent_id": 74,
+    "subj": "he",
+    "verb": "accept",
+    "obj": "invitation",
+    "label": "he | accept | invitation",
+    "sentence": "He accepted her invitation, and made her his wife."
+  },
+  {
+    "sent_id": 75,
+    "subj": "sister",
+    "verb": "invite",
+    "obj": "dog",
+    "label": "sister | invite | dog",
+    "sentence": "The youngest sister invited the enchanted dog into her lodge, prepared him a good supper and a neat bed, and treated him with much attention."
+  },
+  {
+    "sent_id": 76,
+    "subj": "giant",
+    "verb": "go",
+    "obj": "prairie",
+    "label": "giant | go | prairie",
+    "sentence": "The giant, supposing that whoever possessed the white feather possessed also all its virtues, went out upon the prairie to hunt, hallooing aloud to the game to come and be killed; but the great hubbub he kept up scared them away, and he returned at night with nothing but himself; for he had shouted so lustily all day long that he had been even obliged to leave the mighty halloo, with which he had set out, behind."
+  },
+  {
+    "sent_id": 77,
+    "subj": "dog",
+    "verb": "go",
+    "obj": "",
+    "label": "dog | go | \u2205",
+    "sentence": "The dog went out the same day hunting upon the banks of a river."
+  },
+  {
+    "sent_id": 78,
+    "subj": "he",
+    "verb": "steal",
+    "obj": "",
+    "label": "he | steal | \u2205",
+    "sentence": "He stole quietly along to the spot, and stepping into the water he drew out a stone, which instantly became a beaver."
+  },
+  {
+    "sent_id": 79,
+    "subj": "he",
+    "verb": "watch",
+    "obj": "manner",
+    "label": "he | watch | manner",
+    "sentence": "The next day the giant followed the dog, and hiding behind a tree, he watched the manner in which the dog hunted in the river when he drew out a stone, which at once turned into a beaver."
+  },
+  {
+    "sent_id": 80,
+    "subj": "giant",
+    "verb": "say",
+    "obj": "",
+    "label": "giant | say | \u2205",
+    "sentence": "\"Ah, ha!\" said the giant to himself, \"I will catch some beaver for myself."
+  },
+  {
+    "sent_id": 81,
+    "subj": "giant",
+    "verb": "go",
+    "obj": "river",
+    "label": "giant | go | river",
+    "sentence": "\"\n\nAnd as soon as the dog had left the place, the giant went to the river, and, imitating the dog, he drew out a stone, and was delighted to see it, as soon as it touched the land, change into a fine fat beaver."
+  },
+  {
+    "sent_id": 82,
+    "subj": "he",
+    "verb": "hasten",
+    "obj": "",
+    "label": "he | hasten | \u2205",
+    "sentence": "Tying it to his belt he hastened home, shouting a good deal, and brandishing the white feather about, as if he were prepared now to show them what he could do when he once tried."
+  },
+  {
+    "sent_id": 83,
+    "subj": "he",
+    "verb": "throw",
+    "obj": "it",
+    "label": "he | throw | it",
+    "sentence": "When he reached home he threw it down, as is the custom, at the door of the lodge before he entered."
+  },
+  {
+    "sent_id": 84,
+    "subj": "he",
+    "verb": "give",
+    "obj": "cough",
+    "label": "he | give | cough",
+    "sentence": "After being seated a short time, he gave a dry cough, and bade his wife bring in his hunting girdle."
+  },
+  {
+    "sent_id": 85,
+    "subj": "she",
+    "verb": "make",
+    "obj": "dispatch",
+    "label": "she | make | dispatch",
+    "sentence": "She made dispatch to obey him, and presently returned with the girdle, with nothing tied to it but a stone."
+  },
+  {
+    "sent_id": 86,
+    "subj": "",
+    "verb": "go",
+    "obj": "wood",
+    "label": "\u2205 | go | wood",
+    "sentence": "The next day, the dog finding that his method of catching beavers had been discovered, went to a wood at some distance, and broke off a charred limb from a burned tree, which instantly became a bear."
+  },
+  {
+    "sent_id": 87,
+    "subj": "",
+    "verb": "do",
+    "obj": "",
+    "label": "\u2205 | do | \u2205",
+    "sentence": "The giant, who appeared to have lost faith in his hulla-balooing, had again watched him, did exactly as the dog had done, and carried a bear home; but his wife, when she came to go out for it, found nothing but a black stick tied to his belt."
+  },
+  {
+    "sent_id": 88,
+    "subj": "it",
+    "verb": "happen",
+    "obj": "thing",
+    "label": "it | happen | thing",
+    "sentence": "And so it happened with every thing."
+  },
+  {
+    "sent_id": 89,
+    "subj": "",
+    "verb": "fail",
+    "obj": "",
+    "label": "\u2205 | fail | \u2205",
+    "sentence": "Whatever the dog undertook, prospered; whatever the giant attempted, failed."
+  },
+  {
+    "sent_id": 90,
+    "subj": "sister",
+    "verb": "have",
+    "obj": "reason",
+    "label": "sister | have | reason",
+    "sentence": "Every day the youngest sister had reason to be more proud of the poor dog she had asked into her lodge, and every day the eldest sister was made more aware, that though she had married the white feather, the virtues of the magic plume were not the personal property of the noisy giant."
+  },
+  {
+    "sent_id": 91,
+    "subj": "wife",
+    "verb": "determine",
+    "obj": "",
+    "label": "wife | determine | \u2205",
+    "sentence": "At last the giant's wife determined that she would go to her father and make known to him what a valuable husband she had, and how he furnished her lodge with a great abundance of sticks and stones, which he would pass upon her for bear and beaver."
+  },
+  {
+    "sent_id": 92,
+    "subj": "she",
+    "verb": "set",
+    "obj": "",
+    "label": "she | set | \u2205",
+    "sentence": "So, when her husband, whose brave halloo had now died away to a feeble chirp, had started for the hunt, she set out."
+  },
+  {
+    "sent_id": 93,
+    "subj": "dog",
+    "verb": "make",
+    "obj": "sign",
+    "label": "dog | make | sign",
+    "sentence": "As soon as these two had gone away from the neighborhood, the dog made signs to his mistress to sweat him after the manner of the Indians."
+  },
+  {
+    "sent_id": 94,
+    "subj": "he",
+    "verb": "be",
+    "obj": "dog",
+    "label": "he | be | dog",
+    "sentence": "He had always been a good dog, and she was willing to oblige him."
+  },
+  {
+    "sent_id": 95,
+    "subj": "she",
+    "verb": "make",
+    "obj": "lodge",
+    "label": "she | make | lodge",
+    "sentence": "She accordingly made a lodge just large enough for him to creep in."
+  },
+  {
+    "sent_id": 96,
+    "subj": "she",
+    "verb": "put",
+    "obj": "stone",
+    "label": "she | put | stone",
+    "sentence": "She then put in heated stones, and poured water upon them, which raised a vapor that filled the lodge and searched with its warmth to the very heart's core of the enchanted dog."
+  },
+  {
+    "sent_id": 97,
+    "subj": "dog",
+    "verb": "sweat",
+    "obj": "",
+    "label": "dog | sweat | \u2205",
+    "sentence": "When this had been kept up for the customary time, the enchanted dog was completely sweated away, and in his stead, as might have been expected, out came a very handsome young man, but, unhappily, without the power of speech."
+  },
+  {
+    "sent_id": 98,
+    "subj": "it",
+    "verb": "appear",
+    "obj": "",
+    "label": "it | appear | \u2205",
+    "sentence": "In taking away the dog, it appears that the sweating-lodge had also carried off the voice with it."
+  },
+  {
+    "sent_id": 99,
+    "subj": "",
+    "verb": "tell",
+    "obj": "he",
+    "label": "\u2205 | tell | he",
+    "sentence": "Meantime the elder sister had reached her father's, and, with much circumstance and a very long face, had told him how that her sister was supporting an idle dog, and entertaining him as her husband."
+  },
+  {
+    "sent_id": 100,
+    "subj": "",
+    "verb": "make",
+    "obj": "anxiety",
+    "label": "\u2205 | make | anxiety",
+    "sentence": "In her anxiety to make known her sister's affairs and the great scandal she was bringing upon the family, the eldest forgot to say any thing of the sticks and stones which her own husband brought home for bears and beavers."
+  },
+  {
+    "sent_id": 101,
+    "subj": "man",
+    "verb": "suspect",
+    "obj": "",
+    "label": "man | suspect | \u2205",
+    "sentence": "The old man suspecting that there was magic about her house, sent a deputation of young men and women to ask his youngest daughter to come to him, and to bring her dog along with her."
+  },
+  {
+    "sent_id": 102,
+    "subj": "they",
+    "verb": "be",
+    "obj": "",
+    "label": "they | be | \u2205",
+    "sentence": "When the deputation reached the lodge, they were surprised to find, in the place of the dog, a fine young man; and on announcing their message, they all returned to the old chief, who was no less surprised at the change."
+  },
+  {
+    "sent_id": 103,
+    "subj": "he",
+    "verb": "assemble",
+    "obj": "head",
+    "label": "he | assemble | head",
+    "sentence": "He immediately assembled all the old and wise heads of the nation to come and be witnesses to the exploits which it was reported that the young man could perform."
+  },
+  {
+    "sent_id": 104,
+    "subj": "giant",
+    "verb": "thrust",
+    "obj": "himself",
+    "label": "giant | thrust | himself",
+    "sentence": "The sixth giant, although neither very old nor very wise, thrust himself in among the relations of the old chief."
+  },
+  {
+    "sent_id": 105,
+    "subj": "chief",
+    "verb": "take",
+    "obj": "pipe",
+    "label": "chief | take | pipe",
+    "sentence": "When they were all assembled and seated in a circle, the old chief took his pipe and filled it, and passed it to the Indians around, to see if any thing would happen when they smoked."
+  },
+  {
+    "sent_id": 106,
+    "subj": "they",
+    "verb": "pass",
+    "obj": "it",
+    "label": "they | pass | it",
+    "sentence": "They passed it on until it came around to the Dog, who made a sign that it should be handed first to the giant, which was done."
+  },
+  {
+    "sent_id": 107,
+    "subj": "giant",
+    "verb": "puff",
+    "obj": "might",
+    "label": "giant | puff | might",
+    "sentence": "And the giant puffed with all his might, and shook the white feather upon his head, and swelled his chest; but nothing came of it, except a great deal of smoke."
+  },
+  {
+    "sent_id": 108,
+    "subj": "dog",
+    "verb": "take",
+    "obj": "it",
+    "label": "dog | take | it",
+    "sentence": "The Dog then took it himself."
+  },
+  {
+    "sent_id": 109,
+    "subj": "he",
+    "verb": "make",
+    "obj": "sign",
+    "label": "he | make | sign",
+    "sentence": "He made a sign to them to put the white feather upon his head."
+  },
+  {
+    "sent_id": 110,
+    "subj": "this",
+    "verb": "do",
+    "obj": "",
+    "label": "this | do | \u2205",
+    "sentence": "This was no sooner done, than he recovered his speech, and, beginning to draw upon the pipe at the same moment, behold, immense flocks of white and blue pigeons rushed from the smoke."
+  },
+  {
+    "sent_id": 111,
+    "subj": "giant",
+    "verb": "look",
+    "obj": "moment",
+    "label": "giant | look | moment",
+    "sentence": "From that moment the sixth giant was looked upon as an impostor, and as soon as White Feather had, at the request of the company, faithfully recounted his history, the old chief, who was one of the best-hearted magicians that ever lived, ordered that the giant should be transformed into a dog, and turned into the middle of the village, where the boys should pelt him to death with clubs; which being done, the whole six giants were at an end, and never troubled that neighborhood again, forever after."
+  },
+  {
+    "sent_id": 112,
+    "subj": "chief",
+    "verb": "give",
+    "obj": "command",
+    "label": "chief | give | command",
+    "sentence": "The chief then gave out a command, at the request of White Feather, that all the young men should employ themselves four days in making arrows."
+  },
+  {
+    "sent_id": 113,
+    "subj": "feather",
+    "verb": "ask",
+    "obj": "robe",
+    "label": "feather | ask | robe",
+    "sentence": "White Feather also asked for a buffalo robe."
+  },
+  {
+    "sent_id": 114,
+    "subj": "he",
+    "verb": "cut",
+    "obj": "this",
+    "label": "he | cut | this",
+    "sentence": "This he cut into thin shreds, and in the night, when no one knew of it, he went and sowed them about the prairie in every direction."
+  },
+  {
+    "sent_id": 115,
+    "subj": "he",
+    "verb": "invite",
+    "obj": "they",
+    "label": "he | invite | they",
+    "sentence": "At the end of the four days, he invited them to gather together all of their arrows, and to accompany him to a buffalo hunt."
+  },
+  {
+    "sent_id": 116,
+    "subj": "they",
+    "verb": "find",
+    "obj": "",
+    "label": "they | find | \u2205",
+    "sentence": "When they got out upon the prairie, they found it covered with a great herd of buffaloes."
+  },
+  {
+    "sent_id": 117,
+    "subj": "they",
+    "verb": "kill",
+    "obj": "many",
+    "label": "they | kill | many",
+    "sentence": "Of these they killed as many as they pleased, and, afterward, they had a grand festival in honor of White Feather's triumph over the giants."
+  },
+  {
+    "sent_id": 118,
+    "subj": "feather",
+    "verb": "get",
+    "obj": "wife",
+    "label": "feather | get | wife",
+    "sentence": "All this being pleasantly over, White Feather got his wife to ask her father's permission to go with him on a visit to his grandfather."
+  },
+  {
+    "sent_id": 119,
+    "subj": "chief",
+    "verb": "reply",
+    "obj": "application",
+    "label": "chief | reply | application",
+    "sentence": "The old chief replied to this application, that a woman must follow her husband into whatever quarter of the world he may choose to go."
+  },
+  {
+    "sent_id": 120,
+    "subj": "he",
+    "verb": "lead",
+    "obj": "way",
+    "label": "he | lead | way",
+    "sentence": "Bidding farewell to all his friends, White Feather placed the plume in his frontlet, and taking his war-club in his hand, he led the way into the forest, followed by his faithful wife."
+  }
+]

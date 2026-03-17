@@ -1,0 +1,31 @@
+story_id,culture,word_count,num_events,events_per_100_words,input_path,output_dir
+g01,german,2530,76,3.0039525691699605,data\human\german\g01.txt,outputs\human_graphs\g01
+g02,german,2932,132,4.502046384720328,data\human\german\g02.txt,outputs\human_graphs\g02
+g03,german,2341,100,4.271678769756514,data\human\german\g03.txt,outputs\human_graphs\g03
+g04,german,1194,38,3.1825795644891124,data\human\german\g04.txt,outputs\human_graphs\g04
+g05,german,1139,43,3.775241439859526,data\human\german\g05.txt,outputs\human_graphs\g05
+g06,german,1605,52,3.2398753894081,data\human\german\g06.txt,outputs\human_graphs\g06
+g07,german,2120,117,5.518867924528302,data\human\german\g07.txt,outputs\human_graphs\g07
+g08,german,1585,60,3.7854889589905363,data\human\german\g08.txt,outputs\human_graphs\g08
+g09,german,2340,75,3.205128205128205,data\human\german\g09.txt,outputs\human_graphs\g09
+g10,german,2414,95,3.9353769676884838,data\human\german\g10.txt,outputs\human_graphs\g10
+n01,native american,348,20,5.747126436781609,data\human\native american\n01.txt,outputs\human_graphs\n01
+n02,native american,537,30,5.58659217877095,data\human\native american\n02.txt,outputs\human_graphs\n02
+n03,native american,815,78,9.570552147239264,data\human\native american\n03.txt,outputs\human_graphs\n03
+n04,native american,989,67,6.774519716885743,data\human\native american\n04.txt,outputs\human_graphs\n04
+n05,native american,3078,119,3.866146848602989,data\human\native american\n05.txt,outputs\human_graphs\n05
+n06,native american,1999,86,4.302151075537769,data\human\native american\n06.txt,outputs\human_graphs\n06
+n07,native american,1815,84,4.628099173553719,data\human\native american\n07.txt,outputs\human_graphs\n07
+n08,native american,1881,59,3.1366294524189264,data\human\native american\n08.txt,outputs\human_graphs\n08
+n09,native american,1395,58,4.157706093189964,data\human\native american\n09.txt,outputs\human_graphs\n09
+n10,native american,2721,122,4.4836457184858505,data\human\native american\n10.txt,outputs\human_graphs\n10
+p01,persian,385,15,3.896103896103896,data\human\persian\p01.txt,outputs\human_graphs\p01
+p02,persian,1155,47,4.069264069264069,data\human\persian\p02.txt,outputs\human_graphs\p02
+p03,persian,2881,119,4.130510239500174,data\human\persian\p03.txt,outputs\human_graphs\p03
+p04,persian,493,23,4.665314401622718,data\human\persian\p04.txt,outputs\human_graphs\p04
+p05,persian,621,25,4.025764895330113,data\human\persian\p05.txt,outputs\human_graphs\p05
+p06,persian,1393,69,4.953338119167265,data\human\persian\p06.txt,outputs\human_graphs\p06
+p07,persian,1012,52,5.138339920948617,data\human\persian\p07.txt,outputs\human_graphs\p07
+p08,persian,11358,450,3.9619651347068143,data\human\persian\p08.txt,outputs\human_graphs\p08
+p09,persian,6699,280,4.179728317659352,data\human\persian\p09.txt,outputs\human_graphs\p09
+p10,persian,6803,267,3.9247390856974866,data\human\persian\p10.txt,outputs\human_graphs\p10

@@ -1,0 +1,162 @@
+[
+  {
+    "sent_id": 1,
+    "subj": "world",
+    "verb": "be",
+    "obj": "beginning",
+    "label": "world | be | beginning",
+    "sentence": "According to a Haida story, in the beginning the world was in total darkness."
+  },
+  {
+    "sent_id": 2,
+    "subj": "raven",
+    "verb": "be",
+    "obj": "",
+    "label": "raven | be | \u2205",
+    "sentence": "The Raven, who had existed from the beginning of time, was tired of groping about and bumping into things in the dark."
+  },
+  {
+    "sent_id": 3,
+    "subj": "raven",
+    "verb": "come",
+    "obj": "home",
+    "label": "raven | come | home",
+    "sentence": "Eventually the Raven came upon the home of an old man who lived alone with his daughter."
+  },
+  {
+    "sent_id": 4,
+    "subj": "raven",
+    "verb": "learn",
+    "obj": "slyness",
+    "label": "raven | learn | slyness",
+    "sentence": "Through his slyness, the Raven learned that the old man had a great treasure."
+  },
+  {
+    "sent_id": 5,
+    "subj": "this",
+    "verb": "be",
+    "obj": "light",
+    "label": "this | be | light",
+    "sentence": "This was all the light in the universe, contained in a tiny box concealed within many boxes."
+  },
+  {
+    "sent_id": 6,
+    "subj": "raven",
+    "verb": "vow",
+    "obj": "",
+    "label": "raven | vow | \u2205",
+    "sentence": "At once the Raven vowed to steal the light."
+  },
+  {
+    "sent_id": 7,
+    "subj": "he",
+    "verb": "think",
+    "obj": "",
+    "label": "he | think | \u2205",
+    "sentence": "He thought and thought, and finally came up with a plan."
+  },
+  {
+    "sent_id": 8,
+    "subj": "he",
+    "verb": "wait",
+    "obj": "",
+    "label": "he | wait | \u2205",
+    "sentence": "He waited until the old man's daughter came to the river to gather water."
+  },
+  {
+    "sent_id": 9,
+    "subj": "raven",
+    "verb": "change",
+    "obj": "himself",
+    "label": "raven | change | himself",
+    "sentence": "Then the Raven changed himself into a single hemlock needle and dropped himself into the river, just as the girl was dipping her water-basket into the river."
+  },
+  {
+    "sent_id": 10,
+    "subj": "she",
+    "verb": "swallow",
+    "obj": "needle",
+    "label": "she | swallow | needle",
+    "sentence": "As she drank from the basket, she swallowed the needle."
+  },
+  {
+    "sent_id": 11,
+    "subj": "it",
+    "verb": "slip",
+    "obj": "",
+    "label": "it | slip | \u2205",
+    "sentence": "It slipped and slithered down into her warm belly, where the Raven transformed himself again, this time into a tiny human."
+  },
+  {
+    "sent_id": 12,
+    "subj": "raven",
+    "verb": "emerge",
+    "obj": "world",
+    "label": "raven | emerge | world",
+    "sentence": "After sleeping and growing there for a very long time, at last the Raven emerged into the world once more, this time as a human infant."
+  },
+  {
+    "sent_id": 13,
+    "subj": "grandfather",
+    "verb": "love",
+    "obj": "he",
+    "label": "grandfather | love | he",
+    "sentence": "Even though he had a rather strange appearance, the Raven's grandfather loved him."
+  },
+  {
+    "sent_id": 14,
+    "subj": "man",
+    "verb": "threaten",
+    "obj": "punishment",
+    "label": "man | threaten | punishment",
+    "sentence": "But the old man threatened dire punishment if he ever touched the precious treasure box."
+  },
+  {
+    "sent_id": 15,
+    "subj": "ravenchild",
+    "verb": "beg",
+    "obj": "",
+    "label": "ravenchild | beg | \u2205",
+    "sentence": "Nonetheless the Ravenchild begged and begged to be allowed to hold the light just for a moment."
+  },
+  {
+    "sent_id": 16,
+    "subj": "man",
+    "verb": "yield",
+    "obj": "time",
+    "label": "man | yield | time",
+    "sentence": "In time the old man yielded, and lifted from the box a warm and glowing sphere, which he threw to his grandson."
+  },
+  {
+    "sent_id": 17,
+    "subj": "wing",
+    "verb": "spread",
+    "obj": "",
+    "label": "wing | spread | \u2205",
+    "sentence": "As the light was moving toward him, the human child transformed into a gigantic black shadowy bird-form, wings spread ready for flight, and beak open in anticipation."
+  },
+  {
+    "sent_id": 18,
+    "subj": "raven",
+    "verb": "capture",
+    "obj": "it",
+    "label": "raven | capture | it",
+    "sentence": "As the beautiful ball of light reached him, the Raven captured it in his beak!"
+  },
+  {
+    "sent_id": 19,
+    "subj": "he",
+    "verb": "burst",
+    "obj": "smokehole",
+    "label": "he | burst | smokehole",
+    "sentence": "Moving his powerful wings, he burst through the smokehole in the roof of the house, and escaped into the darkness with his stolen treasure."
+  },
+  {
+    "sent_id": 20,
+    "subj": "that",
+    "verb": "be",
+    "obj": "",
+    "label": "that | be | \u2205",
+    "sentence": "And that is how light came into the universe."
+  }
+]

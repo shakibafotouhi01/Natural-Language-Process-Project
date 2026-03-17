@@ -1,0 +1,1850 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "boy | call | hansel",
+      "sent_id": 1,
+      "sentence": "The boy was called Hansel and the girl Gretel.",
+      "subj": "boy",
+      "verb": "call",
+      "obj": "hansel"
+    },
+    {
+      "id": "e0001",
+      "label": "he | have | little",
+      "sent_id": 2,
+      "sentence": "He had little to bite and to break, and once when great dearth fell on the land, he could no longer procure even daily bread.",
+      "subj": "he",
+      "verb": "have",
+      "obj": "little"
+    },
+    {
+      "id": "e0002",
+      "label": "he | groan | \u2205",
+      "sent_id": 3,
+      "sentence": "Now when he thought over this by night in his bed, and tossed about in his anxiety, he groaned and said to his wife: \u2018What is to become of us?",
+      "subj": "he",
+      "verb": "groan",
+      "obj": ""
+    },
+    {
+      "id": "e0003",
+      "label": "\u2205 | feed | child",
+      "sent_id": 4,
+      "sentence": "How are we to feed our poor children, when we no longer have anything even for ourselves?\u2019",
+      "subj": "",
+      "verb": "feed",
+      "obj": "child"
+    },
+    {
+      "id": "e0004",
+      "label": "we | light | fire",
+      "sent_id": 5,
+      "sentence": "\u2018I\u2019ll tell you what, husband,\u2019 answered the woman, \u2018early tomorrow morning we will take the children out into the forest to where it is the thickest; there we will light a fire for them, and give each of them one more piece of bread, and then we will go to our work and leave them alone.",
+      "subj": "we",
+      "verb": "light",
+      "obj": "fire"
+    },
+    {
+      "id": "e0005",
+      "label": "they | find | way",
+      "sent_id": 6,
+      "sentence": "They will not find the way home again, and we shall be rid of them.\u2019",
+      "subj": "they",
+      "verb": "find",
+      "obj": "way"
+    },
+    {
+      "id": "e0006",
+      "label": "wife | say | \u2205",
+      "sent_id": 7,
+      "sentence": "\u2018No, wife,\u2019 said the man, \u2018I will not do that; how can I bear to leave my children alone in the forest?\u2014the wild animals would soon come and tear them to pieces.\u2019",
+      "subj": "wife",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0007",
+      "label": "fool | say | \u2205",
+      "sent_id": 8,
+      "sentence": "\u2018O, you fool!\u2019 said she, \u2018then we must all four die of hunger, you may as well plane the planks for our coffins,\u2019 and she left him no peace until he consented.",
+      "subj": "fool",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0008",
+      "label": "man | say | \u2205",
+      "sent_id": 9,
+      "sentence": "\u2018But I feel very sorry for the poor children, all the same,\u2019 said the man.",
+      "subj": "man",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0009",
+      "label": "child | be | \u2205",
+      "sent_id": 10,
+      "sentence": "The two children had also not been able to sleep for hunger, and had heard what their stepmother had said to their father.",
+      "subj": "child",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0010",
+      "label": "gretel | weep | tear",
+      "sent_id": 11,
+      "sentence": "Gretel wept bitter tears, and said to Hansel: \u2018Now all is over with us.\u2019",
+      "subj": "gretel",
+      "verb": "weep",
+      "obj": "tear"
+    },
+    {
+      "id": "e0011",
+      "label": "i | find | way",
+      "sent_id": 12,
+      "sentence": "\u2018Be quiet, Gretel,\u2019 said Hansel, \u2018do not distress yourself, I will soon find a way to help us.\u2019",
+      "subj": "i",
+      "verb": "find",
+      "obj": "way"
+    },
+    {
+      "id": "e0012",
+      "label": "he | get | \u2205",
+      "sent_id": 13,
+      "sentence": "And when the old folks had fallen asleep, he got up, put on his little coat, opened the door below, and crept outside.",
+      "subj": "he",
+      "verb": "get",
+      "obj": ""
+    },
+    {
+      "id": "e0013",
+      "label": "moon | shine | \u2205",
+      "sent_id": 14,
+      "sentence": "The moon shone brightly, and the white pebbles which lay in front of the house glittered like real silver pennies.",
+      "subj": "moon",
+      "verb": "shine",
+      "obj": ""
+    },
+    {
+      "id": "e0014",
+      "label": "hansel | stoop | \u2205",
+      "sent_id": 15,
+      "sentence": "Hansel stooped and stuffed the little pocket of his coat with as many as he could get in.",
+      "subj": "hansel",
+      "verb": "stoop",
+      "obj": ""
+    },
+    {
+      "id": "e0015",
+      "label": "god | forsake | we",
+      "sent_id": 16,
+      "sentence": "Then he went back and said to Gretel: \u2018Be comforted, dear little sister, and sleep in peace, God will not forsake us,\u2019 and he lay down again in his bed.",
+      "subj": "god",
+      "verb": "forsake",
+      "obj": "we"
+    },
+    {
+      "id": "e0016",
+      "label": "day | dawn | \u2205",
+      "sent_id": 17,
+      "sentence": "When day dawned, but before the sun had risen, the woman came and awoke the two children, saying: \u2018Get up, you sluggards!",
+      "subj": "day",
+      "verb": "dawn",
+      "obj": ""
+    },
+    {
+      "id": "e0017",
+      "label": "we | go | forest",
+      "sent_id": 18,
+      "sentence": "we are going into the forest to fetch wood.\u2019",
+      "subj": "we",
+      "verb": "go",
+      "obj": "forest"
+    },
+    {
+      "id": "e0018",
+      "label": "she | give | piece",
+      "sent_id": 19,
+      "sentence": "She gave each a little piece of bread, and said: \u2018There is something for your dinner, but do not eat it up before then, for you will get nothing else.\u2019",
+      "subj": "she",
+      "verb": "give",
+      "obj": "piece"
+    },
+    {
+      "id": "e0019",
+      "label": "gretel | take | bread",
+      "sent_id": 20,
+      "sentence": "Gretel took the bread under her apron, as Hansel had the pebbles in his pocket.",
+      "subj": "gretel",
+      "verb": "take",
+      "obj": "bread"
+    },
+    {
+      "id": "e0020",
+      "label": "they | set | way",
+      "sent_id": 21,
+      "sentence": "Then they all set out together on the way to the forest.",
+      "subj": "they",
+      "verb": "set",
+      "obj": "way"
+    },
+    {
+      "id": "e0021",
+      "label": "hansel | stand | \u2205",
+      "sent_id": 22,
+      "sentence": "When they had walked a short time, Hansel stood still and peeped back at the house, and did so again and again.",
+      "subj": "hansel",
+      "verb": "stand",
+      "obj": ""
+    },
+    {
+      "id": "e0022",
+      "label": "father | say | \u2205",
+      "sent_id": 23,
+      "sentence": "His father said: \u2018Hansel, what are you looking at there and staying behind for?",
+      "subj": "father",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0023",
+      "label": "hansel | say | \u2205",
+      "sent_id": 25,
+      "sentence": "\u2018Ah, father,\u2019 said Hansel, \u2018I am looking at my little white cat, which is sitting up on the roof, and wants to say goodbye to me.\u2019",
+      "subj": "hansel",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0024",
+      "label": "wife | say | \u2205",
+      "sent_id": 26,
+      "sentence": "The wife said: \u2018Fool, that is not your little cat, that is the morning sun which is shining on the chimneys.\u2019",
+      "subj": "wife",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0025",
+      "label": "hansel | look | \u2205",
+      "sent_id": 27,
+      "sentence": "Hansel, however, had not been looking back at the cat, but had been constantly throwing one of the white pebble-stones out of his pocket on the road.",
+      "subj": "hansel",
+      "verb": "look",
+      "obj": ""
+    },
+    {
+      "id": "e0026",
+      "label": "father | say | \u2205",
+      "sent_id": 28,
+      "sentence": "When they had reached the middle of the forest, the father said: \u2018Now, children, pile up some wood, and I will light a fire that you may not be cold.\u2019",
+      "subj": "father",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0027",
+      "label": "hansel | gather | brushwood",
+      "sent_id": 29,
+      "sentence": "Hansel and Gretel gathered brushwood together, as high as a little hill.",
+      "subj": "hansel",
+      "verb": "gather",
+      "obj": "brushwood"
+    },
+    {
+      "id": "e0028",
+      "label": "woman | say | \u2205",
+      "sent_id": 30,
+      "sentence": "The brushwood was lighted, and when the flames were burning very high, the woman said: \u2018Now, children, lay yourselves down by the fire and rest, we will go into the forest and cut some wood.",
+      "subj": "woman",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0029",
+      "label": "we | come | \u2205",
+      "sent_id": 31,
+      "sentence": "When we have done, we will come back and fetch you away.\u2019",
+      "subj": "we",
+      "verb": "come",
+      "obj": ""
+    },
+    {
+      "id": "e0030",
+      "label": "hansel | sit | fire",
+      "sent_id": 32,
+      "sentence": "Hansel and Gretel sat by the fire, and when noon came, each ate a little piece of bread, and as they heard the strokes of the wood-axe they believed that their father was near.",
+      "subj": "hansel",
+      "verb": "sit",
+      "obj": "fire"
+    },
+    {
+      "id": "e0031",
+      "label": "it | be | axe",
+      "sent_id": 33,
+      "sentence": "It was not the axe, however, but a branch which he had fastened to a withered tree which the wind was blowing backwards and forwards.",
+      "subj": "it",
+      "verb": "be",
+      "obj": "axe"
+    },
+    {
+      "id": "e0032",
+      "label": "eye | close | fatigue",
+      "sent_id": 34,
+      "sentence": "And as they had been sitting such a long time, their eyes closed with fatigue, and they fell fast asleep.",
+      "subj": "eye",
+      "verb": "close",
+      "obj": "fatigue"
+    },
+    {
+      "id": "e0033",
+      "label": "it | be | night",
+      "sent_id": 35,
+      "sentence": "When at last they awoke, it was already dark night.",
+      "subj": "it",
+      "verb": "be",
+      "obj": "night"
+    },
+    {
+      "id": "e0034",
+      "label": "gretel | begin | \u2205",
+      "sent_id": 36,
+      "sentence": "Gretel began to cry and said: \u2018How are we to get out of the forest now?\u2019",
+      "subj": "gretel",
+      "verb": "begin",
+      "obj": ""
+    },
+    {
+      "id": "e0035",
+      "label": "hansel | comfort | she",
+      "sent_id": 37,
+      "sentence": "But Hansel comforted her and said: \u2018Just wait a little, until the moon has risen, and then we will soon find the way.\u2019",
+      "subj": "hansel",
+      "verb": "comfort",
+      "obj": "she"
+    },
+    {
+      "id": "e0036",
+      "label": "hansel | take | sister",
+      "sent_id": 38,
+      "sentence": "And when the full moon had risen, Hansel took his little sister by the hand, and followed the pebbles which shone like newly-coined silver pieces, and showed them the way.",
+      "subj": "hansel",
+      "verb": "take",
+      "obj": "sister"
+    },
+    {
+      "id": "e0037",
+      "label": "they | walk | \u2205",
+      "sent_id": 39,
+      "sentence": "They walked the whole night long, and by break of day came once more to their father\u2019s house.",
+      "subj": "they",
+      "verb": "walk",
+      "obj": ""
+    },
+    {
+      "id": "e0038",
+      "label": "she | say | \u2205",
+      "sent_id": 40,
+      "sentence": "They knocked at the door, and when the woman opened it and saw that it was Hansel and Gretel, she said: \u2018You naughty children, why have you slept so long in the forest?\u2014we thought you were never coming back at all!\u2019",
+      "subj": "she",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0039",
+      "label": "father | rejoice | \u2205",
+      "sent_id": 41,
+      "sentence": "The father, however, rejoiced, for it had cut him to the heart to leave them behind alone.",
+      "subj": "father",
+      "verb": "rejoice",
+      "obj": ""
+    },
+    {
+      "id": "e0040",
+      "label": "\u2205 | be | dearth",
+      "sent_id": 42,
+      "sentence": "Not long afterwards, there was once more great dearth throughout the land, and the children heard their mother saying at night to their father: \u2018Everything is eaten again, we have one half loaf left, and that is the end.",
+      "subj": "",
+      "verb": "be",
+      "obj": "dearth"
+    },
+    {
+      "id": "e0041",
+      "label": "\u2205 | be | mean",
+      "sent_id": 43,
+      "sentence": "The children must go, we will take them farther into the wood, so that they will not find their way out again; there is no other means of saving ourselves!\u2019",
+      "subj": "",
+      "verb": "be",
+      "obj": "mean"
+    },
+    {
+      "id": "e0042",
+      "label": "heart | be | \u2205",
+      "sent_id": 44,
+      "sentence": "The man\u2019s heart was heavy, and he thought: \u2018It would be better for you to share the last mouthful with your children.\u2019",
+      "subj": "heart",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0043",
+      "label": "woman | listen | nothing",
+      "sent_id": 45,
+      "sentence": "The woman, however, would listen to nothing that he had to say, but scolded and reproached him.",
+      "subj": "woman",
+      "verb": "listen",
+      "obj": "nothing"
+    },
+    {
+      "id": "e0044",
+      "label": "he | have | \u2205",
+      "sent_id": 46,
+      "sentence": "He who says A must say B, likewise, and as he had yielded the first time, he had to do so a second time also.",
+      "subj": "he",
+      "verb": "have",
+      "obj": ""
+    },
+    {
+      "id": "e0045",
+      "label": "child | be | \u2205",
+      "sent_id": 47,
+      "sentence": "The children, however, were still awake and had heard the conversation.",
+      "subj": "child",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0046",
+      "label": "hansel | get | \u2205",
+      "sent_id": 48,
+      "sentence": "When the old folks were asleep, Hansel again got up, and wanted to go out and pick up pebbles as he had done before, but the woman had locked the door, and Hansel could not get out.",
+      "subj": "hansel",
+      "verb": "get",
+      "obj": ""
+    },
+    {
+      "id": "e0047",
+      "label": "he | comfort | sister",
+      "sent_id": 49,
+      "sentence": "Nevertheless he comforted his little sister, and said: \u2018Do not cry, Gretel, go to sleep quietly, the good God will help us.\u2019",
+      "subj": "he",
+      "verb": "comfort",
+      "obj": "sister"
+    },
+    {
+      "id": "e0048",
+      "label": "woman | come | \u2205",
+      "sent_id": 50,
+      "sentence": "Early in the morning came the woman, and took the children out of their beds.",
+      "subj": "woman",
+      "verb": "come",
+      "obj": ""
+    },
+    {
+      "id": "e0049",
+      "label": "piece | give | \u2205",
+      "sent_id": 51,
+      "sentence": "Their piece of bread was given to them, but it was still smaller than the time before.",
+      "subj": "piece",
+      "verb": "give",
+      "obj": ""
+    },
+    {
+      "id": "e0050",
+      "label": "\u2205 | crumble | his",
+      "sent_id": 52,
+      "sentence": "On the way into the forest Hansel crumbled his in his pocket, and often stood still and threw a morsel on the ground.",
+      "subj": "",
+      "verb": "crumble",
+      "obj": "his"
+    },
+    {
+      "id": "e0051",
+      "label": "father | say | \u2205",
+      "sent_id": 53,
+      "sentence": "\u2018Hansel, why do you stop and look round?\u2019 said the father, \u2018go on.\u2019",
+      "subj": "father",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0052",
+      "label": "hansel | answer | \u2205",
+      "sent_id": 54,
+      "sentence": "\u2018I am looking back at my little pigeon which is sitting on the roof, and wants to say goodbye to me,\u2019 answered Hansel.",
+      "subj": "hansel",
+      "verb": "answer",
+      "obj": ""
+    },
+    {
+      "id": "e0053",
+      "label": "fool | say | \u2205",
+      "sent_id": 55,
+      "sentence": "\u2018Fool!\u2019 said the woman, \u2018that is not your little pigeon, that is the morning sun that is shining on the chimney.\u2019",
+      "subj": "fool",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0054",
+      "label": "hansel | throw | crumb",
+      "sent_id": 56,
+      "sentence": "Hansel, however little by little, threw all the crumbs on the path.",
+      "subj": "hansel",
+      "verb": "throw",
+      "obj": "crumb"
+    },
+    {
+      "id": "e0055",
+      "label": "woman | lead | child",
+      "sent_id": 57,
+      "sentence": "The woman led the children still deeper into the forest, where they had never in their lives been before.",
+      "subj": "woman",
+      "verb": "lead",
+      "obj": "child"
+    },
+    {
+      "id": "e0056",
+      "label": "fire | make | \u2205",
+      "sent_id": 58,
+      "sentence": "Then a great fire was again made, and the mother said: \u2018Just sit there, you children, and when you are tired you may sleep a little; we are going into the forest to cut wood, and in the evening when we are done, we will come and fetch you away.\u2019",
+      "subj": "fire",
+      "verb": "make",
+      "obj": ""
+    },
+    {
+      "id": "e0057",
+      "label": "gretel | share | piece",
+      "sent_id": 59,
+      "sentence": "When it was noon, Gretel shared her piece of bread with Hansel, who had scattered his by the way.",
+      "subj": "gretel",
+      "verb": "share",
+      "obj": "piece"
+    },
+    {
+      "id": "e0058",
+      "label": "they | fall | \u2205",
+      "sent_id": 60,
+      "sentence": "Then they fell asleep and evening passed, but no one came to the poor children.",
+      "subj": "they",
+      "verb": "fall",
+      "obj": ""
+    },
+    {
+      "id": "e0059",
+      "label": "they | set | \u2205",
+      "sent_id": 62,
+      "sentence": "When the moon came they set out, but they found no crumbs, for the many thousands of birds which fly about in the woods and fields had picked them all up.",
+      "subj": "they",
+      "verb": "set",
+      "obj": ""
+    },
+    {
+      "id": "e0060",
+      "label": "hansel | say | gretel",
+      "sent_id": 63,
+      "sentence": "Hansel said to Gretel: \u2018We shall soon find the way,\u2019 but they did not find it.",
+      "subj": "hansel",
+      "verb": "say",
+      "obj": "gretel"
+    },
+    {
+      "id": "e0061",
+      "label": "they | walk | morning",
+      "sent_id": 64,
+      "sentence": "They walked the whole night and all the next day too from morning till evening, but they did not get out of the forest, and were very hungry, for they had nothing to eat",
+      "subj": "they",
+      "verb": "walk",
+      "obj": "morning"
+    },
+    {
+      "id": "e0062",
+      "label": "they | lie | tree",
+      "sent_id": 66,
+      "sentence": "And as they were so weary that their legs would carry them no longer, they lay down beneath a tree and fell asleep.",
+      "subj": "they",
+      "verb": "lie",
+      "obj": "tree"
+    },
+    {
+      "id": "e0063",
+      "label": "it | be | morning",
+      "sent_id": 67,
+      "sentence": "It was now three mornings since they had left their father\u2019s house.",
+      "subj": "it",
+      "verb": "be",
+      "obj": "morning"
+    },
+    {
+      "id": "e0064",
+      "label": "they | begin | \u2205",
+      "sent_id": 68,
+      "sentence": "They began to walk again, but they always came deeper into the forest, and if help did not come soon, they must die of hunger and weariness.",
+      "subj": "they",
+      "verb": "begin",
+      "obj": ""
+    },
+    {
+      "id": "e0065",
+      "label": "they | see | bird",
+      "sent_id": 69,
+      "sentence": "When it was mid-day, they saw a beautiful snow-white bird sitting on a bough, which sang so delightfully that they stood still and listened to it.",
+      "subj": "they",
+      "verb": "see",
+      "obj": "bird"
+    },
+    {
+      "id": "e0066",
+      "label": "it | spread | wing",
+      "sent_id": 70,
+      "sentence": "And when its song was over, it spread its wings and flew away before them, and they followed it until they reached a little house, on the roof of which it alighted; and when they approached the little house they saw that it was built of bread and covered with cakes, but that the windows were of clear sugar.",
+      "subj": "it",
+      "verb": "spread",
+      "obj": "wing"
+    },
+    {
+      "id": "e0067",
+      "label": "hansel | say | \u2205",
+      "sent_id": 71,
+      "sentence": "\u2018We will set to work on that,\u2019 said Hansel, \u2018and have a good meal.",
+      "subj": "hansel",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0068",
+      "label": "it | taste | sweet",
+      "sent_id": 72,
+      "sentence": "I will eat a bit of the roof, and you Gretel, can eat some of the window, it will taste sweet.\u2019",
+      "subj": "it",
+      "verb": "taste",
+      "obj": "sweet"
+    },
+    {
+      "id": "e0069",
+      "label": "hansel | reach | \u2205",
+      "sent_id": 73,
+      "sentence": "Hansel reached up above, and broke off a little of the roof to try how it tasted, and Gretel leant against the window and nibbled at the panes.",
+      "subj": "hansel",
+      "verb": "reach",
+      "obj": ""
+    },
+    {
+      "id": "e0070",
+      "label": "voice | cry | parlour",
+      "sent_id": 74,
+      "sentence": "Then a soft voice cried from the parlour:\n\n \u2018Nibble, nibble, gnaw,\n Who is nibbling at my little house?\u2019",
+      "subj": "voice",
+      "verb": "cry",
+      "obj": "parlour"
+    },
+    {
+      "id": "e0071",
+      "label": "child | answer | wind",
+      "sent_id": 75,
+      "sentence": "The children answered:\n\n \u2018The wind, the wind,\n The heaven-born wind,\u2019\n\nand went on eating without disturbing themselves.",
+      "subj": "child",
+      "verb": "answer",
+      "obj": "wind"
+    },
+    {
+      "id": "e0072",
+      "label": "hansel | tear | piece",
+      "sent_id": 76,
+      "sentence": "Hansel, who liked the taste of the roof, tore down a great piece of it, and Gretel pushed out the whole of one round window-pane, sat down, and enjoyed herself with it.",
+      "subj": "hansel",
+      "verb": "tear",
+      "obj": "piece"
+    },
+    {
+      "id": "e0073",
+      "label": "door | open | \u2205",
+      "sent_id": 77,
+      "sentence": "Suddenly the door opened, and a woman as old as the hills, who supported herself on crutches, came creeping out.",
+      "subj": "door",
+      "verb": "open",
+      "obj": ""
+    },
+    {
+      "id": "e0074",
+      "label": "hansel | be | \u2205",
+      "sent_id": 78,
+      "sentence": "Hansel and Gretel were so terribly frightened that they let fall what they had in their hands.",
+      "subj": "hansel",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0075",
+      "label": "woman | nod | head",
+      "sent_id": 79,
+      "sentence": "The old woman, however, nodded her head, and said: \u2018Oh, you dear children, who has brought you here?",
+      "subj": "woman",
+      "verb": "nod",
+      "obj": "head"
+    },
+    {
+      "id": "e0076",
+      "label": "\u2205 | come | \u2205",
+      "sent_id": 80,
+      "sentence": "do come in, and stay with me.",
+      "subj": "",
+      "verb": "come",
+      "obj": ""
+    },
+    {
+      "id": "e0077",
+      "label": "harm | happen | you",
+      "sent_id": 81,
+      "sentence": "No harm shall happen to you.\u2019",
+      "subj": "harm",
+      "verb": "happen",
+      "obj": "you"
+    },
+    {
+      "id": "e0078",
+      "label": "she | take | they",
+      "sent_id": 82,
+      "sentence": "She took them both by the hand, and led them into her little house.",
+      "subj": "she",
+      "verb": "take",
+      "obj": "they"
+    },
+    {
+      "id": "e0079",
+      "label": "food | set | they",
+      "sent_id": 83,
+      "sentence": "Then good food was set before them, milk and pancakes, with sugar, apples, and nuts.",
+      "subj": "food",
+      "verb": "set",
+      "obj": "they"
+    },
+    {
+      "id": "e0080",
+      "label": "bed | cover | linen",
+      "sent_id": 84,
+      "sentence": "Afterwards two pretty little beds were covered with clean white linen, and Hansel and Gretel lay down in them, and thought they were in heaven.",
+      "subj": "bed",
+      "verb": "cover",
+      "obj": "linen"
+    },
+    {
+      "id": "e0081",
+      "label": "she | be | witch",
+      "sent_id": 85,
+      "sentence": "The old woman had only pretended to be so kind; she was in reality a wicked witch, who lay in wait for children, and had only built the little house of bread in order to entice them there.",
+      "subj": "she",
+      "verb": "be",
+      "obj": "witch"
+    },
+    {
+      "id": "e0082",
+      "label": "she | kill | it",
+      "sent_id": 86,
+      "sentence": "When a child fell into her power, she killed it, cooked and ate it, and that was a feast day with her.",
+      "subj": "she",
+      "verb": "kill",
+      "obj": "it"
+    },
+    {
+      "id": "e0083",
+      "label": "witch | have | eye",
+      "sent_id": 87,
+      "sentence": "Witches have red eyes, and cannot see far, but they have a keen scent like the beasts, and are aware when human beings draw near.",
+      "subj": "witch",
+      "verb": "have",
+      "obj": "eye"
+    },
+    {
+      "id": "e0084",
+      "label": "she | laugh | malice",
+      "sent_id": 88,
+      "sentence": "When Hansel and Gretel came into her neighbourhood, she laughed with malice, and said mockingly: \u2018I have them, they shall not escape me again!\u2019",
+      "subj": "she",
+      "verb": "laugh",
+      "obj": "malice"
+    },
+    {
+      "id": "e0085",
+      "label": "she | be | \u2205",
+      "sent_id": 89,
+      "sentence": "Early in the morning before the children were awake, she was already up, and when she saw both of them sleeping and looking so pretty, with their plump and rosy cheeks she muttered to herself: \u2018That will be a dainty mouthful!\u2019",
+      "subj": "she",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0086",
+      "label": "she | seize | hansel",
+      "sent_id": 90,
+      "sentence": "Then she seized Hansel with her shrivelled hand, carried him into a little stable, and locked him in behind a grated door.",
+      "subj": "she",
+      "verb": "seize",
+      "obj": "hansel"
+    },
+    {
+      "id": "e0087",
+      "label": "it | help | he",
+      "sent_id": 91,
+      "sentence": "Scream as he might, it would not help him.",
+      "subj": "it",
+      "verb": "help",
+      "obj": "he"
+    },
+    {
+      "id": "e0088",
+      "label": "she | go | gretel",
+      "sent_id": 92,
+      "sentence": "Then she went to Gretel, shook her till she awoke, and cried: \u2018Get up, lazy thing, fetch some water, and cook something good for your brother, he is in the stable outside, and is to be made fat.",
+      "subj": "she",
+      "verb": "go",
+      "obj": "gretel"
+    },
+    {
+      "id": "e0089",
+      "label": "i | eat | he",
+      "sent_id": 93,
+      "sentence": "When he is fat, I will eat him.\u2019",
+      "subj": "i",
+      "verb": "eat",
+      "obj": "he"
+    },
+    {
+      "id": "e0090",
+      "label": "gretel | begin | \u2205",
+      "sent_id": 94,
+      "sentence": "Gretel began to weep bitterly, but it was all in vain, for she was forced to do what the wicked witch commanded.",
+      "subj": "gretel",
+      "verb": "begin",
+      "obj": ""
+    },
+    {
+      "id": "e0091",
+      "label": "food | cook | hansel",
+      "sent_id": 95,
+      "sentence": "And now the best food was cooked for poor Hansel, but Gretel got nothing but crab-shells.",
+      "subj": "food",
+      "verb": "cook",
+      "obj": "hansel"
+    },
+    {
+      "id": "e0092",
+      "label": "woman | creep | stable",
+      "sent_id": 96,
+      "sentence": "Every morning the woman crept to the little stable, and cried: \u2018Hansel, stretch out your finger that I may feel if you will soon be fat.\u2019",
+      "subj": "woman",
+      "verb": "creep",
+      "obj": "stable"
+    },
+    {
+      "id": "e0093",
+      "label": "hansel | stretch | bone",
+      "sent_id": 97,
+      "sentence": "Hansel, however, stretched out a little bone to her, and the old woman, who had dim eyes, could not see it, and thought it was Hansel\u2019s finger, and was astonished that there was no way of fattening him.",
+      "subj": "hansel",
+      "verb": "stretch",
+      "obj": "bone"
+    },
+    {
+      "id": "e0094",
+      "label": "she | seize | impatience",
+      "sent_id": 98,
+      "sentence": "When four weeks had gone by, and Hansel still remained thin, she was seized with impatience and would not wait any longer.",
+      "subj": "she",
+      "verb": "seize",
+      "obj": "impatience"
+    },
+    {
+      "id": "e0095",
+      "label": "gretel | cry | girl",
+      "sent_id": 99,
+      "sentence": "\u2018Now, then, Gretel,\u2019 she cried to the girl, \u2018stir yourself, and bring some water.",
+      "subj": "gretel",
+      "verb": "cry",
+      "obj": "girl"
+    },
+    {
+      "id": "e0096",
+      "label": "i | kill | he",
+      "sent_id": 100,
+      "sentence": "Let Hansel be fat or lean, tomorrow I will kill him, and cook him.\u2019",
+      "subj": "i",
+      "verb": "kill",
+      "obj": "he"
+    },
+    {
+      "id": "e0097",
+      "label": "sister | do | lament",
+      "sent_id": 101,
+      "sentence": "Ah, how the poor little sister did lament when she had to fetch the water, and how her tears did flow down her cheeks!",
+      "subj": "sister",
+      "verb": "do",
+      "obj": "lament"
+    },
+    {
+      "id": "e0098",
+      "label": "she | cry | \u2205",
+      "sent_id": 102,
+      "sentence": "\u2018Dear God, do help us,\u2019 she cried.",
+      "subj": "she",
+      "verb": "cry",
+      "obj": ""
+    },
+    {
+      "id": "e0099",
+      "label": "we | die | rate",
+      "sent_id": 103,
+      "sentence": "\u2018If the wild beasts in the forest had but devoured us, we should at any rate have died together.\u2019",
+      "subj": "we",
+      "verb": "die",
+      "obj": "rate"
+    },
+    {
+      "id": "e0100",
+      "label": "woman | say | \u2205",
+      "sent_id": 104,
+      "sentence": "\u2018Just keep your noise to yourself,\u2019 said the old woman, \u2018it won\u2019t help you at all.\u2019",
+      "subj": "woman",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0101",
+      "label": "gretel | have | \u2205",
+      "sent_id": 105,
+      "sentence": "Early in the morning, Gretel had to go out and hang up the cauldron with the water, and light the fire.",
+      "subj": "gretel",
+      "verb": "have",
+      "obj": ""
+    },
+    {
+      "id": "e0102",
+      "label": "woman | say | \u2205",
+      "sent_id": 106,
+      "sentence": "\u2018We will bake first,\u2019 said the old woman, \u2018I have already heated the oven, and kneaded the dough.\u2019",
+      "subj": "woman",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0103",
+      "label": "she | push | gretel",
+      "sent_id": 107,
+      "sentence": "She pushed poor Gretel out to the oven, from which flames of fire were already darting.",
+      "subj": "she",
+      "verb": "push",
+      "obj": "gretel"
+    },
+    {
+      "id": "e0104",
+      "label": "witch | say | \u2205",
+      "sent_id": 108,
+      "sentence": "\u2018Creep in,\u2019 said the witch, \u2018and see if it is properly heated, so that we can put the bread in.\u2019",
+      "subj": "witch",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0105",
+      "label": "she | intend | \u2205",
+      "sent_id": 109,
+      "sentence": "And once Gretel was inside, she intended to shut the oven and let her bake in it, and then she would eat her, too.",
+      "subj": "she",
+      "verb": "intend",
+      "obj": ""
+    },
+    {
+      "id": "e0106",
+      "label": "gretel | see | \u2205",
+      "sent_id": 110,
+      "sentence": "But Gretel saw what she had in mind, and said: \u2018I do not know how I am to do it; how do I get in?\u2019",
+      "subj": "gretel",
+      "verb": "see",
+      "obj": ""
+    },
+    {
+      "id": "e0107",
+      "label": "goose | say | \u2205",
+      "sent_id": 111,
+      "sentence": "\u2018Silly goose,\u2019 said the old woman.",
+      "subj": "goose",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0108",
+      "label": "i | get | myself",
+      "sent_id": 112,
+      "sentence": "\u2018The door is big enough; just look, I can get in myself!\u2019",
+      "subj": "i",
+      "verb": "get",
+      "obj": "myself"
+    },
+    {
+      "id": "e0109",
+      "label": "she | creep | \u2205",
+      "sent_id": 113,
+      "sentence": "and she crept up and thrust her head into the oven.",
+      "subj": "she",
+      "verb": "creep",
+      "obj": ""
+    },
+    {
+      "id": "e0110",
+      "label": "gretel | give | push",
+      "sent_id": 114,
+      "sentence": "Then Gretel gave her a push that drove her far into it, and shut the iron door, and fastened the bolt.",
+      "subj": "gretel",
+      "verb": "give",
+      "obj": "push"
+    },
+    {
+      "id": "e0111",
+      "label": "she | begin | \u2205",
+      "sent_id": 116,
+      "sentence": "then she began to howl quite horribly, but Gretel ran away and the godless witch was miserably burnt to death.",
+      "subj": "she",
+      "verb": "begin",
+      "obj": ""
+    },
+    {
+      "id": "e0112",
+      "label": "gretel | run | lightning",
+      "sent_id": 117,
+      "sentence": "Gretel, however, ran like lightning to Hansel, opened his little stable, and cried: \u2018Hansel, we are saved!",
+      "subj": "gretel",
+      "verb": "run",
+      "obj": "lightning"
+    },
+    {
+      "id": "e0113",
+      "label": "witch | be | \u2205",
+      "sent_id": 118,
+      "sentence": "The old witch is dead!\u2019",
+      "subj": "witch",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0114",
+      "label": "hansel | spring | bird",
+      "sent_id": 119,
+      "sentence": "Then Hansel sprang like a bird from its cage when the door is opened.",
+      "subj": "hansel",
+      "verb": "spring",
+      "obj": "bird"
+    },
+    {
+      "id": "e0115",
+      "label": "they | rejoice | \u2205",
+      "sent_id": 120,
+      "sentence": "How they did rejoice and embrace each other, and dance about and kiss each other!",
+      "subj": "they",
+      "verb": "rejoice",
+      "obj": ""
+    },
+    {
+      "id": "e0116",
+      "label": "they | go | house",
+      "sent_id": 121,
+      "sentence": "And as they had no longer any need to fear her, they went into the witch\u2019s house, and in every corner there stood chests full of pearls and jewels.",
+      "subj": "they",
+      "verb": "go",
+      "obj": "house"
+    },
+    {
+      "id": "e0117",
+      "label": "hansel | say | \u2205",
+      "sent_id": 122,
+      "sentence": "\u2018These are far better than pebbles!\u2019 said Hansel, and thrust into his pockets whatever could be got in, and Gretel said: \u2018I, too, will take something home with me,\u2019 and filled her pinafore full.",
+      "subj": "hansel",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0118",
+      "label": "hansel | say | \u2205",
+      "sent_id": 123,
+      "sentence": "\u2018But now we must be off,\u2019 said Hansel, \u2018that we may get out of the witch\u2019s forest.\u2019",
+      "subj": "hansel",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0119",
+      "label": "they | come | stretch",
+      "sent_id": 124,
+      "sentence": "When they had walked for two hours, they came to a great stretch of water.",
+      "subj": "they",
+      "verb": "come",
+      "obj": "stretch"
+    },
+    {
+      "id": "e0120",
+      "label": "hansel | say | \u2205",
+      "sent_id": 125,
+      "sentence": "\u2018We cannot cross,\u2019 said Hansel, \u2018I see no foot-plank, and no bridge.\u2019",
+      "subj": "hansel",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0121",
+      "label": "gretel | answer | \u2205",
+      "sent_id": 126,
+      "sentence": "\u2018And there is also no ferry,\u2019 answered Gretel, \u2018but a white duck is swimming there: if I ask her, she will help us over.\u2019",
+      "subj": "gretel",
+      "verb": "answer",
+      "obj": ""
+    },
+    {
+      "id": "e0122",
+      "label": "she | cry | \u2205",
+      "sent_id": 127,
+      "sentence": "Then she cried:\n\n \u2018Little duck, little duck, dost thou see,\n Hansel and Gretel are waiting for thee?",
+      "subj": "she",
+      "verb": "cry",
+      "obj": ""
+    },
+    {
+      "id": "e0123",
+      "label": "\u2205 | take | we",
+      "sent_id": 128,
+      "sentence": "There\u2019s never a plank, or bridge in sight,\n Take us across on thy back so white.\u2019",
+      "subj": "",
+      "verb": "take",
+      "obj": "we"
+    },
+    {
+      "id": "e0124",
+      "label": "duck | come | they",
+      "sent_id": 129,
+      "sentence": "The duck came to them, and Hansel seated himself on its back, and told his sister to sit by him.",
+      "subj": "duck",
+      "verb": "come",
+      "obj": "they"
+    },
+    {
+      "id": "e0125",
+      "label": "she | take | we",
+      "sent_id": 130,
+      "sentence": "\u2018No,\u2019 replied Gretel, \u2018that will be too heavy for the little duck; she shall take us across, one after the other.\u2019",
+      "subj": "she",
+      "verb": "take",
+      "obj": "we"
+    },
+    {
+      "id": "e0126",
+      "label": "duck | do | \u2205",
+      "sent_id": 131,
+      "sentence": "The good little duck did so, and when they were once safely across and had walked for a short time, the forest seemed to be more and more familiar to them, and at length they saw from afar their father\u2019s house.",
+      "subj": "duck",
+      "verb": "do",
+      "obj": ""
+    },
+    {
+      "id": "e0127",
+      "label": "they | begin | \u2205",
+      "sent_id": 132,
+      "sentence": "Then they began to run, rushed into the parlour, and threw themselves round their father\u2019s neck.",
+      "subj": "they",
+      "verb": "begin",
+      "obj": ""
+    },
+    {
+      "id": "e0128",
+      "label": "woman | be | \u2205",
+      "sent_id": 133,
+      "sentence": "The man had not known one happy hour since he had left the children in the forest; the woman, however, was dead.",
+      "subj": "woman",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0129",
+      "label": "gretel | empty | she",
+      "sent_id": 134,
+      "sentence": "Gretel emptied her pinafore until pearls and precious stones ran about the room, and Hansel threw one handful after another out of his pocket to add to them.",
+      "subj": "gretel",
+      "verb": "empty",
+      "obj": "she"
+    },
+    {
+      "id": "e0130",
+      "label": "anxiety | be | end",
+      "sent_id": 135,
+      "sentence": "Then all anxiety was at an end, and they lived together in perfect happiness.",
+      "subj": "anxiety",
+      "verb": "be",
+      "obj": "end"
+    },
+    {
+      "id": "e0131",
+      "label": "\u2205 | make | catch",
+      "sent_id": 136,
+      "sentence": "My tale is done, there runs a mouse; whosoever catches it, may make himself a big fur cap out of it.",
+      "subj": "",
+      "verb": "make",
+      "obj": "catch"
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    },
+    {
+      "source": "e0029",
+      "target": "e0030",
+      "relation": "next"
+    },
+    {
+      "source": "e0030",
+      "target": "e0031",
+      "relation": "next"
+    },
+    {
+      "source": "e0031",
+      "target": "e0032",
+      "relation": "next"
+    },
+    {
+      "source": "e0032",
+      "target": "e0033",
+      "relation": "next"
+    },
+    {
+      "source": "e0033",
+      "target": "e0034",
+      "relation": "next"
+    },
+    {
+      "source": "e0034",
+      "target": "e0035",
+      "relation": "next"
+    },
+    {
+      "source": "e0035",
+      "target": "e0036",
+      "relation": "next"
+    },
+    {
+      "source": "e0036",
+      "target": "e0037",
+      "relation": "next"
+    },
+    {
+      "source": "e0037",
+      "target": "e0038",
+      "relation": "next"
+    },
+    {
+      "source": "e0038",
+      "target": "e0039",
+      "relation": "next"
+    },
+    {
+      "source": "e0039",
+      "target": "e0040",
+      "relation": "next"
+    },
+    {
+      "source": "e0040",
+      "target": "e0041",
+      "relation": "next"
+    },
+    {
+      "source": "e0041",
+      "target": "e0042",
+      "relation": "next"
+    },
+    {
+      "source": "e0042",
+      "target": "e0043",
+      "relation": "next"
+    },
+    {
+      "source": "e0043",
+      "target": "e0044",
+      "relation": "next"
+    },
+    {
+      "source": "e0044",
+      "target": "e0045",
+      "relation": "next"
+    },
+    {
+      "source": "e0045",
+      "target": "e0046",
+      "relation": "next"
+    },
+    {
+      "source": "e0046",
+      "target": "e0047",
+      "relation": "next"
+    },
+    {
+      "source": "e0047",
+      "target": "e0048",
+      "relation": "next"
+    },
+    {
+      "source": "e0048",
+      "target": "e0049",
+      "relation": "next"
+    },
+    {
+      "source": "e0049",
+      "target": "e0050",
+      "relation": "next"
+    },
+    {
+      "source": "e0050",
+      "target": "e0051",
+      "relation": "next"
+    },
+    {
+      "source": "e0051",
+      "target": "e0052",
+      "relation": "next"
+    },
+    {
+      "source": "e0052",
+      "target": "e0053",
+      "relation": "next"
+    },
+    {
+      "source": "e0053",
+      "target": "e0054",
+      "relation": "next"
+    },
+    {
+      "source": "e0054",
+      "target": "e0055",
+      "relation": "next"
+    },
+    {
+      "source": "e0055",
+      "target": "e0056",
+      "relation": "next"
+    },
+    {
+      "source": "e0056",
+      "target": "e0057",
+      "relation": "next"
+    },
+    {
+      "source": "e0057",
+      "target": "e0058",
+      "relation": "next"
+    },
+    {
+      "source": "e0058",
+      "target": "e0059",
+      "relation": "next"
+    },
+    {
+      "source": "e0059",
+      "target": "e0060",
+      "relation": "next"
+    },
+    {
+      "source": "e0060",
+      "target": "e0061",
+      "relation": "next"
+    },
+    {
+      "source": "e0061",
+      "target": "e0062",
+      "relation": "next"
+    },
+    {
+      "source": "e0062",
+      "target": "e0063",
+      "relation": "next"
+    },
+    {
+      "source": "e0063",
+      "target": "e0064",
+      "relation": "next"
+    },
+    {
+      "source": "e0064",
+      "target": "e0065",
+      "relation": "next"
+    },
+    {
+      "source": "e0065",
+      "target": "e0066",
+      "relation": "next"
+    },
+    {
+      "source": "e0066",
+      "target": "e0067",
+      "relation": "next"
+    },
+    {
+      "source": "e0067",
+      "target": "e0068",
+      "relation": "next"
+    },
+    {
+      "source": "e0068",
+      "target": "e0069",
+      "relation": "next"
+    },
+    {
+      "source": "e0069",
+      "target": "e0070",
+      "relation": "next"
+    },
+    {
+      "source": "e0070",
+      "target": "e0071",
+      "relation": "next"
+    },
+    {
+      "source": "e0071",
+      "target": "e0072",
+      "relation": "next"
+    },
+    {
+      "source": "e0072",
+      "target": "e0073",
+      "relation": "next"
+    },
+    {
+      "source": "e0073",
+      "target": "e0074",
+      "relation": "next"
+    },
+    {
+      "source": "e0074",
+      "target": "e0075",
+      "relation": "next"
+    },
+    {
+      "source": "e0075",
+      "target": "e0076",
+      "relation": "next"
+    },
+    {
+      "source": "e0076",
+      "target": "e0077",
+      "relation": "next"
+    },
+    {
+      "source": "e0077",
+      "target": "e0078",
+      "relation": "next"
+    },
+    {
+      "source": "e0078",
+      "target": "e0079",
+      "relation": "next"
+    },
+    {
+      "source": "e0079",
+      "target": "e0080",
+      "relation": "next"
+    },
+    {
+      "source": "e0080",
+      "target": "e0081",
+      "relation": "next"
+    },
+    {
+      "source": "e0081",
+      "target": "e0082",
+      "relation": "next"
+    },
+    {
+      "source": "e0082",
+      "target": "e0083",
+      "relation": "next"
+    },
+    {
+      "source": "e0083",
+      "target": "e0084",
+      "relation": "next"
+    },
+    {
+      "source": "e0084",
+      "target": "e0085",
+      "relation": "next"
+    },
+    {
+      "source": "e0085",
+      "target": "e0086",
+      "relation": "next"
+    },
+    {
+      "source": "e0086",
+      "target": "e0087",
+      "relation": "next"
+    },
+    {
+      "source": "e0087",
+      "target": "e0088",
+      "relation": "next"
+    },
+    {
+      "source": "e0088",
+      "target": "e0089",
+      "relation": "next"
+    },
+    {
+      "source": "e0089",
+      "target": "e0090",
+      "relation": "next"
+    },
+    {
+      "source": "e0090",
+      "target": "e0091",
+      "relation": "next"
+    },
+    {
+      "source": "e0091",
+      "target": "e0092",
+      "relation": "next"
+    },
+    {
+      "source": "e0092",
+      "target": "e0093",
+      "relation": "next"
+    },
+    {
+      "source": "e0093",
+      "target": "e0094",
+      "relation": "next"
+    },
+    {
+      "source": "e0094",
+      "target": "e0095",
+      "relation": "next"
+    },
+    {
+      "source": "e0095",
+      "target": "e0096",
+      "relation": "next"
+    },
+    {
+      "source": "e0096",
+      "target": "e0097",
+      "relation": "next"
+    },
+    {
+      "source": "e0097",
+      "target": "e0098",
+      "relation": "next"
+    },
+    {
+      "source": "e0098",
+      "target": "e0099",
+      "relation": "next"
+    },
+    {
+      "source": "e0099",
+      "target": "e0100",
+      "relation": "next"
+    },
+    {
+      "source": "e0100",
+      "target": "e0101",
+      "relation": "next"
+    },
+    {
+      "source": "e0101",
+      "target": "e0102",
+      "relation": "next"
+    },
+    {
+      "source": "e0102",
+      "target": "e0103",
+      "relation": "next"
+    },
+    {
+      "source": "e0103",
+      "target": "e0104",
+      "relation": "next"
+    },
+    {
+      "source": "e0104",
+      "target": "e0105",
+      "relation": "next"
+    },
+    {
+      "source": "e0105",
+      "target": "e0106",
+      "relation": "next"
+    },
+    {
+      "source": "e0106",
+      "target": "e0107",
+      "relation": "next"
+    },
+    {
+      "source": "e0107",
+      "target": "e0108",
+      "relation": "next"
+    },
+    {
+      "source": "e0108",
+      "target": "e0109",
+      "relation": "next"
+    },
+    {
+      "source": "e0109",
+      "target": "e0110",
+      "relation": "next"
+    },
+    {
+      "source": "e0110",
+      "target": "e0111",
+      "relation": "next"
+    },
+    {
+      "source": "e0111",
+      "target": "e0112",
+      "relation": "next"
+    },
+    {
+      "source": "e0112",
+      "target": "e0113",
+      "relation": "next"
+    },
+    {
+      "source": "e0113",
+      "target": "e0114",
+      "relation": "next"
+    },
+    {
+      "source": "e0114",
+      "target": "e0115",
+      "relation": "next"
+    },
+    {
+      "source": "e0115",
+      "target": "e0116",
+      "relation": "next"
+    },
+    {
+      "source": "e0116",
+      "target": "e0117",
+      "relation": "next"
+    },
+    {
+      "source": "e0117",
+      "target": "e0118",
+      "relation": "next"
+    },
+    {
+      "source": "e0118",
+      "target": "e0119",
+      "relation": "next"
+    },
+    {
+      "source": "e0119",
+      "target": "e0120",
+      "relation": "next"
+    },
+    {
+      "source": "e0120",
+      "target": "e0121",
+      "relation": "next"
+    },
+    {
+      "source": "e0121",
+      "target": "e0122",
+      "relation": "next"
+    },
+    {
+      "source": "e0122",
+      "target": "e0123",
+      "relation": "next"
+    },
+    {
+      "source": "e0123",
+      "target": "e0124",
+      "relation": "next"
+    },
+    {
+      "source": "e0124",
+      "target": "e0125",
+      "relation": "next"
+    },
+    {
+      "source": "e0125",
+      "target": "e0126",
+      "relation": "next"
+    },
+    {
+      "source": "e0126",
+      "target": "e0127",
+      "relation": "next"
+    },
+    {
+      "source": "e0127",
+      "target": "e0128",
+      "relation": "next"
+    },
+    {
+      "source": "e0128",
+      "target": "e0129",
+      "relation": "next"
+    },
+    {
+      "source": "e0129",
+      "target": "e0130",
+      "relation": "next"
+    },
+    {
+      "source": "e0130",
+      "target": "e0131",
+      "relation": "next"
+    }
+  ]
+}

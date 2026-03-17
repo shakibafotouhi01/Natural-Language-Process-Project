@@ -1,0 +1,1094 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "legend | be | first",
+      "sent_id": 0,
+      "sentence": "Legend of the Corn\n\nThe Arikara were the first to find the maize.",
+      "subj": "legend",
+      "verb": "be",
+      "obj": "first"
+    },
+    {
+      "id": "e0001",
+      "label": "man | go | \u2205",
+      "sent_id": 1,
+      "sentence": "A young man went out hunting.",
+      "subj": "man",
+      "verb": "go",
+      "obj": ""
+    },
+    {
+      "id": "e0002",
+      "label": "he | come | hill",
+      "sent_id": 2,
+      "sentence": "He came to a high hill.",
+      "subj": "he",
+      "verb": "come",
+      "obj": "hill"
+    },
+    {
+      "id": "e0003",
+      "label": "he | see | bull",
+      "sent_id": 3,
+      "sentence": "Looking down a valley, he saw a buffalo bull near where two rivers joined.",
+      "subj": "he",
+      "verb": "see",
+      "obj": "bull"
+    },
+    {
+      "id": "e0004",
+      "label": "he | see | \u2205",
+      "sent_id": 4,
+      "sentence": "When the young man looked to see how he could kill the buffalo, he saw how beautiful the country was.",
+      "subj": "he",
+      "verb": "see",
+      "obj": ""
+    },
+    {
+      "id": "e0005",
+      "label": "bank | be | tree",
+      "sent_id": 5,
+      "sentence": "The banks of the two rivers were low, with many trees.",
+      "subj": "bank",
+      "verb": "be",
+      "obj": "tree"
+    },
+    {
+      "id": "e0006",
+      "label": "he | get | bowshot",
+      "sent_id": 6,
+      "sentence": "The buffalo faced the north; therefore he could not get within bowshot of him.",
+      "subj": "he",
+      "verb": "get",
+      "obj": "bowshot"
+    },
+    {
+      "id": "e0007",
+      "label": "he | think | \u2205",
+      "sent_id": 7,
+      "sentence": "He thought he should wait until the buffalo moved close to the banks of one of the rivers, or to a ravine where there were bushes and shrubs.",
+      "subj": "he",
+      "verb": "think",
+      "obj": ""
+    },
+    {
+      "id": "e0008",
+      "label": "man | wait | \u2205",
+      "sent_id": 8,
+      "sentence": "So the young man waited.",
+      "subj": "man",
+      "verb": "wait",
+      "obj": ""
+    },
+    {
+      "id": "e0009",
+      "label": "sun | go | \u2205",
+      "sent_id": 9,
+      "sentence": "The sun went down before the buffalo moved.",
+      "subj": "sun",
+      "verb": "go",
+      "obj": ""
+    },
+    {
+      "id": "e0010",
+      "label": "hunter | lie | \u2205",
+      "sent_id": 10,
+      "sentence": "Nearly all night the hunter lay awake.",
+      "subj": "hunter",
+      "verb": "lie",
+      "obj": ""
+    },
+    {
+      "id": "e0011",
+      "label": "he | have | food",
+      "sent_id": 11,
+      "sentence": "He had little food.",
+      "subj": "he",
+      "verb": "have",
+      "obj": "food"
+    },
+    {
+      "id": "e0012",
+      "label": "he | feel | \u2205",
+      "sent_id": 12,
+      "sentence": "He felt sorry he could not reach the buffalo.",
+      "subj": "he",
+      "verb": "feel",
+      "obj": ""
+    },
+    {
+      "id": "e0013",
+      "label": "he | hurry | top",
+      "sent_id": 13,
+      "sentence": "Before the sun rose, he hurried to the top of the hill.",
+      "subj": "he",
+      "verb": "hurry",
+      "obj": "top"
+    },
+    {
+      "id": "e0014",
+      "label": "buffalo | stand | \u2205",
+      "sent_id": 14,
+      "sentence": "The buffalo stood just where it had, but it faced the east.",
+      "subj": "buffalo",
+      "verb": "stand",
+      "obj": ""
+    },
+    {
+      "id": "e0015",
+      "label": "he | wait | \u2205",
+      "sent_id": 15,
+      "sentence": "Again, he waited for it to move.",
+      "subj": "he",
+      "verb": "wait",
+      "obj": ""
+    },
+    {
+      "id": "e0016",
+      "label": "he | wait | \u2205",
+      "sent_id": 16,
+      "sentence": "He waited all day.",
+      "subj": "he",
+      "verb": "wait",
+      "obj": ""
+    },
+    {
+      "id": "e0017",
+      "label": "buffalo | stand | place",
+      "sent_id": 17,
+      "sentence": "When the sun went down, the buffalo still stood in the same place.",
+      "subj": "buffalo",
+      "verb": "stand",
+      "obj": "place"
+    },
+    {
+      "id": "e0018",
+      "label": "man | lie | \u2205",
+      "sent_id": 18,
+      "sentence": "Nearly all night the young man lay awake.",
+      "subj": "man",
+      "verb": "lie",
+      "obj": ""
+    },
+    {
+      "id": "e0019",
+      "label": "he | have | food",
+      "sent_id": 19,
+      "sentence": "He had very little food indeed.",
+      "subj": "he",
+      "verb": "have",
+      "obj": "food"
+    },
+    {
+      "id": "e0020",
+      "label": "he | rise | \u2205",
+      "sent_id": 20,
+      "sentence": "The next morning, he rose early, and came to the top of the hill, just as the sun came up.",
+      "subj": "he",
+      "verb": "rise",
+      "obj": ""
+    },
+    {
+      "id": "e0021",
+      "label": "buffalo | stand | place",
+      "sent_id": 21,
+      "sentence": "The buffalo was still standing in the same place; but now it faced the south.",
+      "subj": "buffalo",
+      "verb": "stand",
+      "obj": "place"
+    },
+    {
+      "id": "e0022",
+      "label": "he | wait | \u2205",
+      "sent_id": 22,
+      "sentence": "He waited all day.",
+      "subj": "he",
+      "verb": "wait",
+      "obj": ""
+    },
+    {
+      "id": "e0023",
+      "label": "sun | go | \u2205",
+      "sent_id": 23,
+      "sentence": "Then the sun went down.",
+      "subj": "sun",
+      "verb": "go",
+      "obj": ""
+    },
+    {
+      "id": "e0024",
+      "label": "it | face | west",
+      "sent_id": 24,
+      "sentence": "Now the next morning, when he arose early, the buffalo stood in the same place; this time it faced the west.",
+      "subj": "it",
+      "verb": "face",
+      "obj": "west"
+    },
+    {
+      "id": "e0025",
+      "label": "man | wait | \u2205",
+      "sent_id": 25,
+      "sentence": "All day the young man waited, but the buffalo did not move.",
+      "subj": "man",
+      "verb": "wait",
+      "obj": ""
+    },
+    {
+      "id": "e0026",
+      "label": "man | think | \u2205",
+      "sent_id": 26,
+      "sentence": "Now the young man thought, \u201cWhy does not the buffalo move?\u201d",
+      "subj": "man",
+      "verb": "think",
+      "obj": ""
+    },
+    {
+      "id": "e0027",
+      "label": "\u2205 | sleep | \u2205",
+      "sent_id": 27,
+      "sentence": "He saw it did not drink, did not eat, did not sleep.",
+      "subj": "",
+      "verb": "sleep",
+      "obj": ""
+    },
+    {
+      "id": "e0028",
+      "label": "he | think | \u2205",
+      "sent_id": 28,
+      "sentence": "He thought some power must be influencing it.",
+      "subj": "he",
+      "verb": "think",
+      "obj": ""
+    },
+    {
+      "id": "e0029",
+      "label": "man | hurry | top",
+      "sent_id": 29,
+      "sentence": "Now the next morning, the young man hurried to the top of the hill.",
+      "subj": "man",
+      "verb": "hurry",
+      "obj": "top"
+    },
+    {
+      "id": "e0030",
+      "label": "sun | rise | \u2205",
+      "sent_id": 30,
+      "sentence": "The sun had risen and everything was light.",
+      "subj": "sun",
+      "verb": "rise",
+      "obj": ""
+    },
+    {
+      "id": "e0031",
+      "label": "buffalo | be | \u2205",
+      "sent_id": 31,
+      "sentence": "The buffalo was gone.",
+      "subj": "buffalo",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0032",
+      "label": "he | see | \u2205",
+      "sent_id": 32,
+      "sentence": "Then he saw where the buffalo had stood there was a strange bush.",
+      "subj": "he",
+      "verb": "see",
+      "obj": ""
+    },
+    {
+      "id": "e0033",
+      "label": "he | see | \u2205",
+      "sent_id": 33,
+      "sentence": "He went to the place; then he saw it was a plant.",
+      "subj": "he",
+      "verb": "see",
+      "obj": ""
+    },
+    {
+      "id": "e0034",
+      "label": "he | look | track",
+      "sent_id": 34,
+      "sentence": "He looked for the tracks of the buffalo.",
+      "subj": "he",
+      "verb": "look",
+      "obj": "track"
+    },
+    {
+      "id": "e0035",
+      "label": "he | see | \u2205",
+      "sent_id": 35,
+      "sentence": "He saw where it had turned to the east and to the south and to the west.",
+      "subj": "he",
+      "verb": "see",
+      "obj": ""
+    },
+    {
+      "id": "e0036",
+      "label": "plant | grow | \u2205",
+      "sent_id": 36,
+      "sentence": "In the center there was one track; out of it the small plant had grown.",
+      "subj": "plant",
+      "verb": "grow",
+      "obj": ""
+    },
+    {
+      "id": "e0037",
+      "label": "\u2205 | be | track",
+      "sent_id": 37,
+      "sentence": "There was no track to show where the buffalo had left the place.",
+      "subj": "",
+      "verb": "be",
+      "obj": "track"
+    },
+    {
+      "id": "e0038",
+      "label": "hunter | hurry | village",
+      "sent_id": 38,
+      "sentence": "Then the hunter hurried to his village.",
+      "subj": "hunter",
+      "verb": "hurry",
+      "obj": "village"
+    },
+    {
+      "id": "e0039",
+      "label": "he | tell | chief",
+      "sent_id": 39,
+      "sentence": "He told the chiefs and the people of the strange buffalo and the plant.",
+      "subj": "he",
+      "verb": "tell",
+      "obj": "chief"
+    },
+    {
+      "id": "e0040",
+      "label": "chief | come | place",
+      "sent_id": 40,
+      "sentence": "So, all the chiefs and the people came to the place.",
+      "subj": "chief",
+      "verb": "come",
+      "obj": "place"
+    },
+    {
+      "id": "e0041",
+      "label": "they | see | track",
+      "sent_id": 41,
+      "sentence": "They saw the tracks of the buffalo as he had stood, but there were no tracks of his coming or going.",
+      "subj": "they",
+      "verb": "see",
+      "obj": "track"
+    },
+    {
+      "id": "e0042",
+      "label": "people | know | \u2205",
+      "sent_id": 42,
+      "sentence": "So, all the people knew that Wahkoda had given this strange plant to the people.",
+      "subj": "people",
+      "verb": "know",
+      "obj": ""
+    },
+    {
+      "id": "e0043",
+      "label": "they | know | plant",
+      "sent_id": 43,
+      "sentence": "They knew of other plants they might eat.",
+      "subj": "they",
+      "verb": "know",
+      "obj": "plant"
+    },
+    {
+      "id": "e0044",
+      "label": "they | know | \u2205",
+      "sent_id": 44,
+      "sentence": "They knew there was a time when each plant was ripe.",
+      "subj": "they",
+      "verb": "know",
+      "obj": ""
+    },
+    {
+      "id": "e0045",
+      "label": "they | guard | it",
+      "sent_id": 45,
+      "sentence": "So, they watched the strange plant; they guarded it and protected it.",
+      "subj": "they",
+      "verb": "guard",
+      "obj": "it"
+    },
+    {
+      "id": "e0046",
+      "label": "flower | appear | plant",
+      "sent_id": 46,
+      "sentence": "Then a flower appeared on the plant.",
+      "subj": "flower",
+      "verb": "appear",
+      "obj": "plant"
+    },
+    {
+      "id": "e0047",
+      "label": "part | push | one",
+      "sent_id": 47,
+      "sentence": "Afterwards, at one of the joints, a new part of the plant pushed out.",
+      "subj": "part",
+      "verb": "push",
+      "obj": "one"
+    },
+    {
+      "id": "e0048",
+      "label": "it | have | hair",
+      "sent_id": 48,
+      "sentence": "It had hair.",
+      "subj": "it",
+      "verb": "have",
+      "obj": "hair"
+    },
+    {
+      "id": "e0049",
+      "label": "it | be | \u2205",
+      "sent_id": 49,
+      "sentence": "At first the hair was green; then it was brown.",
+      "subj": "it",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0050",
+      "label": "people | think | \u2205",
+      "sent_id": 50,
+      "sentence": "Then the people thought, \u201cPerhaps this fruit is ripe.\u201d",
+      "subj": "people",
+      "verb": "think",
+      "obj": ""
+    },
+    {
+      "id": "e0051",
+      "label": "they | dare | \u2205",
+      "sent_id": 51,
+      "sentence": "But they did not dare touch it.",
+      "subj": "they",
+      "verb": "dare",
+      "obj": ""
+    },
+    {
+      "id": "e0052",
+      "label": "they | meet | \u2205",
+      "sent_id": 52,
+      "sentence": "They met together.",
+      "subj": "they",
+      "verb": "meet",
+      "obj": ""
+    },
+    {
+      "id": "e0053",
+      "label": "they | look | plant",
+      "sent_id": 53,
+      "sentence": "They looked at the plant.",
+      "subj": "they",
+      "verb": "look",
+      "obj": "plant"
+    },
+    {
+      "id": "e0054",
+      "label": "man | say | \u2205",
+      "sent_id": 54,
+      "sentence": "Then a young man said, \u201cMy life has not been good.",
+      "subj": "man",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0055",
+      "label": "it | matter | \u2205",
+      "sent_id": 55,
+      "sentence": "If any evil comes to me, it will not matter.\u201d",
+      "subj": "it",
+      "verb": "matter",
+      "obj": ""
+    },
+    {
+      "id": "e0056",
+      "label": "people | be | \u2205",
+      "sent_id": 56,
+      "sentence": "So the people were willing, and the young man put his hand on the plant and then on its fruit.",
+      "subj": "people",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0057",
+      "label": "he | grasp | fruit",
+      "sent_id": 57,
+      "sentence": "He grasped the fruit boldly.",
+      "subj": "he",
+      "verb": "grasp",
+      "obj": "fruit"
+    },
+    {
+      "id": "e0058",
+      "label": "he | say | people",
+      "sent_id": 58,
+      "sentence": "He said to the people, \u201cIt is solid.",
+      "subj": "he",
+      "verb": "say",
+      "obj": "people"
+    },
+    {
+      "id": "e0059",
+      "label": "it | be | \u2205",
+      "sent_id": 59,
+      "sentence": "It is ripe.\u201d",
+      "subj": "it",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0060",
+      "label": "he | pull | husk",
+      "sent_id": 60,
+      "sentence": "Then he pulled apart the husks, and said, \u201cIt is red.\u201d",
+      "subj": "he",
+      "verb": "pull",
+      "obj": "husk"
+    },
+    {
+      "id": "e0061",
+      "label": "he | take | few",
+      "sent_id": 61,
+      "sentence": "He took a few of the grains and showed them to the people.",
+      "subj": "he",
+      "verb": "take",
+      "obj": "few"
+    },
+    {
+      "id": "e0062",
+      "label": "he | eat | some",
+      "sent_id": 62,
+      "sentence": "He ate some.",
+      "subj": "he",
+      "verb": "eat",
+      "obj": "some"
+    },
+    {
+      "id": "e0063",
+      "label": "he | die | \u2205",
+      "sent_id": 63,
+      "sentence": "He did not die.",
+      "subj": "he",
+      "verb": "die",
+      "obj": ""
+    },
+    {
+      "id": "e0064",
+      "label": "people | know | \u2205",
+      "sent_id": 64,
+      "sentence": "So the people knew Wahkoda had sent this plant to them for food.",
+      "subj": "people",
+      "verb": "know",
+      "obj": ""
+    },
+    {
+      "id": "e0065",
+      "label": "leaf | turn | fall",
+      "sent_id": 65,
+      "sentence": "Now in the fall, when the prairie grass turned brown, the leaves of this plant turned brown also.",
+      "subj": "leaf",
+      "verb": "turn",
+      "obj": "fall"
+    },
+    {
+      "id": "e0066",
+      "label": "fruit | pluck | \u2205",
+      "sent_id": 66,
+      "sentence": "Then the fruit was plucked and put away.",
+      "subj": "fruit",
+      "verb": "pluck",
+      "obj": ""
+    },
+    {
+      "id": "e0067",
+      "label": "\u2205 | divide | \u2205",
+      "sent_id": 67,
+      "sentence": "After the winter was over, the kernels were divided.",
+      "subj": "",
+      "verb": "divide",
+      "obj": ""
+    },
+    {
+      "id": "e0068",
+      "label": "\u2205 | be | four",
+      "sent_id": 68,
+      "sentence": "There were four to each family.",
+      "subj": "",
+      "verb": "be",
+      "obj": "four"
+    },
+    {
+      "id": "e0069",
+      "label": "people | move | lodge",
+      "sent_id": 69,
+      "sentence": "Then the people moved the lodges to the place where the plant had grown.",
+      "subj": "people",
+      "verb": "move",
+      "obj": "lodge"
+    },
+    {
+      "id": "e0070",
+      "label": "they | plant | seed",
+      "sent_id": 70,
+      "sentence": "When the hills became green, they planted the seed of the strange plant.",
+      "subj": "they",
+      "verb": "plant",
+      "obj": "seed"
+    },
+    {
+      "id": "e0071",
+      "label": "they | build | mound",
+      "sent_id": 71,
+      "sentence": "But first they built little mounds like the one out of which it grew.",
+      "subj": "they",
+      "verb": "build",
+      "obj": "mound"
+    },
+    {
+      "id": "e0072",
+      "label": "fruit | grow | \u2205",
+      "sent_id": 72,
+      "sentence": "So, the fruit grew and ripened.",
+      "subj": "fruit",
+      "verb": "grow",
+      "obj": ""
+    },
+    {
+      "id": "e0073",
+      "label": "it | have | color",
+      "sent_id": 73,
+      "sentence": "It had many colors; red, and yellow, and white, and blue.",
+      "subj": "it",
+      "verb": "have",
+      "obj": "color"
+    },
+    {
+      "id": "e0074",
+      "label": "\u2205 | be | plant",
+      "sent_id": 74,
+      "sentence": "Then the next year there were many plants and many ears of corn.",
+      "subj": "",
+      "verb": "be",
+      "obj": "plant"
+    },
+    {
+      "id": "e0075",
+      "label": "they | send | \u2205",
+      "sent_id": 75,
+      "sentence": "So, they sent to other tribes.",
+      "subj": "they",
+      "verb": "send",
+      "obj": ""
+    },
+    {
+      "id": "e0076",
+      "label": "they | invite | they",
+      "sent_id": 76,
+      "sentence": "They invited them to visit them and gave them of the new food.",
+      "subj": "they",
+      "verb": "invite",
+      "obj": "they"
+    },
+    {
+      "id": "e0077",
+      "label": "omahas | come | \u2205",
+      "sent_id": 77,
+      "sentence": "Thus, the Omahas came to have corn.",
+      "subj": "omahas",
+      "verb": "come",
+      "obj": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    },
+    {
+      "source": "e0029",
+      "target": "e0030",
+      "relation": "next"
+    },
+    {
+      "source": "e0030",
+      "target": "e0031",
+      "relation": "next"
+    },
+    {
+      "source": "e0031",
+      "target": "e0032",
+      "relation": "next"
+    },
+    {
+      "source": "e0032",
+      "target": "e0033",
+      "relation": "next"
+    },
+    {
+      "source": "e0033",
+      "target": "e0034",
+      "relation": "next"
+    },
+    {
+      "source": "e0034",
+      "target": "e0035",
+      "relation": "next"
+    },
+    {
+      "source": "e0035",
+      "target": "e0036",
+      "relation": "next"
+    },
+    {
+      "source": "e0036",
+      "target": "e0037",
+      "relation": "next"
+    },
+    {
+      "source": "e0037",
+      "target": "e0038",
+      "relation": "next"
+    },
+    {
+      "source": "e0038",
+      "target": "e0039",
+      "relation": "next"
+    },
+    {
+      "source": "e0039",
+      "target": "e0040",
+      "relation": "next"
+    },
+    {
+      "source": "e0040",
+      "target": "e0041",
+      "relation": "next"
+    },
+    {
+      "source": "e0041",
+      "target": "e0042",
+      "relation": "next"
+    },
+    {
+      "source": "e0042",
+      "target": "e0043",
+      "relation": "next"
+    },
+    {
+      "source": "e0043",
+      "target": "e0044",
+      "relation": "next"
+    },
+    {
+      "source": "e0044",
+      "target": "e0045",
+      "relation": "next"
+    },
+    {
+      "source": "e0045",
+      "target": "e0046",
+      "relation": "next"
+    },
+    {
+      "source": "e0046",
+      "target": "e0047",
+      "relation": "next"
+    },
+    {
+      "source": "e0047",
+      "target": "e0048",
+      "relation": "next"
+    },
+    {
+      "source": "e0048",
+      "target": "e0049",
+      "relation": "next"
+    },
+    {
+      "source": "e0049",
+      "target": "e0050",
+      "relation": "next"
+    },
+    {
+      "source": "e0050",
+      "target": "e0051",
+      "relation": "next"
+    },
+    {
+      "source": "e0051",
+      "target": "e0052",
+      "relation": "next"
+    },
+    {
+      "source": "e0052",
+      "target": "e0053",
+      "relation": "next"
+    },
+    {
+      "source": "e0053",
+      "target": "e0054",
+      "relation": "next"
+    },
+    {
+      "source": "e0054",
+      "target": "e0055",
+      "relation": "next"
+    },
+    {
+      "source": "e0055",
+      "target": "e0056",
+      "relation": "next"
+    },
+    {
+      "source": "e0056",
+      "target": "e0057",
+      "relation": "next"
+    },
+    {
+      "source": "e0057",
+      "target": "e0058",
+      "relation": "next"
+    },
+    {
+      "source": "e0058",
+      "target": "e0059",
+      "relation": "next"
+    },
+    {
+      "source": "e0059",
+      "target": "e0060",
+      "relation": "next"
+    },
+    {
+      "source": "e0060",
+      "target": "e0061",
+      "relation": "next"
+    },
+    {
+      "source": "e0061",
+      "target": "e0062",
+      "relation": "next"
+    },
+    {
+      "source": "e0062",
+      "target": "e0063",
+      "relation": "next"
+    },
+    {
+      "source": "e0063",
+      "target": "e0064",
+      "relation": "next"
+    },
+    {
+      "source": "e0064",
+      "target": "e0065",
+      "relation": "next"
+    },
+    {
+      "source": "e0065",
+      "target": "e0066",
+      "relation": "next"
+    },
+    {
+      "source": "e0066",
+      "target": "e0067",
+      "relation": "next"
+    },
+    {
+      "source": "e0067",
+      "target": "e0068",
+      "relation": "next"
+    },
+    {
+      "source": "e0068",
+      "target": "e0069",
+      "relation": "next"
+    },
+    {
+      "source": "e0069",
+      "target": "e0070",
+      "relation": "next"
+    },
+    {
+      "source": "e0070",
+      "target": "e0071",
+      "relation": "next"
+    },
+    {
+      "source": "e0071",
+      "target": "e0072",
+      "relation": "next"
+    },
+    {
+      "source": "e0072",
+      "target": "e0073",
+      "relation": "next"
+    },
+    {
+      "source": "e0073",
+      "target": "e0074",
+      "relation": "next"
+    },
+    {
+      "source": "e0074",
+      "target": "e0075",
+      "relation": "next"
+    },
+    {
+      "source": "e0075",
+      "target": "e0076",
+      "relation": "next"
+    },
+    {
+      "source": "e0076",
+      "target": "e0077",
+      "relation": "next"
+    }
+  ]
+}

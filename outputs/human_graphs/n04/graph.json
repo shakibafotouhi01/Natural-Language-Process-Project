@@ -1,0 +1,940 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "legend | be | \u2205",
+      "sent_id": 0,
+      "sentence": "The Creation Story \u2013 Turtle Island\n\nFor the Ojibway/Anishinabe people, the legend is as follows.",
+      "subj": "legend",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0001",
+      "label": "\u2205 | people | earth",
+      "sent_id": 1,
+      "sentence": "Long ago, after the Great\nMystery, or Kitchi-Manitou, first peopled the earth, the Anishinabe, or Original People,\nstrayed from their\nharmonious ways and began to argue and fight with one another.",
+      "subj": "",
+      "verb": "people",
+      "obj": "earth"
+    },
+    {
+      "id": "e0002",
+      "label": "brother | turn | brother",
+      "sent_id": 2,
+      "sentence": "Brother turned\nagainst brother and soon the Anishinabe were killing one another over hunting grounds\nand others disagreements.",
+      "subj": "brother",
+      "verb": "turn",
+      "obj": "brother"
+    },
+    {
+      "id": "e0003",
+      "label": "manitou | decide | \u2205",
+      "sent_id": 3,
+      "sentence": "Seeing that harmony, brotherhood, sisterhood, and respect\nfor all living things no longer prevailed on Earth, Kitchi-Manitou decided to purify the\nEarth.",
+      "subj": "manitou",
+      "verb": "decide",
+      "obj": ""
+    },
+    {
+      "id": "e0004",
+      "label": "he | do | this",
+      "sent_id": 4,
+      "sentence": "He did this with water.",
+      "subj": "he",
+      "verb": "do",
+      "obj": "this"
+    },
+    {
+      "id": "e0005",
+      "label": "water | come | form",
+      "sent_id": 5,
+      "sentence": "The water came in the form of a great flood, or mush-ko'-be-wun', upon the Earth\ndestroying the Anishinabe people and most of the animals as well.",
+      "subj": "water",
+      "verb": "come",
+      "obj": "form"
+    },
+    {
+      "id": "e0006",
+      "label": "nanaboozhoo | be | \u2205",
+      "sent_id": 6,
+      "sentence": "Only Nanaboozhoo,\nthe central figure in many of the Anishinabe oral traditions, was able to survive the\nflood, along with a few animals and birds who managed to swim and fly.",
+      "subj": "nanaboozhoo",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0007",
+      "label": "nanaboozhoo | allow | \u2205",
+      "sent_id": 8,
+      "sentence": "Nanaboozhoo allowed the remaining animals and birds to\ntake turns resting on the log as well.",
+      "subj": "nanaboozhoo",
+      "verb": "allow",
+      "obj": ""
+    },
+    {
+      "id": "e0008",
+      "label": "nanaboozhoo | speak | \u2205",
+      "sent_id": 9,
+      "sentence": "Finally, Nanaboozhoo spoke.",
+      "subj": "nanaboozhoo",
+      "verb": "speak",
+      "obj": ""
+    },
+    {
+      "id": "e0009",
+      "label": "he | say | \u2205",
+      "sent_id": 10,
+      "sentence": "\"I am going to do\nsomething,\" he said.",
+      "subj": "he",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0010",
+      "label": "i | go | \u2205",
+      "sent_id": 11,
+      "sentence": "\"I am going to swim to the bottom of this water and grab a handful\nof earth.",
+      "subj": "i",
+      "verb": "go",
+      "obj": ""
+    },
+    {
+      "id": "e0011",
+      "label": "i | believe | bit",
+      "sent_id": 12,
+      "sentence": "With this small bit of Earth, I believe we can create a new land for us to live on\nwith the help of the Four Winds and Kitchi-Manitou.",
+      "subj": "i",
+      "verb": "believe",
+      "obj": "bit"
+    },
+    {
+      "id": "e0012",
+      "label": "nanaboozhoo | dive | water",
+      "sent_id": 13,
+      "sentence": "\"\nSo Nanaboozhoo dived into the water and was gone for a long time.",
+      "subj": "nanaboozhoo",
+      "verb": "dive",
+      "obj": "water"
+    },
+    {
+      "id": "e0013",
+      "label": "he | surface | \u2205",
+      "sent_id": 14,
+      "sentence": "Finally he surfaced,\nand short of breath told the animals that the water is too deep for him to swim to the\nbottom.",
+      "subj": "he",
+      "verb": "surface",
+      "obj": ""
+    },
+    {
+      "id": "e0014",
+      "label": "all | be | \u2205",
+      "sent_id": 15,
+      "sentence": "All were silent.",
+      "subj": "all",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0015",
+      "label": "mahng | speak | \u2205",
+      "sent_id": 16,
+      "sentence": "Finally, Mahng, the Loon spoke up.",
+      "subj": "mahng",
+      "verb": "speak",
+      "obj": ""
+    },
+    {
+      "id": "e0016",
+      "label": "that | be | \u2205",
+      "sent_id": 17,
+      "sentence": "\"I can dive under the water\nfor a long way, that is how I catch my food.",
+      "subj": "that",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0017",
+      "label": "i | try | \u2205",
+      "sent_id": 18,
+      "sentence": "I will try to make it to the bottom and return\nwith some Earth in my beak.\"",
+      "subj": "i",
+      "verb": "try",
+      "obj": ""
+    },
+    {
+      "id": "e0018",
+      "label": "loon | disappear | \u2205",
+      "sent_id": 19,
+      "sentence": "The Loon disappeared and was gone for a very long time.",
+      "subj": "loon",
+      "verb": "disappear",
+      "obj": ""
+    },
+    {
+      "id": "e0019",
+      "label": "loon | drown | \u2205",
+      "sent_id": 20,
+      "sentence": "Surely, thought the others, the Loon must have drowned.",
+      "subj": "loon",
+      "verb": "drown",
+      "obj": ""
+    },
+    {
+      "id": "e0020",
+      "label": "they | see | \u2205",
+      "sent_id": 21,
+      "sentence": "Then they saw him float to the\nsurface, weak and nearly unconscious.",
+      "subj": "they",
+      "verb": "see",
+      "obj": ""
+    },
+    {
+      "id": "e0021",
+      "label": "he | gasp | \u2205",
+      "sent_id": 22,
+      "sentence": "\"I couldn't make it, there must be no bottom to\nthis water,\" he gasped.",
+      "subj": "he",
+      "verb": "gasp",
+      "obj": ""
+    },
+    {
+      "id": "e0022",
+      "label": "everyone | know | \u2205",
+      "sent_id": 23,
+      "sentence": "Then Zhing-gi-biss, the helldiver came forward and said \"I will try\nnext, everyone knows I can dive great distances.\"",
+      "subj": "everyone",
+      "verb": "know",
+      "obj": ""
+    },
+    {
+      "id": "e0023",
+      "label": "helldiver | go | \u2205",
+      "sent_id": 24,
+      "sentence": "So the helldiver went under.",
+      "subj": "helldiver",
+      "verb": "go",
+      "obj": ""
+    },
+    {
+      "id": "e0024",
+      "label": "time | pass | \u2205",
+      "sent_id": 25,
+      "sentence": "Again, a\nvery long time passed and the others thought he was surely drowned.",
+      "subj": "time",
+      "verb": "pass",
+      "obj": ""
+    },
+    {
+      "id": "e0025",
+      "label": "he | float | last",
+      "sent_id": 26,
+      "sentence": "At last he too\nfloated to the surface.",
+      "subj": "he",
+      "verb": "float",
+      "obj": "last"
+    },
+    {
+      "id": "e0026",
+      "label": "he | be | \u2205",
+      "sent_id": 27,
+      "sentence": "He was unconscious, and not till he came to could he relate to\nthe others that he too was unable to fetch the Earth from the bottom.",
+      "subj": "he",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0027",
+      "label": "animal | try | \u2205",
+      "sent_id": 28,
+      "sentence": "Many more animals tried but failed, including Zhon-gwayzh', the mink, and even Mi-\nzhee-kay\", the turtle.",
+      "subj": "animal",
+      "verb": "try",
+      "obj": ""
+    },
+    {
+      "id": "e0028",
+      "label": "all | fail | \u2205",
+      "sent_id": 29,
+      "sentence": "All failed and it seemed as though there was no way to get the\nmuch needed Earth from the bottom.",
+      "subj": "all",
+      "verb": "fail",
+      "obj": ""
+    },
+    {
+      "id": "e0029",
+      "label": "voice | hear | \u2205",
+      "sent_id": 30,
+      "sentence": "Then a soft muffled voice was heard.",
+      "subj": "voice",
+      "verb": "hear",
+      "obj": ""
+    },
+    {
+      "id": "e0030",
+      "label": "it | speak | \u2205",
+      "sent_id": 31,
+      "sentence": "\"I can do it,\"\nit spoke softly.",
+      "subj": "it",
+      "verb": "speak",
+      "obj": ""
+    },
+    {
+      "id": "e0031",
+      "label": "one | see | \u2205",
+      "sent_id": 32,
+      "sentence": "At first no one could see who it was that spoke up.",
+      "subj": "one",
+      "verb": "see",
+      "obj": ""
+    },
+    {
+      "id": "e0032",
+      "label": "zhushk | step | \u2205",
+      "sent_id": 33,
+      "sentence": "Then, the little Wa-\nzhushk\", muskrat stepped forward.",
+      "subj": "zhushk",
+      "verb": "step",
+      "obj": ""
+    },
+    {
+      "id": "e0033",
+      "label": "he | repeat | \u2205",
+      "sent_id": 34,
+      "sentence": "\"I'll try,\" he repeated.",
+      "subj": "he",
+      "verb": "repeat",
+      "obj": ""
+    },
+    {
+      "id": "e0034",
+      "label": "some | laugh | muskrat",
+      "sent_id": 35,
+      "sentence": "Some of the other, bigger,\nmore powerful animals laughed at muskrat.",
+      "subj": "some",
+      "verb": "laugh",
+      "obj": "muskrat"
+    },
+    {
+      "id": "e0035",
+      "label": "nanaboozhoo | speak | \u2205",
+      "sent_id": 36,
+      "sentence": "Nanaboozhoo spoke up.",
+      "subj": "nanaboozhoo",
+      "verb": "speak",
+      "obj": ""
+    },
+    {
+      "id": "e0036",
+      "label": "manitou | place | judgment",
+      "sent_id": 37,
+      "sentence": "\"Only Kitchi-\nManitou can place judgment on others.",
+      "subj": "manitou",
+      "verb": "place",
+      "obj": "judgment"
+    },
+    {
+      "id": "e0037",
+      "label": "he | allow | \u2205",
+      "sent_id": 38,
+      "sentence": "If muskrat wants to try, he should be allowed\nto.\"",
+      "subj": "he",
+      "verb": "allow",
+      "obj": ""
+    },
+    {
+      "id": "e0038",
+      "label": "muskrat | dive | water",
+      "sent_id": 39,
+      "sentence": "So, muskrat dove into the water.",
+      "subj": "muskrat",
+      "verb": "dive",
+      "obj": "water"
+    },
+    {
+      "id": "e0039",
+      "label": "he | go | \u2205",
+      "sent_id": 40,
+      "sentence": "He was gone much longer than any of the others\nwho tried to reach the bottom.",
+      "subj": "he",
+      "verb": "go",
+      "obj": ""
+    },
+    {
+      "id": "e0040",
+      "label": "nanaboozhoo | be | while",
+      "sent_id": 41,
+      "sentence": "After a while Nanaboozhoo and the other animals were\ncertain that muskrat had give his life trying to reach the bottom.",
+      "subj": "nanaboozhoo",
+      "verb": "be",
+      "obj": "while"
+    },
+    {
+      "id": "e0041",
+      "label": "\u2205 | reach | bottom",
+      "sent_id": 42,
+      "sentence": "Far below the water's surface, muskrat, had in fact reached the bottom.",
+      "subj": "",
+      "verb": "reach",
+      "obj": "bottom"
+    },
+    {
+      "id": "e0042",
+      "label": "he | grab | earth",
+      "sent_id": 43,
+      "sentence": "Very weak from\nlack of air, he grabbed some Earth in his paw and with all the energy he could muster\nbegan to swim for the surface.",
+      "subj": "he",
+      "verb": "grab",
+      "obj": "earth"
+    },
+    {
+      "id": "e0043",
+      "label": "one | spot | muskrat",
+      "sent_id": 44,
+      "sentence": "One of the animals spotted muskrat as he floated to the\nsurface.",
+      "subj": "one",
+      "verb": "spot",
+      "obj": "muskrat"
+    },
+    {
+      "id": "e0044",
+      "label": "nanaboozhoo | pull | he",
+      "sent_id": 45,
+      "sentence": "Nanaboozhoo pulled him up onto the log.",
+      "subj": "nanaboozhoo",
+      "verb": "pull",
+      "obj": "he"
+    },
+    {
+      "id": "e0045",
+      "label": "he | be | \u2205",
+      "sent_id": 46,
+      "sentence": "\"Brothers and sisters,\" Nanaboozhoo\nsaid, \u201cmuskrat went too long without air, he is dead.\"",
+      "subj": "he",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0046",
+      "label": "song | hear | water",
+      "sent_id": 47,
+      "sentence": "A song of mourning and praise\nwas heard across the water as muskrat's spirit passed on to the spirit world.",
+      "subj": "song",
+      "verb": "hear",
+      "obj": "water"
+    },
+    {
+      "id": "e0047",
+      "label": "\u2205 | be | something",
+      "sent_id": 48,
+      "sentence": "Suddenly\nNanaboozhoo exclaimed, \"Look, there is something in his paw!\"",
+      "subj": "",
+      "verb": "be",
+      "obj": "something"
+    },
+    {
+      "id": "e0048",
+      "label": "nanaboozhoo | open | paw",
+      "sent_id": 49,
+      "sentence": "Nanaboozhoo carefully\nopened the tiny paw.",
+      "subj": "nanaboozhoo",
+      "verb": "open",
+      "obj": "paw"
+    },
+    {
+      "id": "e0049",
+      "label": "animal | gather | \u2205",
+      "sent_id": 50,
+      "sentence": "All the animals gathered\nclose to see what was held so tightly there.",
+      "subj": "animal",
+      "verb": "gather",
+      "obj": ""
+    },
+    {
+      "id": "e0050",
+      "label": "paw | open | \u2205",
+      "sent_id": 51,
+      "sentence": "Muskrat's paw opened and revealed a small\nball of\nEarth.",
+      "subj": "paw",
+      "verb": "open",
+      "obj": ""
+    },
+    {
+      "id": "e0051",
+      "label": "animal | shout | joy",
+      "sent_id": 52,
+      "sentence": "The animals all shouted with joy.",
+      "subj": "animal",
+      "verb": "shout",
+      "obj": "joy"
+    },
+    {
+      "id": "e0052",
+      "label": "muskrat | sacrifice | life",
+      "sent_id": 53,
+      "sentence": "Muskrat sacrificed his life so that life on Earth\ncould begin anew.",
+      "subj": "muskrat",
+      "verb": "sacrifice",
+      "obj": "life"
+    },
+    {
+      "id": "e0053",
+      "label": "nanaboozhoo | take | piece",
+      "sent_id": 54,
+      "sentence": "Nanaboozhoo took the piece of Earth from Muskrat's paw.",
+      "subj": "nanaboozhoo",
+      "verb": "take",
+      "obj": "piece"
+    },
+    {
+      "id": "e0054",
+      "label": "turtle | swam | \u2205",
+      "sent_id": 55,
+      "sentence": "Just then, the turtle swam\nforward and said, \"Use my back to bear the weight of this piece of Earth.",
+      "subj": "turtle",
+      "verb": "swam",
+      "obj": ""
+    },
+    {
+      "id": "e0055",
+      "label": "we | make | earth",
+      "sent_id": 56,
+      "sentence": "With the help\nof Kitchi-Manitou, we can make a new Earth.\"",
+      "subj": "we",
+      "verb": "make",
+      "obj": "earth"
+    },
+    {
+      "id": "e0056",
+      "label": "nanaboozhoo | put | piece",
+      "sent_id": 57,
+      "sentence": "Nanaboozhoo put the piece of Earth on\nthe turtle's back.",
+      "subj": "nanaboozhoo",
+      "verb": "put",
+      "obj": "piece"
+    },
+    {
+      "id": "e0057",
+      "label": "wind | blow | each",
+      "sent_id": 58,
+      "sentence": "Suddenly, the wind blew from each of the Four Directions, The tiny\npiece of Earth on the turtle's back began to grow.",
+      "subj": "wind",
+      "verb": "blow",
+      "obj": "each"
+    },
+    {
+      "id": "e0058",
+      "label": "it | grow | \u2205",
+      "sent_id": 59,
+      "sentence": "It grew and grew and grew until it\nformed a mi- ni-si', or island in the water.",
+      "subj": "it",
+      "verb": "grow",
+      "obj": ""
+    },
+    {
+      "id": "e0059",
+      "label": "island | grow | \u2205",
+      "sent_id": 60,
+      "sentence": "The island grew larger and larger, but still the\nturtle bore the weight of the Earth on his back.",
+      "subj": "island",
+      "verb": "grow",
+      "obj": ""
+    },
+    {
+      "id": "e0060",
+      "label": "nanaboozhoo | sing | \u2205",
+      "sent_id": 61,
+      "sentence": "Nanaboozhoo and the animals all sang\nand danced in a widening circle on the growing island.",
+      "subj": "nanaboozhoo",
+      "verb": "sing",
+      "obj": ""
+    },
+    {
+      "id": "e0061",
+      "label": "wind | cease | while",
+      "sent_id": 62,
+      "sentence": "After a while, the Four Winds\nceased to blow and the waters became still.",
+      "subj": "wind",
+      "verb": "cease",
+      "obj": "while"
+    },
+    {
+      "id": "e0062",
+      "label": "island | sit | middle",
+      "sent_id": 63,
+      "sentence": "A huge island sat in the middle of the water,\nand today that island is known as North America.",
+      "subj": "island",
+      "verb": "sit",
+      "obj": "middle"
+    },
+    {
+      "id": "e0063",
+      "label": "people | hold | reverence",
+      "sent_id": 64,
+      "sentence": "Traditional Indian people, including the Ojibway, hold special reverence for the turtle\nwho sacrificed his life and made life possible for the Earth's second people.",
+      "subj": "people",
+      "verb": "hold",
+      "obj": "reverence"
+    },
+    {
+      "id": "e0064",
+      "label": "muskrat | give | life",
+      "sent_id": 65,
+      "sentence": "To this day,\nthe muskrat has been given a good life.",
+      "subj": "muskrat",
+      "verb": "give",
+      "obj": "life"
+    },
+    {
+      "id": "e0065",
+      "label": "muskrat | continue | \u2205",
+      "sent_id": 66,
+      "sentence": "No matter that marshes have been drained and\ntheir homes destroyed in the name of progress, the muskrat continues to survive and\nmultiply.",
+      "subj": "muskrat",
+      "verb": "continue",
+      "obj": ""
+    },
+    {
+      "id": "e0066",
+      "label": "they | build | home",
+      "sent_id": 67,
+      "sentence": "The muskrats do their part today in remembering the great flood; they build\ntheir homes in the shape of the little ball of Earth and the island that was formed from\nit.",
+      "subj": "they",
+      "verb": "build",
+      "obj": "home"
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    },
+    {
+      "source": "e0029",
+      "target": "e0030",
+      "relation": "next"
+    },
+    {
+      "source": "e0030",
+      "target": "e0031",
+      "relation": "next"
+    },
+    {
+      "source": "e0031",
+      "target": "e0032",
+      "relation": "next"
+    },
+    {
+      "source": "e0032",
+      "target": "e0033",
+      "relation": "next"
+    },
+    {
+      "source": "e0033",
+      "target": "e0034",
+      "relation": "next"
+    },
+    {
+      "source": "e0034",
+      "target": "e0035",
+      "relation": "next"
+    },
+    {
+      "source": "e0035",
+      "target": "e0036",
+      "relation": "next"
+    },
+    {
+      "source": "e0036",
+      "target": "e0037",
+      "relation": "next"
+    },
+    {
+      "source": "e0037",
+      "target": "e0038",
+      "relation": "next"
+    },
+    {
+      "source": "e0038",
+      "target": "e0039",
+      "relation": "next"
+    },
+    {
+      "source": "e0039",
+      "target": "e0040",
+      "relation": "next"
+    },
+    {
+      "source": "e0040",
+      "target": "e0041",
+      "relation": "next"
+    },
+    {
+      "source": "e0041",
+      "target": "e0042",
+      "relation": "next"
+    },
+    {
+      "source": "e0042",
+      "target": "e0043",
+      "relation": "next"
+    },
+    {
+      "source": "e0043",
+      "target": "e0044",
+      "relation": "next"
+    },
+    {
+      "source": "e0044",
+      "target": "e0045",
+      "relation": "next"
+    },
+    {
+      "source": "e0045",
+      "target": "e0046",
+      "relation": "next"
+    },
+    {
+      "source": "e0046",
+      "target": "e0047",
+      "relation": "next"
+    },
+    {
+      "source": "e0047",
+      "target": "e0048",
+      "relation": "next"
+    },
+    {
+      "source": "e0048",
+      "target": "e0049",
+      "relation": "next"
+    },
+    {
+      "source": "e0049",
+      "target": "e0050",
+      "relation": "next"
+    },
+    {
+      "source": "e0050",
+      "target": "e0051",
+      "relation": "next"
+    },
+    {
+      "source": "e0051",
+      "target": "e0052",
+      "relation": "next"
+    },
+    {
+      "source": "e0052",
+      "target": "e0053",
+      "relation": "next"
+    },
+    {
+      "source": "e0053",
+      "target": "e0054",
+      "relation": "next"
+    },
+    {
+      "source": "e0054",
+      "target": "e0055",
+      "relation": "next"
+    },
+    {
+      "source": "e0055",
+      "target": "e0056",
+      "relation": "next"
+    },
+    {
+      "source": "e0056",
+      "target": "e0057",
+      "relation": "next"
+    },
+    {
+      "source": "e0057",
+      "target": "e0058",
+      "relation": "next"
+    },
+    {
+      "source": "e0058",
+      "target": "e0059",
+      "relation": "next"
+    },
+    {
+      "source": "e0059",
+      "target": "e0060",
+      "relation": "next"
+    },
+    {
+      "source": "e0060",
+      "target": "e0061",
+      "relation": "next"
+    },
+    {
+      "source": "e0061",
+      "target": "e0062",
+      "relation": "next"
+    },
+    {
+      "source": "e0062",
+      "target": "e0063",
+      "relation": "next"
+    },
+    {
+      "source": "e0063",
+      "target": "e0064",
+      "relation": "next"
+    },
+    {
+      "source": "e0064",
+      "target": "e0065",
+      "relation": "next"
+    },
+    {
+      "source": "e0065",
+      "target": "e0066",
+      "relation": "next"
+    }
+  ]
+}

@@ -1,0 +1,554 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "fox",
+    "verb": "be",
+    "obj": "fox",
+    "label": "fox | be | fox",
+    "sentence": "The fox that rode a camel\n\nThere once was a fox who lived near a garden."
+  },
+  {
+    "sent_id": 1,
+    "subj": "he",
+    "verb": "slink",
+    "obj": "hole",
+    "label": "he | slink | hole",
+    "sentence": "Many a day, he would slink through a hole in the garden wall, and eat his fill of the delicious fruit that grew there."
+  },
+  {
+    "sent_id": 2,
+    "subj": "he",
+    "verb": "eat",
+    "obj": "they",
+    "label": "he | eat | they",
+    "sentence": "Juicy persimmons, tasty peaches, and delectable tangerines, he would eat them all, before trying to catch a chicken or two."
+  },
+  {
+    "sent_id": 3,
+    "subj": "",
+    "verb": "go",
+    "obj": "fox",
+    "label": "\u2205 | go | fox",
+    "sentence": "So went the days for the fox, until one morning the gardener caught sight of him, and chased him around the garden with a broomstick."
+  },
+  {
+    "sent_id": 4,
+    "subj": "fox",
+    "verb": "try",
+    "obj": "",
+    "label": "fox | try | \u2205",
+    "sentence": "The fox tried to jump through the hole in the wall, but discovered too late that the gardener had patched the hole with fresh mud plaster, so he could not escape.fox\n\nSeeing the gardener approaching while waving a big stick, and knowing that he had no way of escape, the fox decided to simply play dead."
+  },
+  {
+    "sent_id": 5,
+    "subj": "he",
+    "verb": "drop",
+    "obj": "ground",
+    "label": "he | drop | ground",
+    "sentence": "He dropped to the ground, rolled over onto his back, and shut his eyes tight."
+  },
+  {
+    "sent_id": 6,
+    "subj": "he",
+    "verb": "see",
+    "obj": "",
+    "label": "he | see | \u2205",
+    "sentence": "When the gardener reached the fox, he saw him just lying on the ground as if dead."
+  },
+  {
+    "sent_id": 7,
+    "subj": "gardener",
+    "verb": "poke",
+    "obj": "fox",
+    "label": "gardener | poke | fox",
+    "sentence": "The gardener poked at the fox a few times with his stick, but the fox would not move."
+  },
+  {
+    "sent_id": 8,
+    "subj": "gardener",
+    "verb": "pick",
+    "obj": "he",
+    "label": "gardener | pick | he",
+    "sentence": "Assuming that the fox had died of fright, the gardener picked him up and tossed him out of the garden."
+  },
+  {
+    "sent_id": 9,
+    "subj": "day",
+    "verb": "pass",
+    "obj": "",
+    "label": "day | pass | \u2205",
+    "sentence": "Days passed, and the fox was not able to find another way back into the garden."
+  },
+  {
+    "sent_id": 10,
+    "subj": "he",
+    "verb": "hatch",
+    "obj": "plan",
+    "label": "he | hatch | plan",
+    "sentence": "With each day, he grew hungrier and hungier, so he hatched another plan."
+  },
+  {
+    "sent_id": 11,
+    "subj": "he",
+    "verb": "decide",
+    "obj": "",
+    "label": "he | decide | \u2205",
+    "sentence": "He decided to visit a lion he knew that lived in a nearby forest, in the hopes of eating some leftover scraps from the lion\u2019s table."
+  },
+  {
+    "sent_id": 12,
+    "subj": "he",
+    "verb": "walk",
+    "obj": "",
+    "label": "he | walk | \u2205",
+    "sentence": "He walked and walked until he reached the lion\u2019s den in a cave near the forest."
+  },
+  {
+    "sent_id": 13,
+    "subj": "fox",
+    "verb": "sit",
+    "obj": "entrance",
+    "label": "fox | sit | entrance",
+    "sentence": "The fox sat near the entrance of the den and yelled out, \u201cHello lion!"
+  },
+  {
+    "sent_id": 14,
+    "subj": "it",
+    "verb": "be",
+    "obj": "fox",
+    "label": "it | be | fox",
+    "sentence": "It is the fox here to pay you a visit, my old friend!\u201d"
+  },
+  {
+    "sent_id": 15,
+    "subj": "lion",
+    "verb": "roar",
+    "obj": "",
+    "label": "lion | roar | \u2205",
+    "sentence": "\u201cHello fox, what brings you here and how have you been?\u201d, the lion roared as he came out of his den to greet the fox."
+  },
+  {
+    "sent_id": 16,
+    "subj": "i",
+    "verb": "decide",
+    "obj": "",
+    "label": "i | decide | \u2205",
+    "sentence": "\u201cI decided to walk all the way over here just to visit you."
+  },
+  {
+    "sent_id": 17,
+    "subj": "fox",
+    "verb": "say",
+    "obj": "",
+    "label": "fox | say | \u2205",
+    "sentence": "After all, what are friends for, if they can\u2019t visit their friends once in a while,\u201d said the fox, \u201cbut don\u2019t ask me how I am doing, for I carry many burdens and much sadness today.\u201d"
+  },
+  {
+    "sent_id": 18,
+    "subj": "fox",
+    "verb": "ask",
+    "obj": "lion",
+    "label": "fox | ask | lion",
+    "sentence": "\u201cWhy, fox, what has happened?\u201d asked the lion, only slightly concerned."
+  },
+  {
+    "sent_id": 19,
+    "subj": "truth",
+    "verb": "be",
+    "obj": "",
+    "label": "truth | be | \u2205",
+    "sentence": "\u201cThe truth is that I haven\u2019t eaten in days, and my belly is empty because I was not able to find any food on the way over here\u201d, replied the fox."
+  },
+  {
+    "sent_id": 20,
+    "subj": "lion",
+    "verb": "say",
+    "obj": "",
+    "label": "lion | say | \u2205",
+    "sentence": "\u201cDo you have anything to eat, for I have traveled a great distance to see you, and I am very hungry!\u201d\n\n\u201cI am ashamed to say that I have no food for you, fox, for though I recently caught a fat boar, I\u2019m afraid I ate him all up and have nothing left to share with you,\u201d said the lion."
+  },
+  {
+    "sent_id": 21,
+    "subj": "i",
+    "verb": "see",
+    "obj": "",
+    "label": "i | see | \u2205",
+    "sentence": "\u201cHowever, if you can wait a bit longer, I\u2019ll see what I can hunt in the forest tomorrow.\u201d"
+  },
+  {
+    "sent_id": 22,
+    "subj": "fox",
+    "verb": "thank",
+    "obj": "lion",
+    "label": "fox | thank | lion",
+    "sentence": "The fox, who was too hungry to wait another day, thanked the lion and said, \u201cMy dear lion, I don\u2019t wish to cause you any trouble."
+  },
+  {
+    "sent_id": 23,
+    "subj": "i",
+    "verb": "happen",
+    "obj": "",
+    "label": "i | happen | \u2205",
+    "sentence": "I happen to know of a stupid and dull camel that works in a grain mill nearby."
+  },
+  {
+    "sent_id": 24,
+    "subj": "we",
+    "verb": "eat",
+    "obj": "",
+    "label": "we | eat | \u2205",
+    "sentence": "Perhaps I can trick him into coming here, so we can both eat well!\u201d"
+  },
+  {
+    "sent_id": 25,
+    "subj": "lion",
+    "verb": "agree",
+    "obj": "plan",
+    "label": "lion | agree | plan",
+    "sentence": "The lion agreed with the fox\u2019s plan, and said that he would lay in wait for the camel to approach."
+  },
+  {
+    "sent_id": 26,
+    "subj": "fox",
+    "verb": "have",
+    "obj": "",
+    "label": "fox | have | \u2205",
+    "sentence": "All the fox had to do now was to go see the camel and somehow convince him to come near the lion\u2019s den."
+  },
+  {
+    "sent_id": 27,
+    "subj": "fox",
+    "verb": "go",
+    "obj": "village",
+    "label": "fox | go | village",
+    "sentence": "So the fox went to a neighboring village, where indeed a camel worked at a grain mill."
+  },
+  {
+    "sent_id": 28,
+    "subj": "camel",
+    "verb": "spend",
+    "obj": "day",
+    "label": "camel | spend | day",
+    "sentence": "The camel spent days going around and around in circles, moving the millstone which was used to grind wheat and oat into flour."
+  },
+  {
+    "sent_id": 29,
+    "subj": "camel",
+    "verb": "see",
+    "obj": "",
+    "label": "camel | see | \u2205",
+    "sentence": "As he worked, the camel saw the fox approaching and said, \u201cHello fox, what brings you here?\u201d\n\n\u201cHello camel!"
+  },
+  {
+    "sent_id": 30,
+    "subj": "fox",
+    "verb": "say",
+    "obj": "",
+    "label": "fox | say | \u2205",
+    "sentence": "I am happy to see you,\u201d said the fox, cheerfully."
+  },
+  {
+    "sent_id": 31,
+    "subj": "camel",
+    "verb": "thank",
+    "obj": "fox",
+    "label": "camel | thank | fox",
+    "sentence": "\u201cI have come a long way just to visit you, old friend, for what are friends for if they don\u2019t visit eachother once in a while?\u201d\n\nThe camel thanked the fox for coming, and asked, \u201cHow have you been?\u201d\n\n\u201cI have never been happier, camel, for I am on my way to a secret land I recently discovered, where the grass is always green, where is plenty to eat, and there\u2019s no need to work.\u201d"
+  },
+  {
+    "sent_id": 32,
+    "subj": "fox",
+    "verb": "lower",
+    "obj": "voice",
+    "label": "fox | lower | voice",
+    "sentence": "Then, feigning concern, the fox lowered his voice and asked, \u201cTell me camel, why do you spend your days going around in circles?"
+  },
+  {
+    "sent_id": 33,
+    "subj": "this",
+    "verb": "be",
+    "obj": "",
+    "label": "this | be | \u2205",
+    "sentence": "Is this how you plan on wasting away your life away?\u201d"
+  },
+  {
+    "sent_id": 34,
+    "subj": "camel",
+    "verb": "think",
+    "obj": "moment",
+    "label": "camel | think | moment",
+    "sentence": "The camel thought for moment, and replied, \u201cI have to work to earn my keep."
+  },
+  {
+    "sent_id": 35,
+    "subj": "i",
+    "verb": "turn",
+    "obj": "millstone",
+    "label": "i | turn | millstone",
+    "sentence": "I turn this millstone every day from dawn \u2019til dusk, and in the evenings, the miller gives me some food and a safe place to sleep."
+  },
+  {
+    "sent_id": 36,
+    "subj": "this",
+    "verb": "be",
+    "obj": "work",
+    "label": "this | be | work",
+    "sentence": "True, this is hard work, but I am content.\u201d"
+  },
+  {
+    "sent_id": 37,
+    "subj": "fox",
+    "verb": "pretend",
+    "obj": "",
+    "label": "fox | pretend | \u2205",
+    "sentence": "The fox pretended to go into deep thought as he absentmindedly flicked and fluffed his tail for a while, and then he excitedly said, \u201cBut I have an idea!"
+  },
+  {
+    "sent_id": 38,
+    "subj": "you",
+    "verb": "come",
+    "obj": "i",
+    "label": "you | come | i",
+    "sentence": "Why don\u2019t you come with me to my secret land?"
+  },
+  {
+    "sent_id": 39,
+    "subj": "i",
+    "verb": "use",
+    "obj": "company",
+    "label": "i | use | company",
+    "sentence": "I can use the company, and there you will never have to grind a millstone ever again, my dearest friend!\u201d"
+  },
+  {
+    "sent_id": 40,
+    "subj": "camel",
+    "verb": "stand",
+    "obj": "",
+    "label": "camel | stand | \u2205",
+    "sentence": "The camel stood still and thought this over for a while, and then agreed to accompany the fox."
+  },
+  {
+    "sent_id": 41,
+    "subj": "fox",
+    "verb": "chew",
+    "obj": "yole",
+    "label": "fox | chew | yole",
+    "sentence": "The fox chewed through the camel\u2019s yole, and freed him from the millstone."
+  },
+  {
+    "sent_id": 42,
+    "subj": "he",
+    "verb": "say",
+    "obj": "camel",
+    "label": "he | say | camel",
+    "sentence": "Then he said to the camel, \u201cMy dear friend, as you know I have been walking for a long time to reach this place ."
+  },
+  {
+    "sent_id": 43,
+    "subj": "you",
+    "verb": "mind",
+    "obj": "",
+    "label": "you | mind | \u2205",
+    "sentence": "Do you mind if I ride your back as I guide you to my secret land?\u201d"
+  },
+  {
+    "sent_id": 44,
+    "subj": "camel",
+    "verb": "agree",
+    "obj": "this",
+    "label": "camel | agree | this",
+    "sentence": "The camel agreed to this, being an agreeable sort of camel, and the fox jumped onto the camel\u2019s back as the two headed towards the forest."
+  },
+  {
+    "sent_id": 45,
+    "subj": "fox",
+    "verb": "whisper",
+    "obj": "lie",
+    "label": "fox | whisper | lie",
+    "sentence": "All the while the fox whispered many lies about the secret land that he had supposedly discovered into the camel\u2019s ear, hoping to keep the camel distracted."
+  },
+  {
+    "sent_id": 46,
+    "subj": "camel",
+    "verb": "walk",
+    "obj": "",
+    "label": "camel | walk | \u2205",
+    "sentence": "The camel walked and walked until they approached the lion\u2019s den."
+  },
+  {
+    "sent_id": 47,
+    "subj": "camel",
+    "verb": "catch",
+    "obj": "sight",
+    "label": "camel | catch | sight",
+    "sentence": "At that moment, the camel caught sight of the lion hiding in the bushes, and discovered the trap that was laid for him."
+  },
+  {
+    "sent_id": 48,
+    "subj": "i",
+    "verb": "go",
+    "obj": "doom",
+    "label": "i | go | doom",
+    "sentence": "\u201cOh, how can I go to my doom with my own four feet!\u201d"
+  },
+  {
+    "sent_id": 49,
+    "subj": "camel",
+    "verb": "reproach",
+    "obj": "himself",
+    "label": "camel | reproach | himself",
+    "sentence": "the camel reproached himself."
+  },
+  {
+    "sent_id": 50,
+    "subj": "i",
+    "verb": "find",
+    "obj": "way",
+    "label": "i | find | way",
+    "sentence": "\u201cI must find a way out of this trap before it is too late!\u201d"
+  },
+  {
+    "sent_id": 51,
+    "subj": "he",
+    "verb": "turn",
+    "obj": "",
+    "label": "he | turn | \u2205",
+    "sentence": "So he immediately turned around and started walking back to the mill."
+  },
+  {
+    "sent_id": 52,
+    "subj": "fox",
+    "verb": "ask",
+    "obj": "",
+    "label": "fox | ask | \u2205",
+    "sentence": "The confused fox asked, \u201cWhy have you turned back now, camel?\u201d\n\n\u201cOh, my goodness!"
+  },
+  {
+    "sent_id": 53,
+    "subj": "i",
+    "verb": "forget",
+    "obj": "something",
+    "label": "i | forget | something",
+    "sentence": "I have forgotten something very important, and I must fetch it immediately, for I cannot go anywhere without it!\u201d cried the camel."
+  },
+  {
+    "sent_id": 54,
+    "subj": "fox",
+    "verb": "yell",
+    "obj": "",
+    "label": "fox | yell | \u2205",
+    "sentence": "Frustrated, the fox yelled, \u201cWhat!"
+  },
+  {
+    "sent_id": 55,
+    "subj": "you",
+    "verb": "forget",
+    "obj": "what",
+    "label": "you | forget | what",
+    "sentence": "What have you forgotten which is so important?!\u201d"
+  },
+  {
+    "sent_id": 57,
+    "subj": "camel",
+    "verb": "reply",
+    "obj": "",
+    "label": "camel | reply | \u2205",
+    "sentence": "I must sleep with it under my pillow every night, or else I have bad dreams,\u201d the camel replied, as he increased his pace to get away from the hiding lion as quickly as possible."
+  },
+  {
+    "sent_id": 58,
+    "subj": "he",
+    "verb": "decide",
+    "obj": "",
+    "label": "he | decide | \u2205",
+    "sentence": "The fox saw that he was powerless to stop the camel, so he decided to play along, and try to convince the camel to return to the spot the following day."
+  },
+  {
+    "sent_id": 60,
+    "subj": "we",
+    "verb": "fetch",
+    "obj": "book",
+    "label": "we | fetch | book",
+    "sentence": "We will fetch your book, camel, and then we can come back tomorrow."
+  },
+  {
+    "sent_id": 61,
+    "subj": "",
+    "verb": "tell",
+    "obj": "i",
+    "label": "\u2205 | tell | i",
+    "sentence": "But tell me, what advice did your father write down in this book which is so important?\u201d\n\nThe camel, who was growing breathless, replied, \u201cThere were five."
+  },
+  {
+    "sent_id": 62,
+    "subj": "one",
+    "verb": "be",
+    "obj": "",
+    "label": "one | be | \u2205",
+    "sentence": "The first one was \u2018Never go anywhere without this book of advice\u2019, but I have forgotten the remaining four."
+  },
+  {
+    "sent_id": 63,
+    "subj": "i",
+    "verb": "remember",
+    "obj": "they",
+    "label": "i | remember | they",
+    "sentence": "I\u2019ll remember them as soon as I get back to the mill.\u201d"
+  },
+  {
+    "sent_id": 64,
+    "subj": "he",
+    "verb": "sigh",
+    "obj": "relief",
+    "label": "he | sigh | relief",
+    "sentence": "And as soon as the camel reached the safety of the mill, he sighed in relief and said to the fox, \u201cAh!"
+  },
+  {
+    "sent_id": 65,
+    "subj": "i",
+    "verb": "remember",
+    "obj": "advice",
+    "label": "i | remember | advice",
+    "sentence": "Now I remember the other advice that my father gave me."
+  },
+  {
+    "sent_id": 66,
+    "subj": "second",
+    "verb": "be",
+    "obj": "",
+    "label": "second | be | \u2205",
+    "sentence": "The second was \u2018There\u2019s no shame in honest work.\u2019"
+  },
+  {
+    "sent_id": 67,
+    "subj": "third",
+    "verb": "be",
+    "obj": "",
+    "label": "third | be | \u2205",
+    "sentence": "The third was, \u2018Be thankful for what you have.\u2019"
+  },
+  {
+    "sent_id": 68,
+    "subj": "fourth",
+    "verb": "be",
+    "obj": "",
+    "label": "fourth | be | \u2205",
+    "sentence": "The fourth was \u2018Never be friends with tricksters, for in the end they will trick you too.\u2019"
+  },
+  {
+    "sent_id": 69,
+    "subj": "thing",
+    "verb": "be",
+    "obj": "",
+    "label": "thing | be | \u2205",
+    "sentence": "But the fifth and most important thing my father told me was\u2026 \u2018Don\u2019t go close to lions!\u2019"
+  },
+  {
+    "sent_id": 70,
+    "subj": "camel",
+    "verb": "shake",
+    "obj": "fox",
+    "label": "camel | shake | fox",
+    "sentence": "\u201d\n\nAnd having said that, the camel shook the fox off of his back, and returned to his millstone."
+  }
+]

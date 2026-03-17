@@ -1,0 +1,538 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "legend",
+    "verb": "be",
+    "obj": "",
+    "label": "legend | be | \u2205",
+    "sentence": "The Creation Story \u2013 Turtle Island\n\nFor the Ojibway/Anishinabe people, the legend is as follows."
+  },
+  {
+    "sent_id": 1,
+    "subj": "",
+    "verb": "people",
+    "obj": "earth",
+    "label": "\u2205 | people | earth",
+    "sentence": "Long ago, after the Great\nMystery, or Kitchi-Manitou, first peopled the earth, the Anishinabe, or Original People,\nstrayed from their\nharmonious ways and began to argue and fight with one another."
+  },
+  {
+    "sent_id": 2,
+    "subj": "brother",
+    "verb": "turn",
+    "obj": "brother",
+    "label": "brother | turn | brother",
+    "sentence": "Brother turned\nagainst brother and soon the Anishinabe were killing one another over hunting grounds\nand others disagreements."
+  },
+  {
+    "sent_id": 3,
+    "subj": "manitou",
+    "verb": "decide",
+    "obj": "",
+    "label": "manitou | decide | \u2205",
+    "sentence": "Seeing that harmony, brotherhood, sisterhood, and respect\nfor all living things no longer prevailed on Earth, Kitchi-Manitou decided to purify the\nEarth."
+  },
+  {
+    "sent_id": 4,
+    "subj": "he",
+    "verb": "do",
+    "obj": "this",
+    "label": "he | do | this",
+    "sentence": "He did this with water."
+  },
+  {
+    "sent_id": 5,
+    "subj": "water",
+    "verb": "come",
+    "obj": "form",
+    "label": "water | come | form",
+    "sentence": "The water came in the form of a great flood, or mush-ko'-be-wun', upon the Earth\ndestroying the Anishinabe people and most of the animals as well."
+  },
+  {
+    "sent_id": 6,
+    "subj": "nanaboozhoo",
+    "verb": "be",
+    "obj": "",
+    "label": "nanaboozhoo | be | \u2205",
+    "sentence": "Only Nanaboozhoo,\nthe central figure in many of the Anishinabe oral traditions, was able to survive the\nflood, along with a few animals and birds who managed to swim and fly."
+  },
+  {
+    "sent_id": 8,
+    "subj": "nanaboozhoo",
+    "verb": "allow",
+    "obj": "",
+    "label": "nanaboozhoo | allow | \u2205",
+    "sentence": "Nanaboozhoo allowed the remaining animals and birds to\ntake turns resting on the log as well."
+  },
+  {
+    "sent_id": 9,
+    "subj": "nanaboozhoo",
+    "verb": "speak",
+    "obj": "",
+    "label": "nanaboozhoo | speak | \u2205",
+    "sentence": "Finally, Nanaboozhoo spoke."
+  },
+  {
+    "sent_id": 10,
+    "subj": "he",
+    "verb": "say",
+    "obj": "",
+    "label": "he | say | \u2205",
+    "sentence": "\"I am going to do\nsomething,\" he said."
+  },
+  {
+    "sent_id": 11,
+    "subj": "i",
+    "verb": "go",
+    "obj": "",
+    "label": "i | go | \u2205",
+    "sentence": "\"I am going to swim to the bottom of this water and grab a handful\nof earth."
+  },
+  {
+    "sent_id": 12,
+    "subj": "i",
+    "verb": "believe",
+    "obj": "bit",
+    "label": "i | believe | bit",
+    "sentence": "With this small bit of Earth, I believe we can create a new land for us to live on\nwith the help of the Four Winds and Kitchi-Manitou."
+  },
+  {
+    "sent_id": 13,
+    "subj": "nanaboozhoo",
+    "verb": "dive",
+    "obj": "water",
+    "label": "nanaboozhoo | dive | water",
+    "sentence": "\"\nSo Nanaboozhoo dived into the water and was gone for a long time."
+  },
+  {
+    "sent_id": 14,
+    "subj": "he",
+    "verb": "surface",
+    "obj": "",
+    "label": "he | surface | \u2205",
+    "sentence": "Finally he surfaced,\nand short of breath told the animals that the water is too deep for him to swim to the\nbottom."
+  },
+  {
+    "sent_id": 15,
+    "subj": "all",
+    "verb": "be",
+    "obj": "",
+    "label": "all | be | \u2205",
+    "sentence": "All were silent."
+  },
+  {
+    "sent_id": 16,
+    "subj": "mahng",
+    "verb": "speak",
+    "obj": "",
+    "label": "mahng | speak | \u2205",
+    "sentence": "Finally, Mahng, the Loon spoke up."
+  },
+  {
+    "sent_id": 17,
+    "subj": "that",
+    "verb": "be",
+    "obj": "",
+    "label": "that | be | \u2205",
+    "sentence": "\"I can dive under the water\nfor a long way, that is how I catch my food."
+  },
+  {
+    "sent_id": 18,
+    "subj": "i",
+    "verb": "try",
+    "obj": "",
+    "label": "i | try | \u2205",
+    "sentence": "I will try to make it to the bottom and return\nwith some Earth in my beak.\""
+  },
+  {
+    "sent_id": 19,
+    "subj": "loon",
+    "verb": "disappear",
+    "obj": "",
+    "label": "loon | disappear | \u2205",
+    "sentence": "The Loon disappeared and was gone for a very long time."
+  },
+  {
+    "sent_id": 20,
+    "subj": "loon",
+    "verb": "drown",
+    "obj": "",
+    "label": "loon | drown | \u2205",
+    "sentence": "Surely, thought the others, the Loon must have drowned."
+  },
+  {
+    "sent_id": 21,
+    "subj": "they",
+    "verb": "see",
+    "obj": "",
+    "label": "they | see | \u2205",
+    "sentence": "Then they saw him float to the\nsurface, weak and nearly unconscious."
+  },
+  {
+    "sent_id": 22,
+    "subj": "he",
+    "verb": "gasp",
+    "obj": "",
+    "label": "he | gasp | \u2205",
+    "sentence": "\"I couldn't make it, there must be no bottom to\nthis water,\" he gasped."
+  },
+  {
+    "sent_id": 23,
+    "subj": "everyone",
+    "verb": "know",
+    "obj": "",
+    "label": "everyone | know | \u2205",
+    "sentence": "Then Zhing-gi-biss, the helldiver came forward and said \"I will try\nnext, everyone knows I can dive great distances.\""
+  },
+  {
+    "sent_id": 24,
+    "subj": "helldiver",
+    "verb": "go",
+    "obj": "",
+    "label": "helldiver | go | \u2205",
+    "sentence": "So the helldiver went under."
+  },
+  {
+    "sent_id": 25,
+    "subj": "time",
+    "verb": "pass",
+    "obj": "",
+    "label": "time | pass | \u2205",
+    "sentence": "Again, a\nvery long time passed and the others thought he was surely drowned."
+  },
+  {
+    "sent_id": 26,
+    "subj": "he",
+    "verb": "float",
+    "obj": "last",
+    "label": "he | float | last",
+    "sentence": "At last he too\nfloated to the surface."
+  },
+  {
+    "sent_id": 27,
+    "subj": "he",
+    "verb": "be",
+    "obj": "",
+    "label": "he | be | \u2205",
+    "sentence": "He was unconscious, and not till he came to could he relate to\nthe others that he too was unable to fetch the Earth from the bottom."
+  },
+  {
+    "sent_id": 28,
+    "subj": "animal",
+    "verb": "try",
+    "obj": "",
+    "label": "animal | try | \u2205",
+    "sentence": "Many more animals tried but failed, including Zhon-gwayzh', the mink, and even Mi-\nzhee-kay\", the turtle."
+  },
+  {
+    "sent_id": 29,
+    "subj": "all",
+    "verb": "fail",
+    "obj": "",
+    "label": "all | fail | \u2205",
+    "sentence": "All failed and it seemed as though there was no way to get the\nmuch needed Earth from the bottom."
+  },
+  {
+    "sent_id": 30,
+    "subj": "voice",
+    "verb": "hear",
+    "obj": "",
+    "label": "voice | hear | \u2205",
+    "sentence": "Then a soft muffled voice was heard."
+  },
+  {
+    "sent_id": 31,
+    "subj": "it",
+    "verb": "speak",
+    "obj": "",
+    "label": "it | speak | \u2205",
+    "sentence": "\"I can do it,\"\nit spoke softly."
+  },
+  {
+    "sent_id": 32,
+    "subj": "one",
+    "verb": "see",
+    "obj": "",
+    "label": "one | see | \u2205",
+    "sentence": "At first no one could see who it was that spoke up."
+  },
+  {
+    "sent_id": 33,
+    "subj": "zhushk",
+    "verb": "step",
+    "obj": "",
+    "label": "zhushk | step | \u2205",
+    "sentence": "Then, the little Wa-\nzhushk\", muskrat stepped forward."
+  },
+  {
+    "sent_id": 34,
+    "subj": "he",
+    "verb": "repeat",
+    "obj": "",
+    "label": "he | repeat | \u2205",
+    "sentence": "\"I'll try,\" he repeated."
+  },
+  {
+    "sent_id": 35,
+    "subj": "some",
+    "verb": "laugh",
+    "obj": "muskrat",
+    "label": "some | laugh | muskrat",
+    "sentence": "Some of the other, bigger,\nmore powerful animals laughed at muskrat."
+  },
+  {
+    "sent_id": 36,
+    "subj": "nanaboozhoo",
+    "verb": "speak",
+    "obj": "",
+    "label": "nanaboozhoo | speak | \u2205",
+    "sentence": "Nanaboozhoo spoke up."
+  },
+  {
+    "sent_id": 37,
+    "subj": "manitou",
+    "verb": "place",
+    "obj": "judgment",
+    "label": "manitou | place | judgment",
+    "sentence": "\"Only Kitchi-\nManitou can place judgment on others."
+  },
+  {
+    "sent_id": 38,
+    "subj": "he",
+    "verb": "allow",
+    "obj": "",
+    "label": "he | allow | \u2205",
+    "sentence": "If muskrat wants to try, he should be allowed\nto.\""
+  },
+  {
+    "sent_id": 39,
+    "subj": "muskrat",
+    "verb": "dive",
+    "obj": "water",
+    "label": "muskrat | dive | water",
+    "sentence": "So, muskrat dove into the water."
+  },
+  {
+    "sent_id": 40,
+    "subj": "he",
+    "verb": "go",
+    "obj": "",
+    "label": "he | go | \u2205",
+    "sentence": "He was gone much longer than any of the others\nwho tried to reach the bottom."
+  },
+  {
+    "sent_id": 41,
+    "subj": "nanaboozhoo",
+    "verb": "be",
+    "obj": "while",
+    "label": "nanaboozhoo | be | while",
+    "sentence": "After a while Nanaboozhoo and the other animals were\ncertain that muskrat had give his life trying to reach the bottom."
+  },
+  {
+    "sent_id": 42,
+    "subj": "",
+    "verb": "reach",
+    "obj": "bottom",
+    "label": "\u2205 | reach | bottom",
+    "sentence": "Far below the water's surface, muskrat, had in fact reached the bottom."
+  },
+  {
+    "sent_id": 43,
+    "subj": "he",
+    "verb": "grab",
+    "obj": "earth",
+    "label": "he | grab | earth",
+    "sentence": "Very weak from\nlack of air, he grabbed some Earth in his paw and with all the energy he could muster\nbegan to swim for the surface."
+  },
+  {
+    "sent_id": 44,
+    "subj": "one",
+    "verb": "spot",
+    "obj": "muskrat",
+    "label": "one | spot | muskrat",
+    "sentence": "One of the animals spotted muskrat as he floated to the\nsurface."
+  },
+  {
+    "sent_id": 45,
+    "subj": "nanaboozhoo",
+    "verb": "pull",
+    "obj": "he",
+    "label": "nanaboozhoo | pull | he",
+    "sentence": "Nanaboozhoo pulled him up onto the log."
+  },
+  {
+    "sent_id": 46,
+    "subj": "he",
+    "verb": "be",
+    "obj": "",
+    "label": "he | be | \u2205",
+    "sentence": "\"Brothers and sisters,\" Nanaboozhoo\nsaid, \u201cmuskrat went too long without air, he is dead.\""
+  },
+  {
+    "sent_id": 47,
+    "subj": "song",
+    "verb": "hear",
+    "obj": "water",
+    "label": "song | hear | water",
+    "sentence": "A song of mourning and praise\nwas heard across the water as muskrat's spirit passed on to the spirit world."
+  },
+  {
+    "sent_id": 48,
+    "subj": "",
+    "verb": "be",
+    "obj": "something",
+    "label": "\u2205 | be | something",
+    "sentence": "Suddenly\nNanaboozhoo exclaimed, \"Look, there is something in his paw!\""
+  },
+  {
+    "sent_id": 49,
+    "subj": "nanaboozhoo",
+    "verb": "open",
+    "obj": "paw",
+    "label": "nanaboozhoo | open | paw",
+    "sentence": "Nanaboozhoo carefully\nopened the tiny paw."
+  },
+  {
+    "sent_id": 50,
+    "subj": "animal",
+    "verb": "gather",
+    "obj": "",
+    "label": "animal | gather | \u2205",
+    "sentence": "All the animals gathered\nclose to see what was held so tightly there."
+  },
+  {
+    "sent_id": 51,
+    "subj": "paw",
+    "verb": "open",
+    "obj": "",
+    "label": "paw | open | \u2205",
+    "sentence": "Muskrat's paw opened and revealed a small\nball of\nEarth."
+  },
+  {
+    "sent_id": 52,
+    "subj": "animal",
+    "verb": "shout",
+    "obj": "joy",
+    "label": "animal | shout | joy",
+    "sentence": "The animals all shouted with joy."
+  },
+  {
+    "sent_id": 53,
+    "subj": "muskrat",
+    "verb": "sacrifice",
+    "obj": "life",
+    "label": "muskrat | sacrifice | life",
+    "sentence": "Muskrat sacrificed his life so that life on Earth\ncould begin anew."
+  },
+  {
+    "sent_id": 54,
+    "subj": "nanaboozhoo",
+    "verb": "take",
+    "obj": "piece",
+    "label": "nanaboozhoo | take | piece",
+    "sentence": "Nanaboozhoo took the piece of Earth from Muskrat's paw."
+  },
+  {
+    "sent_id": 55,
+    "subj": "turtle",
+    "verb": "swam",
+    "obj": "",
+    "label": "turtle | swam | \u2205",
+    "sentence": "Just then, the turtle swam\nforward and said, \"Use my back to bear the weight of this piece of Earth."
+  },
+  {
+    "sent_id": 56,
+    "subj": "we",
+    "verb": "make",
+    "obj": "earth",
+    "label": "we | make | earth",
+    "sentence": "With the help\nof Kitchi-Manitou, we can make a new Earth.\""
+  },
+  {
+    "sent_id": 57,
+    "subj": "nanaboozhoo",
+    "verb": "put",
+    "obj": "piece",
+    "label": "nanaboozhoo | put | piece",
+    "sentence": "Nanaboozhoo put the piece of Earth on\nthe turtle's back."
+  },
+  {
+    "sent_id": 58,
+    "subj": "wind",
+    "verb": "blow",
+    "obj": "each",
+    "label": "wind | blow | each",
+    "sentence": "Suddenly, the wind blew from each of the Four Directions, The tiny\npiece of Earth on the turtle's back began to grow."
+  },
+  {
+    "sent_id": 59,
+    "subj": "it",
+    "verb": "grow",
+    "obj": "",
+    "label": "it | grow | \u2205",
+    "sentence": "It grew and grew and grew until it\nformed a mi- ni-si', or island in the water."
+  },
+  {
+    "sent_id": 60,
+    "subj": "island",
+    "verb": "grow",
+    "obj": "",
+    "label": "island | grow | \u2205",
+    "sentence": "The island grew larger and larger, but still the\nturtle bore the weight of the Earth on his back."
+  },
+  {
+    "sent_id": 61,
+    "subj": "nanaboozhoo",
+    "verb": "sing",
+    "obj": "",
+    "label": "nanaboozhoo | sing | \u2205",
+    "sentence": "Nanaboozhoo and the animals all sang\nand danced in a widening circle on the growing island."
+  },
+  {
+    "sent_id": 62,
+    "subj": "wind",
+    "verb": "cease",
+    "obj": "while",
+    "label": "wind | cease | while",
+    "sentence": "After a while, the Four Winds\nceased to blow and the waters became still."
+  },
+  {
+    "sent_id": 63,
+    "subj": "island",
+    "verb": "sit",
+    "obj": "middle",
+    "label": "island | sit | middle",
+    "sentence": "A huge island sat in the middle of the water,\nand today that island is known as North America."
+  },
+  {
+    "sent_id": 64,
+    "subj": "people",
+    "verb": "hold",
+    "obj": "reverence",
+    "label": "people | hold | reverence",
+    "sentence": "Traditional Indian people, including the Ojibway, hold special reverence for the turtle\nwho sacrificed his life and made life possible for the Earth's second people."
+  },
+  {
+    "sent_id": 65,
+    "subj": "muskrat",
+    "verb": "give",
+    "obj": "life",
+    "label": "muskrat | give | life",
+    "sentence": "To this day,\nthe muskrat has been given a good life."
+  },
+  {
+    "sent_id": 66,
+    "subj": "muskrat",
+    "verb": "continue",
+    "obj": "",
+    "label": "muskrat | continue | \u2205",
+    "sentence": "No matter that marshes have been drained and\ntheir homes destroyed in the name of progress, the muskrat continues to survive and\nmultiply."
+  },
+  {
+    "sent_id": 67,
+    "subj": "they",
+    "verb": "build",
+    "obj": "home",
+    "label": "they | build | home",
+    "sentence": "The muskrats do their part today in remembering the great flood; they build\ntheir homes in the shape of the little ball of Earth and the island that was formed from\nit."
+  }
+]

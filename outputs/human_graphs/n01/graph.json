@@ -1,0 +1,282 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "world | be | beginning",
+      "sent_id": 1,
+      "sentence": "According to a Haida story, in the beginning the world was in total darkness.",
+      "subj": "world",
+      "verb": "be",
+      "obj": "beginning"
+    },
+    {
+      "id": "e0001",
+      "label": "raven | be | \u2205",
+      "sent_id": 2,
+      "sentence": "The Raven, who had existed from the beginning of time, was tired of groping about and bumping into things in the dark.",
+      "subj": "raven",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0002",
+      "label": "raven | come | home",
+      "sent_id": 3,
+      "sentence": "Eventually the Raven came upon the home of an old man who lived alone with his daughter.",
+      "subj": "raven",
+      "verb": "come",
+      "obj": "home"
+    },
+    {
+      "id": "e0003",
+      "label": "raven | learn | slyness",
+      "sent_id": 4,
+      "sentence": "Through his slyness, the Raven learned that the old man had a great treasure.",
+      "subj": "raven",
+      "verb": "learn",
+      "obj": "slyness"
+    },
+    {
+      "id": "e0004",
+      "label": "this | be | light",
+      "sent_id": 5,
+      "sentence": "This was all the light in the universe, contained in a tiny box concealed within many boxes.",
+      "subj": "this",
+      "verb": "be",
+      "obj": "light"
+    },
+    {
+      "id": "e0005",
+      "label": "raven | vow | \u2205",
+      "sent_id": 6,
+      "sentence": "At once the Raven vowed to steal the light.",
+      "subj": "raven",
+      "verb": "vow",
+      "obj": ""
+    },
+    {
+      "id": "e0006",
+      "label": "he | think | \u2205",
+      "sent_id": 7,
+      "sentence": "He thought and thought, and finally came up with a plan.",
+      "subj": "he",
+      "verb": "think",
+      "obj": ""
+    },
+    {
+      "id": "e0007",
+      "label": "he | wait | \u2205",
+      "sent_id": 8,
+      "sentence": "He waited until the old man's daughter came to the river to gather water.",
+      "subj": "he",
+      "verb": "wait",
+      "obj": ""
+    },
+    {
+      "id": "e0008",
+      "label": "raven | change | himself",
+      "sent_id": 9,
+      "sentence": "Then the Raven changed himself into a single hemlock needle and dropped himself into the river, just as the girl was dipping her water-basket into the river.",
+      "subj": "raven",
+      "verb": "change",
+      "obj": "himself"
+    },
+    {
+      "id": "e0009",
+      "label": "she | swallow | needle",
+      "sent_id": 10,
+      "sentence": "As she drank from the basket, she swallowed the needle.",
+      "subj": "she",
+      "verb": "swallow",
+      "obj": "needle"
+    },
+    {
+      "id": "e0010",
+      "label": "it | slip | \u2205",
+      "sent_id": 11,
+      "sentence": "It slipped and slithered down into her warm belly, where the Raven transformed himself again, this time into a tiny human.",
+      "subj": "it",
+      "verb": "slip",
+      "obj": ""
+    },
+    {
+      "id": "e0011",
+      "label": "raven | emerge | world",
+      "sent_id": 12,
+      "sentence": "After sleeping and growing there for a very long time, at last the Raven emerged into the world once more, this time as a human infant.",
+      "subj": "raven",
+      "verb": "emerge",
+      "obj": "world"
+    },
+    {
+      "id": "e0012",
+      "label": "grandfather | love | he",
+      "sent_id": 13,
+      "sentence": "Even though he had a rather strange appearance, the Raven's grandfather loved him.",
+      "subj": "grandfather",
+      "verb": "love",
+      "obj": "he"
+    },
+    {
+      "id": "e0013",
+      "label": "man | threaten | punishment",
+      "sent_id": 14,
+      "sentence": "But the old man threatened dire punishment if he ever touched the precious treasure box.",
+      "subj": "man",
+      "verb": "threaten",
+      "obj": "punishment"
+    },
+    {
+      "id": "e0014",
+      "label": "ravenchild | beg | \u2205",
+      "sent_id": 15,
+      "sentence": "Nonetheless the Ravenchild begged and begged to be allowed to hold the light just for a moment.",
+      "subj": "ravenchild",
+      "verb": "beg",
+      "obj": ""
+    },
+    {
+      "id": "e0015",
+      "label": "man | yield | time",
+      "sent_id": 16,
+      "sentence": "In time the old man yielded, and lifted from the box a warm and glowing sphere, which he threw to his grandson.",
+      "subj": "man",
+      "verb": "yield",
+      "obj": "time"
+    },
+    {
+      "id": "e0016",
+      "label": "wing | spread | \u2205",
+      "sent_id": 17,
+      "sentence": "As the light was moving toward him, the human child transformed into a gigantic black shadowy bird-form, wings spread ready for flight, and beak open in anticipation.",
+      "subj": "wing",
+      "verb": "spread",
+      "obj": ""
+    },
+    {
+      "id": "e0017",
+      "label": "raven | capture | it",
+      "sent_id": 18,
+      "sentence": "As the beautiful ball of light reached him, the Raven captured it in his beak!",
+      "subj": "raven",
+      "verb": "capture",
+      "obj": "it"
+    },
+    {
+      "id": "e0018",
+      "label": "he | burst | smokehole",
+      "sent_id": 19,
+      "sentence": "Moving his powerful wings, he burst through the smokehole in the roof of the house, and escaped into the darkness with his stolen treasure.",
+      "subj": "he",
+      "verb": "burst",
+      "obj": "smokehole"
+    },
+    {
+      "id": "e0019",
+      "label": "that | be | \u2205",
+      "sent_id": 20,
+      "sentence": "And that is how light came into the universe.",
+      "subj": "that",
+      "verb": "be",
+      "obj": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "traveller",
+    "verb": "be",
+    "obj": "journey",
+    "label": "traveller | be | journey",
+    "sentence": "Gulistan chapter II - story 5\n\nSeveral travellers were on a journey together and equally sharing each other's troubles and comforts."
+  },
+  {
+    "sent_id": 1,
+    "subj": "i",
+    "verb": "desire",
+    "obj": "",
+    "label": "i | desire | \u2205",
+    "sentence": "I desired to accompany them but they would not agree."
+  },
+  {
+    "sent_id": 2,
+    "subj": "i",
+    "verb": "say",
+    "obj": "",
+    "label": "i | say | \u2205",
+    "sentence": "Then I said: 'It is foreign to the manners of great men to turn away the face from the company of the poor and so deprive themselves of the advantage they might derive therefrom because I for one consider myself sufficiently strong and energetic to be of service to men and not an encumbrance."
+  },
+  {
+    "sent_id": 3,
+    "subj": "i",
+    "verb": "aid",
+    "obj": "you",
+    "label": "i | aid | you",
+    "sentence": "Although I am not riding on a beast, I shall aid you in carrying blankets.'"
+  },
+  {
+    "sent_id": 4,
+    "subj": "one",
+    "verb": "say",
+    "obj": "",
+    "label": "one | say | \u2205",
+    "sentence": "One of them said: 'Do not be grieved at the words thou hast heard because some days ago a thief in the guise of a dervish arrived and joined our company.'\n\nHow can people know who is in the dress?"
+  },
+  {
+    "sent_id": 5,
+    "subj": "writer",
+    "verb": "be",
+    "obj": "",
+    "label": "writer | be | \u2205",
+    "sentence": "The writer is aware what the book contains."
+  },
+  {
+    "sent_id": 6,
+    "subj": "they",
+    "verb": "entertain",
+    "obj": "suspicion",
+    "label": "they | entertain | suspicion",
+    "sentence": "As the state of dervishes is safe, they entertained no suspicion about him and received him as a friend."
+  },
+  {
+    "sent_id": 7,
+    "subj": "state",
+    "verb": "be",
+    "obj": "dress",
+    "label": "state | be | dress",
+    "sentence": "The outward state of Arifs is the patched dress."
+  },
+  {
+    "sent_id": 8,
+    "subj": "it",
+    "verb": "suffice",
+    "obj": "display",
+    "label": "it | suffice | display",
+    "sentence": "It suffices as a display to the face of the people."
+  },
+  {
+    "sent_id": 9,
+    "subj": "",
+    "verb": "strive",
+    "obj": "act",
+    "label": "\u2205 | strive | act",
+    "sentence": "Strive by thy acts to be good and wear anything thou listest."
+  },
+  {
+    "sent_id": 11,
+    "subj": "abandoning",
+    "verb": "be",
+    "obj": "sanctity",
+    "label": "abandoning | be | sanctity",
+    "sentence": "The abandoning of the world, of lust, and of desire\nIs sanctity, not the abandonment of the robe only."
+  },
+  {
+    "sent_id": 12,
+    "subj": "it",
+    "verb": "be",
+    "obj": "",
+    "label": "it | be | \u2205",
+    "sentence": "It is necessary to show manhood in the fight."
+  },
+  {
+    "sent_id": 13,
+    "subj": "",
+    "verb": "be",
+    "obj": "weapon",
+    "label": "\u2205 | be | weapon",
+    "sentence": "Of what profit are weapons of war to an hermaphrodite?"
+  },
+  {
+    "sent_id": 14,
+    "subj": "we",
+    "verb": "travel",
+    "obj": "",
+    "label": "we | travel | \u2205",
+    "sentence": "We travelled one day till the night set in during which we slept near a fort and the graceless thief, taking up the water-pot of a companion, pretending to go for an ablution, departed for plunder."
+  },
+  {
+    "sent_id": 15,
+    "subj": "saint",
+    "verb": "make",
+    "obj": "covering",
+    "label": "saint | make | covering",
+    "sentence": "A pretended saint who wears the dervish garb\nHas made of the Ka'bah's robes the covering of an ass."
+  },
+  {
+    "sent_id": 16,
+    "subj": "he",
+    "verb": "go",
+    "obj": "tower",
+    "label": "he | go | tower",
+    "sentence": "After disappearing from the sight of the dervishes, he went to a tower from which he stole a casket and, when the day dawned, the dark-hearted wretch had already progressed a considerable distance."
+  },
+  {
+    "sent_id": 17,
+    "subj": "guiltless",
+    "verb": "take",
+    "obj": "morning",
+    "label": "guiltless | take | morning",
+    "sentence": "In the morning the guiltless sleeping companions were all taken to the fort and thrown into prison."
+  },
+  {
+    "sent_id": 18,
+    "subj": "we",
+    "verb": "renounce",
+    "obj": "companionship",
+    "label": "we | renounce | companionship",
+    "sentence": "From that date we renounced companionship and took the road of solitude, according to the maxim: Safety is in solitude."
+  },
+  {
+    "sent_id": 19,
+    "subj": "honour",
+    "verb": "leave",
+    "obj": "low",
+    "label": "honour | leave | low",
+    "sentence": "When one of a tribe has done a foolish thing\nNo honour is left either to the low or the high."
+  },
+  {
+    "sent_id": 21,
+    "subj": "i",
+    "verb": "exclude",
+    "obj": "advantage",
+    "label": "i | exclude | advantage",
+    "sentence": "I replied: 'Thanks be to the God of majesty and glory, I have not been excluded from the advantages enjoyed by dervishes, although I have separated myself from their society."
+  },
+  {
+    "sent_id": 22,
+    "subj": "i",
+    "verb": "profit",
+    "obj": "",
+    "label": "i | profit | \u2205",
+    "sentence": "I have profited by what thou hast narrated to me and this admonition will be of use through life to persons like me.'"
+  },
+  {
+    "sent_id": 23,
+    "subj": "",
+    "verb": "grieve",
+    "obj": "fellow",
+    "label": "\u2205 | grieve | fellow",
+    "sentence": "For one rude fellow in the assembly\nThe heart of intelligent men is much grieved."
+  },
+  {
+    "sent_id": 24,
+    "subj": "",
+    "verb": "pollute",
+    "obj": "whole",
+    "label": "\u2205 | pollute | whole",
+    "sentence": "If a tank be filled with rose-water\nA dog falling into it pollutes the whole."
+  }
+]

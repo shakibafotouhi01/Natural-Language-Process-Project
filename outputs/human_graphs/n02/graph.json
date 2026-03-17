@@ -1,0 +1,422 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "origin | talk | other",
+      "sent_id": 0,
+      "sentence": "The origin of fire\n\nLong, long ago, animals and trees talked with each other, but there was no fire at that time.",
+      "subj": "origin",
+      "verb": "talk",
+      "obj": "other"
+    },
+    {
+      "id": "e0001",
+      "label": "fox | be | \u2205",
+      "sent_id": 1,
+      "sentence": "Fox was most clever and he tried to think of a way to create fire for the world.",
+      "subj": "fox",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0002",
+      "label": "he | decide | \u2205",
+      "sent_id": 2,
+      "sentence": "One day, he decided to visit the Geese, te-tl, whose cry he wished to learn how to imitate.",
+      "subj": "he",
+      "verb": "decide",
+      "obj": ""
+    },
+    {
+      "id": "e0003",
+      "label": "they | promise | \u2205",
+      "sent_id": 3,
+      "sentence": "They promised to teach him if he would fly with them.",
+      "subj": "they",
+      "verb": "promise",
+      "obj": ""
+    },
+    {
+      "id": "e0004",
+      "label": "they | contrive | way",
+      "sent_id": 4,
+      "sentence": "So they contrived a way to attach wings to Fox, but cautioned him never to open his eyes while flying.",
+      "subj": "they",
+      "verb": "contrive",
+      "obj": "way"
+    },
+    {
+      "id": "e0005",
+      "label": "fox | fly | \u2205",
+      "sent_id": 5,
+      "sentence": "Whenever the Geese arose in flight, Fox also flew along with them to practice their cry.",
+      "subj": "fox",
+      "verb": "fly",
+      "obj": ""
+    },
+    {
+      "id": "e0006",
+      "label": "darkness | descend | adventure",
+      "sent_id": 6,
+      "sentence": "On one such adventure, darkness descended suddenly as they flew over the village of the fireflies, ko-na- tcic-a. In mid-flight, the glare from the flickering fireflies caused Fox to forget and he opened his eyes--instantly his wings collapsed!",
+      "subj": "darkness",
+      "verb": "descend",
+      "obj": "adventure"
+    },
+    {
+      "id": "e0007",
+      "label": "fall | be | \u2205",
+      "sent_id": 7,
+      "sentence": "His fall was uncontrollable.",
+      "subj": "fall",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0008",
+      "label": "he | land | area",
+      "sent_id": 8,
+      "sentence": "He landed within the walled area of the firefly village, where a fire constantly burned in the center.",
+      "subj": "he",
+      "verb": "land",
+      "obj": "area"
+    },
+    {
+      "id": "e0009",
+      "label": "firefly | come | \u2205",
+      "sent_id": 9,
+      "sentence": "Two kind fireflies came to see fallen Fox, who gave each one a necklace of juniper berries, katl-te-i-tse.",
+      "subj": "firefly",
+      "verb": "come",
+      "obj": ""
+    },
+    {
+      "id": "e0010",
+      "label": "fox | hop | \u2205",
+      "sent_id": 10,
+      "sentence": "Fox hoped to persuade the two fireflies to tell him where he could find a way over the wall to the outside.",
+      "subj": "fox",
+      "verb": "hop",
+      "obj": ""
+    },
+    {
+      "id": "e0011",
+      "label": "they | lead | he",
+      "sent_id": 11,
+      "sentence": "They led him to a cedar tree, which they explained would bend down upon command and catapult him over the wall if he so desired.",
+      "subj": "they",
+      "verb": "lead",
+      "obj": "he"
+    },
+    {
+      "id": "e0012",
+      "label": "fox | find | spring",
+      "sent_id": 12,
+      "sentence": "That evening, Fox found the spring where fireflies obtained their water.",
+      "subj": "fox",
+      "verb": "find",
+      "obj": "spring"
+    },
+    {
+      "id": "e0013",
+      "label": "he | discover | earth",
+      "sent_id": 13,
+      "sentence": "There also, he discovered colored Earth, which when mixed with water made paint.",
+      "subj": "he",
+      "verb": "discover",
+      "obj": "earth"
+    },
+    {
+      "id": "e0014",
+      "label": "he | decide | \u2205",
+      "sent_id": 14,
+      "sentence": "He decided to give himself a coat of white.",
+      "subj": "he",
+      "verb": "decide",
+      "obj": ""
+    },
+    {
+      "id": "e0015",
+      "label": "\u2205 | let | \u2205",
+      "sent_id": 15,
+      "sentence": "Upon returning to the village, Fox suggested to the fireflies, \"Let's have a festival where we can dance and I will produce the music.",
+      "subj": "",
+      "verb": "let",
+      "obj": ""
+    },
+    {
+      "id": "e0016",
+      "label": "they | agree | \u2205",
+      "sent_id": 16,
+      "sentence": "\"\n\nThey all agreed that would be fun and helped to gather wood to build up a greater fire.",
+      "subj": "they",
+      "verb": "agree",
+      "obj": ""
+    },
+    {
+      "id": "e0017",
+      "label": "fox | tie | piece",
+      "sent_id": 17,
+      "sentence": "Secretly, Fox tied a piece of cedar bark to his tail.",
+      "subj": "fox",
+      "verb": "tie",
+      "obj": "piece"
+    },
+    {
+      "id": "e0018",
+      "label": "he | make | drum",
+      "sent_id": 18,
+      "sentence": "Then he made a drum, probably the first one ever constructed, and beat it vigorously with a stick for the dancing fireflies.",
+      "subj": "he",
+      "verb": "make",
+      "obj": "drum"
+    },
+    {
+      "id": "e0019",
+      "label": "he | move | \u2205",
+      "sent_id": 19,
+      "sentence": "Gradually, he moved closer and closer to the fire.",
+      "subj": "he",
+      "verb": "move",
+      "obj": ""
+    },
+    {
+      "id": "e0020",
+      "label": "fox | pretend | \u2205",
+      "sent_id": 20,
+      "sentence": "Fox pretended to tire from beating the drum.",
+      "subj": "fox",
+      "verb": "pretend",
+      "obj": ""
+    },
+    {
+      "id": "e0021",
+      "label": "he | give | it",
+      "sent_id": 21,
+      "sentence": "He gave it to some fireflies who wanted to help make the music.",
+      "subj": "he",
+      "verb": "give",
+      "obj": "it"
+    },
+    {
+      "id": "e0022",
+      "label": "i | find | place",
+      "sent_id": 22,
+      "sentence": "Fox quickly thrust his tail into the fire, lighting the bark, and exclaimed, \"It is too warm here for me, I must find a cooler place.\"",
+      "subj": "i",
+      "verb": "find",
+      "obj": "place"
+    },
+    {
+      "id": "e0023",
+      "label": "\u2205 | run | tree",
+      "sent_id": 23,
+      "sentence": "Straight to the cedar tree Fox ran, calling, \"Bend down to me, my cedar tree, bend down!",
+      "subj": "",
+      "verb": "run",
+      "obj": "tree"
+    },
+    {
+      "id": "e0024",
+      "label": "it | carry | he",
+      "sent_id": 24,
+      "sentence": "\"\n\nDown bent the cedar tree for Fox to catch hold, then up it carried him far over the wall.",
+      "subj": "it",
+      "verb": "carry",
+      "obj": "he"
+    },
+    {
+      "id": "e0025",
+      "label": "\u2205 | ignite | spark",
+      "sent_id": 26,
+      "sentence": "As Fox ran along, brush and wood on either side of his path were ignited from the sparks dropping from the burning bark tied to his tail.",
+      "subj": "",
+      "verb": "ignite",
+      "obj": "spark"
+    },
+    {
+      "id": "e0026",
+      "label": "fox | tire | \u2205",
+      "sent_id": 27,
+      "sentence": "Fox finally tired and gave the burning bark to Hawk, i-tsarl-tsu- i, who carried it to brown Crane, tsi-nes-tso-l.",
+      "subj": "fox",
+      "verb": "tire",
+      "obj": ""
+    },
+    {
+      "id": "e0027",
+      "label": "he | fly | \u2205",
+      "sent_id": 28,
+      "sentence": "He flew far southward, scattering fire sparks everywhere.",
+      "subj": "he",
+      "verb": "fly",
+      "obj": ""
+    },
+    {
+      "id": "e0028",
+      "label": "this | be | \u2205",
+      "sent_id": 29,
+      "sentence": "This is how fire first spread over the Earth.",
+      "subj": "this",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0029",
+      "label": "firefly | continue | \u2205",
+      "sent_id": 30,
+      "sentence": "Fireflies continued chasing Fox all the way to his burrow and declared, \"Forever after, Wily Fox, your punishment for stealing our fire will be that you can never make use of it for yourself.\"",
+      "subj": "firefly",
+      "verb": "continue",
+      "obj": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    }
+  ]
+}

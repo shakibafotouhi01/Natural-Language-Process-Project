@@ -1,0 +1,1710 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "\u2205 | be | man",
+      "sent_id": 0,
+      "sentence": "Strong Desire and the Red Sorcerer\n\nThere was a man called Odshedoph, or the Child of Strong Desires, who had a wife and one son.",
+      "subj": "",
+      "verb": "be",
+      "obj": "man"
+    },
+    {
+      "id": "e0001",
+      "label": "he | withdraw | family",
+      "sent_id": 1,
+      "sentence": "He had withdrawn his family from the village, where they had spent the winter, to the neighborhood of a distant forest, where game abounded.",
+      "subj": "he",
+      "verb": "withdraw",
+      "obj": "family"
+    },
+    {
+      "id": "e0002",
+      "label": "wood | be | travel",
+      "sent_id": 2,
+      "sentence": "This wood was a day's travel from his winter home, and under its ample shadow the wife fixed the lodge, while the husband went out to hunt.",
+      "subj": "wood",
+      "verb": "be",
+      "obj": "travel"
+    },
+    {
+      "id": "e0003",
+      "label": "he | ask | son",
+      "sent_id": 3,
+      "sentence": "Early in the evening he returned with a deer, and, being weary and athirst, he asked his son, whom he called Strong Desire, to go to the river for some water.",
+      "subj": "he",
+      "verb": "ask",
+      "obj": "son"
+    },
+    {
+      "id": "e0004",
+      "label": "son | reply | \u2205",
+      "sent_id": 4,
+      "sentence": "The son replied that it was dark, and he was afraid.",
+      "subj": "son",
+      "verb": "reply",
+      "obj": ""
+    },
+    {
+      "id": "e0005",
+      "label": "father | urge | he",
+      "sent_id": 5,
+      "sentence": "His father still urged him, saying that his mother, as well as himself, was tired, and the distance to the water very short.",
+      "subj": "father",
+      "verb": "urge",
+      "obj": "he"
+    },
+    {
+      "id": "e0006",
+      "label": "persuasion | overcome | reluctance",
+      "sent_id": 6,
+      "sentence": "But no persuasion could overcome the young man's reluctance.",
+      "subj": "persuasion",
+      "verb": "overcome",
+      "obj": "reluctance"
+    },
+    {
+      "id": "e0007",
+      "label": "he | refuse | \u2205",
+      "sent_id": 7,
+      "sentence": "He refused to go.",
+      "subj": "he",
+      "verb": "refuse",
+      "obj": ""
+    },
+    {
+      "id": "e0008",
+      "label": "father | say | \u2205",
+      "sent_id": 8,
+      "sentence": "\"Ah, my son,\" said the father, at last, \"if you are afraid to go to the river, you will never kill the Red Head.",
+      "subj": "father",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0009",
+      "label": "it | seem | \u2205",
+      "sent_id": 9,
+      "sentence": "\"\n\nThe stripling was deeply vexed by this observation; it seemed to touch him to the very quick.",
+      "subj": "it",
+      "verb": "seem",
+      "obj": ""
+    },
+    {
+      "id": "e0010",
+      "label": "he | muse | silence",
+      "sent_id": 10,
+      "sentence": "He mused in silence.",
+      "subj": "he",
+      "verb": "muse",
+      "obj": "silence"
+    },
+    {
+      "id": "e0011",
+      "label": "he | refuse | \u2205",
+      "sent_id": 11,
+      "sentence": "He refused to eat, and made no reply when spoken to.",
+      "subj": "he",
+      "verb": "refuse",
+      "obj": ""
+    },
+    {
+      "id": "e0012",
+      "label": "he | sit | door",
+      "sent_id": 12,
+      "sentence": "He sat by the lodge door all the night through, looking up at the stars, and sighing like one sorely distressed.",
+      "subj": "he",
+      "verb": "sit",
+      "obj": "door"
+    },
+    {
+      "id": "e0013",
+      "label": "he | ask | mother",
+      "sent_id": 13,
+      "sentence": "The next day he asked his mother to dress the skin of the deer, and to make it into moccasins for him, while he busied himself in preparing a bow and arrows.",
+      "subj": "he",
+      "verb": "ask",
+      "obj": "mother"
+    },
+    {
+      "id": "e0014",
+      "label": "he | leave | lodge",
+      "sent_id": 14,
+      "sentence": "As soon as these were in readiness, he left the lodge one morning, at sunrise, without saying a word to his father or mother.",
+      "subj": "he",
+      "verb": "leave",
+      "obj": "lodge"
+    },
+    {
+      "id": "e0015",
+      "label": "he | fire | one",
+      "sent_id": 15,
+      "sentence": "As he passed along, he fired one of his arrows into the air, which fell westward.",
+      "subj": "he",
+      "verb": "fire",
+      "obj": "one"
+    },
+    {
+      "id": "e0016",
+      "label": "he | rejoice | \u2205",
+      "sent_id": 16,
+      "sentence": "He took that course, and coming to the spot where the arrow had fallen, he was rejoiced to find it piercing the heart of a deer.",
+      "subj": "he",
+      "verb": "rejoice",
+      "obj": ""
+    },
+    {
+      "id": "e0017",
+      "label": "he | refresh | himself",
+      "sent_id": 17,
+      "sentence": "He refreshed himself with a meal of the venison, and the next morning he fired another arrow.",
+      "subj": "he",
+      "verb": "refresh",
+      "obj": "himself"
+    },
+    {
+      "id": "e0018",
+      "label": "he | find | course",
+      "sent_id": 18,
+      "sentence": "Following its course, after traveling all day he found that he had transfixed another deer.",
+      "subj": "he",
+      "verb": "find",
+      "obj": "course"
+    },
+    {
+      "id": "e0019",
+      "label": "he | fire | arrow",
+      "sent_id": 19,
+      "sentence": "In this manner he fired four arrows, and every evening he discovered that he had killed a deer.",
+      "subj": "he",
+      "verb": "fire",
+      "obj": "arrow"
+    },
+    {
+      "id": "e0020",
+      "label": "he | leave | arrow",
+      "sent_id": 20,
+      "sentence": "By a strange oversight, he left the arrows sticking in the carcasses, and passed on without withdrawing them.",
+      "subj": "he",
+      "verb": "leave",
+      "obj": "arrow"
+    },
+    {
+      "id": "e0021",
+      "label": "he | be | distress",
+      "sent_id": 21,
+      "sentence": "Having in this way no arrow for the fifth day, he was in great distress at night for the want of food.",
+      "subj": "he",
+      "verb": "be",
+      "obj": "distress"
+    },
+    {
+      "id": "e0022",
+      "label": "he | throw | himself",
+      "sent_id": 22,
+      "sentence": "At last he threw himself upon the earth in despair, concluding that he might as well perish there as go further.",
+      "subj": "he",
+      "verb": "throw",
+      "obj": "himself"
+    },
+    {
+      "id": "e0023",
+      "label": "he | lain | ground",
+      "sent_id": 23,
+      "sentence": "But he had not lain long before he heard a hollow rumbling noise, in the ground beneath him, like that of an earthquake moving slowly along.",
+      "subj": "he",
+      "verb": "lain",
+      "obj": "ground"
+    },
+    {
+      "id": "e0024",
+      "label": "he | spring | \u2205",
+      "sent_id": 24,
+      "sentence": "He sprang up, and discovered at a distance the figure of a human being, walking with a stick.",
+      "subj": "he",
+      "verb": "spring",
+      "obj": ""
+    },
+    {
+      "id": "e0025",
+      "label": "he | look | \u2205",
+      "sent_id": 25,
+      "sentence": "He looked attentively, and saw that the figure was walking in a wide beaten path in a prairie, leading from a dusky lodge to a lake, whose waters were black and turbid.",
+      "subj": "he",
+      "verb": "look",
+      "obj": ""
+    },
+    {
+      "id": "e0026",
+      "label": "lodge | be | surprise",
+      "sent_id": 26,
+      "sentence": "To his surprise, this lodge, which had not been in view when he cast himself upon the ground, was now near at hand.",
+      "subj": "lodge",
+      "verb": "be",
+      "obj": "surprise"
+    },
+    {
+      "id": "e0027",
+      "label": "he | approach | nearer",
+      "sent_id": 27,
+      "sentence": "He approached a little nearer, and concealed himself; and in a moment he discovered that the figure was no other than that of the terrible witch, the little old woman who makes war.",
+      "subj": "he",
+      "verb": "approach",
+      "obj": "nearer"
+    },
+    {
+      "id": "e0028",
+      "label": "path | be | \u2205",
+      "sent_id": 28,
+      "sentence": "Her path to the lake was perfectly smooth and solid, and the noise Strong Desire had heard was caused by the striking of her walking staff upon the ground.",
+      "subj": "path",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0029",
+      "label": "top | decorate | string",
+      "sent_id": 29,
+      "sentence": "The top of this staff was decorated with a string of the toes and bills of birds of every kind, who, at every stroke of the stick, fluttered and sung their various notes in concert.",
+      "subj": "top",
+      "verb": "decorate",
+      "obj": "string"
+    },
+    {
+      "id": "e0030",
+      "label": "she | enter | lodge",
+      "sent_id": 30,
+      "sentence": "She entered her lodge and laid off her mantle, which was entirely composed of the scalps of women.",
+      "subj": "she",
+      "verb": "enter",
+      "obj": "lodge"
+    },
+    {
+      "id": "e0031",
+      "label": "she | shake | it",
+      "sent_id": 31,
+      "sentence": "Before folding it, she shook it several times, and at every shake the scalps uttered loud shouts of laughter, in which the old hag joined.",
+      "subj": "she",
+      "verb": "shake",
+      "obj": "it"
+    },
+    {
+      "id": "e0032",
+      "label": "boy | be | \u2205",
+      "sent_id": 32,
+      "sentence": "The boy, who lingered at the door, was greatly alarmed, but he uttered no cry.",
+      "subj": "boy",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0033",
+      "label": "she | come | he",
+      "sent_id": 33,
+      "sentence": "After laying by the cloak, she came directly to him.",
+      "subj": "she",
+      "verb": "come",
+      "obj": "he"
+    },
+    {
+      "id": "e0034",
+      "label": "she | inform | he",
+      "sent_id": 34,
+      "sentence": "Looking at him steadily, she informed him that she had known him from the time he had left his father's lodge, and had watched his movements.",
+      "subj": "she",
+      "verb": "inform",
+      "obj": "he"
+    },
+    {
+      "id": "e0035",
+      "label": "she | tell | he",
+      "sent_id": 35,
+      "sentence": "She told him not to fear or despair, for she would be his protector and friend.",
+      "subj": "she",
+      "verb": "tell",
+      "obj": "he"
+    },
+    {
+      "id": "e0036",
+      "label": "she | invite | he",
+      "sent_id": 36,
+      "sentence": "She invited him into her lodge, and gave him a supper.",
+      "subj": "she",
+      "verb": "invite",
+      "obj": "he"
+    },
+    {
+      "id": "e0037",
+      "label": "she | question | he",
+      "sent_id": 37,
+      "sentence": "During the repast, she questioned him as to his motives for visiting her.",
+      "subj": "she",
+      "verb": "question",
+      "obj": "he"
+    },
+    {
+      "id": "e0038",
+      "label": "\u2205 | state | manner",
+      "sent_id": 38,
+      "sentence": "He related his history, stated the manner in which he had been disgraced, and the difficulties he labored under.",
+      "subj": "",
+      "verb": "state",
+      "obj": "manner"
+    },
+    {
+      "id": "e0039",
+      "label": "you | be | \u2205",
+      "sent_id": 39,
+      "sentence": "\"Now tell me truly,\" said the little old woman who makes war, \"you were afraid to go to the water in the dark.",
+      "subj": "you",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0040",
+      "label": "desire | answer | \u2205",
+      "sent_id": 40,
+      "sentence": "\"\n\n\"I was,\" Strong Desire answered, promptly.",
+      "subj": "desire",
+      "verb": "answer",
+      "obj": ""
+    },
+    {
+      "id": "e0041",
+      "label": "hag | wave | staff",
+      "sent_id": 41,
+      "sentence": "As he replied, the hag waved her staff.",
+      "subj": "hag",
+      "verb": "wave",
+      "obj": "staff"
+    },
+    {
+      "id": "e0042",
+      "label": "bird | set | cry",
+      "sent_id": 42,
+      "sentence": "The birds set up a clamorous cry, and the mantle shook violently as all the scalps burst into a hideous shout of laughter.",
+      "subj": "bird",
+      "verb": "set",
+      "obj": "cry"
+    },
+    {
+      "id": "e0043",
+      "label": "she | ask | \u2205",
+      "sent_id": 43,
+      "sentence": "\"And are you afraid now,\" she asked again.",
+      "subj": "she",
+      "verb": "ask",
+      "obj": ""
+    },
+    {
+      "id": "e0044",
+      "label": "\u2205 | answer | desire",
+      "sent_id": 44,
+      "sentence": "\"I am,\" again answered Strong Desire, without hesitation.",
+      "subj": "",
+      "verb": "answer",
+      "obj": "desire"
+    },
+    {
+      "id": "e0045",
+      "label": "\u2205 | rejoin | woman",
+      "sent_id": 45,
+      "sentence": "\"But you are not afraid to speak the truth,\" rejoined the little old woman.",
+      "subj": "",
+      "verb": "rejoin",
+      "obj": "woman"
+    },
+    {
+      "id": "e0046",
+      "label": "you | be | man",
+      "sent_id": 46,
+      "sentence": "\"You will be a brave man yet.",
+      "subj": "you",
+      "verb": "be",
+      "obj": "man"
+    },
+    {
+      "id": "e0047",
+      "label": "she | cheer | he",
+      "sent_id": 47,
+      "sentence": "\"\n\nShe cheered him with the assurance of her friendship, and began at once to exercise her power upon him.",
+      "subj": "she",
+      "verb": "cheer",
+      "obj": "he"
+    },
+    {
+      "id": "e0048",
+      "label": "she | take | comb",
+      "sent_id": 48,
+      "sentence": "His hair being very short, she took a great leaden comb, and after drawing it through his locks several times, they became of a handsome length like those of a beautiful young woman.",
+      "subj": "she",
+      "verb": "take",
+      "obj": "comb"
+    },
+    {
+      "id": "e0049",
+      "label": "she | proceed | \u2205",
+      "sent_id": 49,
+      "sentence": "She then proceeded to dress him as a female, furnishing him with the necessary garments, and tinting his face with colors of the most charming dye.",
+      "subj": "she",
+      "verb": "proceed",
+      "obj": ""
+    },
+    {
+      "id": "e0050",
+      "label": "she | give | he",
+      "sent_id": 50,
+      "sentence": "She gave him, too, a bowl of shining metal.",
+      "subj": "she",
+      "verb": "give",
+      "obj": "he"
+    },
+    {
+      "id": "e0051",
+      "label": "she | direct | he",
+      "sent_id": 51,
+      "sentence": "She directed him to put in his girdle a blade of scented sword-grass, and to proceed the next morning to the banks of the lake, which was no other than that over which the Red Head reigned.",
+      "subj": "she",
+      "verb": "direct",
+      "obj": "he"
+    },
+    {
+      "id": "e0052",
+      "label": "tah | be | sorcerer",
+      "sent_id": 52,
+      "sentence": "Now Hah-Undo-Tah, or the Red Head, was a most powerful sorcerer, living upon an island in the centre of his realm of water, and he was the terror of all the country.",
+      "subj": "tah",
+      "verb": "be",
+      "obj": "sorcerer"
+    },
+    {
+      "id": "e0053",
+      "label": "she | inform | he",
+      "sent_id": 53,
+      "sentence": "She informed him that there would be many Indians upon the island, who, as soon as they saw him use the shining bowl to drink with, would come and solicit him to be their wife, and to take him over to the island.",
+      "subj": "she",
+      "verb": "inform",
+      "obj": "he"
+    },
+    {
+      "id": "e0054",
+      "label": "these | offer | \u2205",
+      "sent_id": 54,
+      "sentence": "These offers he was to refuse, and to say that he had come a great distance to be the wife of the Red Head, and that if the chief could not seek her for himself, she would return to her village.",
+      "subj": "these",
+      "verb": "offer",
+      "obj": ""
+    },
+    {
+      "id": "e0055",
+      "label": "she | say | \u2205",
+      "sent_id": 55,
+      "sentence": "She said, that as soon as the Red Head heard of this he would come for her in his own canoe, in which she must embark.",
+      "subj": "she",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0056",
+      "label": "you | consent | \u2205",
+      "sent_id": 56,
+      "sentence": "\"On reaching the shore,\" added the little old woman, \"you must consent to be his wife; and in the evening you are to induce him to take a walk out of the village, and when you have reached a lonesome spot, use the first opportunity to cut off his head with the blade of grass.\"",
+      "subj": "you",
+      "verb": "consent",
+      "obj": ""
+    },
+    {
+      "id": "e0057",
+      "label": "she | give | advice",
+      "sent_id": 57,
+      "sentence": "She also gave Strong Desire general advice how he was to conduct himself to sustain his assumed character of a woman.",
+      "subj": "she",
+      "verb": "give",
+      "obj": "advice"
+    },
+    {
+      "id": "e0058",
+      "label": "fear | permit | he",
+      "sent_id": 58,
+      "sentence": "His fear would scarcely permit him to consent to engage in an adventure attended with so much danger; but the recollection of his father's looks and reproaches of the want of courage, decided him.",
+      "subj": "fear",
+      "verb": "permit",
+      "obj": "he"
+    },
+    {
+      "id": "e0059",
+      "label": "he | leave | lodge",
+      "sent_id": 59,
+      "sentence": "Early in the morning he left the lodge of the little old woman who makes war, which was clouded in a heavy brackish fog, so thick and heavy to breathe, that he with difficulty made his way forth.",
+      "subj": "he",
+      "verb": "leave",
+      "obj": "lodge"
+    },
+    {
+      "id": "e0060",
+      "label": "it | be | \u2205",
+      "sent_id": 60,
+      "sentence": "When he turned to look back for it, it was gone.",
+      "subj": "it",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0061",
+      "label": "he | take | path",
+      "sent_id": 61,
+      "sentence": "He took the hard beaten path to the banks of the lake, and made for the water at a point directly opposite the Red Head's lodge.",
+      "subj": "he",
+      "verb": "take",
+      "obj": "path"
+    },
+    {
+      "id": "e0062",
+      "label": "he | stand | \u2205",
+      "sent_id": 62,
+      "sentence": "Where he now stood it was beautiful day.",
+      "subj": "he",
+      "verb": "stand",
+      "obj": ""
+    },
+    {
+      "id": "e0063",
+      "label": "heaven | be | \u2205",
+      "sent_id": 63,
+      "sentence": "The heavens were clear, and the sun shone out as brightly to Strong Desire as on the first morning when he had put forth his little head from the door of his father's lodge.",
+      "subj": "heaven",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0064",
+      "label": "he | be | \u2205",
+      "sent_id": 64,
+      "sentence": "He had not been long there, sauntering along the beach, when he displayed the glittering bowl by dipping water from the lake.",
+      "subj": "he",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0065",
+      "label": "number | come | island",
+      "sent_id": 65,
+      "sentence": "Very soon a number of canoes came off from the island.",
+      "subj": "number",
+      "verb": "come",
+      "obj": "island"
+    },
+    {
+      "id": "e0066",
+      "label": "man | admire | dress",
+      "sent_id": 66,
+      "sentence": "The men admired his dress, and were charmed with his beauty, and almost with one voice they all made proposals of marriage.",
+      "subj": "man",
+      "verb": "admire",
+      "obj": "dress"
+    },
+    {
+      "id": "e0067",
+      "label": "these | decline | \u2205",
+      "sent_id": 67,
+      "sentence": "These, Strong Desire promptly declined.",
+      "subj": "these",
+      "verb": "decline",
+      "obj": ""
+    },
+    {
+      "id": "e0068",
+      "label": "he | order | bark",
+      "sent_id": 68,
+      "sentence": "When this was reported to Red Head, he ordered his royal bark to be launched by his chosen men of the oar, and crossed over to see this wonderful girl.",
+      "subj": "he",
+      "verb": "order",
+      "obj": "bark"
+    },
+    {
+      "id": "e0069",
+      "label": "desire | see | \u2205",
+      "sent_id": 69,
+      "sentence": "As they approached the shore, Strong Desire saw that the ribs of the sorcerer's canoe were formed of living rattlesnakes, whose heads pointed outward to guard him from his enemies.",
+      "subj": "desire",
+      "verb": "see",
+      "obj": ""
+    },
+    {
+      "id": "e0070",
+      "label": "he | step | canoe",
+      "sent_id": 70,
+      "sentence": "Being invited, he had no sooner stepped into the canoe, than they began to hiss and rattle furiously, which put him in a great fright; but the magician spoke to them, when they became pacified and quiet.",
+      "subj": "he",
+      "verb": "step",
+      "obj": "canoe"
+    },
+    {
+      "id": "e0071",
+      "label": "they | be | landing",
+      "sent_id": 71,
+      "sentence": "Shortly after they were at the landing upon the island.",
+      "subj": "they",
+      "verb": "be",
+      "obj": "landing"
+    },
+    {
+      "id": "e0072",
+      "label": "marriage | take | place",
+      "sent_id": 72,
+      "sentence": "The marriage took place immediately; and the bride made presents of various valuables which had been furnished her by the old witch who inhabited the cloudy lodge.",
+      "subj": "marriage",
+      "verb": "take",
+      "obj": "place"
+    },
+    {
+      "id": "e0073",
+      "label": "mother | regard | face",
+      "sent_id": 73,
+      "sentence": "As they were sitting in the lodge, surrounded by the friends and relatives, the mother of the Red Head regarded the face of her new daughter-in-law for a long time with fixed attention.",
+      "subj": "mother",
+      "verb": "regard",
+      "obj": "face"
+    },
+    {
+      "id": "e0074",
+      "label": "she | be | scrutiny",
+      "sent_id": 74,
+      "sentence": "From this scrutiny she was convinced that this singular and hasty marriage boded no good to her son.",
+      "subj": "she",
+      "verb": "be",
+      "obj": "scrutiny"
+    },
+    {
+      "id": "e0075",
+      "label": "she | draw | he",
+      "sent_id": 75,
+      "sentence": "She drew him aside, and disclosed to him her suspicions.",
+      "subj": "she",
+      "verb": "draw",
+      "obj": "he"
+    },
+    {
+      "id": "e0076",
+      "label": "she | have | figure",
+      "sent_id": 76,
+      "sentence": "This can be no female, said she; she has the figure and manners, the countenance, and more especially the eyes, are beyond a doubt those of a man.",
+      "subj": "she",
+      "verb": "have",
+      "obj": "figure"
+    },
+    {
+      "id": "e0077",
+      "label": "husband | reject | suspicion",
+      "sent_id": 77,
+      "sentence": "Her husband rejected her suspicions, and rebuked her severely for entertaining such notions of her own daughter-in-law.",
+      "subj": "husband",
+      "verb": "reject",
+      "obj": "suspicion"
+    },
+    {
+      "id": "e0078",
+      "label": "she | urge | doubt",
+      "sent_id": 78,
+      "sentence": "She still urged her doubts, which so vexed the husband that he broke his pipe-stem in her face, and called her an owl.",
+      "subj": "she",
+      "verb": "urge",
+      "obj": "doubt"
+    },
+    {
+      "id": "e0079",
+      "label": "act | astonish | company",
+      "sent_id": 79,
+      "sentence": "This act astonished the company, who sought an explanation; and it was no sooner given, than the mock bride, rising with an air of offended dignity, informed the Red Head that after receiving so gross an affront from his relatives she could not think of remaining with him as his wife, but should forthwith return to her own friends.",
+      "subj": "act",
+      "verb": "astonish",
+      "obj": "company"
+    },
+    {
+      "id": "e0080",
+      "label": "desire | leave | lodge",
+      "sent_id": 80,
+      "sentence": "With a toss of the head, like that of an angry female, Strong Desire left the lodge, followed by Red Head, and walked away until he came to the beach of the island, near the spot where they had first landed.",
+      "subj": "desire",
+      "verb": "leave",
+      "obj": "lodge"
+    },
+    {
+      "id": "e0081",
+      "label": "head | entreat | he",
+      "sent_id": 81,
+      "sentence": "Red Head entreated him to remain, urging every motive, and making all sorts of magnificent promises\u2014none of which seemed to make the least impression.",
+      "subj": "head",
+      "verb": "entreat",
+      "obj": "he"
+    },
+    {
+      "id": "e0082",
+      "label": "desire | be | \u2205",
+      "sent_id": 82,
+      "sentence": "Strong Desire, Red Head thought, was very hard-hearted.",
+      "subj": "desire",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0083",
+      "label": "they | seat | themselves",
+      "sent_id": 83,
+      "sentence": "During these appeals they had seated themselves upon the ground, and Red Head, in great affliction, reclined his head upon his fancied wife's lap.",
+      "subj": "they",
+      "verb": "seat",
+      "obj": "themselves"
+    },
+    {
+      "id": "e0084",
+      "label": "desire | change | manner",
+      "sent_id": 84,
+      "sentence": "Strong Desire now changed his manner, was very kind and soothing, and suggested in the most winning accent that if Red Head would sleep soundly for awhile he might possibly dream himself out of all his troubles.",
+      "subj": "desire",
+      "verb": "change",
+      "obj": "manner"
+    },
+    {
+      "id": "e0085",
+      "label": "\u2205 | say | \u2205",
+      "sent_id": 85,
+      "sentence": "Red Head, delighted at so happy a prospect, said that he would fall asleep immediately.",
+      "subj": "",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0086",
+      "label": "desire | say | way",
+      "sent_id": 86,
+      "sentence": "\"You have killed a good many men in your time, Red Head,\" said Strong Desire, by way of suggesting an agreeable train of ideas to the sorcerer.",
+      "subj": "desire",
+      "verb": "say",
+      "obj": "way"
+    },
+    {
+      "id": "e0087",
+      "label": "hundred | answer | head",
+      "sent_id": 87,
+      "sentence": "\"Hundreds,\" answered Red Head; \"and what is better, now that I am fairly settled in life by this happy marriage, I shall be able to give my whole attention to massacre.\"",
+      "subj": "hundred",
+      "verb": "answer",
+      "obj": "head"
+    },
+    {
+      "id": "e0088",
+      "label": "\u2205 | interpose | desire",
+      "sent_id": 88,
+      "sentence": "\"And you will kill hundreds more,\" interposed Strong Desire, in the most insinuating manner imaginable.",
+      "subj": "",
+      "verb": "interpose",
+      "obj": "desire"
+    },
+    {
+      "id": "e0089",
+      "label": "\u2205 | be | end",
+      "sent_id": 90,
+      "sentence": "There will be no end to my delicious murders.",
+      "subj": "",
+      "verb": "be",
+      "obj": "end"
+    },
+    {
+      "id": "e0090",
+      "label": "i | love | \u2205",
+      "sent_id": 91,
+      "sentence": "I love dearly to kill people.",
+      "subj": "i",
+      "verb": "love",
+      "obj": ""
+    },
+    {
+      "id": "e0091",
+      "label": "i | like | \u2205",
+      "sent_id": 92,
+      "sentence": "I would like to kill you if you were not my wife.\"",
+      "subj": "i",
+      "verb": "like",
+      "obj": ""
+    },
+    {
+      "id": "e0092",
+      "label": "that | be | head",
+      "sent_id": 93,
+      "sentence": "\"There, there,\" said Strong Desire, with the coaxing air of a little coquette, \"go to sleep; that's a good Red Head.",
+      "subj": "that",
+      "verb": "be",
+      "obj": "head"
+    },
+    {
+      "id": "e0093",
+      "label": "straightway | fall | sleep",
+      "sent_id": 94,
+      "sentence": "\"\n\nNo other subject of conversation occurring to the chief, now that he had exhausted the delightful topic of wholesale murder, he straightway fell into a deep sleep.",
+      "subj": "straightway",
+      "verb": "fall",
+      "obj": "sleep"
+    },
+    {
+      "id": "e0094",
+      "label": "chance | sever | head",
+      "sent_id": 95,
+      "sentence": "The chance so anxiously sought for had come; and Strong Desire, with a smiling eye, drawing his blade of grass with lightning swiftness once across the neck of the Red Head, severed the huge and wicked head from the body.",
+      "subj": "chance",
+      "verb": "sever",
+      "obj": "head"
+    },
+    {
+      "id": "e0095",
+      "label": "desire | seize | trophy",
+      "sent_id": 96,
+      "sentence": "In a moment, stripping off his woman's dress, underneath which he had all along worn his male attire, Strong Desire seized the bleeding trophy, plunged into the lake, and swam safely over to the main shore.",
+      "subj": "desire",
+      "verb": "seize",
+      "obj": "trophy"
+    },
+    {
+      "id": "e0096",
+      "label": "he | reach | it",
+      "sent_id": 97,
+      "sentence": "He had scarcely reached it, when, looking back, he saw amid the darkness the torches of persons come out in search of the new married couple.",
+      "subj": "he",
+      "verb": "reach",
+      "obj": "it"
+    },
+    {
+      "id": "e0097",
+      "label": "he | listen | \u2205",
+      "sent_id": 98,
+      "sentence": "He listened until they had found the headless body, and he heard their piercing shrieks of rage and sorrow as he took his way to the lodge of his kind adviser.",
+      "subj": "he",
+      "verb": "listen",
+      "obj": ""
+    },
+    {
+      "id": "e0098",
+      "label": "woman | be | humor",
+      "sent_id": 99,
+      "sentence": "The little old woman who makes war was in an excellent humor, and she received Strong Desire with rejoicing.",
+      "subj": "woman",
+      "verb": "be",
+      "obj": "humor"
+    },
+    {
+      "id": "e0099",
+      "label": "she | admire | prudence",
+      "sent_id": 100,
+      "sentence": "She admired his prudence, and assured him his bravery should never be questioned again.",
+      "subj": "she",
+      "verb": "admire",
+      "obj": "prudence"
+    },
+    {
+      "id": "e0100",
+      "label": "she | say | \u2205",
+      "sent_id": 101,
+      "sentence": "Lifting up the head, which she gazed upon with vast delight, she said he need only have brought the scalp.",
+      "subj": "she",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0101",
+      "label": "she | tell | he",
+      "sent_id": 102,
+      "sentence": "Cutting off a lock of the hair for herself, she told him he might now return with the head, which would be evidence of an achievement that would cause his own people to respect him.",
+      "subj": "she",
+      "verb": "tell",
+      "obj": "he"
+    },
+    {
+      "id": "e0102",
+      "label": "you | meet | \u2205",
+      "sent_id": 103,
+      "sentence": "\"In your way home,\" added the little old woman, \"you will meet with but one difficulty.",
+      "subj": "you",
+      "verb": "meet",
+      "obj": ""
+    },
+    {
+      "id": "e0103",
+      "label": "maunkahkeesh | require | offering",
+      "sent_id": 104,
+      "sentence": "Maunkahkeesh, the Spirit of the Earth, requires an offering or sacrifice from all of her sons who perform extraordinary deeds.",
+      "subj": "maunkahkeesh",
+      "verb": "require",
+      "obj": "offering"
+    },
+    {
+      "id": "e0104",
+      "label": "earth | open | \u2205",
+      "sent_id": 105,
+      "sentence": "As you walk along in a prairie there will be an earthquake; the earth will open and divide the prairie in the middle.",
+      "subj": "earth",
+      "verb": "open",
+      "obj": ""
+    },
+    {
+      "id": "e0105",
+      "label": "\u2205 | take | partridge",
+      "sent_id": 106,
+      "sentence": "Take this partridge and throw it into the opening, and instantly spring over it.",
+      "subj": "",
+      "verb": "take",
+      "obj": "partridge"
+    },
+    {
+      "id": "e0106",
+      "label": "desire | take | leave",
+      "sent_id": 107,
+      "sentence": "\"\n\nWith many thanks to the little old witch, who had so faithfully befriended him, Strong Desire took leave of her, and having, by the course pointed out, safely passed the earthquake, he arrived near his own village.",
+      "subj": "desire",
+      "verb": "take",
+      "obj": "leave"
+    },
+    {
+      "id": "e0107",
+      "label": "he | hide | trophy",
+      "sent_id": 108,
+      "sentence": "He secretly hid his precious trophy.",
+      "subj": "he",
+      "verb": "hide",
+      "obj": "trophy"
+    },
+    {
+      "id": "e0108",
+      "label": "he | find | \u2205",
+      "sent_id": 109,
+      "sentence": "On entering the village, he found that his parents had returned from the place of their spring encampment by the wood-side, and that they were in heavy sorrowing for their son, whom they supposed to be lost.",
+      "subj": "he",
+      "verb": "find",
+      "obj": ""
+    },
+    {
+      "id": "e0109",
+      "label": "one | present | themselves",
+      "sent_id": 110,
+      "sentence": "One and another of the young men had presented themselves to the disconsolate parents, and said, \"Look up, I am your son;\" but when they looked up, they beheld not the familiar face of Strong Desire.",
+      "subj": "one",
+      "verb": "present",
+      "obj": "themselves"
+    },
+    {
+      "id": "e0110",
+      "label": "\u2205 | deceive | manner",
+      "sent_id": 111,
+      "sentence": "Having been often deceived in this manner, when their own son in truth presented himself they sat with their heads down, and with their eyes nearly blinded with weeping.",
+      "subj": "",
+      "verb": "deceive",
+      "obj": "manner"
+    },
+    {
+      "id": "e0111",
+      "label": "it | be | time",
+      "sent_id": 112,
+      "sentence": "It was some time before they could be prevailed upon to bestow a glance upon him.",
+      "subj": "it",
+      "verb": "be",
+      "obj": "time"
+    },
+    {
+      "id": "e0112",
+      "label": "it | be | that",
+      "sent_id": 113,
+      "sentence": "It was still longer before they could recognize him as their son who had refused to draw water from the river, at night, for fear, for his countenance was no longer that of a timid stripling; it was that of a man who has seen and done great things, and who has the heart to do greater still.",
+      "subj": "it",
+      "verb": "be",
+      "obj": "that"
+    },
+    {
+      "id": "e0113",
+      "label": "they | believe | he",
+      "sent_id": 114,
+      "sentence": "When he recounted his adventures they believed him mad.",
+      "subj": "they",
+      "verb": "believe",
+      "obj": "he"
+    },
+    {
+      "id": "e0114",
+      "label": "man | laugh | he",
+      "sent_id": 115,
+      "sentence": "The young men laughed at him\u2014him, Strong Desire\u2014who feared to walk to the river at night-time.",
+      "subj": "man",
+      "verb": "laugh",
+      "obj": "he"
+    },
+    {
+      "id": "e0115",
+      "label": "he | leave | lodge",
+      "sent_id": 116,
+      "sentence": "He left the lodge, and ere their laughter had ceased, returned with his trophy.",
+      "subj": "he",
+      "verb": "leave",
+      "obj": "lodge"
+    },
+    {
+      "id": "e0116",
+      "label": "he | hold | head",
+      "sent_id": 117,
+      "sentence": "He held aloft the head of the Red Sorcerer, with the great ghastly leer which lighted it up before his last sleep, at prospect of a thousand future murders, fresh upon it.",
+      "subj": "he",
+      "verb": "hold",
+      "obj": "head"
+    },
+    {
+      "id": "e0117",
+      "label": "it | recognize | \u2205",
+      "sent_id": 118,
+      "sentence": "It was easily recognized, and the young men who had scoffed at Strong Desire shrunk into the corners out of sight.",
+      "subj": "it",
+      "verb": "recognize",
+      "obj": ""
+    },
+    {
+      "id": "e0118",
+      "label": "desire | conquer | head",
+      "sent_id": 119,
+      "sentence": "Strong Desire had conquered the terrible Red Head!",
+      "subj": "desire",
+      "verb": "conquer",
+      "obj": "head"
+    },
+    {
+      "id": "e0119",
+      "label": "doubt | dispel | \u2205",
+      "sent_id": 120,
+      "sentence": "All doubts of the truth of his adventures were dispelled.",
+      "subj": "doubt",
+      "verb": "dispel",
+      "obj": ""
+    },
+    {
+      "id": "e0120",
+      "label": "he | greet | joy",
+      "sent_id": 121,
+      "sentence": "He was greeted with joy, and placed among the first warriors of the nation.",
+      "subj": "he",
+      "verb": "greet",
+      "obj": "joy"
+    },
+    {
+      "id": "e0121",
+      "label": "he | become | chief",
+      "sent_id": 122,
+      "sentence": "He finally became a chief, and his family were ever after respected and esteemed.",
+      "subj": "he",
+      "verb": "become",
+      "obj": "chief"
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    },
+    {
+      "source": "e0029",
+      "target": "e0030",
+      "relation": "next"
+    },
+    {
+      "source": "e0030",
+      "target": "e0031",
+      "relation": "next"
+    },
+    {
+      "source": "e0031",
+      "target": "e0032",
+      "relation": "next"
+    },
+    {
+      "source": "e0032",
+      "target": "e0033",
+      "relation": "next"
+    },
+    {
+      "source": "e0033",
+      "target": "e0034",
+      "relation": "next"
+    },
+    {
+      "source": "e0034",
+      "target": "e0035",
+      "relation": "next"
+    },
+    {
+      "source": "e0035",
+      "target": "e0036",
+      "relation": "next"
+    },
+    {
+      "source": "e0036",
+      "target": "e0037",
+      "relation": "next"
+    },
+    {
+      "source": "e0037",
+      "target": "e0038",
+      "relation": "next"
+    },
+    {
+      "source": "e0038",
+      "target": "e0039",
+      "relation": "next"
+    },
+    {
+      "source": "e0039",
+      "target": "e0040",
+      "relation": "next"
+    },
+    {
+      "source": "e0040",
+      "target": "e0041",
+      "relation": "next"
+    },
+    {
+      "source": "e0041",
+      "target": "e0042",
+      "relation": "next"
+    },
+    {
+      "source": "e0042",
+      "target": "e0043",
+      "relation": "next"
+    },
+    {
+      "source": "e0043",
+      "target": "e0044",
+      "relation": "next"
+    },
+    {
+      "source": "e0044",
+      "target": "e0045",
+      "relation": "next"
+    },
+    {
+      "source": "e0045",
+      "target": "e0046",
+      "relation": "next"
+    },
+    {
+      "source": "e0046",
+      "target": "e0047",
+      "relation": "next"
+    },
+    {
+      "source": "e0047",
+      "target": "e0048",
+      "relation": "next"
+    },
+    {
+      "source": "e0048",
+      "target": "e0049",
+      "relation": "next"
+    },
+    {
+      "source": "e0049",
+      "target": "e0050",
+      "relation": "next"
+    },
+    {
+      "source": "e0050",
+      "target": "e0051",
+      "relation": "next"
+    },
+    {
+      "source": "e0051",
+      "target": "e0052",
+      "relation": "next"
+    },
+    {
+      "source": "e0052",
+      "target": "e0053",
+      "relation": "next"
+    },
+    {
+      "source": "e0053",
+      "target": "e0054",
+      "relation": "next"
+    },
+    {
+      "source": "e0054",
+      "target": "e0055",
+      "relation": "next"
+    },
+    {
+      "source": "e0055",
+      "target": "e0056",
+      "relation": "next"
+    },
+    {
+      "source": "e0056",
+      "target": "e0057",
+      "relation": "next"
+    },
+    {
+      "source": "e0057",
+      "target": "e0058",
+      "relation": "next"
+    },
+    {
+      "source": "e0058",
+      "target": "e0059",
+      "relation": "next"
+    },
+    {
+      "source": "e0059",
+      "target": "e0060",
+      "relation": "next"
+    },
+    {
+      "source": "e0060",
+      "target": "e0061",
+      "relation": "next"
+    },
+    {
+      "source": "e0061",
+      "target": "e0062",
+      "relation": "next"
+    },
+    {
+      "source": "e0062",
+      "target": "e0063",
+      "relation": "next"
+    },
+    {
+      "source": "e0063",
+      "target": "e0064",
+      "relation": "next"
+    },
+    {
+      "source": "e0064",
+      "target": "e0065",
+      "relation": "next"
+    },
+    {
+      "source": "e0065",
+      "target": "e0066",
+      "relation": "next"
+    },
+    {
+      "source": "e0066",
+      "target": "e0067",
+      "relation": "next"
+    },
+    {
+      "source": "e0067",
+      "target": "e0068",
+      "relation": "next"
+    },
+    {
+      "source": "e0068",
+      "target": "e0069",
+      "relation": "next"
+    },
+    {
+      "source": "e0069",
+      "target": "e0070",
+      "relation": "next"
+    },
+    {
+      "source": "e0070",
+      "target": "e0071",
+      "relation": "next"
+    },
+    {
+      "source": "e0071",
+      "target": "e0072",
+      "relation": "next"
+    },
+    {
+      "source": "e0072",
+      "target": "e0073",
+      "relation": "next"
+    },
+    {
+      "source": "e0073",
+      "target": "e0074",
+      "relation": "next"
+    },
+    {
+      "source": "e0074",
+      "target": "e0075",
+      "relation": "next"
+    },
+    {
+      "source": "e0075",
+      "target": "e0076",
+      "relation": "next"
+    },
+    {
+      "source": "e0076",
+      "target": "e0077",
+      "relation": "next"
+    },
+    {
+      "source": "e0077",
+      "target": "e0078",
+      "relation": "next"
+    },
+    {
+      "source": "e0078",
+      "target": "e0079",
+      "relation": "next"
+    },
+    {
+      "source": "e0079",
+      "target": "e0080",
+      "relation": "next"
+    },
+    {
+      "source": "e0080",
+      "target": "e0081",
+      "relation": "next"
+    },
+    {
+      "source": "e0081",
+      "target": "e0082",
+      "relation": "next"
+    },
+    {
+      "source": "e0082",
+      "target": "e0083",
+      "relation": "next"
+    },
+    {
+      "source": "e0083",
+      "target": "e0084",
+      "relation": "next"
+    },
+    {
+      "source": "e0084",
+      "target": "e0085",
+      "relation": "next"
+    },
+    {
+      "source": "e0085",
+      "target": "e0086",
+      "relation": "next"
+    },
+    {
+      "source": "e0086",
+      "target": "e0087",
+      "relation": "next"
+    },
+    {
+      "source": "e0087",
+      "target": "e0088",
+      "relation": "next"
+    },
+    {
+      "source": "e0088",
+      "target": "e0089",
+      "relation": "next"
+    },
+    {
+      "source": "e0089",
+      "target": "e0090",
+      "relation": "next"
+    },
+    {
+      "source": "e0090",
+      "target": "e0091",
+      "relation": "next"
+    },
+    {
+      "source": "e0091",
+      "target": "e0092",
+      "relation": "next"
+    },
+    {
+      "source": "e0092",
+      "target": "e0093",
+      "relation": "next"
+    },
+    {
+      "source": "e0093",
+      "target": "e0094",
+      "relation": "next"
+    },
+    {
+      "source": "e0094",
+      "target": "e0095",
+      "relation": "next"
+    },
+    {
+      "source": "e0095",
+      "target": "e0096",
+      "relation": "next"
+    },
+    {
+      "source": "e0096",
+      "target": "e0097",
+      "relation": "next"
+    },
+    {
+      "source": "e0097",
+      "target": "e0098",
+      "relation": "next"
+    },
+    {
+      "source": "e0098",
+      "target": "e0099",
+      "relation": "next"
+    },
+    {
+      "source": "e0099",
+      "target": "e0100",
+      "relation": "next"
+    },
+    {
+      "source": "e0100",
+      "target": "e0101",
+      "relation": "next"
+    },
+    {
+      "source": "e0101",
+      "target": "e0102",
+      "relation": "next"
+    },
+    {
+      "source": "e0102",
+      "target": "e0103",
+      "relation": "next"
+    },
+    {
+      "source": "e0103",
+      "target": "e0104",
+      "relation": "next"
+    },
+    {
+      "source": "e0104",
+      "target": "e0105",
+      "relation": "next"
+    },
+    {
+      "source": "e0105",
+      "target": "e0106",
+      "relation": "next"
+    },
+    {
+      "source": "e0106",
+      "target": "e0107",
+      "relation": "next"
+    },
+    {
+      "source": "e0107",
+      "target": "e0108",
+      "relation": "next"
+    },
+    {
+      "source": "e0108",
+      "target": "e0109",
+      "relation": "next"
+    },
+    {
+      "source": "e0109",
+      "target": "e0110",
+      "relation": "next"
+    },
+    {
+      "source": "e0110",
+      "target": "e0111",
+      "relation": "next"
+    },
+    {
+      "source": "e0111",
+      "target": "e0112",
+      "relation": "next"
+    },
+    {
+      "source": "e0112",
+      "target": "e0113",
+      "relation": "next"
+    },
+    {
+      "source": "e0113",
+      "target": "e0114",
+      "relation": "next"
+    },
+    {
+      "source": "e0114",
+      "target": "e0115",
+      "relation": "next"
+    },
+    {
+      "source": "e0115",
+      "target": "e0116",
+      "relation": "next"
+    },
+    {
+      "source": "e0116",
+      "target": "e0117",
+      "relation": "next"
+    },
+    {
+      "source": "e0117",
+      "target": "e0118",
+      "relation": "next"
+    },
+    {
+      "source": "e0118",
+      "target": "e0119",
+      "relation": "next"
+    },
+    {
+      "source": "e0119",
+      "target": "e0120",
+      "relation": "next"
+    },
+    {
+      "source": "e0120",
+      "target": "e0121",
+      "relation": "next"
+    }
+  ]
+}

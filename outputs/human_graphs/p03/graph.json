@@ -1,0 +1,1668 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "it | relate | \u2205",
+      "sent_id": 0,
+      "sentence": "Gulistan -chapter III- story 28\n\nIt is related that an athlete had been reduced to the greatest distress by adverse fortune.",
+      "subj": "it",
+      "verb": "relate",
+      "obj": ""
+    },
+    {
+      "id": "e0001",
+      "label": "he | complain | father",
+      "sent_id": 1,
+      "sentence": "His throat being capacious and his hands unable to fill it, he complained to his father and asked him for permission to travel as he hoped to be hoped to be able to gain a livelihood by the strength of his arm.",
+      "subj": "he",
+      "verb": "complain",
+      "obj": "father"
+    },
+    {
+      "id": "e0002",
+      "label": "excellence | lose | \u2205",
+      "sent_id": 2,
+      "sentence": "Excellence and skill are lost unless exhibited.",
+      "subj": "excellence",
+      "verb": "lose",
+      "obj": ""
+    },
+    {
+      "id": "e0003",
+      "label": "aloe | place | fire",
+      "sent_id": 3,
+      "sentence": "Lignum aloes is placed on fire and musk rubbed.",
+      "subj": "aloe",
+      "verb": "place",
+      "obj": "fire"
+    },
+    {
+      "id": "e0004",
+      "label": "father | reply | \u2205",
+      "sent_id": 4,
+      "sentence": "The father replied: 'My son, get rid of this vain idea and place the feet of contentment under the skirt of safety because great men have said that happiness does not consist in exertion and that the remedy against want is in the moderation of desires.",
+      "subj": "father",
+      "verb": "reply",
+      "obj": ""
+    },
+    {
+      "id": "e0005",
+      "label": "one | grasp | skirt",
+      "sent_id": 5,
+      "sentence": "No one can grasp the skirt of luck by force.",
+      "subj": "one",
+      "verb": "grasp",
+      "obj": "skirt"
+    },
+    {
+      "id": "e0006",
+      "label": "it | be | \u2205",
+      "sent_id": 6,
+      "sentence": "It is useless to put vasmah on a bald man's brow.",
+      "subj": "it",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0007",
+      "label": "accomplishment | be | use",
+      "sent_id": 7,
+      "sentence": "If thou hast two hundred accomplishments for each hair of thy head\nThey will be of no use if fortune is unpropitious.",
+      "subj": "accomplishment",
+      "verb": "be",
+      "obj": "use"
+    },
+    {
+      "id": "e0008",
+      "label": "athlete | do | what",
+      "sent_id": 8,
+      "sentence": "What can an athlete do with adverse luck?",
+      "subj": "athlete",
+      "verb": "do",
+      "obj": "what"
+    },
+    {
+      "id": "e0009",
+      "label": "arm | be | \u2205",
+      "sent_id": 9,
+      "sentence": "The arm of luck is better than the arm of strength.",
+      "subj": "arm",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0010",
+      "label": "son | rejoin | \u2205",
+      "sent_id": 10,
+      "sentence": "The son rejoined: 'Father, the advantages of travel are many, such as recreation of the mind entailing profit, seeing of wonderful and hearing of strange things, recreation in cities, associating with friends, acquisition of dignity, rank, property, the power of discriminating among acquaintances and gaining experience of the world, as the travellers in the Tariqat have said:\n\nAs long as thou walkest about the shop or the house\nThou wilt never become a man, 0 raw fellow.",
+      "subj": "son",
+      "verb": "rejoin",
+      "obj": ""
+    },
+    {
+      "id": "e0011",
+      "label": "\u2205 | go | \u2205",
+      "sent_id": 11,
+      "sentence": "Go and travel in the world\nBefore that day when thou goest from the world.'",
+      "subj": "",
+      "verb": "go",
+      "obj": ""
+    },
+    {
+      "id": "e0012",
+      "label": "father | reply | \u2205",
+      "sent_id": 12,
+      "sentence": "The father replied: 'My son, the advantages of travel such as thou hast enumerated them are countless but they regard especially five classes of men: firstly, a merchant who possesses in consequence of his wealth and power graceful male and female slaves and quick-handed assistants, alights every day in another town and every night in another place, has recreation every moment and sometimes enjoys the delights of the world.'",
+      "subj": "father",
+      "verb": "reply",
+      "obj": ""
+    },
+    {
+      "id": "e0013",
+      "label": "man | be | stranger",
+      "sent_id": 13,
+      "sentence": "A rich man is not a stranger in mountain, desert or solitude.",
+      "subj": "man",
+      "verb": "be",
+      "obj": "stranger"
+    },
+    {
+      "id": "e0014",
+      "label": "he | be | stranger",
+      "sent_id": 14,
+      "sentence": "Wherever he goes he pitches a tent and makes a sleeping place;\nWhilst he who is destitute of the goods of this world\nMust be in his own country a stranger and unknown.",
+      "subj": "he",
+      "verb": "be",
+      "obj": "stranger"
+    },
+    {
+      "id": "e0015",
+      "label": "presence | be | gold",
+      "sent_id": 16,
+      "sentence": "The presence of a learned man is like pure gold\nWhose power and price is known wherever he goes.",
+      "subj": "presence",
+      "verb": "be",
+      "obj": "gold"
+    },
+    {
+      "id": "e0016",
+      "label": "fellow | resemble | shahrua",
+      "sent_id": 17,
+      "sentence": "An ignorant fellow of noble descent resembles Shahrua,\nWhich nobody accepts in a foreign country.",
+      "subj": "fellow",
+      "verb": "resemble",
+      "obj": "shahrua"
+    },
+    {
+      "id": "e0017",
+      "label": "it | say | \u2205",
+      "sent_id": 18,
+      "sentence": "Thirdly, handsome fellows with whom the souls of pious men are inclined to commingle because it has been said that a little beauty is better than much wealth.",
+      "subj": "it",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0018",
+      "label": "face | say | \u2205",
+      "sent_id": 19,
+      "sentence": "An attractive face is also said to be a slave to despondent hearts and the key to locked doors, wherefore the society of such a person is everywhere known to be very acceptable:\n\nA beautiful person meets with honour and respect everywhere",
+      "subj": "face",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0019",
+      "label": "\u2205 | drive | anger",
+      "sent_id": 20,
+      "sentence": "Although perhaps driven away in anger by father and mother.",
+      "subj": "",
+      "verb": "drive",
+      "obj": "anger"
+    },
+    {
+      "id": "e0020",
+      "label": "i | see | feather",
+      "sent_id": 21,
+      "sentence": "I have seen a peacock feather in the leaves of the Quran.",
+      "subj": "i",
+      "verb": "see",
+      "obj": "feather"
+    },
+    {
+      "id": "e0021",
+      "label": "i | say | \u2205",
+      "sent_id": 22,
+      "sentence": "I said: 'I see thy position is higher than thy deserts.'",
+      "subj": "i",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0022",
+      "label": "it | say | \u2205",
+      "sent_id": 23,
+      "sentence": "It said: 'Hush, whoever is endowed with beauty,\nWherever he places his foot, hands are held out to receive it.'\n\nWhen a boy is symmetrical and heart-robbing\nIt matters not if his father disowns him.",
+      "subj": "it",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0023",
+      "label": "he | be | jewel",
+      "sent_id": 24,
+      "sentence": "He is a jewel which must not remain in a shell.",
+      "subj": "he",
+      "verb": "be",
+      "obj": "jewel"
+    },
+    {
+      "id": "e0024",
+      "label": "he | hold | heart",
+      "sent_id": 27,
+      "sentence": "By means of this talent he holds the hearts of people captive and religious men are delighted to associate with him.",
+      "subj": "he",
+      "verb": "hold",
+      "obj": "heart"
+    },
+    {
+      "id": "e0025",
+      "label": "audition | be | \u2205",
+      "sent_id": 28,
+      "sentence": "My audition is intent on the beautiful melody.",
+      "subj": "audition",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0026",
+      "label": "who | be | \u2205",
+      "sent_id": 29,
+      "sentence": "Who is that performing on the double chord?",
+      "subj": "who",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0027",
+      "label": "lay | be | \u2205",
+      "sent_id": 30,
+      "sentence": "How pleasant is the gentle and melancholy lay\nTo the ear of the boon companions who quaff the morning draught!",
+      "subj": "lay",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0028",
+      "label": "\u2205 | be | voice",
+      "sent_id": 31,
+      "sentence": "Better than a handsome face is a pleasant voice.",
+      "subj": "",
+      "verb": "be",
+      "obj": "voice"
+    },
+    {
+      "id": "e0029",
+      "label": "former | be | joy",
+      "sent_id": 32,
+      "sentence": "The former is joy to the senses, the latter food for the soul.",
+      "subj": "former",
+      "verb": "be",
+      "obj": "joy"
+    },
+    {
+      "id": "e0030",
+      "label": "patcher | meet | bardship",
+      "sent_id": 33,
+      "sentence": "Fifthly, the artisan, who gains a sufficient livelihood by the strength of his arm, so that his reputation is not lost in struggling for bread; as wise men have said:\n\nIf he goes abroad from his own town\nThe patcher of clothes meets with no bardship or trouble",
+      "subj": "patcher",
+      "verb": "meet",
+      "obj": "bardship"
+    },
+    {
+      "id": "e0031",
+      "label": "king | go | bed",
+      "sent_id": 34,
+      "sentence": "But if the government falls into ruin\nThe king of Nimruz will go to bed hungry.",
+      "subj": "king",
+      "verb": "go",
+      "obj": "bed"
+    },
+    {
+      "id": "e0032",
+      "label": "quality | be | journey",
+      "sent_id": 35,
+      "sentence": "The qualities which I have explained, 0 my son, are in a journey the occasion of satisfaction to the mind, stimulants to a happy life but he, who possesses none of them, goes with idle fancies into the world and no one will ever hear anything about his name and fame.",
+      "subj": "quality",
+      "verb": "be",
+      "obj": "journey"
+    },
+    {
+      "id": "e0033",
+      "label": "he | guide | \u2205",
+      "sent_id": 36,
+      "sentence": "He whom the turning world is to afflict\nWill be guided by the times against his aim.",
+      "subj": "he",
+      "verb": "guide",
+      "obj": ""
+    },
+    {
+      "id": "e0034",
+      "label": "pigeon | destine | \u2205",
+      "sent_id": 37,
+      "sentence": "A pigeon destined not to see its nest again\nWill be carried by fate towards the grain and net.",
+      "subj": "pigeon",
+      "verb": "destine",
+      "obj": ""
+    },
+    {
+      "id": "e0035",
+      "label": "son | ask | \u2205",
+      "sent_id": 38,
+      "sentence": "The son asked: 'O father, how can I act contrary to the injunctions of the wise, who have said, that although food is distributed by predestination the acquisition of it depends upon exertion and that, although a calamity may be decreed by fate, it is incumbent on men to show the gates by which it may enter?\n\n'Although daily food may come unawares\nIt is reasonable to seek it out of doors\nAnd though no one dies without the decree of fate\nThou must not rush into the jaws of a dragon.",
+      "subj": "son",
+      "verb": "ask",
+      "obj": ""
+    },
+    {
+      "id": "e0036",
+      "label": "it | be | father",
+      "sent_id": 39,
+      "sentence": "'As I am at present able to cope with a mad elephant and to wrestle with a furious lion, it is proper, O father, that I should travel abroad because I have no longer the endurance to suffer misery.",
+      "subj": "it",
+      "verb": "be",
+      "obj": "father"
+    },
+    {
+      "id": "e0037",
+      "label": "he | eat | grief",
+      "sent_id": 40,
+      "sentence": "'When a man has fallen from his place and station\nWhy should he eat more grief?",
+      "subj": "he",
+      "verb": "eat",
+      "obj": "grief"
+    },
+    {
+      "id": "e0038",
+      "label": "horizon | be | place",
+      "sent_id": 41,
+      "sentence": "All the horizons are his place.",
+      "subj": "horizon",
+      "verb": "be",
+      "obj": "place"
+    },
+    {
+      "id": "e0039",
+      "label": "man | go | night",
+      "sent_id": 42,
+      "sentence": "At night every rich man goes to an inn.",
+      "subj": "man",
+      "verb": "go",
+      "obj": "night"
+    },
+    {
+      "id": "e0040",
+      "label": "dervish | have | inn",
+      "sent_id": 43,
+      "sentence": "The dervish has his inn where the night overtakes him.",
+      "subj": "dervish",
+      "verb": "have",
+      "obj": "inn"
+    },
+    {
+      "id": "e0041",
+      "label": "he | ask | wish",
+      "sent_id": 44,
+      "sentence": "'\n\nAfter saying this, he asked for the good wishes of his father, took leave of him, departed and said to himself:\n\n'A skilful man, when his luck does not favour him,\nGoes to a place where people know not his name.'",
+      "subj": "he",
+      "verb": "ask",
+      "obj": "wish"
+    },
+    {
+      "id": "e0042",
+      "label": "force | be | \u2205",
+      "sent_id": 45,
+      "sentence": "He reached the banks of a water, the force of which was such that it knocked stones against each other and its roaring was heard to a farsang's distance.",
+      "subj": "force",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0043",
+      "label": "water | whirl | millstone",
+      "sent_id": 46,
+      "sentence": "A dreadful water, in which even aquatic birds were not safe,\nThe smallest wave would whirl off a millstone from its bank.",
+      "subj": "water",
+      "verb": "whirl",
+      "obj": "millstone"
+    },
+    {
+      "id": "e0044",
+      "label": "he | open | tongue",
+      "sent_id": 48,
+      "sentence": "The youth's hands of payment being tied, he opened the tongue of laudation and although he supplicated the people greatly, they paid no attention and said:\n\n'No violence can be done to anyone without money",
+      "subj": "he",
+      "verb": "open",
+      "obj": "tongue"
+    },
+    {
+      "id": "e0045",
+      "label": "boatman | laugh | he",
+      "sent_id": 50,
+      "sentence": "An unkind boatman laughed at him and said:\n\n'If thou hast no money thou canst not cross the river by force.",
+      "subj": "boatman",
+      "verb": "laugh",
+      "obj": "he"
+    },
+    {
+      "id": "e0046",
+      "label": "what | boot | strength",
+      "sent_id": 51,
+      "sentence": "What boots the strength of ten men?",
+      "subj": "what",
+      "verb": "boot",
+      "obj": "strength"
+    },
+    {
+      "id": "e0047",
+      "label": "\u2205 | bring | money",
+      "sent_id": 52,
+      "sentence": "Bring the money for one.'",
+      "subj": "",
+      "verb": "bring",
+      "obj": "money"
+    },
+    {
+      "id": "e0048",
+      "label": "heart | irritate | \u2205",
+      "sent_id": 53,
+      "sentence": "The young man's heart was irritated by the insult of the boatman and longed to take vengeance upon him.",
+      "subj": "heart",
+      "verb": "irritate",
+      "obj": ""
+    },
+    {
+      "id": "e0049",
+      "label": "he | shout | \u2205",
+      "sent_id": 54,
+      "sentence": "The boat had, however, started; accordingly he shouted: 'If thou wilt be satisfied with the robe I am wearing, I shall not grudge giving it to thee.'",
+      "subj": "he",
+      "verb": "shout",
+      "obj": ""
+    },
+    {
+      "id": "e0050",
+      "label": "boatman | be | \u2205",
+      "sent_id": 55,
+      "sentence": "The boatman was greedy and turned the vessel back.",
+      "subj": "boatman",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0051",
+      "label": "desire | sew | vision",
+      "sent_id": 56,
+      "sentence": "Desire sews up the vision of a shrewd man.",
+      "subj": "desire",
+      "verb": "sew",
+      "obj": "vision"
+    },
+    {
+      "id": "e0052",
+      "label": "greediness | bring | fowl",
+      "sent_id": 57,
+      "sentence": "Greediness brings fowl and fish into the snare.",
+      "subj": "greediness",
+      "verb": "bring",
+      "obj": "fowl"
+    },
+    {
+      "id": "e0053",
+      "label": "he | knock | he",
+      "sent_id": 58,
+      "sentence": "As soon as the young man's hand could reach the beard and collar of the boatman, he immediately knocked him down and a comrade of the boatman, who came from the vessel to rescue him, experienced the same rough treatment and turned back.",
+      "subj": "he",
+      "verb": "knock",
+      "obj": "he"
+    },
+    {
+      "id": "e0054",
+      "label": "rest | think | \u2205",
+      "sent_id": 59,
+      "sentence": "The rest of the people then thought proper to pacify the young man and to condone his passage money.",
+      "subj": "rest",
+      "verb": "think",
+      "obj": ""
+    },
+    {
+      "id": "e0055",
+      "label": "thou | forbear | \u2205",
+      "sent_id": 60,
+      "sentence": "When thou seest a quarrel be forbearing\nBecause gentlemen will shut the door of strife.",
+      "subj": "thou",
+      "verb": "forbear",
+      "obj": ""
+    },
+    {
+      "id": "e0056",
+      "label": "\u2205 | use | kindness",
+      "sent_id": 61,
+      "sentence": "Use kindness when thou seest contention.",
+      "subj": "",
+      "verb": "use",
+      "obj": "kindness"
+    },
+    {
+      "id": "e0057",
+      "label": "sword | cut | silk",
+      "sent_id": 62,
+      "sentence": "A sharp sword cannot cut soft silk.",
+      "subj": "sword",
+      "verb": "cut",
+      "obj": "silk"
+    },
+    {
+      "id": "e0058",
+      "label": "wilt | be | tongue",
+      "sent_id": 63,
+      "sentence": "By a sweet tongue, grace, and kindliness,\nThou wilt be able to lead an elephant by a hair.",
+      "subj": "wilt",
+      "verb": "be",
+      "obj": "tongue"
+    },
+    {
+      "id": "e0059",
+      "label": "people | fall | foot",
+      "sent_id": 64,
+      "sentence": "Then the people fell at his feet, craving pardon for what had passed.",
+      "subj": "people",
+      "verb": "fall",
+      "obj": "foot"
+    },
+    {
+      "id": "e0060",
+      "label": "they | impress | kiss",
+      "sent_id": 65,
+      "sentence": "They impressed some hypocritical kisses upon his head and his eyes, received him into the boat and started, progressing till they reached a pillar of Yunani workmanship, standing in the water.",
+      "subj": "they",
+      "verb": "impress",
+      "obj": "kiss"
+    },
+    {
+      "id": "e0061",
+      "label": "boatman | say | \u2205",
+      "sent_id": 66,
+      "sentence": "The boatman said: 'The vessel is in danger.",
+      "subj": "boatman",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0062",
+      "label": "\u2205 | let | \u2205",
+      "sent_id": 67,
+      "sentence": "Let one of you, who is the strongest, go to the pillar and take the cable of the boat that we may save the vessel.'",
+      "subj": "",
+      "verb": "let",
+      "obj": ""
+    },
+    {
+      "id": "e0063",
+      "label": "yaktash | say | \u2205",
+      "sent_id": 68,
+      "sentence": "The young man, in the pride of bravery which he had in his head, did not think of the offended foe and did not mind the maxim of wise men who have said: 'If thou hast given offence to one man and afterwards done him a hundred kindnesses, do not be confident that he will not avenge himself for that one offence, because although the head of a spear may come out, the memory of an offence will remain in the heart.'\n\n'How well,' said Yaktash to Khiltash,\n'Hast thou scratched a foe?",
+      "subj": "yaktash",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0064",
+      "label": "\u2205 | think | \u2205",
+      "sent_id": 69,
+      "sentence": "Do not think thou art safe.'\n\nBe not unconcerned for thou wilt be afflicted",
+      "subj": "",
+      "verb": "think",
+      "obj": ""
+    },
+    {
+      "id": "e0065",
+      "label": "heart | afflict | hand",
+      "sent_id": 70,
+      "sentence": "If by thy hand a heart has been afflicted.",
+      "subj": "heart",
+      "verb": "afflict",
+      "obj": "hand"
+    },
+    {
+      "id": "e0066",
+      "label": "\u2205 | throw | stone",
+      "sent_id": 71,
+      "sentence": "Throw not a stone at the rampart of a fort\nBecause possibly a stone may come from the fort.",
+      "subj": "",
+      "verb": "throw",
+      "obj": "stone"
+    },
+    {
+      "id": "e0067",
+      "label": "whereon | snatch | it",
+      "sent_id": 72,
+      "sentence": "As soon as he had taken the rope of the boat on his arm, he climbed to the top of the pillar, whereon the boatman snatched it from his grasp and pushed the boat off.",
+      "subj": "whereon",
+      "verb": "snatch",
+      "obj": "it"
+    },
+    {
+      "id": "e0068",
+      "label": "man | be | \u2205",
+      "sent_id": 73,
+      "sentence": "The helpless man was amazed and spent two days in misery and distress.",
+      "subj": "man",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0069",
+      "label": "sleep | take | hold",
+      "sent_id": 74,
+      "sentence": "On the third, sleep took hold of his collar and threw him into the water.",
+      "subj": "sleep",
+      "verb": "take",
+      "obj": "hold"
+    },
+    {
+      "id": "e0070",
+      "label": "he | cast | night",
+      "sent_id": 75,
+      "sentence": "After one night and day he was cast on the bank, with some life still remaining in him.",
+      "subj": "he",
+      "verb": "cast",
+      "obj": "night"
+    },
+    {
+      "id": "e0071",
+      "label": "he | begin | \u2205",
+      "sent_id": 76,
+      "sentence": "He began to eat leaves of trees and to pull out roots of grass so that when he had gained a little strength, he turned towards the desert and walked till thirst began to torment him.",
+      "subj": "he",
+      "verb": "begin",
+      "obj": ""
+    },
+    {
+      "id": "e0072",
+      "label": "he | reach | well",
+      "sent_id": 77,
+      "sentence": "He at last reached a well and saw people drinking water for a pashizi but possessing none he asked for a coin and showed his destitute condition.",
+      "subj": "he",
+      "verb": "reach",
+      "obj": "well"
+    },
+    {
+      "id": "e0073",
+      "label": "he | begin | \u2205",
+      "sent_id": 78,
+      "sentence": "The people had, however, no mercy with him, whereon he began to insult them but likewise ineffectually.",
+      "subj": "he",
+      "verb": "begin",
+      "obj": ""
+    },
+    {
+      "id": "e0074",
+      "label": "he | knock | man",
+      "sent_id": 79,
+      "sentence": "Then he knocked down several men but was at last overpowered, struck and wounded:\n\nA swarm of gnats will overpower an elephant\nDespite of all his virility and bravery.",
+      "subj": "he",
+      "verb": "knock",
+      "obj": "man"
+    },
+    {
+      "id": "e0075",
+      "label": "they | tear | skin",
+      "sent_id": 80,
+      "sentence": "When the little ants combine together\nThey tear the skin of a furious lion.",
+      "subj": "they",
+      "verb": "tear",
+      "obj": "skin"
+    },
+    {
+      "id": "e0076",
+      "label": "he | lag | matter",
+      "sent_id": 81,
+      "sentence": "As a matter of necessity he lagged in the rear of the caravan, which reached in the evening a locality very dangerous on account of thieves.",
+      "subj": "he",
+      "verb": "lag",
+      "obj": "matter"
+    },
+    {
+      "id": "e0077",
+      "label": "people | tremble | limb",
+      "sent_id": 82,
+      "sentence": "The people of the caravan trembled in all their limbs but he said: 'Fear nothing because I alone am able to cope with fifty men and the other youths of the caravan will aid me.'",
+      "subj": "people",
+      "verb": "tremble",
+      "obj": "limb"
+    },
+    {
+      "id": "e0078",
+      "label": "word | comfort | heart",
+      "sent_id": 83,
+      "sentence": "These boastful words comforted the heart of the caravan-people, who became glad of his company and considered it incumbent upon themselves to supply him with food and water.",
+      "subj": "word",
+      "verb": "comfort",
+      "obj": "heart"
+    },
+    {
+      "id": "e0079",
+      "label": "fire | make | \u2205",
+      "sent_id": 84,
+      "sentence": "The fire of the young man's stomach having blazed into flames and deprived his hands of the bridle of endurance, hunger made him partake of some morsels of food and take a few draughts of water, till the dev of his interior was set at rest and he fell asleep.",
+      "subj": "fire",
+      "verb": "make",
+      "obj": ""
+    },
+    {
+      "id": "e0080",
+      "label": "fellow | say | \u2205",
+      "sent_id": 85,
+      "sentence": "An experienced old fellow, who was in the caravan, said: 'O ye people, I am more afraid of this guard of yours than of the thieves because there is a story that a stranger had accumulated some dirhems but could not sleep in the house for fear of the Luris.",
+      "subj": "fellow",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0081",
+      "label": "he | invite | one",
+      "sent_id": 86,
+      "sentence": "Accordingly he invited one of his friends to dispel the terrors of solitude by his company.",
+      "subj": "he",
+      "verb": "invite",
+      "obj": "one"
+    },
+    {
+      "id": "e0082",
+      "label": "he | spend | night",
+      "sent_id": 87,
+      "sentence": "He spent several nights with him, till he became aware that he had money and took it, going on a journey after spending it.",
+      "subj": "he",
+      "verb": "spend",
+      "obj": "night"
+    },
+    {
+      "id": "e0083",
+      "label": "man | ask | \u2205",
+      "sent_id": 88,
+      "sentence": "When the people saw the stranger naked and weeping the next morning, a man asked: \"What is the matter?",
+      "subj": "man",
+      "verb": "ask",
+      "obj": ""
+    },
+    {
+      "id": "e0084",
+      "label": "thief | steal | dirhem",
+      "sent_id": 89,
+      "sentence": "Perhaps a thief has stolen those dirhems of mine?\"",
+      "subj": "thief",
+      "verb": "steal",
+      "obj": "dirhem"
+    },
+    {
+      "id": "e0085",
+      "label": "he | reply | \u2205",
+      "sent_id": 90,
+      "sentence": "He replied: \"No, by Allah.",
+      "subj": "he",
+      "verb": "reply",
+      "obj": ""
+    },
+    {
+      "id": "e0086",
+      "label": "guard | steal | they",
+      "sent_id": 91,
+      "sentence": "The guard has stolen them.",
+      "subj": "guard",
+      "verb": "steal",
+      "obj": "they"
+    },
+    {
+      "id": "e0087",
+      "label": "i | sit | \u2205",
+      "sent_id": 92,
+      "sentence": "\"'\n\nI never sat secure from a serpent\nTill I learnt what his custom was.",
+      "subj": "i",
+      "verb": "sit",
+      "obj": ""
+    },
+    {
+      "id": "e0088",
+      "label": "wound | be | \u2205",
+      "sent_id": 93,
+      "sentence": "The wound from a foe's tooth is severe\nWho appears to be a friend in the eyes of men.",
+      "subj": "wound",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0089",
+      "label": "you | know | \u2205",
+      "sent_id": 94,
+      "sentence": "'How do you know whether this man is not one of the band of thieves and has followed us as a spy to inform his comrades on the proper occasion?",
+      "subj": "you",
+      "verb": "know",
+      "obj": ""
+    },
+    {
+      "id": "e0090",
+      "label": "we | ought | \u2205",
+      "sent_id": 95,
+      "sentence": "According to my opinion we ought to depart and let him sleep.'",
+      "subj": "we",
+      "verb": "ought",
+      "obj": ""
+    },
+    {
+      "id": "e0091",
+      "label": "youth | become | \u2205",
+      "sent_id": 96,
+      "sentence": "The youths approved of the old man's advice and became suspicious of the athlete, took up their baggage and departed, leaving him asleep.",
+      "subj": "youth",
+      "verb": "become",
+      "obj": ""
+    },
+    {
+      "id": "e0092",
+      "label": "he | know | this",
+      "sent_id": 97,
+      "sentence": "He knew this when the sun shone upon his shoulders and perceived that the caravan had started.",
+      "subj": "he",
+      "verb": "know",
+      "obj": "this"
+    },
+    {
+      "id": "e0093",
+      "label": "he | sit | ground",
+      "sent_id": 98,
+      "sentence": "He roamed about a great deal without finding the way and thirsty as well as dismayed as he was, he sat down on the ground, with his heart ready to perish, saying:\n\nWho will speak to me after the yellow camels have departed?",
+      "subj": "he",
+      "verb": "sit",
+      "obj": "ground"
+    },
+    {
+      "id": "e0094",
+      "label": "stranger | have | companion",
+      "sent_id": 99,
+      "sentence": "A stranger has no companion except a stranger.",
+      "subj": "stranger",
+      "verb": "have",
+      "obj": "companion"
+    },
+    {
+      "id": "e0095",
+      "label": "he | use | harshness",
+      "sent_id": 100,
+      "sentence": "He uses harshness towards strangers\nWho has not himself been exiled enough.",
+      "subj": "he",
+      "verb": "use",
+      "obj": "harshness"
+    },
+    {
+      "id": "e0096",
+      "label": "man | speak | \u2205",
+      "sent_id": 101,
+      "sentence": "The poor man was speaking thus whilst the son of a king who happened to be in a hunting party, strayed far from the troops, was standing over his head, listening.",
+      "subj": "man",
+      "verb": "speak",
+      "obj": ""
+    },
+    {
+      "id": "e0097",
+      "label": "he | look | figure",
+      "sent_id": 102,
+      "sentence": "He looked at the figure of the athlete, saw that his outward appearance was respectable but his condition miserable.",
+      "subj": "he",
+      "verb": "look",
+      "obj": "figure"
+    },
+    {
+      "id": "e0098",
+      "label": "he | ask | he",
+      "sent_id": 103,
+      "sentence": "He then asked him whence he had come and how he had fallen into this place.",
+      "subj": "he",
+      "verb": "ask",
+      "obj": "he"
+    },
+    {
+      "id": "e0099",
+      "label": "athlete | inform | he",
+      "sent_id": 104,
+      "sentence": "The athlete briefly informed him of what had taken place, whereon the royal prince, moved by pity, presented him with a robe of honour and a large sum of money and sent a confidential man to accompany him till he again reached his native town.",
+      "subj": "athlete",
+      "verb": "inform",
+      "obj": "he"
+    },
+    {
+      "id": "e0100",
+      "label": "father | be | \u2205",
+      "sent_id": 105,
+      "sentence": "His father was glad to see him and expressed gratitude at his safety.",
+      "subj": "father",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0101",
+      "label": "he | narrate | evening",
+      "sent_id": 106,
+      "sentence": "In the evening he narrated to his father what had befallen him with the boat, mentioned the violence of the boatman, the harshness of the rustics near the well and the treachery of the caravan people on the road.",
+      "subj": "he",
+      "verb": "narrate",
+      "obj": "evening"
+    },
+    {
+      "id": "e0102",
+      "label": "father | reply | \u2205",
+      "sent_id": 107,
+      "sentence": "The father replied: 'My son, have not I told thee at thy departure that the brave hands of empty-handed persons are like the broken paw of a lion?'\n\nHow well has that empty-handed fighter said:\n'A grain of gold is better than fifty mann of strength.'",
+      "subj": "father",
+      "verb": "reply",
+      "obj": ""
+    },
+    {
+      "id": "e0103",
+      "label": "son | reply | seed",
+      "sent_id": 108,
+      "sentence": "The son replied: 'O father, thou wilt certainly not obtain a treasure except by trouble, wilt not overcome thy foe unless thou hazardest thy life and wilt not gather a harvest unless thou scatterest seed.",
+      "subj": "son",
+      "verb": "reply",
+      "obj": "seed"
+    },
+    {
+      "id": "e0104",
+      "label": "\u2205 | perceivest | thou",
+      "sent_id": 109,
+      "sentence": "Perceivest thou not how much comfort I gained at the cost of the small amount of trouble I underwent and what a quantity of honey I have brought in return for the sting I have suffered.",
+      "subj": "",
+      "verb": "perceivest",
+      "obj": "thou"
+    },
+    {
+      "id": "e0105",
+      "label": "\u2205 | be | \u2205",
+      "sent_id": 110,
+      "sentence": "Although not more can be acquired than fate has decreed\nNegligence in striving to acquire is not commendable.",
+      "subj": "",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0106",
+      "label": "he | catch | pearl",
+      "sent_id": 111,
+      "sentence": "If a diver fears the crocodile's throat\nHe will never catch the pearl of great price.",
+      "subj": "he",
+      "verb": "catch",
+      "obj": "pearl"
+    },
+    {
+      "id": "e0107",
+      "label": "millstone | be | \u2205",
+      "sent_id": 112,
+      "sentence": "The nether millstone is immovable, and therefore must bear a heavy\nload.",
+      "subj": "millstone",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0108",
+      "label": "\u2205 | have | hand",
+      "sent_id": 115,
+      "sentence": "If thou desirest to catch game at home\nThou must have hands and feet like a spider.",
+      "subj": "",
+      "verb": "have",
+      "obj": "hand"
+    },
+    {
+      "id": "e0109",
+      "label": "father | say | son",
+      "sent_id": 116,
+      "sentence": "The father said to his son: 'On this occasion heaven has been propitious to thee and good luck helpful so that a royal person has met thee, has been bountiful to thee and has thereby healed thy broken condition.",
+      "subj": "father",
+      "verb": "say",
+      "obj": "son"
+    },
+    {
+      "id": "e0110",
+      "label": "coincidence | occur | \u2205",
+      "sent_id": 117,
+      "sentence": "Such coincidences occur seldom and rare events cannot be reckoned upon.'",
+      "subj": "coincidence",
+      "verb": "occur",
+      "obj": ""
+    },
+    {
+      "id": "e0111",
+      "label": "hunter | catch | \u2205",
+      "sent_id": 118,
+      "sentence": "The hunter does not catch every time a jackal.",
+      "subj": "hunter",
+      "verb": "catch",
+      "obj": ""
+    },
+    {
+      "id": "e0112",
+      "label": "it | happen | \u2205",
+      "sent_id": 119,
+      "sentence": "It may happen that some day a tiger devours him.",
+      "subj": "it",
+      "verb": "happen",
+      "obj": ""
+    },
+    {
+      "id": "e0113",
+      "label": "it | happen | \u2205",
+      "sent_id": 120,
+      "sentence": "Thus it happened that one of the kings of Pares, who possessed a ring with a costly beazle, once went out by way of diversion with some intimate courtiers to the Masalla of Shiraz and ordered his ring to be placed on the dome of Asad, promising to bestow the seal-ring upon any person who could make an arrow pass through it.",
+      "subj": "it",
+      "verb": "happen",
+      "obj": ""
+    },
+    {
+      "id": "e0114",
+      "label": "it | happen | \u2205",
+      "sent_id": 121,
+      "sentence": "It happened that every one of the four hundred archers in his service missed the ring, except a little boy who was shooting arrows in sport at random and in every direction from the flat roof of a monastery.",
+      "subj": "it",
+      "verb": "happen",
+      "obj": ""
+    },
+    {
+      "id": "e0115",
+      "label": "breeze | cause | \u2205",
+      "sent_id": 122,
+      "sentence": "The morning breeze caused his arrow to pass through the ring, whereon he obtained not only the ring but also a robe of honour and a present of money.",
+      "subj": "breeze",
+      "verb": "cause",
+      "obj": ""
+    },
+    {
+      "id": "e0116",
+      "label": "it | relate | \u2205",
+      "sent_id": 123,
+      "sentence": "It is related that the boy burnt his bow and arrows and on being asked for the cause replied: 'That the first splendour may be permanent.'",
+      "subj": "it",
+      "verb": "relate",
+      "obj": ""
+    },
+    {
+      "id": "e0117",
+      "label": "it | happen | \u2205",
+      "sent_id": 124,
+      "sentence": "It sometimes happens that an enlightened sage\nIs not successful in his plans.",
+      "subj": "it",
+      "verb": "happen",
+      "obj": ""
+    },
+    {
+      "id": "e0118",
+      "label": "it | happen | \u2205",
+      "sent_id": 125,
+      "sentence": "Sometimes it happens that an ignorant child\nBy mistake hits the target with his arrow.",
+      "subj": "it",
+      "verb": "happen",
+      "obj": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    },
+    {
+      "source": "e0029",
+      "target": "e0030",
+      "relation": "next"
+    },
+    {
+      "source": "e0030",
+      "target": "e0031",
+      "relation": "next"
+    },
+    {
+      "source": "e0031",
+      "target": "e0032",
+      "relation": "next"
+    },
+    {
+      "source": "e0032",
+      "target": "e0033",
+      "relation": "next"
+    },
+    {
+      "source": "e0033",
+      "target": "e0034",
+      "relation": "next"
+    },
+    {
+      "source": "e0034",
+      "target": "e0035",
+      "relation": "next"
+    },
+    {
+      "source": "e0035",
+      "target": "e0036",
+      "relation": "next"
+    },
+    {
+      "source": "e0036",
+      "target": "e0037",
+      "relation": "next"
+    },
+    {
+      "source": "e0037",
+      "target": "e0038",
+      "relation": "next"
+    },
+    {
+      "source": "e0038",
+      "target": "e0039",
+      "relation": "next"
+    },
+    {
+      "source": "e0039",
+      "target": "e0040",
+      "relation": "next"
+    },
+    {
+      "source": "e0040",
+      "target": "e0041",
+      "relation": "next"
+    },
+    {
+      "source": "e0041",
+      "target": "e0042",
+      "relation": "next"
+    },
+    {
+      "source": "e0042",
+      "target": "e0043",
+      "relation": "next"
+    },
+    {
+      "source": "e0043",
+      "target": "e0044",
+      "relation": "next"
+    },
+    {
+      "source": "e0044",
+      "target": "e0045",
+      "relation": "next"
+    },
+    {
+      "source": "e0045",
+      "target": "e0046",
+      "relation": "next"
+    },
+    {
+      "source": "e0046",
+      "target": "e0047",
+      "relation": "next"
+    },
+    {
+      "source": "e0047",
+      "target": "e0048",
+      "relation": "next"
+    },
+    {
+      "source": "e0048",
+      "target": "e0049",
+      "relation": "next"
+    },
+    {
+      "source": "e0049",
+      "target": "e0050",
+      "relation": "next"
+    },
+    {
+      "source": "e0050",
+      "target": "e0051",
+      "relation": "next"
+    },
+    {
+      "source": "e0051",
+      "target": "e0052",
+      "relation": "next"
+    },
+    {
+      "source": "e0052",
+      "target": "e0053",
+      "relation": "next"
+    },
+    {
+      "source": "e0053",
+      "target": "e0054",
+      "relation": "next"
+    },
+    {
+      "source": "e0054",
+      "target": "e0055",
+      "relation": "next"
+    },
+    {
+      "source": "e0055",
+      "target": "e0056",
+      "relation": "next"
+    },
+    {
+      "source": "e0056",
+      "target": "e0057",
+      "relation": "next"
+    },
+    {
+      "source": "e0057",
+      "target": "e0058",
+      "relation": "next"
+    },
+    {
+      "source": "e0058",
+      "target": "e0059",
+      "relation": "next"
+    },
+    {
+      "source": "e0059",
+      "target": "e0060",
+      "relation": "next"
+    },
+    {
+      "source": "e0060",
+      "target": "e0061",
+      "relation": "next"
+    },
+    {
+      "source": "e0061",
+      "target": "e0062",
+      "relation": "next"
+    },
+    {
+      "source": "e0062",
+      "target": "e0063",
+      "relation": "next"
+    },
+    {
+      "source": "e0063",
+      "target": "e0064",
+      "relation": "next"
+    },
+    {
+      "source": "e0064",
+      "target": "e0065",
+      "relation": "next"
+    },
+    {
+      "source": "e0065",
+      "target": "e0066",
+      "relation": "next"
+    },
+    {
+      "source": "e0066",
+      "target": "e0067",
+      "relation": "next"
+    },
+    {
+      "source": "e0067",
+      "target": "e0068",
+      "relation": "next"
+    },
+    {
+      "source": "e0068",
+      "target": "e0069",
+      "relation": "next"
+    },
+    {
+      "source": "e0069",
+      "target": "e0070",
+      "relation": "next"
+    },
+    {
+      "source": "e0070",
+      "target": "e0071",
+      "relation": "next"
+    },
+    {
+      "source": "e0071",
+      "target": "e0072",
+      "relation": "next"
+    },
+    {
+      "source": "e0072",
+      "target": "e0073",
+      "relation": "next"
+    },
+    {
+      "source": "e0073",
+      "target": "e0074",
+      "relation": "next"
+    },
+    {
+      "source": "e0074",
+      "target": "e0075",
+      "relation": "next"
+    },
+    {
+      "source": "e0075",
+      "target": "e0076",
+      "relation": "next"
+    },
+    {
+      "source": "e0076",
+      "target": "e0077",
+      "relation": "next"
+    },
+    {
+      "source": "e0077",
+      "target": "e0078",
+      "relation": "next"
+    },
+    {
+      "source": "e0078",
+      "target": "e0079",
+      "relation": "next"
+    },
+    {
+      "source": "e0079",
+      "target": "e0080",
+      "relation": "next"
+    },
+    {
+      "source": "e0080",
+      "target": "e0081",
+      "relation": "next"
+    },
+    {
+      "source": "e0081",
+      "target": "e0082",
+      "relation": "next"
+    },
+    {
+      "source": "e0082",
+      "target": "e0083",
+      "relation": "next"
+    },
+    {
+      "source": "e0083",
+      "target": "e0084",
+      "relation": "next"
+    },
+    {
+      "source": "e0084",
+      "target": "e0085",
+      "relation": "next"
+    },
+    {
+      "source": "e0085",
+      "target": "e0086",
+      "relation": "next"
+    },
+    {
+      "source": "e0086",
+      "target": "e0087",
+      "relation": "next"
+    },
+    {
+      "source": "e0087",
+      "target": "e0088",
+      "relation": "next"
+    },
+    {
+      "source": "e0088",
+      "target": "e0089",
+      "relation": "next"
+    },
+    {
+      "source": "e0089",
+      "target": "e0090",
+      "relation": "next"
+    },
+    {
+      "source": "e0090",
+      "target": "e0091",
+      "relation": "next"
+    },
+    {
+      "source": "e0091",
+      "target": "e0092",
+      "relation": "next"
+    },
+    {
+      "source": "e0092",
+      "target": "e0093",
+      "relation": "next"
+    },
+    {
+      "source": "e0093",
+      "target": "e0094",
+      "relation": "next"
+    },
+    {
+      "source": "e0094",
+      "target": "e0095",
+      "relation": "next"
+    },
+    {
+      "source": "e0095",
+      "target": "e0096",
+      "relation": "next"
+    },
+    {
+      "source": "e0096",
+      "target": "e0097",
+      "relation": "next"
+    },
+    {
+      "source": "e0097",
+      "target": "e0098",
+      "relation": "next"
+    },
+    {
+      "source": "e0098",
+      "target": "e0099",
+      "relation": "next"
+    },
+    {
+      "source": "e0099",
+      "target": "e0100",
+      "relation": "next"
+    },
+    {
+      "source": "e0100",
+      "target": "e0101",
+      "relation": "next"
+    },
+    {
+      "source": "e0101",
+      "target": "e0102",
+      "relation": "next"
+    },
+    {
+      "source": "e0102",
+      "target": "e0103",
+      "relation": "next"
+    },
+    {
+      "source": "e0103",
+      "target": "e0104",
+      "relation": "next"
+    },
+    {
+      "source": "e0104",
+      "target": "e0105",
+      "relation": "next"
+    },
+    {
+      "source": "e0105",
+      "target": "e0106",
+      "relation": "next"
+    },
+    {
+      "source": "e0106",
+      "target": "e0107",
+      "relation": "next"
+    },
+    {
+      "source": "e0107",
+      "target": "e0108",
+      "relation": "next"
+    },
+    {
+      "source": "e0108",
+      "target": "e0109",
+      "relation": "next"
+    },
+    {
+      "source": "e0109",
+      "target": "e0110",
+      "relation": "next"
+    },
+    {
+      "source": "e0110",
+      "target": "e0111",
+      "relation": "next"
+    },
+    {
+      "source": "e0111",
+      "target": "e0112",
+      "relation": "next"
+    },
+    {
+      "source": "e0112",
+      "target": "e0113",
+      "relation": "next"
+    },
+    {
+      "source": "e0113",
+      "target": "e0114",
+      "relation": "next"
+    },
+    {
+      "source": "e0114",
+      "target": "e0115",
+      "relation": "next"
+    },
+    {
+      "source": "e0115",
+      "target": "e0116",
+      "relation": "next"
+    },
+    {
+      "source": "e0116",
+      "target": "e0117",
+      "relation": "next"
+    },
+    {
+      "source": "e0117",
+      "target": "e0118",
+      "relation": "next"
+    }
+  ]
+}

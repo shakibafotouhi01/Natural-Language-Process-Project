@@ -1,0 +1,660 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "one | complain | time",
+      "sent_id": 0,
+      "sentence": "Gulistan - story 16\n\nOne of my friends complained of the unpropitious times, telling me that he had a slender income, a large family, without strength to bear the load of poverty and had often entertained the idea to emigrate to another country so that no matter how he made a living no one might become aware of his good or ill luck.",
+      "subj": "one",
+      "verb": "complain",
+      "obj": "time"
+    },
+    {
+      "id": "e0001",
+      "label": "man | sleep | hungry",
+      "sent_id": 1,
+      "sentence": "Many a man slept hungry and no one knew who he was.",
+      "subj": "man",
+      "verb": "sleep",
+      "obj": "hungry"
+    },
+    {
+      "id": "e0002",
+      "label": "man | be | point",
+      "sent_id": 2,
+      "sentence": "Many a man was at the point of death and no one wept for him.",
+      "subj": "man",
+      "verb": "be",
+      "obj": "point"
+    },
+    {
+      "id": "e0003",
+      "label": "he | be | \u2205",
+      "sent_id": 3,
+      "sentence": "He was also apprehensive of the malevolence of enemies who would laugh behind his back and would attribute the struggle he underwent for the benefit of his family to his want of manly independence and that they will say:\n\n'Behold that dishonourable fellow who will never\nSee the face of prosperity,\nWill choose bodily comfort for himself,\nAbandoning his wife and children to misery.'",
+      "subj": "he",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0004",
+      "label": "he | tell | i",
+      "sent_id": 4,
+      "sentence": "He also told me that as I knew he possessed some knowledge of arithmetic, I might, through my influence, get him appointed to a post which would become the means of putting his mind at ease and place him under obligations to me, which he could not requite by gratitude during the rest of his life.",
+      "subj": "he",
+      "verb": "tell",
+      "obj": "i"
+    },
+    {
+      "id": "e0005",
+      "label": "i | reply | \u2205",
+      "sent_id": 5,
+      "sentence": "I replied: 'Dear friend!",
+      "subj": "i",
+      "verb": "reply",
+      "obj": ""
+    },
+    {
+      "id": "e0006",
+      "label": "employment | consist | part",
+      "sent_id": 6,
+      "sentence": "Employment by a padshah consists of two parts, namely, the hope for bread and the danger of life, but it is against the opinion of intelligent men to incur this danger for that hope.'",
+      "subj": "employment",
+      "verb": "consist",
+      "obj": "part"
+    },
+    {
+      "id": "e0007",
+      "label": "one | come | house",
+      "sent_id": 7,
+      "sentence": "No one comes to the house of a dervish\nTo levy a tax on land and garden.",
+      "subj": "one",
+      "verb": "come",
+      "obj": "house"
+    },
+    {
+      "id": "e0008",
+      "label": "he | reply | \u2205",
+      "sent_id": 9,
+      "sentence": "He replied: 'Thou hast not uttered these words in conformity with my case nor answered my question.",
+      "subj": "he",
+      "verb": "reply",
+      "obj": ""
+    },
+    {
+      "id": "e0009",
+      "label": "thou | hear | saying",
+      "sent_id": 10,
+      "sentence": "Hast thou not heard the saying?",
+      "subj": "thou",
+      "verb": "hear",
+      "obj": "saying"
+    },
+    {
+      "id": "e0010",
+      "label": "\u2205 | let | \u2205",
+      "sent_id": 11,
+      "sentence": "\"Whoever commits treachery let his hand tremble at the account.",
+      "subj": "",
+      "verb": "let",
+      "obj": ""
+    },
+    {
+      "id": "e0011",
+      "label": "straightness | be | mean",
+      "sent_id": 12,
+      "sentence": "\"'\n\nStraightness is the means of acceptance with God.",
+      "subj": "straightness",
+      "verb": "be",
+      "obj": "mean"
+    },
+    {
+      "id": "e0012",
+      "label": "i | see | \u2205",
+      "sent_id": 13,
+      "sentence": "I saw no one lost on the straight road.",
+      "subj": "i",
+      "verb": "see",
+      "obj": ""
+    },
+    {
+      "id": "e0013",
+      "label": "sage | say | \u2205",
+      "sent_id": 14,
+      "sentence": "Sages have said: 'Four persons are for life in dread of four persons: a robber of the sultan, a thief of the watchman, an adulterer of an informer, and a harlot of the muhtasib.",
+      "subj": "sage",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0014",
+      "label": "he | fear | what",
+      "sent_id": 15,
+      "sentence": "But what has he to fear whose account of the conscience is clear?'\n\nBe not extravagant when in office, if thou desirest\nOn thy removal to see thy foes embarrassed for imputations against\nthee.",
+      "subj": "he",
+      "verb": "fear",
+      "obj": "what"
+    },
+    {
+      "id": "e0015",
+      "label": "\u2205 | be | brother",
+      "sent_id": 16,
+      "sentence": "Be thou pure, O brother, and in fear of no one.",
+      "subj": "",
+      "verb": "be",
+      "obj": "brother"
+    },
+    {
+      "id": "e0016",
+      "label": "washerman | beat | garment",
+      "sent_id": 17,
+      "sentence": "Washermen beat only impure garments against stones.",
+      "subj": "washerman",
+      "verb": "beat",
+      "obj": "garment"
+    },
+    {
+      "id": "e0017",
+      "label": "i | say | \u2205",
+      "sent_id": 18,
+      "sentence": "I said: 'The story of that fox resembles thy case, who was by some persons seen fleeing with much trouble and asked for the cause of his fear replied: 'I have heard that camels are being forced into the service.'",
+      "subj": "i",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0018",
+      "label": "they | say | \u2205",
+      "sent_id": 19,
+      "sentence": "They said: 'O fool, what connection hast thou with a camel and what resemblance does the latter bear to thee?'",
+      "subj": "they",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0019",
+      "label": "fox | rejoin | \u2205",
+      "sent_id": 20,
+      "sentence": "The fox rejoined: 'Hush.",
+      "subj": "fox",
+      "verb": "rejoin",
+      "obj": ""
+    },
+    {
+      "id": "e0020",
+      "label": "envious | say | \u2205",
+      "sent_id": 21,
+      "sentence": "If the envious malevolently say that I am a camel and I am caught, who will care to release me or investigate my case?",
+      "subj": "envious",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0021",
+      "label": "person | die | \u2205",
+      "sent_id": 22,
+      "sentence": "Till the antidote is brought from Eraq the snake-bitten person dies.'",
+      "subj": "person",
+      "verb": "die",
+      "obj": ""
+    },
+    {
+      "id": "e0022",
+      "label": "art | sit | ambush",
+      "sent_id": 23,
+      "sentence": "Thou art a very excellent and honest man but enemies sit in ambush and competitors in every corner.",
+      "subj": "art",
+      "verb": "sit",
+      "obj": "ambush"
+    },
+    {
+      "id": "e0023",
+      "label": "thou | call | \u2205",
+      "sent_id": 24,
+      "sentence": "If they describe thy character in a contrary manner, thou wouldst be called upon to give explanations to the padshah and incur reproof.",
+      "subj": "thou",
+      "verb": "call",
+      "obj": ""
+    },
+    {
+      "id": "e0024",
+      "label": "i | be | opinion",
+      "sent_id": 26,
+      "sentence": "Accordingly I am of opinion that thou shouldst retire to the domain of contentment and abandon aspirations to dominion.",
+      "subj": "i",
+      "verb": "be",
+      "obj": "opinion"
+    },
+    {
+      "id": "e0025",
+      "label": "man | say | \u2205",
+      "sent_id": 27,
+      "sentence": "Wise men have said:\n\n'In the sea there are countless gains,",
+      "subj": "man",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0026",
+      "label": "it | be | shore",
+      "sent_id": 28,
+      "sentence": "But if thou desirest safety, it will be on the shore.'",
+      "subj": "it",
+      "verb": "be",
+      "obj": "shore"
+    },
+    {
+      "id": "e0027",
+      "label": "friend | become | \u2205",
+      "sent_id": 29,
+      "sentence": "My friend, having heard these words, became angry, made a wry face and began to reproach me, saying: 'What sufficiency of wisdom and maturity of intellect is this?",
+      "subj": "friend",
+      "verb": "become",
+      "obj": ""
+    },
+    {
+      "id": "e0028",
+      "label": "saying | come | \u2205",
+      "sent_id": 30,
+      "sentence": "The saying of philosophers has come true, that friends are useful in prison because at table all enemies appear as friends.'",
+      "subj": "saying",
+      "verb": "come",
+      "obj": ""
+    },
+    {
+      "id": "e0029",
+      "label": "\u2205 | account | he",
+      "sent_id": 31,
+      "sentence": "Account him not a friend who knocks at the door of prosperity,\nBoasts of amity and calls himself thy adopted brother.",
+      "subj": "",
+      "verb": "account",
+      "obj": "he"
+    },
+    {
+      "id": "e0030",
+      "label": "i | consider | \u2205",
+      "sent_id": 32,
+      "sentence": "I consider him a friend who takes a friend's hand\nWhen he is in a distressed state and in poverty.",
+      "subj": "i",
+      "verb": "consider",
+      "obj": ""
+    },
+    {
+      "id": "e0031",
+      "label": "\u2205 | explain | case",
+      "sent_id": 33,
+      "sentence": "Seeing that he had thus changed and ascribed my advice to an interested motive, I paid a visit to the President of the State Council and, trusting in my old acquaintance with him, explained the case of my friend whom he then appointed to a small post.",
+      "subj": "",
+      "verb": "explain",
+      "obj": "case"
+    },
+    {
+      "id": "e0032",
+      "label": "behaviour | elicit | approbation",
+      "sent_id": 34,
+      "sentence": "In a short time my friend's affable behaviour and good management elicited approbation so that he was promoted to a higher office.",
+      "subj": "behaviour",
+      "verb": "elicit",
+      "obj": "approbation"
+    },
+    {
+      "id": "e0033",
+      "label": "star | ascend | manner",
+      "sent_id": 35,
+      "sentence": "In this manner the star of his good luck ascended till he reached the zenith of his aspirations, became a courtier of his majesty the sultan, generally esteemed and trusted.",
+      "subj": "star",
+      "verb": "ascend",
+      "obj": "manner"
+    },
+    {
+      "id": "e0034",
+      "label": "i | be | \u2205",
+      "sent_id": 36,
+      "sentence": "I was delighted with his safe position and said:\n\n'Be not apprehensive of tangled affairs and keep not a broken heart\nBecause the spring of life is in darkness.'\n\nDo not grieve, O brother in misery,\nBecause the Ill-merciful has hidden favours.",
+      "subj": "i",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0035",
+      "label": "\u2205 | possess | fruit",
+      "sent_id": 37,
+      "sentence": "Sit not morose on account of the turns of time; for patience,\nAlthough bitter, nevertheless possesses a sweet fruit.",
+      "subj": "",
+      "verb": "possess",
+      "obj": "fruit"
+    },
+    {
+      "id": "e0036",
+      "label": "i | happen | time",
+      "sent_id": 38,
+      "sentence": "At that time I happened to go with a company of friends on a journey to Mekkah and on my return he met me at a distance of two stages.",
+      "subj": "i",
+      "verb": "happen",
+      "obj": "time"
+    },
+    {
+      "id": "e0037",
+      "label": "i | perceive | appearance",
+      "sent_id": 39,
+      "sentence": "I perceived his outward appearance to be distressed, his costume being that of dervishes.",
+      "subj": "i",
+      "verb": "perceive",
+      "obj": "appearance"
+    },
+    {
+      "id": "e0038",
+      "label": "i | ask | \u2205",
+      "sent_id": 40,
+      "sentence": "I asked: 'What is the matter?'",
+      "subj": "i",
+      "verb": "ask",
+      "obj": ""
+    },
+    {
+      "id": "e0039",
+      "label": "he | reply | \u2205",
+      "sent_id": 41,
+      "sentence": "He replied: 'As thou hast predicted, some persons envied me and brought against me an accusation of treason.",
+      "subj": "he",
+      "verb": "reply",
+      "obj": ""
+    },
+    {
+      "id": "e0040",
+      "label": "king | order | inquiry",
+      "sent_id": 42,
+      "sentence": "The king ordered no inquiry on its truthfulness and my old well-wishers with my kind friends who failed to speak the word of truth forgot our old intimacy.",
+      "subj": "king",
+      "verb": "order",
+      "obj": "inquiry"
+    },
+    {
+      "id": "e0041",
+      "label": "they | place | hand",
+      "sent_id": 43,
+      "sentence": "'Seest thou not in front of the possessor of dignity\nThey place the hands on their heads, praising him;",
+      "subj": "they",
+      "verb": "place",
+      "obj": "hand"
+    },
+    {
+      "id": "e0042",
+      "label": "whereon | confiscate | \u2205",
+      "sent_id": 45,
+      "sentence": "'In short, I was till this week undergoing various persecutions, when the news of the pilgrims' approach from Mekkah arrived, whereon I was released from my heavy bonds and my hereditary property confiscated.'",
+      "subj": "whereon",
+      "verb": "confiscate",
+      "obj": ""
+    },
+    {
+      "id": "e0043",
+      "label": "i | reply | \u2205",
+      "sent_id": 46,
+      "sentence": "I replied: 'Thou hast not paid attention to my remarks when I said that the service of padshahs is like a sea voyage, profitable and dangerous, so that thou wilt either gain a treasure or perish in the waves.'",
+      "subj": "i",
+      "verb": "reply",
+      "obj": ""
+    },
+    {
+      "id": "e0044",
+      "label": "khajah | take | gold",
+      "sent_id": 47,
+      "sentence": "The khajah either takes gold with both hands to the shore\nOr the waves throw him one day dead upon the shore.",
+      "subj": "khajah",
+      "verb": "take",
+      "obj": "gold"
+    },
+    {
+      "id": "e0045",
+      "label": "i | content | myself",
+      "sent_id": 48,
+      "sentence": "Not thinking it suitable to scratch the wound of the dervish more than I had already done and so sprinkle salt thereon, I contented myself with reciting the following two distichs:",
+      "subj": "i",
+      "verb": "content",
+      "obj": "myself"
+    },
+    {
+      "id": "e0046",
+      "label": "wilt | see | foot",
+      "sent_id": 49,
+      "sentence": "Knewest thou not that thou wilt see thy feet in bonds\nIf the advice of people cannot penetrate into thy ear?",
+      "subj": "wilt",
+      "verb": "see",
+      "obj": "foot"
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    },
+    {
+      "source": "e0029",
+      "target": "e0030",
+      "relation": "next"
+    },
+    {
+      "source": "e0030",
+      "target": "e0031",
+      "relation": "next"
+    },
+    {
+      "source": "e0031",
+      "target": "e0032",
+      "relation": "next"
+    },
+    {
+      "source": "e0032",
+      "target": "e0033",
+      "relation": "next"
+    },
+    {
+      "source": "e0033",
+      "target": "e0034",
+      "relation": "next"
+    },
+    {
+      "source": "e0034",
+      "target": "e0035",
+      "relation": "next"
+    },
+    {
+      "source": "e0035",
+      "target": "e0036",
+      "relation": "next"
+    },
+    {
+      "source": "e0036",
+      "target": "e0037",
+      "relation": "next"
+    },
+    {
+      "source": "e0037",
+      "target": "e0038",
+      "relation": "next"
+    },
+    {
+      "source": "e0038",
+      "target": "e0039",
+      "relation": "next"
+    },
+    {
+      "source": "e0039",
+      "target": "e0040",
+      "relation": "next"
+    },
+    {
+      "source": "e0040",
+      "target": "e0041",
+      "relation": "next"
+    },
+    {
+      "source": "e0041",
+      "target": "e0042",
+      "relation": "next"
+    },
+    {
+      "source": "e0042",
+      "target": "e0043",
+      "relation": "next"
+    },
+    {
+      "source": "e0043",
+      "target": "e0044",
+      "relation": "next"
+    },
+    {
+      "source": "e0044",
+      "target": "e0045",
+      "relation": "next"
+    },
+    {
+      "source": "e0045",
+      "target": "e0046",
+      "relation": "next"
+    }
+  ]
+}

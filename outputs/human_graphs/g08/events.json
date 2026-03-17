@@ -1,0 +1,482 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "",
+    "verb": "be",
+    "obj": "man",
+    "label": "\u2205 | be | man",
+    "sentence": "THE GOLDEN GOOSE\n\nThere was a man who had three sons, the youngest of whom was called Dummling,[*] and was despised, mocked, and sneered at on every occasion."
+  },
+  {
+    "sent_id": 1,
+    "subj": "it",
+    "verb": "happen",
+    "obj": "",
+    "label": "it | happen | \u2205",
+    "sentence": "[*] Simpleton\n\nIt happened that the eldest wanted to go into the forest to hew wood, and before he went his mother gave him a beautiful sweet cake and a bottle of wine in order that he might not suffer from hunger or thirst."
+  },
+  {
+    "sent_id": 2,
+    "subj": "he",
+    "verb": "meet",
+    "obj": "man",
+    "label": "he | meet | man",
+    "sentence": "When he entered the forest he met a little grey-haired old man who bade him good day, and said: \u2018Do give me a piece of cake out of your pocket, and let me have a draught of your wine; I am so hungry and thirsty.\u2019"
+  },
+  {
+    "sent_id": 3,
+    "subj": "",
+    "verb": "be",
+    "obj": "",
+    "label": "\u2205 | be | \u2205",
+    "sentence": "But the clever son answered: \u2018If I give you my cake and wine, I shall have none for myself; be off with you,\u2019 and he left the little man standing and went on."
+  },
+  {
+    "sent_id": 4,
+    "subj": "it",
+    "verb": "be",
+    "obj": "",
+    "label": "it | be | \u2205",
+    "sentence": "But when he began to hew down a tree, it was not long before he made a false stroke, and the axe cut him in the arm, so that he had to go home and have it bound up."
+  },
+  {
+    "sent_id": 5,
+    "subj": "this",
+    "verb": "be",
+    "obj": "man",
+    "label": "this | be | man",
+    "sentence": "And this was the little grey man\u2019s doing."
+  },
+  {
+    "sent_id": 6,
+    "subj": "son",
+    "verb": "go",
+    "obj": "this",
+    "label": "son | go | this",
+    "sentence": "After this the second son went into the forest, and his mother gave him, like the eldest, a cake and a bottle of wine."
+  },
+  {
+    "sent_id": 7,
+    "subj": "man",
+    "verb": "meet",
+    "obj": "he",
+    "label": "man | meet | he",
+    "sentence": "The little old grey man met him likewise, and asked him for a piece of cake and a drink of wine."
+  },
+  {
+    "sent_id": 8,
+    "subj": "son",
+    "verb": "say",
+    "obj": "",
+    "label": "son | say | \u2205",
+    "sentence": "But the second son, too, said sensibly enough: \u2018What I give you will be taken away from myself; be off!\u2019"
+  },
+  {
+    "sent_id": 9,
+    "subj": "he",
+    "verb": "leave",
+    "obj": "man",
+    "label": "he | leave | man",
+    "sentence": "and he left the little man standing and went on."
+  },
+  {
+    "sent_id": 10,
+    "subj": "punishment",
+    "verb": "delay",
+    "obj": "",
+    "label": "punishment | delay | \u2205",
+    "sentence": "His punishment, however, was not delayed; when he had made a few blows at the tree he struck himself in the leg, so that he had to be carried home."
+  },
+  {
+    "sent_id": 11,
+    "subj": "dummling",
+    "verb": "say",
+    "obj": "",
+    "label": "dummling | say | \u2205",
+    "sentence": "Then Dummling said: \u2018Father, do let me go and cut wood.\u2019"
+  },
+  {
+    "sent_id": 12,
+    "subj": "father",
+    "verb": "answer",
+    "obj": "",
+    "label": "father | answer | \u2205",
+    "sentence": "The father answered: \u2018Your brothers have hurt themselves with it, leave it alone, you do not understand anything about it.\u2019"
+  },
+  {
+    "sent_id": 13,
+    "subj": "dummling",
+    "verb": "beg",
+    "obj": "",
+    "label": "dummling | beg | \u2205",
+    "sentence": "But Dummling begged so long that at last he said: \u2018Just go then, you will get wiser by hurting yourself.\u2019"
+  },
+  {
+    "sent_id": 14,
+    "subj": "mother",
+    "verb": "give",
+    "obj": "cake",
+    "label": "mother | give | cake",
+    "sentence": "His mother gave him a cake made with water and baked in the cinders, and with it a bottle of sour beer."
+  },
+  {
+    "sent_id": 15,
+    "subj": "",
+    "verb": "say",
+    "obj": "",
+    "label": "\u2205 | say | \u2205",
+    "sentence": "When he came to the forest the little old grey man met him likewise, and greeting him, said: \u2018Give me a piece of your cake and a drink out of your bottle; I am so hungry and thirsty.\u2019"
+  },
+  {
+    "sent_id": 16,
+    "subj": "dummling",
+    "verb": "answer",
+    "obj": "",
+    "label": "dummling | answer | \u2205",
+    "sentence": "Dummling answered: \u2018I have only cinder-cake and sour beer; if that pleases you, we will sit down and eat.\u2019"
+  },
+  {
+    "sent_id": 17,
+    "subj": "they",
+    "verb": "sit",
+    "obj": "",
+    "label": "they | sit | \u2205",
+    "sentence": "So they sat down, and when Dummling pulled out his cinder-cake, it was a fine sweet cake, and the sour beer had become good wine."
+  },
+  {
+    "sent_id": 18,
+    "subj": "they",
+    "verb": "eat",
+    "obj": "",
+    "label": "they | eat | \u2205",
+    "sentence": "So they ate and drank, and after that the little man said: \u2018Since you have a good heart, and are willing to divide what you have, I will give you good luck."
+  },
+  {
+    "sent_id": 19,
+    "subj": "",
+    "verb": "stand",
+    "obj": "tree",
+    "label": "\u2205 | stand | tree",
+    "sentence": "There stands an old tree, cut it down, and you will find something at the roots.\u2019"
+  },
+  {
+    "sent_id": 20,
+    "subj": "man",
+    "verb": "take",
+    "obj": "leave",
+    "label": "man | take | leave",
+    "sentence": "Then the little man took leave of him."
+  },
+  {
+    "sent_id": 21,
+    "subj": "dummle",
+    "verb": "go",
+    "obj": "",
+    "label": "dummle | go | \u2205",
+    "sentence": "Dummling went and cut down the tree, and when it fell there was a goose sitting in the roots with feathers of pure gold."
+  },
+  {
+    "sent_id": 22,
+    "subj": "he",
+    "verb": "lift",
+    "obj": "she",
+    "label": "he | lift | she",
+    "sentence": "He lifted her up, and taking her with him, went to an inn where he thought he would stay the night."
+  },
+  {
+    "sent_id": 23,
+    "subj": "host",
+    "verb": "have",
+    "obj": "daughter",
+    "label": "host | have | daughter",
+    "sentence": "Now the host had three daughters, who saw the goose and were curious to know what such a wonderful bird might be, and would have liked to have one of its golden feathers."
+  },
+  {
+    "sent_id": 25,
+    "subj": "second",
+    "verb": "come",
+    "obj": "",
+    "label": "second | come | \u2205",
+    "sentence": "The second came soon afterwards, thinking only of how she might get a feather for herself, but she had scarcely touched her sister than she was held fast."
+  },
+  {
+    "sent_id": 26,
+    "subj": "third",
+    "verb": "come",
+    "obj": "last",
+    "label": "third | come | last",
+    "sentence": "At last the third also came with the like intent, and the others screamed out: \u2018Keep away; for goodness\u2019 sake keep away!\u2019"
+  },
+  {
+    "sent_id": 27,
+    "subj": "she",
+    "verb": "understand",
+    "obj": "",
+    "label": "she | understand | \u2205",
+    "sentence": "But she did not understand why she was to keep away."
+  },
+  {
+    "sent_id": 28,
+    "subj": "she",
+    "verb": "think",
+    "obj": "",
+    "label": "she | think | \u2205",
+    "sentence": "\u2018The others are there,\u2019 she thought, \u2018I may as well be there too,\u2019 and ran to them; but as soon as she had touched her sister, she remained sticking fast to her."
+  },
+  {
+    "sent_id": 29,
+    "subj": "they",
+    "verb": "have",
+    "obj": "",
+    "label": "they | have | \u2205",
+    "sentence": "So they had to spend the night with the goose."
+  },
+  {
+    "sent_id": 30,
+    "subj": "dummling",
+    "verb": "take",
+    "obj": "goose",
+    "label": "dummling | take | goose",
+    "sentence": "The next morning Dummling took the goose under his arm and set out, without troubling himself about the three girls who were hanging on to it."
+  },
+  {
+    "sent_id": 31,
+    "subj": "they",
+    "verb": "oblige",
+    "obj": "",
+    "label": "they | oblige | \u2205",
+    "sentence": "They were obliged to run after him continually, now left, now right, wherever his legs took him."
+  },
+  {
+    "sent_id": 32,
+    "subj": "parson",
+    "verb": "meet",
+    "obj": "they",
+    "label": "parson | meet | they",
+    "sentence": "In the middle of the fields the parson met them, and when he saw the procession he said: \u2018For shame, you good-for-nothing girls, why are you running across the fields after this young man?"
+  },
+  {
+    "sent_id": 33,
+    "subj": "that",
+    "verb": "be",
+    "obj": "",
+    "label": "that | be | \u2205",
+    "sentence": "Is that seemly?\u2019"
+  },
+  {
+    "sent_id": 34,
+    "subj": "he",
+    "verb": "seize",
+    "obj": "young",
+    "label": "he | seize | young",
+    "sentence": "At the same time he seized the youngest by the hand in order to pull her away, but as soon as he touched her he likewise stuck fast, and was himself obliged to run behind."
+  },
+  {
+    "sent_id": 35,
+    "subj": "sexton",
+    "verb": "come",
+    "obj": "",
+    "label": "sexton | come | \u2205",
+    "sentence": "Before long the sexton came by and saw his master, the parson, running behind three girls."
+  },
+  {
+    "sent_id": 36,
+    "subj": "he",
+    "verb": "astonish",
+    "obj": "reverence",
+    "label": "he | astonish | reverence",
+    "sentence": "He was astonished at this and called out: \u2018Hi! your reverence, whither away so quickly?"
+  },
+  {
+    "sent_id": 37,
+    "subj": "",
+    "verb": "forget",
+    "obj": "",
+    "label": "\u2205 | forget | \u2205",
+    "sentence": "Do not forget that we have a christening today!\u2019"
+  },
+  {
+    "sent_id": 38,
+    "subj": "he",
+    "verb": "take",
+    "obj": "he",
+    "label": "he | take | he",
+    "sentence": "and running after him he took him by the sleeve, but was also held fast to it."
+  },
+  {
+    "sent_id": 39,
+    "subj": "parson",
+    "verb": "call",
+    "obj": "they",
+    "label": "parson | call | they",
+    "sentence": "Whilst the five were trotting thus one behind the other, two labourers came with their hoes from the fields; the parson called out to them and begged that they would set him and the sexton free."
+  },
+  {
+    "sent_id": 40,
+    "subj": "they",
+    "verb": "touch",
+    "obj": "sexton",
+    "label": "they | touch | sexton",
+    "sentence": "But they had scarcely touched the sexton when they were held fast, and now there were seven of them running behind Dummling and the goose."
+  },
+  {
+    "sent_id": 41,
+    "subj": "he",
+    "verb": "come",
+    "obj": "city",
+    "label": "he | come | city",
+    "sentence": "Soon afterwards he came to a city, where a king ruled who had a daughter who was so serious that no one could make her laugh."
+  },
+  {
+    "sent_id": 42,
+    "subj": "he",
+    "verb": "put",
+    "obj": "decree",
+    "label": "he | put | decree",
+    "sentence": "So he had put forth a decree that whosoever should be able to make her laugh should marry her."
+  },
+  {
+    "sent_id": 43,
+    "subj": "he",
+    "verb": "go",
+    "obj": "goose",
+    "label": "he | go | goose",
+    "sentence": "When Dummling heard this, he went with his goose and all her train before the king\u2019s daughter, and as soon as she saw the seven people running on and on, one behind the other, she began to laugh quite loudly, and as if she would never stop."
+  },
+  {
+    "sent_id": 44,
+    "subj": "dummling",
+    "verb": "ask",
+    "obj": "",
+    "label": "dummling | ask | \u2205",
+    "sentence": "Thereupon Dummling asked to have her for his wife; but the king did not like the son-in-law, and made all manner of excuses and said he must first produce a man who could drink a cellarful of wine."
+  },
+  {
+    "sent_id": 45,
+    "subj": "he",
+    "verb": "go",
+    "obj": "forest",
+    "label": "he | go | forest",
+    "sentence": "Dummling thought of the little grey man, who could certainly help him; so he went into the forest, and in the same place where he had felled the tree, he saw a man sitting, who had a very sorrowful face."
+  },
+  {
+    "sent_id": 46,
+    "subj": "dummling",
+    "verb": "ask",
+    "obj": "he",
+    "label": "dummling | ask | he",
+    "sentence": "Dummling asked him what he was taking to heart so sorely, and he answered: \u2018I have such a great thirst and cannot quench it; cold water I cannot stand, a barrel of wine I have just emptied, but that to me is like a drop on a hot stone!\u2019"
+  },
+  {
+    "sent_id": 47,
+    "subj": "",
+    "verb": "say",
+    "obj": "",
+    "label": "\u2205 | say | \u2205",
+    "sentence": "\u2018There, I can help you,\u2019 said Dummling, \u2018just come with me and you shall be satisfied.\u2019"
+  },
+  {
+    "sent_id": 48,
+    "subj": "he",
+    "verb": "lead",
+    "obj": "he",
+    "label": "he | lead | he",
+    "sentence": "He led him into the king\u2019s cellar, and the man bent over the huge barrels, and drank and drank till his loins hurt, and before the day was out he had emptied all the barrels."
+  },
+  {
+    "sent_id": 49,
+    "subj": "dummling",
+    "verb": "ask",
+    "obj": "bride",
+    "label": "dummling | ask | bride",
+    "sentence": "Then Dummling asked once more for his bride, but the king was vexed that such an ugly fellow, whom everyone called Dummling, should take away his daughter, and he made a new condition; he must first find a man who could eat a whole mountain of bread."
+  },
+  {
+    "sent_id": 50,
+    "subj": "dummling",
+    "verb": "think",
+    "obj": "",
+    "label": "dummling | think | \u2205",
+    "sentence": "Dummling did not think long, but went straight into the forest, where in the same place there sat a man who was tying up his body with a strap, and making an awful face, and saying: \u2018I have eaten a whole ovenful of rolls, but what good is that when one has such a hunger as I?"
+  },
+  {
+    "sent_id": 51,
+    "subj": "stomach",
+    "verb": "remain",
+    "obj": "",
+    "label": "stomach | remain | \u2205",
+    "sentence": "My stomach remains empty, and I must tie myself up if I am not to die of hunger.\u2019"
+  },
+  {
+    "sent_id": 52,
+    "subj": "",
+    "verb": "be",
+    "obj": "dummling",
+    "label": "\u2205 | be | dummling",
+    "sentence": "At this Dummling was glad, and said: \u2018Get up and come with me; you shall eat yourself full.\u2019"
+  },
+  {
+    "sent_id": 53,
+    "subj": "he",
+    "verb": "lead",
+    "obj": "he",
+    "label": "he | lead | he",
+    "sentence": "He led him to the king\u2019s palace where all the flour in the whole Kingdom was collected, and from it he caused a huge mountain of bread to be baked."
+  },
+  {
+    "sent_id": 54,
+    "subj": "man",
+    "verb": "stand",
+    "obj": "it",
+    "label": "man | stand | it",
+    "sentence": "The man from the forest stood before it, began to eat, and by the end of one day the whole mountain had vanished."
+  },
+  {
+    "sent_id": 55,
+    "subj": "",
+    "verb": "dummle",
+    "obj": "time",
+    "label": "\u2205 | dummle | time",
+    "sentence": "Then Dummling for the third time asked for his bride; but the king again sought a way out, and ordered a ship which could sail on land and on water."
+  },
+  {
+    "sent_id": 56,
+    "subj": "he",
+    "verb": "say",
+    "obj": "",
+    "label": "he | say | \u2205",
+    "sentence": "\u2018As soon as you come sailing back in it,\u2019 said he, \u2018you shall have my daughter for wife.\u2019"
+  },
+  {
+    "sent_id": 57,
+    "subj": "dummling",
+    "verb": "go",
+    "obj": "forest",
+    "label": "dummling | go | forest",
+    "sentence": "Dummling went straight into the forest, and there sat the little grey man to whom he had given his cake."
+  },
+  {
+    "sent_id": 58,
+    "subj": "he",
+    "verb": "say",
+    "obj": "",
+    "label": "he | say | \u2205",
+    "sentence": "When he heard what Dummling wanted, he said: \u2018Since you have given me to eat and to drink, I will give you the ship; and I do all this because you once were kind to me.\u2019"
+  },
+  {
+    "sent_id": 59,
+    "subj": "he",
+    "verb": "give",
+    "obj": "ship",
+    "label": "he | give | ship",
+    "sentence": "Then he gave him the ship which could sail on land and water, and when the king saw that, he could no longer prevent him from having his daughter."
+  },
+  {
+    "sent_id": 60,
+    "subj": "wedding",
+    "verb": "celebrate",
+    "obj": "",
+    "label": "wedding | celebrate | \u2205",
+    "sentence": "The wedding was celebrated, and after the king\u2019s death, Dummling inherited his kingdom and lived for a long time contentedly with his wife."
+  }
+]

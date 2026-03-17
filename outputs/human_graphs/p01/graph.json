@@ -1,0 +1,212 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "faith | be | dervish",
+      "sent_id": 0,
+      "sentence": "The faith of a starving man\n\nOnce, there was a wandering dervish of great piety and faith who was starving and lost in the desert.",
+      "subj": "faith",
+      "verb": "be",
+      "obj": "dervish"
+    },
+    {
+      "id": "e0001",
+      "label": "he | find | sack",
+      "sent_id": 1,
+      "sentence": "As he was walking along an old pathway in search of something to eat, he found an empty fruit sack that had been thrown by the road by a previous passer-by.",
+      "subj": "he",
+      "verb": "find",
+      "obj": "sack"
+    },
+    {
+      "id": "e0002",
+      "label": "dervish | pick | sack",
+      "sent_id": 2,
+      "sentence": "The dervish picked up the sack and swung it over his shoulder while praying loudly, \u201cThank God for giving a starving man an empty sack of fruit,\u201d as he continued to walk.",
+      "subj": "dervish",
+      "verb": "pick",
+      "obj": "sack"
+    },
+    {
+      "id": "e0003",
+      "label": "he | come | hunting",
+      "sent_id": 3,
+      "sentence": "After he walked some more, he came across on old hunting bow whose string was broken.",
+      "subj": "he",
+      "verb": "come",
+      "obj": "hunting"
+    },
+    {
+      "id": "e0004",
+      "label": "he | pick | bow",
+      "sent_id": 4,
+      "sentence": "He picked up the bow and put it in his sack, and prayed out loud, \u201cThank God for giving a starving man a hunting bow with a broken string.\u201d",
+      "subj": "he",
+      "verb": "pick",
+      "obj": "bow"
+    },
+    {
+      "id": "e0005",
+      "label": "he | see | tree",
+      "sent_id": 5,
+      "sentence": "A bit further down the road, he saw an old tree that was dead and bore no fruit.",
+      "subj": "he",
+      "verb": "see",
+      "obj": "tree"
+    },
+    {
+      "id": "e0006",
+      "label": "he | break | branch",
+      "sent_id": 6,
+      "sentence": "He broke a few dry branches off of the old tree and put them in his sack, and again said loudly, \u201cThank God for leading a starving man to a dead fruit tree,\u201d and then he continued his way.",
+      "subj": "he",
+      "verb": "break",
+      "obj": "branch"
+    },
+    {
+      "id": "e0007",
+      "label": "he | walk | \u2205",
+      "sent_id": 7,
+      "sentence": "He walked some more and found a dented old cooking pot.",
+      "subj": "he",
+      "verb": "walk",
+      "obj": ""
+    },
+    {
+      "id": "e0008",
+      "label": "he | pick | pot",
+      "sent_id": 8,
+      "sentence": "He picked up the old pot off the ground, blew the dust off of it and put it in his sack too.",
+      "subj": "he",
+      "verb": "pick",
+      "obj": "pot"
+    },
+    {
+      "id": "e0009",
+      "label": "he | pray | \u2205",
+      "sent_id": 9,
+      "sentence": "He again loudly prayed, \u201cThank god for giving a starving man a dented old pot full of dust.\u201d",
+      "subj": "he",
+      "verb": "pray",
+      "obj": ""
+    },
+    {
+      "id": "e0010",
+      "label": "he | find | hook",
+      "sent_id": 10,
+      "sentence": "As he continued walking, he found on the ground a fishing hook but no fishing pole.",
+      "subj": "he",
+      "verb": "find",
+      "obj": "hook"
+    },
+    {
+      "id": "e0011",
+      "label": "he | pick | hook",
+      "sent_id": 11,
+      "sentence": "He picked up the fishing hook, put it in his sack and again declared loudly, \u201cThank God for giving a starving man a fishing hook with no fishing pole.\u201d",
+      "subj": "he",
+      "verb": "pick",
+      "obj": "hook"
+    },
+    {
+      "id": "e0012",
+      "label": "path | end | day",
+      "sent_id": 12,
+      "sentence": "Finally, after days of walking, his path ended in at a river that was so large he couldn\u2019t see the other side.",
+      "subj": "path",
+      "verb": "end",
+      "obj": "day"
+    },
+    {
+      "id": "e0013",
+      "label": "dervish | fall | knee",
+      "sent_id": 13,
+      "sentence": "The old dervish fell to his knees at the river bank and prayed loudly, \u201cThank God for leading a starving man to a river so great that he cannot hope to cross it.\u201d",
+      "subj": "dervish",
+      "verb": "fall",
+      "obj": "knee"
+    },
+    {
+      "id": "e0014",
+      "label": "he | catch | fish",
+      "sent_id": 14,
+      "sentence": "Then, he tied the fishing hook to the broken string on the hunting bow, and using it as a fishing pole, he caught himself a fish that he cooked in the old pot over a fire he had made from the dried tree branches.",
+      "subj": "he",
+      "verb": "catch",
+      "obj": "fish"
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    }
+  ]
+}

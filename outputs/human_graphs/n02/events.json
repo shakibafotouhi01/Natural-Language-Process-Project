@@ -1,0 +1,242 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "origin",
+    "verb": "talk",
+    "obj": "other",
+    "label": "origin | talk | other",
+    "sentence": "The origin of fire\n\nLong, long ago, animals and trees talked with each other, but there was no fire at that time."
+  },
+  {
+    "sent_id": 1,
+    "subj": "fox",
+    "verb": "be",
+    "obj": "",
+    "label": "fox | be | \u2205",
+    "sentence": "Fox was most clever and he tried to think of a way to create fire for the world."
+  },
+  {
+    "sent_id": 2,
+    "subj": "he",
+    "verb": "decide",
+    "obj": "",
+    "label": "he | decide | \u2205",
+    "sentence": "One day, he decided to visit the Geese, te-tl, whose cry he wished to learn how to imitate."
+  },
+  {
+    "sent_id": 3,
+    "subj": "they",
+    "verb": "promise",
+    "obj": "",
+    "label": "they | promise | \u2205",
+    "sentence": "They promised to teach him if he would fly with them."
+  },
+  {
+    "sent_id": 4,
+    "subj": "they",
+    "verb": "contrive",
+    "obj": "way",
+    "label": "they | contrive | way",
+    "sentence": "So they contrived a way to attach wings to Fox, but cautioned him never to open his eyes while flying."
+  },
+  {
+    "sent_id": 5,
+    "subj": "fox",
+    "verb": "fly",
+    "obj": "",
+    "label": "fox | fly | \u2205",
+    "sentence": "Whenever the Geese arose in flight, Fox also flew along with them to practice their cry."
+  },
+  {
+    "sent_id": 6,
+    "subj": "darkness",
+    "verb": "descend",
+    "obj": "adventure",
+    "label": "darkness | descend | adventure",
+    "sentence": "On one such adventure, darkness descended suddenly as they flew over the village of the fireflies, ko-na- tcic-a. In mid-flight, the glare from the flickering fireflies caused Fox to forget and he opened his eyes--instantly his wings collapsed!"
+  },
+  {
+    "sent_id": 7,
+    "subj": "fall",
+    "verb": "be",
+    "obj": "",
+    "label": "fall | be | \u2205",
+    "sentence": "His fall was uncontrollable."
+  },
+  {
+    "sent_id": 8,
+    "subj": "he",
+    "verb": "land",
+    "obj": "area",
+    "label": "he | land | area",
+    "sentence": "He landed within the walled area of the firefly village, where a fire constantly burned in the center."
+  },
+  {
+    "sent_id": 9,
+    "subj": "firefly",
+    "verb": "come",
+    "obj": "",
+    "label": "firefly | come | \u2205",
+    "sentence": "Two kind fireflies came to see fallen Fox, who gave each one a necklace of juniper berries, katl-te-i-tse."
+  },
+  {
+    "sent_id": 10,
+    "subj": "fox",
+    "verb": "hop",
+    "obj": "",
+    "label": "fox | hop | \u2205",
+    "sentence": "Fox hoped to persuade the two fireflies to tell him where he could find a way over the wall to the outside."
+  },
+  {
+    "sent_id": 11,
+    "subj": "they",
+    "verb": "lead",
+    "obj": "he",
+    "label": "they | lead | he",
+    "sentence": "They led him to a cedar tree, which they explained would bend down upon command and catapult him over the wall if he so desired."
+  },
+  {
+    "sent_id": 12,
+    "subj": "fox",
+    "verb": "find",
+    "obj": "spring",
+    "label": "fox | find | spring",
+    "sentence": "That evening, Fox found the spring where fireflies obtained their water."
+  },
+  {
+    "sent_id": 13,
+    "subj": "he",
+    "verb": "discover",
+    "obj": "earth",
+    "label": "he | discover | earth",
+    "sentence": "There also, he discovered colored Earth, which when mixed with water made paint."
+  },
+  {
+    "sent_id": 14,
+    "subj": "he",
+    "verb": "decide",
+    "obj": "",
+    "label": "he | decide | \u2205",
+    "sentence": "He decided to give himself a coat of white."
+  },
+  {
+    "sent_id": 15,
+    "subj": "",
+    "verb": "let",
+    "obj": "",
+    "label": "\u2205 | let | \u2205",
+    "sentence": "Upon returning to the village, Fox suggested to the fireflies, \"Let's have a festival where we can dance and I will produce the music."
+  },
+  {
+    "sent_id": 16,
+    "subj": "they",
+    "verb": "agree",
+    "obj": "",
+    "label": "they | agree | \u2205",
+    "sentence": "\"\n\nThey all agreed that would be fun and helped to gather wood to build up a greater fire."
+  },
+  {
+    "sent_id": 17,
+    "subj": "fox",
+    "verb": "tie",
+    "obj": "piece",
+    "label": "fox | tie | piece",
+    "sentence": "Secretly, Fox tied a piece of cedar bark to his tail."
+  },
+  {
+    "sent_id": 18,
+    "subj": "he",
+    "verb": "make",
+    "obj": "drum",
+    "label": "he | make | drum",
+    "sentence": "Then he made a drum, probably the first one ever constructed, and beat it vigorously with a stick for the dancing fireflies."
+  },
+  {
+    "sent_id": 19,
+    "subj": "he",
+    "verb": "move",
+    "obj": "",
+    "label": "he | move | \u2205",
+    "sentence": "Gradually, he moved closer and closer to the fire."
+  },
+  {
+    "sent_id": 20,
+    "subj": "fox",
+    "verb": "pretend",
+    "obj": "",
+    "label": "fox | pretend | \u2205",
+    "sentence": "Fox pretended to tire from beating the drum."
+  },
+  {
+    "sent_id": 21,
+    "subj": "he",
+    "verb": "give",
+    "obj": "it",
+    "label": "he | give | it",
+    "sentence": "He gave it to some fireflies who wanted to help make the music."
+  },
+  {
+    "sent_id": 22,
+    "subj": "i",
+    "verb": "find",
+    "obj": "place",
+    "label": "i | find | place",
+    "sentence": "Fox quickly thrust his tail into the fire, lighting the bark, and exclaimed, \"It is too warm here for me, I must find a cooler place.\""
+  },
+  {
+    "sent_id": 23,
+    "subj": "",
+    "verb": "run",
+    "obj": "tree",
+    "label": "\u2205 | run | tree",
+    "sentence": "Straight to the cedar tree Fox ran, calling, \"Bend down to me, my cedar tree, bend down!"
+  },
+  {
+    "sent_id": 24,
+    "subj": "it",
+    "verb": "carry",
+    "obj": "he",
+    "label": "it | carry | he",
+    "sentence": "\"\n\nDown bent the cedar tree for Fox to catch hold, then up it carried him far over the wall."
+  },
+  {
+    "sent_id": 26,
+    "subj": "",
+    "verb": "ignite",
+    "obj": "spark",
+    "label": "\u2205 | ignite | spark",
+    "sentence": "As Fox ran along, brush and wood on either side of his path were ignited from the sparks dropping from the burning bark tied to his tail."
+  },
+  {
+    "sent_id": 27,
+    "subj": "fox",
+    "verb": "tire",
+    "obj": "",
+    "label": "fox | tire | \u2205",
+    "sentence": "Fox finally tired and gave the burning bark to Hawk, i-tsarl-tsu- i, who carried it to brown Crane, tsi-nes-tso-l."
+  },
+  {
+    "sent_id": 28,
+    "subj": "he",
+    "verb": "fly",
+    "obj": "",
+    "label": "he | fly | \u2205",
+    "sentence": "He flew far southward, scattering fire sparks everywhere."
+  },
+  {
+    "sent_id": 29,
+    "subj": "this",
+    "verb": "be",
+    "obj": "",
+    "label": "this | be | \u2205",
+    "sentence": "This is how fire first spread over the Earth."
+  },
+  {
+    "sent_id": 30,
+    "subj": "firefly",
+    "verb": "continue",
+    "obj": "",
+    "label": "firefly | continue | \u2205",
+    "sentence": "Fireflies continued chasing Fox all the way to his burrow and declared, \"Forever after, Wily Fox, your punishment for stealing our fire will be that you can never make use of it for yourself.\""
+  }
+]
