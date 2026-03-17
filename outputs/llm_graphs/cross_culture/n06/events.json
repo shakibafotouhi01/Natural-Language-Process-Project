@@ -1,0 +1,490 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "",
+    "verb": "dwelt",
+    "obj": "hunter",
+    "label": "\u2205 | dwelt | hunter",
+    "sentence": "In a secluded part of the Black Forest, where dense pines stretched endlessly and woodland creatures thrived, there dwelt a hunter named Wei\u00dffalke\u2014the White Falcon."
+  },
+  {
+    "sent_id": 1,
+    "subj": "he",
+    "verb": "return",
+    "obj": "",
+    "label": "he | return | \u2205",
+    "sentence": "Renowned among his village for unmatched skill and fortune, he returned each evening bearing a generous spoil."
+  },
+  {
+    "sent_id": 2,
+    "subj": "eye",
+    "verb": "flicker",
+    "obj": "fire",
+    "label": "eye | flicker | fire",
+    "sentence": "His stature was as sturdy as the towering firs, his eyes flickered with youthful fire, and no shadowed glen or rugged trail eluded his keen sight."
+  },
+  {
+    "sent_id": 3,
+    "subj": "wei\u00dffalke",
+    "verb": "venture",
+    "obj": "",
+    "label": "wei\u00dffalke | venture | \u2205",
+    "sentence": "One day, driven by restless curiosity, Wei\u00dffalke ventured farther than ever before, emerging into an open clearing that revealed a vast meadow stretching under a pale sky\u2014the Landes, a sweeping plain where wild grasses swayed blue-gray and wildflowers gleamed like scattered jewels."
+  },
+  {
+    "sent_id": 4,
+    "subj": "he",
+    "verb": "stumble",
+    "obj": "circle",
+    "label": "he | stumble | circle",
+    "sentence": "As he wandered without a path, savoring the crisp air scented with pine resin and fresh earth, he stumbled upon a curious circle pressed into the meadow, a ring where the grass and blossoms seemed bent inward as if trod gently round and round."
+  },
+  {
+    "sent_id": 5,
+    "subj": "twig",
+    "verb": "disturb",
+    "obj": "perfection",
+    "label": "twig | disturb | perfection",
+    "sentence": "Yet no trace of footprints led to or from it\u2014no crushed leaf nor snapped twig disturbed the perfection of the sod."
+  },
+  {
+    "sent_id": 6,
+    "subj": "",
+    "verb": "conceal",
+    "obj": "himself",
+    "label": "\u2205 | conceal | himself",
+    "sentence": "Perplexed, Wei\u00dffalke concealed himself nearby, watching intently."
+  },
+  {
+    "sent_id": 7,
+    "subj": "melody",
+    "verb": "waft",
+    "obj": "air",
+    "label": "melody | waft | air",
+    "sentence": "Soon, faint melodies, pure and haunting, wafted through the air."
+  },
+  {
+    "sent_id": 8,
+    "subj": "he",
+    "verb": "lift",
+    "obj": "gaze",
+    "label": "he | lift | gaze",
+    "sentence": "He lifted his gaze skyward, and as the music faded to a whisper, he beheld a small cloud-like basket descending gracefully."
+  },
+  {
+    "sent_id": 9,
+    "subj": "it",
+    "verb": "grow",
+    "obj": "delicate",
+    "label": "it | grow | delicate",
+    "sentence": "At first delicate as a wisp, it grew steadily larger until it revealed twelve sisters of radiant beauty, their forms as graceful as forest nymphs, their eyes bright as mountain lakes."
+  },
+  {
+    "sent_id": 10,
+    "subj": "they",
+    "verb": "leapt",
+    "obj": "",
+    "label": "they | leapt | \u2205",
+    "sentence": "As their basket touched earth within the ring, they leapt out and commenced a lively dance, their feet striking a glowing orb that sang enchanting tunes, keeping rhythm with their joyous movements."
+  },
+  {
+    "sent_id": 11,
+    "subj": "heart",
+    "verb": "steal",
+    "obj": "",
+    "label": "heart | steal | \u2205",
+    "sentence": "Hidden in the shadows, Wei\u00dffalke watched spellbound, admiring them all; yet his heart was stolen by the youngest, whose laughter shimmered like the silver Danube."
+  },
+  {
+    "sent_id": 12,
+    "subj": "he",
+    "verb": "spring",
+    "obj": "",
+    "label": "he | spring | \u2205",
+    "sentence": "Unable to remain a silent witness, he sprang forth to claim her, but at his approach, the sisters, swift as the forest birds, leapt back into their basket and were lifted away, disappearing into the misty heights."
+  },
+  {
+    "sent_id": 13,
+    "subj": "wei\u00dffalke",
+    "verb": "gaze",
+    "obj": "basket",
+    "label": "wei\u00dffalke | gaze | basket",
+    "sentence": "Sorrow-filled, Wei\u00dffalke gazed long after the basket fading into clouds."
+  },
+  {
+    "sent_id": 14,
+    "subj": "he",
+    "verb": "sigh",
+    "obj": "",
+    "label": "he | sigh | \u2205",
+    "sentence": "\u201cThey are gone,\u201d he sighed, \u201cnever to grace my sight again.\u201d"
+  },
+  {
+    "sent_id": 15,
+    "subj": "longing",
+    "verb": "let",
+    "obj": "",
+    "label": "longing | let | \u2205",
+    "sentence": "But longing would not let him rest."
+  },
+  {
+    "sent_id": 16,
+    "subj": "he",
+    "verb": "return",
+    "obj": "hour",
+    "label": "he | return | hour",
+    "sentence": "The following day, at the same hour, he returned."
+  },
+  {
+    "sent_id": 17,
+    "subj": "he",
+    "verb": "assume",
+    "obj": "shape",
+    "label": "he | assume | shape",
+    "sentence": "To trick the sisters, he assumed the shape of a sable, blending into the underbrush near the enchanted ring, pretending to forage quietly."
+  },
+  {
+    "sent_id": 18,
+    "subj": "basket",
+    "verb": "appear",
+    "obj": "",
+    "label": "basket | appear | \u2205",
+    "sentence": "The basket appeared as before, the sweet melodies drawing near."
+  },
+  {
+    "sent_id": 19,
+    "subj": "they",
+    "verb": "flee",
+    "obj": "song",
+    "label": "they | flee | song",
+    "sentence": "Yet the moment the sisters glimpsed him, startled, they fled skyward in song."
+  },
+  {
+    "sent_id": 20,
+    "subj": "",
+    "verb": "muse",
+    "obj": "sister",
+    "label": "\u2205 | muse | sister",
+    "sentence": "\u201cPerhaps they wish to test our mortal wiles,\u201d mused the eldest sister as they hovered."
+  },
+  {
+    "sent_id": 21,
+    "subj": "nay",
+    "verb": "let",
+    "obj": "",
+    "label": "nay | let | \u2205",
+    "sentence": "\u201cNay,\u201d the youngest replied, \u201clet us rise quickly.\u201d"
+  },
+  {
+    "sent_id": 22,
+    "subj": "voice",
+    "verb": "unite",
+    "obj": "chant",
+    "label": "voice | unite | chant",
+    "sentence": "Their voices united in a chant, and the basket vanished among the clouds."
+  },
+  {
+    "sent_id": 23,
+    "subj": "heart",
+    "verb": "shed",
+    "obj": "guise",
+    "label": "heart | shed | guise",
+    "sentence": "Heart heavy, Wei\u00dffalke shed his guise and returned alone to his forest cabin, the days ahead bitter and long without his beloved."
+  },
+  {
+    "sent_id": 24,
+    "subj": "he",
+    "verb": "seek",
+    "obj": "stratagem",
+    "label": "he | seek | stratagem",
+    "sentence": "Determined, on the third day he sought a new stratagem."
+  },
+  {
+    "sent_id": 26,
+    "subj": "he",
+    "verb": "nestle",
+    "obj": "creature",
+    "label": "he | nestle | creature",
+    "sentence": "Adopting the form of a mouse himself, he nestled among the little creatures, eyes sharp, ever watching the sky."
+  },
+  {
+    "sent_id": 27,
+    "subj": "sister",
+    "verb": "descend",
+    "obj": "time",
+    "label": "sister | descend | time",
+    "sentence": "At the appointed time, the sisters descended as usual, resuming their dance and play."
+  },
+  {
+    "sent_id": 28,
+    "subj": "",
+    "verb": "notice",
+    "obj": "stump",
+    "label": "\u2205 | notice | stump",
+    "sentence": "The youngest noticed the stump."
+  },
+  {
+    "sent_id": 29,
+    "subj": "that",
+    "verb": "be",
+    "obj": "",
+    "label": "that | be | \u2205",
+    "sentence": "\u201cThat was not here before!\u201d"
+  },
+  {
+    "sent_id": 30,
+    "subj": "she",
+    "verb": "cry",
+    "obj": "",
+    "label": "she | cry | \u2205",
+    "sentence": "she cried, fleeing toward the basket."
+  },
+  {
+    "sent_id": 31,
+    "subj": "sister",
+    "verb": "smile",
+    "obj": "",
+    "label": "sister | smile | \u2205",
+    "sentence": "Her sisters smiled kindly and poked the stump, revealing the startled mice \u2014 among them Wei\u00dffalke."
+  },
+  {
+    "sent_id": 32,
+    "subj": "they",
+    "verb": "catch",
+    "obj": "all",
+    "label": "they | catch | all",
+    "sentence": "They swiftly caught all but one, who scampered wildly."
+  },
+  {
+    "sent_id": 33,
+    "subj": "pursue",
+    "verb": "stand",
+    "obj": "",
+    "label": "pursue | stand | \u2205",
+    "sentence": "The youngest pursued, raising a slender silver wand to strike the little creature, when suddenly the White Falcon stood, embracing the youngest sister in his arms."
+  },
+  {
+    "sent_id": 34,
+    "subj": "eleven",
+    "verb": "flee",
+    "obj": "basket",
+    "label": "eleven | flee | basket",
+    "sentence": "Eleven of the sisters fled upward in their basket, leaving the young one behind."
+  },
+  {
+    "sent_id": 35,
+    "subj": "",
+    "verb": "delight",
+    "obj": "",
+    "label": "\u2205 | delight | \u2205",
+    "sentence": "Wei\u00dffalke tended his bride with devoted care\u2014wiping away her tears, recounting tales of hunting and earthbound delights."
+  },
+  {
+    "sent_id": 36,
+    "subj": "they",
+    "verb": "walk",
+    "obj": "forest",
+    "label": "they | walk | forest",
+    "sentence": "Together they walked past the whispering forest to his humble home, where joy blossomed like the springtime crocus, and their hearts beat in harmony."
+  },
+  {
+    "sent_id": 37,
+    "subj": "seasons",
+    "verb": "turn",
+    "obj": "winter",
+    "label": "seasons | turn | winter",
+    "sentence": "Seasons turned\u2014the cold winters and warm summers\u2014and soon their happiness was crowned by a son, fair and strong, the light of stars mingled with earthly vigor."
+  },
+  {
+    "sent_id": 38,
+    "subj": "maiden",
+    "verb": "long",
+    "obj": "father",
+    "label": "maiden | long | father",
+    "sentence": "But the celestial maiden longed for her father among the stars."
+  },
+  {
+    "sent_id": 39,
+    "subj": "she",
+    "verb": "fashion",
+    "obj": "basket",
+    "label": "she | fashion | basket",
+    "sentence": "Hidden from her husband, she fashioned a delicate woven basket and gathered rare forest treasures and sweetest food, planning a secret voyage home."
+  },
+  {
+    "sent_id": 40,
+    "subj": "she",
+    "verb": "enter",
+    "obj": "ring",
+    "label": "she | enter | ring",
+    "sentence": "One day, with Wei\u00dffalke away hunting, she entered the enchanted ring with her child."
+  },
+  {
+    "sent_id": 41,
+    "subj": "she",
+    "verb": "rise",
+    "obj": "basket",
+    "label": "she | rise | basket",
+    "sentence": "Singing a mournful, haunting melody, she rose skyward in the shimmering basket."
+  },
+  {
+    "sent_id": 42,
+    "subj": "he",
+    "verb": "reach",
+    "obj": "they",
+    "label": "he | reach | they",
+    "sentence": "Though Wei\u00dffalke rushed to the meadow, he could not reach them before they vanished into the heavens."
+  },
+  {
+    "sent_id": 43,
+    "subj": "he",
+    "verb": "cry",
+    "obj": "vain",
+    "label": "he | cry | vain",
+    "sentence": "He cried out in vain as they became a twinkling light fading beyond the clouds."
+  },
+  {
+    "sent_id": 44,
+    "subj": "world",
+    "verb": "dim",
+    "obj": "",
+    "label": "world | dim | \u2205",
+    "sentence": "Grief overtook him; his world dimmed."
+  },
+  {
+    "sent_id": 45,
+    "subj": "winter",
+    "verb": "pass",
+    "obj": "",
+    "label": "winter | pass | \u2205",
+    "sentence": "Winter and summer passed."
+  },
+  {
+    "sent_id": 46,
+    "subj": "",
+    "verb": "mourn",
+    "obj": "wife",
+    "label": "\u2205 | mourn | wife",
+    "sentence": "Wei\u00dffalke mourned his lost wife and son, whose visage combined her light with his strength."
+  },
+  {
+    "sent_id": 47,
+    "subj": "maiden",
+    "verb": "forget",
+    "obj": "sorrow",
+    "label": "maiden | forget | sorrow",
+    "sentence": "Meanwhile, in the starry realm, the maiden soon forgot her earthly sorrow amid her father\u2019s celestial splendor."
+  },
+  {
+    "sent_id": 48,
+    "subj": "son",
+    "verb": "grow",
+    "obj": "",
+    "label": "son | grow | \u2205",
+    "sentence": "Yet her son grew restless, yearning to know his origins."
+  },
+  {
+    "sent_id": 49,
+    "subj": "chief",
+    "verb": "speak",
+    "obj": "daughter",
+    "label": "chief | speak | daughter",
+    "sentence": "The Star Chief spoke to his daughter:\n\n\u201cGo, child, and bring your son to his father, bidding him come join us."
+  },
+  {
+    "sent_id": 50,
+    "subj": "",
+    "verb": "tell",
+    "obj": "he",
+    "label": "\u2205 | tell | he",
+    "sentence": "But tell him he must bring the gifts of all beasts and birds he encounters in his hunts.\u201d"
+  },
+  {
+    "sent_id": 51,
+    "subj": "voice",
+    "verb": "bear",
+    "obj": "wind",
+    "label": "voice | bear | wind",
+    "sentence": "So they descended to earth, their voices borne on the crisp night wind."
+  },
+  {
+    "sent_id": 52,
+    "subj": "",
+    "verb": "recognize",
+    "obj": "they",
+    "label": "\u2205 | recognize | they",
+    "sentence": "Wei\u00dffalke, ever near the enchanted ring, recognized them at once, embracing wife and son."
+  },
+  {
+    "sent_id": 53,
+    "subj": "he",
+    "verb": "heed",
+    "obj": "message",
+    "label": "he | heed | message",
+    "sentence": "He heeded the message and hunted with urgent zeal, collecting token feathers, tails, and paws of creatures rare and wondrous."
+  },
+  {
+    "sent_id": 54,
+    "subj": "wei\u00dffalke",
+    "verb": "visit",
+    "obj": "place",
+    "label": "wei\u00dffalke | visit | place",
+    "sentence": "When all was ready, Wei\u00dffalke visited cherished places\u2014the hilltops gazing east at dawn, the brook where he played as a youth, his lonely lodge now heavy with memory\u2014and at last the enchanted ring."
+  },
+  {
+    "sent_id": 55,
+    "subj": "he",
+    "verb": "enter",
+    "obj": "basket",
+    "label": "he | enter | basket",
+    "sentence": "There, hand in hand with wife and son, he entered the glowing basket, rising beyond the reach of dark forests or mortal sight."
+  },
+  {
+    "sent_id": 56,
+    "subj": "chief",
+    "verb": "welcome",
+    "obj": "all",
+    "label": "chief | welcome | all",
+    "sentence": "Upon arrival, the Star Chief welcomed all to a grand feast and proclaimed that each might choose to remain as they were or become one with the earthly gifts brought forth."
+  },
+  {
+    "sent_id": 57,
+    "subj": "confusion",
+    "verb": "take",
+    "obj": "paw",
+    "label": "confusion | take | paw",
+    "sentence": "A lively confusion ensued\u2014some took paws, some wings, tails, or claws."
+  },
+  {
+    "sent_id": 58,
+    "subj": "other",
+    "verb": "become",
+    "obj": "bird",
+    "label": "other | become | bird",
+    "sentence": "Those choosing paws or claws transformed into animals, bounding away; others became birds, soaring skyward."
+  },
+  {
+    "sent_id": 59,
+    "subj": "wei\u00dffalke",
+    "verb": "choose",
+    "obj": "feather",
+    "label": "wei\u00dffalke | choose | feather",
+    "sentence": "Wei\u00dffalke chose a white falcon\u2019s feather."
+  },
+  {
+    "sent_id": 60,
+    "subj": "wife",
+    "verb": "follow",
+    "obj": "",
+    "label": "wife | follow | \u2205",
+    "sentence": "His wife and son followed, each transformed into a white falcon."
+  },
+  {
+    "sent_id": 61,
+    "subj": "they",
+    "verb": "descend",
+    "obj": "earth",
+    "label": "they | descend | earth",
+    "sentence": "Spreading their wings, they descended together to earth, their eyes reflecting the stars, their flight kissed by the freedom of celestial winds\u2014forever guardians between sky and forest."
+  }
+]

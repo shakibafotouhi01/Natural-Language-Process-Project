@@ -1,0 +1,856 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "\u2205 | dwelt | hunter",
+      "sent_id": 0,
+      "sentence": "In a secluded part of the Black Forest, where dense pines stretched endlessly and woodland creatures thrived, there dwelt a hunter named Wei\u00dffalke\u2014the White Falcon.",
+      "subj": "",
+      "verb": "dwelt",
+      "obj": "hunter"
+    },
+    {
+      "id": "e0001",
+      "label": "he | return | \u2205",
+      "sent_id": 1,
+      "sentence": "Renowned among his village for unmatched skill and fortune, he returned each evening bearing a generous spoil.",
+      "subj": "he",
+      "verb": "return",
+      "obj": ""
+    },
+    {
+      "id": "e0002",
+      "label": "eye | flicker | fire",
+      "sent_id": 2,
+      "sentence": "His stature was as sturdy as the towering firs, his eyes flickered with youthful fire, and no shadowed glen or rugged trail eluded his keen sight.",
+      "subj": "eye",
+      "verb": "flicker",
+      "obj": "fire"
+    },
+    {
+      "id": "e0003",
+      "label": "wei\u00dffalke | venture | \u2205",
+      "sent_id": 3,
+      "sentence": "One day, driven by restless curiosity, Wei\u00dffalke ventured farther than ever before, emerging into an open clearing that revealed a vast meadow stretching under a pale sky\u2014the Landes, a sweeping plain where wild grasses swayed blue-gray and wildflowers gleamed like scattered jewels.",
+      "subj": "wei\u00dffalke",
+      "verb": "venture",
+      "obj": ""
+    },
+    {
+      "id": "e0004",
+      "label": "he | stumble | circle",
+      "sent_id": 4,
+      "sentence": "As he wandered without a path, savoring the crisp air scented with pine resin and fresh earth, he stumbled upon a curious circle pressed into the meadow, a ring where the grass and blossoms seemed bent inward as if trod gently round and round.",
+      "subj": "he",
+      "verb": "stumble",
+      "obj": "circle"
+    },
+    {
+      "id": "e0005",
+      "label": "twig | disturb | perfection",
+      "sent_id": 5,
+      "sentence": "Yet no trace of footprints led to or from it\u2014no crushed leaf nor snapped twig disturbed the perfection of the sod.",
+      "subj": "twig",
+      "verb": "disturb",
+      "obj": "perfection"
+    },
+    {
+      "id": "e0006",
+      "label": "\u2205 | conceal | himself",
+      "sent_id": 6,
+      "sentence": "Perplexed, Wei\u00dffalke concealed himself nearby, watching intently.",
+      "subj": "",
+      "verb": "conceal",
+      "obj": "himself"
+    },
+    {
+      "id": "e0007",
+      "label": "melody | waft | air",
+      "sent_id": 7,
+      "sentence": "Soon, faint melodies, pure and haunting, wafted through the air.",
+      "subj": "melody",
+      "verb": "waft",
+      "obj": "air"
+    },
+    {
+      "id": "e0008",
+      "label": "he | lift | gaze",
+      "sent_id": 8,
+      "sentence": "He lifted his gaze skyward, and as the music faded to a whisper, he beheld a small cloud-like basket descending gracefully.",
+      "subj": "he",
+      "verb": "lift",
+      "obj": "gaze"
+    },
+    {
+      "id": "e0009",
+      "label": "it | grow | delicate",
+      "sent_id": 9,
+      "sentence": "At first delicate as a wisp, it grew steadily larger until it revealed twelve sisters of radiant beauty, their forms as graceful as forest nymphs, their eyes bright as mountain lakes.",
+      "subj": "it",
+      "verb": "grow",
+      "obj": "delicate"
+    },
+    {
+      "id": "e0010",
+      "label": "they | leapt | \u2205",
+      "sent_id": 10,
+      "sentence": "As their basket touched earth within the ring, they leapt out and commenced a lively dance, their feet striking a glowing orb that sang enchanting tunes, keeping rhythm with their joyous movements.",
+      "subj": "they",
+      "verb": "leapt",
+      "obj": ""
+    },
+    {
+      "id": "e0011",
+      "label": "heart | steal | \u2205",
+      "sent_id": 11,
+      "sentence": "Hidden in the shadows, Wei\u00dffalke watched spellbound, admiring them all; yet his heart was stolen by the youngest, whose laughter shimmered like the silver Danube.",
+      "subj": "heart",
+      "verb": "steal",
+      "obj": ""
+    },
+    {
+      "id": "e0012",
+      "label": "he | spring | \u2205",
+      "sent_id": 12,
+      "sentence": "Unable to remain a silent witness, he sprang forth to claim her, but at his approach, the sisters, swift as the forest birds, leapt back into their basket and were lifted away, disappearing into the misty heights.",
+      "subj": "he",
+      "verb": "spring",
+      "obj": ""
+    },
+    {
+      "id": "e0013",
+      "label": "wei\u00dffalke | gaze | basket",
+      "sent_id": 13,
+      "sentence": "Sorrow-filled, Wei\u00dffalke gazed long after the basket fading into clouds.",
+      "subj": "wei\u00dffalke",
+      "verb": "gaze",
+      "obj": "basket"
+    },
+    {
+      "id": "e0014",
+      "label": "he | sigh | \u2205",
+      "sent_id": 14,
+      "sentence": "\u201cThey are gone,\u201d he sighed, \u201cnever to grace my sight again.\u201d",
+      "subj": "he",
+      "verb": "sigh",
+      "obj": ""
+    },
+    {
+      "id": "e0015",
+      "label": "longing | let | \u2205",
+      "sent_id": 15,
+      "sentence": "But longing would not let him rest.",
+      "subj": "longing",
+      "verb": "let",
+      "obj": ""
+    },
+    {
+      "id": "e0016",
+      "label": "he | return | hour",
+      "sent_id": 16,
+      "sentence": "The following day, at the same hour, he returned.",
+      "subj": "he",
+      "verb": "return",
+      "obj": "hour"
+    },
+    {
+      "id": "e0017",
+      "label": "he | assume | shape",
+      "sent_id": 17,
+      "sentence": "To trick the sisters, he assumed the shape of a sable, blending into the underbrush near the enchanted ring, pretending to forage quietly.",
+      "subj": "he",
+      "verb": "assume",
+      "obj": "shape"
+    },
+    {
+      "id": "e0018",
+      "label": "basket | appear | \u2205",
+      "sent_id": 18,
+      "sentence": "The basket appeared as before, the sweet melodies drawing near.",
+      "subj": "basket",
+      "verb": "appear",
+      "obj": ""
+    },
+    {
+      "id": "e0019",
+      "label": "they | flee | song",
+      "sent_id": 19,
+      "sentence": "Yet the moment the sisters glimpsed him, startled, they fled skyward in song.",
+      "subj": "they",
+      "verb": "flee",
+      "obj": "song"
+    },
+    {
+      "id": "e0020",
+      "label": "\u2205 | muse | sister",
+      "sent_id": 20,
+      "sentence": "\u201cPerhaps they wish to test our mortal wiles,\u201d mused the eldest sister as they hovered.",
+      "subj": "",
+      "verb": "muse",
+      "obj": "sister"
+    },
+    {
+      "id": "e0021",
+      "label": "nay | let | \u2205",
+      "sent_id": 21,
+      "sentence": "\u201cNay,\u201d the youngest replied, \u201clet us rise quickly.\u201d",
+      "subj": "nay",
+      "verb": "let",
+      "obj": ""
+    },
+    {
+      "id": "e0022",
+      "label": "voice | unite | chant",
+      "sent_id": 22,
+      "sentence": "Their voices united in a chant, and the basket vanished among the clouds.",
+      "subj": "voice",
+      "verb": "unite",
+      "obj": "chant"
+    },
+    {
+      "id": "e0023",
+      "label": "heart | shed | guise",
+      "sent_id": 23,
+      "sentence": "Heart heavy, Wei\u00dffalke shed his guise and returned alone to his forest cabin, the days ahead bitter and long without his beloved.",
+      "subj": "heart",
+      "verb": "shed",
+      "obj": "guise"
+    },
+    {
+      "id": "e0024",
+      "label": "he | seek | stratagem",
+      "sent_id": 24,
+      "sentence": "Determined, on the third day he sought a new stratagem.",
+      "subj": "he",
+      "verb": "seek",
+      "obj": "stratagem"
+    },
+    {
+      "id": "e0025",
+      "label": "he | nestle | creature",
+      "sent_id": 26,
+      "sentence": "Adopting the form of a mouse himself, he nestled among the little creatures, eyes sharp, ever watching the sky.",
+      "subj": "he",
+      "verb": "nestle",
+      "obj": "creature"
+    },
+    {
+      "id": "e0026",
+      "label": "sister | descend | time",
+      "sent_id": 27,
+      "sentence": "At the appointed time, the sisters descended as usual, resuming their dance and play.",
+      "subj": "sister",
+      "verb": "descend",
+      "obj": "time"
+    },
+    {
+      "id": "e0027",
+      "label": "\u2205 | notice | stump",
+      "sent_id": 28,
+      "sentence": "The youngest noticed the stump.",
+      "subj": "",
+      "verb": "notice",
+      "obj": "stump"
+    },
+    {
+      "id": "e0028",
+      "label": "that | be | \u2205",
+      "sent_id": 29,
+      "sentence": "\u201cThat was not here before!\u201d",
+      "subj": "that",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0029",
+      "label": "she | cry | \u2205",
+      "sent_id": 30,
+      "sentence": "she cried, fleeing toward the basket.",
+      "subj": "she",
+      "verb": "cry",
+      "obj": ""
+    },
+    {
+      "id": "e0030",
+      "label": "sister | smile | \u2205",
+      "sent_id": 31,
+      "sentence": "Her sisters smiled kindly and poked the stump, revealing the startled mice \u2014 among them Wei\u00dffalke.",
+      "subj": "sister",
+      "verb": "smile",
+      "obj": ""
+    },
+    {
+      "id": "e0031",
+      "label": "they | catch | all",
+      "sent_id": 32,
+      "sentence": "They swiftly caught all but one, who scampered wildly.",
+      "subj": "they",
+      "verb": "catch",
+      "obj": "all"
+    },
+    {
+      "id": "e0032",
+      "label": "pursue | stand | \u2205",
+      "sent_id": 33,
+      "sentence": "The youngest pursued, raising a slender silver wand to strike the little creature, when suddenly the White Falcon stood, embracing the youngest sister in his arms.",
+      "subj": "pursue",
+      "verb": "stand",
+      "obj": ""
+    },
+    {
+      "id": "e0033",
+      "label": "eleven | flee | basket",
+      "sent_id": 34,
+      "sentence": "Eleven of the sisters fled upward in their basket, leaving the young one behind.",
+      "subj": "eleven",
+      "verb": "flee",
+      "obj": "basket"
+    },
+    {
+      "id": "e0034",
+      "label": "\u2205 | delight | \u2205",
+      "sent_id": 35,
+      "sentence": "Wei\u00dffalke tended his bride with devoted care\u2014wiping away her tears, recounting tales of hunting and earthbound delights.",
+      "subj": "",
+      "verb": "delight",
+      "obj": ""
+    },
+    {
+      "id": "e0035",
+      "label": "they | walk | forest",
+      "sent_id": 36,
+      "sentence": "Together they walked past the whispering forest to his humble home, where joy blossomed like the springtime crocus, and their hearts beat in harmony.",
+      "subj": "they",
+      "verb": "walk",
+      "obj": "forest"
+    },
+    {
+      "id": "e0036",
+      "label": "seasons | turn | winter",
+      "sent_id": 37,
+      "sentence": "Seasons turned\u2014the cold winters and warm summers\u2014and soon their happiness was crowned by a son, fair and strong, the light of stars mingled with earthly vigor.",
+      "subj": "seasons",
+      "verb": "turn",
+      "obj": "winter"
+    },
+    {
+      "id": "e0037",
+      "label": "maiden | long | father",
+      "sent_id": 38,
+      "sentence": "But the celestial maiden longed for her father among the stars.",
+      "subj": "maiden",
+      "verb": "long",
+      "obj": "father"
+    },
+    {
+      "id": "e0038",
+      "label": "she | fashion | basket",
+      "sent_id": 39,
+      "sentence": "Hidden from her husband, she fashioned a delicate woven basket and gathered rare forest treasures and sweetest food, planning a secret voyage home.",
+      "subj": "she",
+      "verb": "fashion",
+      "obj": "basket"
+    },
+    {
+      "id": "e0039",
+      "label": "she | enter | ring",
+      "sent_id": 40,
+      "sentence": "One day, with Wei\u00dffalke away hunting, she entered the enchanted ring with her child.",
+      "subj": "she",
+      "verb": "enter",
+      "obj": "ring"
+    },
+    {
+      "id": "e0040",
+      "label": "she | rise | basket",
+      "sent_id": 41,
+      "sentence": "Singing a mournful, haunting melody, she rose skyward in the shimmering basket.",
+      "subj": "she",
+      "verb": "rise",
+      "obj": "basket"
+    },
+    {
+      "id": "e0041",
+      "label": "he | reach | they",
+      "sent_id": 42,
+      "sentence": "Though Wei\u00dffalke rushed to the meadow, he could not reach them before they vanished into the heavens.",
+      "subj": "he",
+      "verb": "reach",
+      "obj": "they"
+    },
+    {
+      "id": "e0042",
+      "label": "he | cry | vain",
+      "sent_id": 43,
+      "sentence": "He cried out in vain as they became a twinkling light fading beyond the clouds.",
+      "subj": "he",
+      "verb": "cry",
+      "obj": "vain"
+    },
+    {
+      "id": "e0043",
+      "label": "world | dim | \u2205",
+      "sent_id": 44,
+      "sentence": "Grief overtook him; his world dimmed.",
+      "subj": "world",
+      "verb": "dim",
+      "obj": ""
+    },
+    {
+      "id": "e0044",
+      "label": "winter | pass | \u2205",
+      "sent_id": 45,
+      "sentence": "Winter and summer passed.",
+      "subj": "winter",
+      "verb": "pass",
+      "obj": ""
+    },
+    {
+      "id": "e0045",
+      "label": "\u2205 | mourn | wife",
+      "sent_id": 46,
+      "sentence": "Wei\u00dffalke mourned his lost wife and son, whose visage combined her light with his strength.",
+      "subj": "",
+      "verb": "mourn",
+      "obj": "wife"
+    },
+    {
+      "id": "e0046",
+      "label": "maiden | forget | sorrow",
+      "sent_id": 47,
+      "sentence": "Meanwhile, in the starry realm, the maiden soon forgot her earthly sorrow amid her father\u2019s celestial splendor.",
+      "subj": "maiden",
+      "verb": "forget",
+      "obj": "sorrow"
+    },
+    {
+      "id": "e0047",
+      "label": "son | grow | \u2205",
+      "sent_id": 48,
+      "sentence": "Yet her son grew restless, yearning to know his origins.",
+      "subj": "son",
+      "verb": "grow",
+      "obj": ""
+    },
+    {
+      "id": "e0048",
+      "label": "chief | speak | daughter",
+      "sent_id": 49,
+      "sentence": "The Star Chief spoke to his daughter:\n\n\u201cGo, child, and bring your son to his father, bidding him come join us.",
+      "subj": "chief",
+      "verb": "speak",
+      "obj": "daughter"
+    },
+    {
+      "id": "e0049",
+      "label": "\u2205 | tell | he",
+      "sent_id": 50,
+      "sentence": "But tell him he must bring the gifts of all beasts and birds he encounters in his hunts.\u201d",
+      "subj": "",
+      "verb": "tell",
+      "obj": "he"
+    },
+    {
+      "id": "e0050",
+      "label": "voice | bear | wind",
+      "sent_id": 51,
+      "sentence": "So they descended to earth, their voices borne on the crisp night wind.",
+      "subj": "voice",
+      "verb": "bear",
+      "obj": "wind"
+    },
+    {
+      "id": "e0051",
+      "label": "\u2205 | recognize | they",
+      "sent_id": 52,
+      "sentence": "Wei\u00dffalke, ever near the enchanted ring, recognized them at once, embracing wife and son.",
+      "subj": "",
+      "verb": "recognize",
+      "obj": "they"
+    },
+    {
+      "id": "e0052",
+      "label": "he | heed | message",
+      "sent_id": 53,
+      "sentence": "He heeded the message and hunted with urgent zeal, collecting token feathers, tails, and paws of creatures rare and wondrous.",
+      "subj": "he",
+      "verb": "heed",
+      "obj": "message"
+    },
+    {
+      "id": "e0053",
+      "label": "wei\u00dffalke | visit | place",
+      "sent_id": 54,
+      "sentence": "When all was ready, Wei\u00dffalke visited cherished places\u2014the hilltops gazing east at dawn, the brook where he played as a youth, his lonely lodge now heavy with memory\u2014and at last the enchanted ring.",
+      "subj": "wei\u00dffalke",
+      "verb": "visit",
+      "obj": "place"
+    },
+    {
+      "id": "e0054",
+      "label": "he | enter | basket",
+      "sent_id": 55,
+      "sentence": "There, hand in hand with wife and son, he entered the glowing basket, rising beyond the reach of dark forests or mortal sight.",
+      "subj": "he",
+      "verb": "enter",
+      "obj": "basket"
+    },
+    {
+      "id": "e0055",
+      "label": "chief | welcome | all",
+      "sent_id": 56,
+      "sentence": "Upon arrival, the Star Chief welcomed all to a grand feast and proclaimed that each might choose to remain as they were or become one with the earthly gifts brought forth.",
+      "subj": "chief",
+      "verb": "welcome",
+      "obj": "all"
+    },
+    {
+      "id": "e0056",
+      "label": "confusion | take | paw",
+      "sent_id": 57,
+      "sentence": "A lively confusion ensued\u2014some took paws, some wings, tails, or claws.",
+      "subj": "confusion",
+      "verb": "take",
+      "obj": "paw"
+    },
+    {
+      "id": "e0057",
+      "label": "other | become | bird",
+      "sent_id": 58,
+      "sentence": "Those choosing paws or claws transformed into animals, bounding away; others became birds, soaring skyward.",
+      "subj": "other",
+      "verb": "become",
+      "obj": "bird"
+    },
+    {
+      "id": "e0058",
+      "label": "wei\u00dffalke | choose | feather",
+      "sent_id": 59,
+      "sentence": "Wei\u00dffalke chose a white falcon\u2019s feather.",
+      "subj": "wei\u00dffalke",
+      "verb": "choose",
+      "obj": "feather"
+    },
+    {
+      "id": "e0059",
+      "label": "wife | follow | \u2205",
+      "sent_id": 60,
+      "sentence": "His wife and son followed, each transformed into a white falcon.",
+      "subj": "wife",
+      "verb": "follow",
+      "obj": ""
+    },
+    {
+      "id": "e0060",
+      "label": "they | descend | earth",
+      "sent_id": 61,
+      "sentence": "Spreading their wings, they descended together to earth, their eyes reflecting the stars, their flight kissed by the freedom of celestial winds\u2014forever guardians between sky and forest.",
+      "subj": "they",
+      "verb": "descend",
+      "obj": "earth"
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    },
+    {
+      "source": "e0029",
+      "target": "e0030",
+      "relation": "next"
+    },
+    {
+      "source": "e0030",
+      "target": "e0031",
+      "relation": "next"
+    },
+    {
+      "source": "e0031",
+      "target": "e0032",
+      "relation": "next"
+    },
+    {
+      "source": "e0032",
+      "target": "e0033",
+      "relation": "next"
+    },
+    {
+      "source": "e0033",
+      "target": "e0034",
+      "relation": "next"
+    },
+    {
+      "source": "e0034",
+      "target": "e0035",
+      "relation": "next"
+    },
+    {
+      "source": "e0035",
+      "target": "e0036",
+      "relation": "next"
+    },
+    {
+      "source": "e0036",
+      "target": "e0037",
+      "relation": "next"
+    },
+    {
+      "source": "e0037",
+      "target": "e0038",
+      "relation": "next"
+    },
+    {
+      "source": "e0038",
+      "target": "e0039",
+      "relation": "next"
+    },
+    {
+      "source": "e0039",
+      "target": "e0040",
+      "relation": "next"
+    },
+    {
+      "source": "e0040",
+      "target": "e0041",
+      "relation": "next"
+    },
+    {
+      "source": "e0041",
+      "target": "e0042",
+      "relation": "next"
+    },
+    {
+      "source": "e0042",
+      "target": "e0043",
+      "relation": "next"
+    },
+    {
+      "source": "e0043",
+      "target": "e0044",
+      "relation": "next"
+    },
+    {
+      "source": "e0044",
+      "target": "e0045",
+      "relation": "next"
+    },
+    {
+      "source": "e0045",
+      "target": "e0046",
+      "relation": "next"
+    },
+    {
+      "source": "e0046",
+      "target": "e0047",
+      "relation": "next"
+    },
+    {
+      "source": "e0047",
+      "target": "e0048",
+      "relation": "next"
+    },
+    {
+      "source": "e0048",
+      "target": "e0049",
+      "relation": "next"
+    },
+    {
+      "source": "e0049",
+      "target": "e0050",
+      "relation": "next"
+    },
+    {
+      "source": "e0050",
+      "target": "e0051",
+      "relation": "next"
+    },
+    {
+      "source": "e0051",
+      "target": "e0052",
+      "relation": "next"
+    },
+    {
+      "source": "e0052",
+      "target": "e0053",
+      "relation": "next"
+    },
+    {
+      "source": "e0053",
+      "target": "e0054",
+      "relation": "next"
+    },
+    {
+      "source": "e0054",
+      "target": "e0055",
+      "relation": "next"
+    },
+    {
+      "source": "e0055",
+      "target": "e0056",
+      "relation": "next"
+    },
+    {
+      "source": "e0056",
+      "target": "e0057",
+      "relation": "next"
+    },
+    {
+      "source": "e0057",
+      "target": "e0058",
+      "relation": "next"
+    },
+    {
+      "source": "e0058",
+      "target": "e0059",
+      "relation": "next"
+    },
+    {
+      "source": "e0059",
+      "target": "e0060",
+      "relation": "next"
+    }
+  ]
+}

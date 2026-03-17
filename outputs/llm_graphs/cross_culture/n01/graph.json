@@ -1,0 +1,282 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "world | lie | time",
+      "sent_id": 0,
+      "sentence": "In the time before memory, when the dense German forests were shrouded in endless night, the world lay in total darkness.",
+      "subj": "world",
+      "verb": "lie",
+      "obj": "time"
+    },
+    {
+      "id": "e0001",
+      "label": "rabe | grow | \u2205",
+      "sent_id": 1,
+      "sentence": "The Rabe, a cunning black bird who had existed since the beginning of days, grew weary of stumbling blindly through the dark woods and mist.",
+      "subj": "rabe",
+      "verb": "grow",
+      "obj": ""
+    },
+    {
+      "id": "e0002",
+      "label": "rabe | discover | cottage",
+      "sent_id": 2,
+      "sentence": "One evening, the Rabe discovered the small cottage of a solitary old man who lived deep in the Schwarzwald with his young daughter.",
+      "subj": "rabe",
+      "verb": "discover",
+      "obj": "cottage"
+    },
+    {
+      "id": "e0003",
+      "label": "rabe | learn | observation",
+      "sent_id": 3,
+      "sentence": "Through quiet observation and craft, the Rabe learned that the old man possessed a priceless treasure: all the light in the world, locked away inside a tiny wooden box, nested within box after box, hidden beneath thick woolen cloths embroidered with ancient runes.",
+      "subj": "rabe",
+      "verb": "learn",
+      "obj": "observation"
+    },
+    {
+      "id": "e0004",
+      "label": "rabe | vow | \u2205",
+      "sent_id": 4,
+      "sentence": "Determined, the Rabe vowed to bring light back to the shadowed forests.",
+      "subj": "rabe",
+      "verb": "vow",
+      "obj": ""
+    },
+    {
+      "id": "e0005",
+      "label": "he | ponder | \u2205",
+      "sent_id": 5,
+      "sentence": "He pondered long and devised a clever plan.",
+      "subj": "he",
+      "verb": "ponder",
+      "obj": ""
+    },
+    {
+      "id": "e0006",
+      "label": "rabe | transform | himself",
+      "sent_id": 6,
+      "sentence": "When the old man\u2019s daughter came to draw water from the cold, dark river, the Rabe transformed himself into a single, sharp spruce needle and drifted gently down the current, slipping into her wooden bucket.",
+      "subj": "rabe",
+      "verb": "transform",
+      "obj": "himself"
+    },
+    {
+      "id": "e0007",
+      "label": "needle | slide | throat",
+      "sent_id": 7,
+      "sentence": "As she drank, the needle slid down her throat and settled deep within her warmth.",
+      "subj": "needle",
+      "verb": "slide",
+      "obj": "throat"
+    },
+    {
+      "id": "e0008",
+      "label": "rabe | change | \u2205",
+      "sent_id": 8,
+      "sentence": "There, the Rabe changed once more, becoming a small human child.",
+      "subj": "rabe",
+      "verb": "change",
+      "obj": ""
+    },
+    {
+      "id": "e0009",
+      "label": "time | pass | silence",
+      "sent_id": 9,
+      "sentence": "Time passed slowly in the dim silence of her womb, until finally the Rabe was born into the world as a peculiar boy.",
+      "subj": "time",
+      "verb": "pass",
+      "obj": "silence"
+    },
+    {
+      "id": "e0010",
+      "label": "heart | soften | \u2205",
+      "sent_id": 10,
+      "sentence": "Though marked by his strange looks, the old man\u2019s heart softened, and he loved this child as a grandson.",
+      "subj": "heart",
+      "verb": "soften",
+      "obj": ""
+    },
+    {
+      "id": "e0011",
+      "label": "he | warn | \u2205",
+      "sent_id": 11,
+      "sentence": "Yet he fiercely warned that no one should ever touch the sacred box of light.",
+      "subj": "he",
+      "verb": "warn",
+      "obj": ""
+    },
+    {
+      "id": "e0012",
+      "label": "child | beg | this",
+      "sent_id": 12,
+      "sentence": "Despite this, the Rabe child begged to hold the glowing treasure even for a moment.",
+      "subj": "child",
+      "verb": "beg",
+      "obj": "this"
+    },
+    {
+      "id": "e0013",
+      "label": "man | relent | \u2205",
+      "sent_id": 13,
+      "sentence": "At last, the old man relented.",
+      "subj": "man",
+      "verb": "relent",
+      "obj": ""
+    },
+    {
+      "id": "e0014",
+      "label": "he | lift | lid",
+      "sent_id": 14,
+      "sentence": "He lifted the small box\u2019s lid and revealed a radiant, glowing orb that pulsed like a tiny sun.",
+      "subj": "he",
+      "verb": "lift",
+      "obj": "lid"
+    },
+    {
+      "id": "e0015",
+      "label": "he | throw | it",
+      "sent_id": 15,
+      "sentence": "He threw it gently toward his grandson.",
+      "subj": "he",
+      "verb": "throw",
+      "obj": "it"
+    },
+    {
+      "id": "e0016",
+      "label": "boy | transform | bird",
+      "sent_id": 16,
+      "sentence": "As the glowing orb approached, the boy transformed rapidly into a great black bird, its vast wings unfurling like storm clouds over the forest canopy, its sharp beak wide and ready.",
+      "subj": "boy",
+      "verb": "transform",
+      "obj": "bird"
+    },
+    {
+      "id": "e0017",
+      "label": "rabe | catch | orb",
+      "sent_id": 17,
+      "sentence": "With a triumphant croak, the Rabe caught the orb in his beak.",
+      "subj": "rabe",
+      "verb": "catch",
+      "obj": "orb"
+    },
+    {
+      "id": "e0018",
+      "label": "he | burst | flap",
+      "sent_id": 18,
+      "sentence": "With mighty flaps, he burst through the cottage\u2019s thatched roof, flying out through the smoke hole into the night sky, his prize shining like a beacon in his beak.",
+      "subj": "he",
+      "verb": "burst",
+      "obj": "flap"
+    },
+    {
+      "id": "e0019",
+      "label": "light | return | day",
+      "sent_id": 19,
+      "sentence": "Thus, from that day forward, the light returned to brighten the forests and fields, chasing away the long shadows, and filling the world with day once more.",
+      "subj": "light",
+      "verb": "return",
+      "obj": "day"
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    }
+  ]
+}

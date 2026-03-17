@@ -1,0 +1,898 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "\u2205 | live | woodcutter",
+      "sent_id": 0,
+      "sentence": "Near the vast, whispering woodlands that stretch across the ancient Persian countryside, there lived a humble woodcutter with his wife and their two children.",
+      "subj": "",
+      "verb": "live",
+      "obj": "woodcutter"
+    },
+    {
+      "id": "e0001",
+      "label": "boy | name | bahram",
+      "sent_id": 1,
+      "sentence": "The boy was named Bahram, and the girl, Laleh.",
+      "subj": "boy",
+      "verb": "name",
+      "obj": "bahram"
+    },
+    {
+      "id": "e0002",
+      "label": "life | sustain | time",
+      "sent_id": 2,
+      "sentence": "In times of plenty, their modest life was sustained by the gifts of the forest, but when a cruel famine swept the land, the woodcutter found it impossible even to provide the daily crust of bread for his family.",
+      "subj": "life",
+      "verb": "sustain",
+      "obj": "time"
+    },
+    {
+      "id": "e0003",
+      "label": "he | share | worry",
+      "sent_id": 3,
+      "sentence": "One restless night, as Bahram lay troubled beneath the embroidered curtains of their small home, he shared his worries with his wife, Farzaneh.",
+      "subj": "he",
+      "verb": "share",
+      "obj": "worry"
+    },
+    {
+      "id": "e0004",
+      "label": "he | sigh | \u2205",
+      "sent_id": 4,
+      "sentence": "\u201cWhat shall become of us?\u201d he sighed.",
+      "subj": "he",
+      "verb": "sigh",
+      "obj": ""
+    },
+    {
+      "id": "e0005",
+      "label": "farzaneh | answer | \u2205",
+      "sent_id": 5,
+      "sentence": "\u201cHow can we nourish our children when the granaries are empty, and we ourselves have naught to eat?\u201d\n\nWith a cold resolve, Farzaneh answered, \u201cTomorrow, before dawn, we will take Bahram and Laleh deep into the forest, where the pines grow thick as the night itself.",
+      "subj": "farzaneh",
+      "verb": "answer",
+      "obj": ""
+    },
+    {
+      "id": "e0006",
+      "label": "we | build | fire",
+      "sent_id": 6,
+      "sentence": "There, we shall build a fire, offer them a final piece of bread each, and leave them behind.",
+      "subj": "we",
+      "verb": "build",
+      "obj": "fire"
+    },
+    {
+      "id": "e0007",
+      "label": "they | find | way",
+      "sent_id": 7,
+      "sentence": "They will not find their way home, and our burdens will lessen.\u201d",
+      "subj": "they",
+      "verb": "find",
+      "obj": "way"
+    },
+    {
+      "id": "e0008",
+      "label": "clung | leave | he",
+      "sent_id": 8,
+      "sentence": "Bahram\u2019s heart clung to his children, but Farzaneh\u2019s harsh words left him little choice.",
+      "subj": "clung",
+      "verb": "leave",
+      "obj": "he"
+    },
+    {
+      "id": "e0009",
+      "label": "regret | fill | spirit",
+      "sent_id": 9,
+      "sentence": "Only regret and sorrow filled his spirit.",
+      "subj": "regret",
+      "verb": "fill",
+      "obj": "spirit"
+    },
+    {
+      "id": "e0010",
+      "label": "child | be | \u2205",
+      "sent_id": 10,
+      "sentence": "The children, too, were restless in their beds.",
+      "subj": "child",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0011",
+      "label": "laleh | weep | \u2205",
+      "sent_id": 11,
+      "sentence": "Laleh wept softly and whispered to Bahram, \u201cOur fate is sealed.\u201d",
+      "subj": "laleh",
+      "verb": "weep",
+      "obj": ""
+    },
+    {
+      "id": "e0012",
+      "label": "i | find | way",
+      "sent_id": 12,
+      "sentence": "But Bahram, determined, whispered back, \u201cFear not, sister, I will find a way.\u201d",
+      "subj": "i",
+      "verb": "find",
+      "obj": "way"
+    },
+    {
+      "id": "e0013",
+      "label": "bahram | slip | \u2205",
+      "sent_id": 13,
+      "sentence": "As moonlight streamed through the lattice windows, Bahram slipped quietly outside.",
+      "subj": "bahram",
+      "verb": "slip",
+      "obj": ""
+    },
+    {
+      "id": "e0014",
+      "label": "glow | dance | stone",
+      "sent_id": 14,
+      "sentence": "The silver glow danced upon smooth white stones that gleamed like ancient pearls scattered on the garden path.",
+      "subj": "glow",
+      "verb": "dance",
+      "obj": "stone"
+    },
+    {
+      "id": "e0015",
+      "label": "he | gather | many",
+      "sent_id": 15,
+      "sentence": "Quietly, he gathered as many as the pockets of his cloak could hold.",
+      "subj": "he",
+      "verb": "gather",
+      "obj": "many"
+    },
+    {
+      "id": "e0016",
+      "label": "farzaneh | rouse | they",
+      "sent_id": 16,
+      "sentence": "The next morning, Farzaneh roused them, and they ventured deep into the forest under a pale dawn sky.",
+      "subj": "farzaneh",
+      "verb": "rouse",
+      "obj": "they"
+    },
+    {
+      "id": "e0017",
+      "label": "bahram | drop | pearl",
+      "sent_id": 17,
+      "sentence": "Bahram dropped the gleaming pearls along the winding path, stealing glances back to the house, and telling his father he watched the morning sun kiss the silver rooftops, hidden as a playful white pigeon\u2014a tale Farzaneh scoffed at.",
+      "subj": "bahram",
+      "verb": "drop",
+      "obj": "pearl"
+    },
+    {
+      "id": "e0018",
+      "label": "farzaneh | light | fire",
+      "sent_id": 18,
+      "sentence": "When they reached a clearing, Farzaneh and the woodcutter lit a fire from fragrant cedar wood, and they told the children to rest while they went to gather wood anew.",
+      "subj": "farzaneh",
+      "verb": "light",
+      "obj": "fire"
+    },
+    {
+      "id": "e0019",
+      "label": "bahram | tend | fire",
+      "sent_id": 19,
+      "sentence": "Bahram and Laleh tended the fire, nursing their small portions of bread as the chorus of woodpeckers and rustling leaves fooled them into believing their parents were near.",
+      "subj": "bahram",
+      "verb": "tend",
+      "obj": "fire"
+    },
+    {
+      "id": "e0020",
+      "label": "sleep | claim | they",
+      "sent_id": 20,
+      "sentence": "When their eyes succumbed to exhaustion, sleep claimed them beneath a canopy of whispering cypress.",
+      "subj": "sleep",
+      "verb": "claim",
+      "obj": "they"
+    },
+    {
+      "id": "e0021",
+      "label": "bahram | awake | \u2205",
+      "sent_id": 21,
+      "sentence": "As darkness fell, Bahram awoke and took Laleh\u2019s hand.",
+      "subj": "bahram",
+      "verb": "awake",
+      "obj": ""
+    },
+    {
+      "id": "e0022",
+      "label": "pearl | shimmer | gaze",
+      "sent_id": 22,
+      "sentence": "Under the steady gaze of the full moon, the white pearls shimmered softly, guiding them through the labyrinth of shadows back to their home.",
+      "subj": "pearl",
+      "verb": "shimmer",
+      "obj": "gaze"
+    },
+    {
+      "id": "e0023",
+      "label": "heart | leap | return",
+      "sent_id": 23,
+      "sentence": "Their father\u2019s heart leapt at their return, and for a moment, joy lit the humble hearth.",
+      "subj": "heart",
+      "verb": "leap",
+      "obj": "return"
+    },
+    {
+      "id": "e0024",
+      "label": "famine | return | wind",
+      "sent_id": 24,
+      "sentence": "Yet famine returned like a harsh desert wind.",
+      "subj": "famine",
+      "verb": "return",
+      "obj": "wind"
+    },
+    {
+      "id": "e0025",
+      "label": "farzaneh | speak | husband",
+      "sent_id": 25,
+      "sentence": "One night, Farzaneh spoke again to her husband with a chilling finality: \u201cOnly half a loaf remains.",
+      "subj": "farzaneh",
+      "verb": "speak",
+      "obj": "husband"
+    },
+    {
+      "id": "e0026",
+      "label": "child | take | forest",
+      "sent_id": 26,
+      "sentence": "The children must be taken deeper into the forest, where they will not return.\u201d",
+      "subj": "child",
+      "verb": "take",
+      "obj": "forest"
+    },
+    {
+      "id": "e0027",
+      "label": "heart | break | \u2205",
+      "sent_id": 27,
+      "sentence": "The woodcutter\u2019s heart broke, but he was overruled by his wife\u2019s stern will.",
+      "subj": "heart",
+      "verb": "break",
+      "obj": ""
+    },
+    {
+      "id": "e0028",
+      "label": "plan | falter | \u2205",
+      "sent_id": 28,
+      "sentence": "This time, Bahram\u2019s plan faltered.",
+      "subj": "plan",
+      "verb": "falter",
+      "obj": ""
+    },
+    {
+      "id": "e0029",
+      "label": "door | lock | \u2205",
+      "sent_id": 29,
+      "sentence": "The door was locked, and he could not gather pearls.",
+      "subj": "door",
+      "verb": "lock",
+      "obj": ""
+    },
+    {
+      "id": "e0030",
+      "label": "he | crumble | morsel",
+      "sent_id": 30,
+      "sentence": "Instead, he crumbled their morsels of bread, hoping to mark a trail.",
+      "subj": "he",
+      "verb": "crumble",
+      "obj": "morsel"
+    },
+    {
+      "id": "e0031",
+      "label": "forest | \u2019 | dweller",
+      "sent_id": 31,
+      "sentence": "But the forest\u2019s many feathered dwellers carried away the crumbs, and when night fell, they were lost amidst ancient cedars and soaring planes.",
+      "subj": "forest",
+      "verb": "\u2019",
+      "obj": "dweller"
+    },
+    {
+      "id": "e0032",
+      "label": "they | wander | realm",
+      "sent_id": 32,
+      "sentence": "For days they wandered this wild realm, faint and hungry, sustained only by handfuls of wild barberries and whispered prayers.",
+      "subj": "they",
+      "verb": "wander",
+      "obj": "realm"
+    },
+    {
+      "id": "e0033",
+      "label": "ear | catch | song",
+      "sent_id": 33,
+      "sentence": "On the third morning\u2019s light, their ears caught the purest song\u2014a nightingale perched upon a slender branch, singing melodies sweeter than the winds over the dunes.",
+      "subj": "ear",
+      "verb": "catch",
+      "obj": "song"
+    },
+    {
+      "id": "e0034",
+      "label": "they | follow | bird",
+      "sent_id": 34,
+      "sentence": "Drawn by its enchantment, they followed the bird until it led them to a small cottage unlike any other.",
+      "subj": "they",
+      "verb": "follow",
+      "obj": "bird"
+    },
+    {
+      "id": "e0035",
+      "label": "wall | bake | bread",
+      "sent_id": 35,
+      "sentence": "Its walls were baked from honeyed bread, and its windows gleamed with crystal sugar.",
+      "subj": "wall",
+      "verb": "bake",
+      "obj": "bread"
+    },
+    {
+      "id": "e0036",
+      "label": "bahram | say | \u2205",
+      "sent_id": 36,
+      "sentence": "\u201cLet us feast here,\u201d Bahram said, tasting a piece of the roof, while Laleh nibbled the sugared panes.",
+      "subj": "bahram",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0037",
+      "label": "who | dare | dwelling",
+      "sent_id": 37,
+      "sentence": "But a voice cracked through the air, ancient and heavy with malice: \u201cWho dares nibble at my sweet dwelling?\u201d",
+      "subj": "who",
+      "verb": "dare",
+      "obj": "dwelling"
+    },
+    {
+      "id": "e0038",
+      "label": "child | answer | wind",
+      "sent_id": 38,
+      "sentence": "The children answered, \u201cOnly the desert wind, the blessed wind,\u201d and pressed on with their feast.",
+      "subj": "child",
+      "verb": "answer",
+      "obj": "wind"
+    },
+    {
+      "id": "e0039",
+      "label": "door | creak | \u2205",
+      "sent_id": 39,
+      "sentence": "Suddenly, the door creaked open, revealing an old woman leaning on a gnarled staff.",
+      "subj": "door",
+      "verb": "creak",
+      "obj": ""
+    },
+    {
+      "id": "e0040",
+      "label": "eye | burn | ember",
+      "sent_id": 40,
+      "sentence": "Her eyes burned like embers beneath dark brows, and her smile was a shadow of kindness.",
+      "subj": "eye",
+      "verb": "burn",
+      "obj": "ember"
+    },
+    {
+      "id": "e0041",
+      "label": "she | invite | they",
+      "sent_id": 41,
+      "sentence": "She invited them inside, offering sweet dates, thick cream, and freshly baked saffron cakes.",
+      "subj": "she",
+      "verb": "invite",
+      "obj": "they"
+    },
+    {
+      "id": "e0042",
+      "label": "bahram | surrender | comfort",
+      "sent_id": 42,
+      "sentence": "Exhausted, Bahram and Laleh surrendered to the comfort, believing themselves safe.",
+      "subj": "bahram",
+      "verb": "surrender",
+      "obj": "comfort"
+    },
+    {
+      "id": "e0043",
+      "label": "woman | be | sorceress",
+      "sent_id": 43,
+      "sentence": "Yet beneath her tattered robes, the woman was a sorceress known for weaving cruel fates.",
+      "subj": "woman",
+      "verb": "be",
+      "obj": "sorceress"
+    },
+    {
+      "id": "e0044",
+      "label": "she | capture | bahram",
+      "sent_id": 44,
+      "sentence": "She captured Bahram, locking him in a pen adorned with iron lattices, where she intended to fatten him for a dark feast.",
+      "subj": "she",
+      "verb": "capture",
+      "obj": "bahram"
+    },
+    {
+      "id": "e0045",
+      "label": "laleh | force | \u2205",
+      "sent_id": 45,
+      "sentence": "Laleh, forced to tend the fire and bring water, wept silently, praying to Anahita, goddess of mercy, for deliverance.",
+      "subj": "laleh",
+      "verb": "force",
+      "obj": ""
+    },
+    {
+      "id": "e0046",
+      "label": "day | turn | week",
+      "sent_id": 46,
+      "sentence": "Days turned to weeks.",
+      "subj": "day",
+      "verb": "turn",
+      "obj": "week"
+    },
+    {
+      "id": "e0047",
+      "label": "witch | test | bahram",
+      "sent_id": 47,
+      "sentence": "Each morning the witch tested Bahram, but he deceived her with a slender bone disguised as his finger.",
+      "subj": "witch",
+      "verb": "test",
+      "obj": "bahram"
+    },
+    {
+      "id": "e0048",
+      "label": "she | declare | \u2205",
+      "sent_id": 48,
+      "sentence": "Growing impatient, she declared the morrow would seal his doom.",
+      "subj": "she",
+      "verb": "declare",
+      "obj": ""
+    },
+    {
+      "id": "e0049",
+      "label": "witch | command | laleh",
+      "sent_id": 49,
+      "sentence": "When dawn came, the witch commanded Laleh to inspect the fiery oven\u2019s heat, intending to trap the girl within its burning heart.",
+      "subj": "witch",
+      "verb": "command",
+      "obj": "laleh"
+    },
+    {
+      "id": "e0050",
+      "label": "laleh | trick | sorceress",
+      "sent_id": 50,
+      "sentence": "But Laleh, quick and cunning, feigned ignorance and tricked the sorceress into climbing into the oven herself.",
+      "subj": "laleh",
+      "verb": "trick",
+      "obj": "sorceress"
+    },
+    {
+      "id": "e0051",
+      "label": "she | close | door",
+      "sent_id": 51,
+      "sentence": "With a mighty shove, she closed the iron door, and the witch\u2019s terrible cries were swallowed by the flames.",
+      "subj": "she",
+      "verb": "close",
+      "obj": "door"
+    },
+    {
+      "id": "e0052",
+      "label": "bahram | bound | cage",
+      "sent_id": 52,
+      "sentence": "Free at last, Bahram bounded from his cage, and together they gathered treasure\u2014jewels, pearls, and ancient coins shimmering like the stars of Isfahan\u2019s night sky.",
+      "subj": "bahram",
+      "verb": "bound",
+      "obj": "cage"
+    },
+    {
+      "id": "e0053",
+      "label": "they | flee | forest",
+      "sent_id": 53,
+      "sentence": "Laden with riches, they fled the witch\u2019s forest.",
+      "subj": "they",
+      "verb": "flee",
+      "obj": "forest"
+    },
+    {
+      "id": "e0054",
+      "label": "they | reach | river",
+      "sent_id": 54,
+      "sentence": "Soon they reached a wide river, its waters deep and silent.",
+      "subj": "they",
+      "verb": "reach",
+      "obj": "river"
+    },
+    {
+      "id": "e0055",
+      "label": "boat | cross | breadth",
+      "sent_id": 55,
+      "sentence": "No boat or bridge crossed its breadth.",
+      "subj": "boat",
+      "verb": "cross",
+      "obj": "breadth"
+    },
+    {
+      "id": "e0056",
+      "label": "surface | float | duck",
+      "sent_id": 56,
+      "sentence": "But on the sparkling surface floated a white duck, graceful as the moonlit swan of Persian legend.",
+      "subj": "surface",
+      "verb": "float",
+      "obj": "duck"
+    },
+    {
+      "id": "e0057",
+      "label": "laleh | call | duck",
+      "sent_id": 57,
+      "sentence": "Laleh called softly:\n\n\u201cOh white duck, shining bright,\nCarry us across your silver light.\u201d",
+      "subj": "laleh",
+      "verb": "call",
+      "obj": "duck"
+    },
+    {
+      "id": "e0058",
+      "label": "duck | ferry | they",
+      "sent_id": 58,
+      "sentence": "The duck, a blessing from the river spirits, ferried them one by one to the far shore.",
+      "subj": "duck",
+      "verb": "ferry",
+      "obj": "they"
+    },
+    {
+      "id": "e0059",
+      "label": "path | become | river",
+      "sent_id": 59,
+      "sentence": "Beyond the river, the paths became familiar.",
+      "subj": "path",
+      "verb": "become",
+      "obj": "river"
+    },
+    {
+      "id": "e0060",
+      "label": "they | sight | wall",
+      "sent_id": 60,
+      "sentence": "At last, they sighted the low walls of their father\u2019s home.",
+      "subj": "they",
+      "verb": "sight",
+      "obj": "wall"
+    },
+    {
+      "id": "e0061",
+      "label": "joy | mingle | grief",
+      "sent_id": 61,
+      "sentence": "Bursting inside, they embraced him, their joy mingled with grief for the absent Farzaneh, who had passed in her bitterness.",
+      "subj": "joy",
+      "verb": "mingle",
+      "obj": "grief"
+    },
+    {
+      "id": "e0062",
+      "label": "they | empty | sack",
+      "sent_id": 62,
+      "sentence": "They emptied their sacks of pearls and treasures, and from that day forward, the woodcutter\u2019s family knew a life of peace and plenty, under the watchful gaze of the eternal Persian sky.",
+      "subj": "they",
+      "verb": "empty",
+      "obj": "sack"
+    },
+    {
+      "id": "e0063",
+      "label": "\u2205 | end | tale",
+      "sent_id": 63,
+      "sentence": "And thus ends this tale, as the desert wind carries a small mouse past the window\u2014whoever captures it shall find warmth in a fur hat as grand as any from the bazaars of Shiraz.",
+      "subj": "",
+      "verb": "end",
+      "obj": "tale"
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    },
+    {
+      "source": "e0029",
+      "target": "e0030",
+      "relation": "next"
+    },
+    {
+      "source": "e0030",
+      "target": "e0031",
+      "relation": "next"
+    },
+    {
+      "source": "e0031",
+      "target": "e0032",
+      "relation": "next"
+    },
+    {
+      "source": "e0032",
+      "target": "e0033",
+      "relation": "next"
+    },
+    {
+      "source": "e0033",
+      "target": "e0034",
+      "relation": "next"
+    },
+    {
+      "source": "e0034",
+      "target": "e0035",
+      "relation": "next"
+    },
+    {
+      "source": "e0035",
+      "target": "e0036",
+      "relation": "next"
+    },
+    {
+      "source": "e0036",
+      "target": "e0037",
+      "relation": "next"
+    },
+    {
+      "source": "e0037",
+      "target": "e0038",
+      "relation": "next"
+    },
+    {
+      "source": "e0038",
+      "target": "e0039",
+      "relation": "next"
+    },
+    {
+      "source": "e0039",
+      "target": "e0040",
+      "relation": "next"
+    },
+    {
+      "source": "e0040",
+      "target": "e0041",
+      "relation": "next"
+    },
+    {
+      "source": "e0041",
+      "target": "e0042",
+      "relation": "next"
+    },
+    {
+      "source": "e0042",
+      "target": "e0043",
+      "relation": "next"
+    },
+    {
+      "source": "e0043",
+      "target": "e0044",
+      "relation": "next"
+    },
+    {
+      "source": "e0044",
+      "target": "e0045",
+      "relation": "next"
+    },
+    {
+      "source": "e0045",
+      "target": "e0046",
+      "relation": "next"
+    },
+    {
+      "source": "e0046",
+      "target": "e0047",
+      "relation": "next"
+    },
+    {
+      "source": "e0047",
+      "target": "e0048",
+      "relation": "next"
+    },
+    {
+      "source": "e0048",
+      "target": "e0049",
+      "relation": "next"
+    },
+    {
+      "source": "e0049",
+      "target": "e0050",
+      "relation": "next"
+    },
+    {
+      "source": "e0050",
+      "target": "e0051",
+      "relation": "next"
+    },
+    {
+      "source": "e0051",
+      "target": "e0052",
+      "relation": "next"
+    },
+    {
+      "source": "e0052",
+      "target": "e0053",
+      "relation": "next"
+    },
+    {
+      "source": "e0053",
+      "target": "e0054",
+      "relation": "next"
+    },
+    {
+      "source": "e0054",
+      "target": "e0055",
+      "relation": "next"
+    },
+    {
+      "source": "e0055",
+      "target": "e0056",
+      "relation": "next"
+    },
+    {
+      "source": "e0056",
+      "target": "e0057",
+      "relation": "next"
+    },
+    {
+      "source": "e0057",
+      "target": "e0058",
+      "relation": "next"
+    },
+    {
+      "source": "e0058",
+      "target": "e0059",
+      "relation": "next"
+    },
+    {
+      "source": "e0059",
+      "target": "e0060",
+      "relation": "next"
+    },
+    {
+      "source": "e0060",
+      "target": "e0061",
+      "relation": "next"
+    },
+    {
+      "source": "e0061",
+      "target": "e0062",
+      "relation": "next"
+    },
+    {
+      "source": "e0062",
+      "target": "e0063",
+      "relation": "next"
+    }
+  ]
+}

@@ -1,0 +1,666 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "",
+    "verb": "live",
+    "obj": "fisherman",
+    "label": "\u2205 | live | fisherman",
+    "sentence": "In a humble village by the Persian Gulf, there lived a poor fisherman and his wife in a tiny, crumbling clay hut near the shimmering sea."
+  },
+  {
+    "sent_id": 1,
+    "subj": "fisherman",
+    "verb": "cast",
+    "obj": "line",
+    "label": "fisherman | cast | line",
+    "sentence": "Every day, the fisherman would cast his simple reed fishing line into the turquoise waters, hoping to catch something to sustain them."
+  },
+  {
+    "sent_id": 2,
+    "subj": "bobber",
+    "verb": "pull",
+    "obj": "water",
+    "label": "bobber | pull | water",
+    "sentence": "One day, as he sat on the sun-warmed shore, watching the gentle swaying of his line upon the waves glittering like jewels, suddenly his bobber was pulled deep beneath the water."
+  },
+  {
+    "sent_id": 3,
+    "subj": "he",
+    "verb": "reel",
+    "obj": "effort",
+    "label": "he | reel | effort",
+    "sentence": "With great effort, he reeled in a magnificent fish of gleaming silver scales."
+  },
+  {
+    "sent_id": 4,
+    "subj": "fish",
+    "verb": "speak",
+    "obj": "astonishment",
+    "label": "fish | speak | astonishment",
+    "sentence": "To his astonishment, the fish spoke in a gentle voice, \"Oh kind fisherman, spare my life!"
+  },
+  {
+    "sent_id": 5,
+    "subj": "i",
+    "verb": "be",
+    "obj": "fish",
+    "label": "i | be | fish",
+    "sentence": "I am not a mere fish but a prince under a spell."
+  },
+  {
+    "sent_id": 6,
+    "subj": "fisherman",
+    "verb": "reply",
+    "obj": "fish",
+    "label": "fisherman | reply | fish",
+    "sentence": "Return me to the sea, and I shall grant you a wish.\"\n\nStartled and wary, the fisherman replied, \"A talking fish!"
+  },
+  {
+    "sent_id": 7,
+    "subj": "marvel",
+    "verb": "concern",
+    "obj": "i",
+    "label": "marvel | concern | i",
+    "sentence": "Such marvels do not concern me."
+  },
+  {
+    "sent_id": 8,
+    "subj": "",
+    "verb": "go",
+    "obj": "",
+    "label": "\u2205 | go | \u2205",
+    "sentence": "Go back to your watery realm.\""
+  },
+  {
+    "sent_id": 9,
+    "subj": "he",
+    "verb": "set",
+    "obj": "fish",
+    "label": "he | set | fish",
+    "sentence": "So he set the fish free, watching it disappear beneath the waves, leaving a crimson trail like threads of ruby on the water\u2019s surface."
+  },
+  {
+    "sent_id": 10,
+    "subj": "he",
+    "verb": "recount",
+    "obj": "tale",
+    "label": "he | recount | tale",
+    "sentence": "Upon returning home to his wife, he recounted the extraordinary tale."
+  },
+  {
+    "sent_id": 11,
+    "subj": "you",
+    "verb": "ask",
+    "obj": "fish",
+    "label": "you | ask | fish",
+    "sentence": "\"Why did you not ask the fish for a gift?\""
+  },
+  {
+    "sent_id": 12,
+    "subj": "she",
+    "verb": "chide",
+    "obj": "",
+    "label": "she | chide | \u2205",
+    "sentence": "she chided."
+  },
+  {
+    "sent_id": 13,
+    "subj": "life",
+    "verb": "be",
+    "obj": "",
+    "label": "life | be | \u2205",
+    "sentence": "\"Our life in this dirt and mud is unbearable."
+  },
+  {
+    "sent_id": 14,
+    "subj": "you",
+    "verb": "go",
+    "obj": "",
+    "label": "you | go | \u2205",
+    "sentence": "You must go back and tell the fish we desire a comfortable home\u2014a small garden pavilion tucked away by the palm groves."
+  },
+  {
+    "sent_id": 15,
+    "subj": "fisherman",
+    "verb": "go",
+    "obj": "shore",
+    "label": "fisherman | go | shore",
+    "sentence": "\"\n\nReluctantly, the fisherman went again to the shore."
+  },
+  {
+    "sent_id": 16,
+    "subj": "water",
+    "verb": "shimmer",
+    "obj": "hue",
+    "label": "water | shimmer | hue",
+    "sentence": "The water shimmered with strange hues of emerald and gold."
+  },
+  {
+    "sent_id": 17,
+    "subj": "",
+    "verb": "listen",
+    "obj": "plea",
+    "label": "\u2205 | listen | plea",
+    "sentence": "Standing at the edge, he called out:\n\n\"O lord of the sea,\nListen to my plea!"
+  },
+  {
+    "sent_id": 19,
+    "subj": "fish",
+    "verb": "appear",
+    "obj": "",
+    "label": "fish | appear | \u2205",
+    "sentence": "The magical fish appeared and asked, \"What does she desire now?\""
+  },
+  {
+    "sent_id": 20,
+    "subj": "fisherman",
+    "verb": "say",
+    "obj": "",
+    "label": "fisherman | say | \u2205",
+    "sentence": "The fisherman said, \"She wishes for a cozy cottage, away from the squalor.\""
+  },
+  {
+    "sent_id": 21,
+    "subj": "it",
+    "verb": "be",
+    "obj": "",
+    "label": "it | be | \u2205",
+    "sentence": "The fish nodded, \"Return home; it is ready for her."
+  },
+  {
+    "sent_id": 22,
+    "subj": "man",
+    "verb": "walk",
+    "obj": "",
+    "label": "man | walk | \u2205",
+    "sentence": "\"\n\nThe man walked back, and there stood his wife, smiling in front of a neat adobe home adorned with intricate fretwork and painted tiles."
+  },
+  {
+    "sent_id": 23,
+    "subj": "",
+    "verb": "be",
+    "obj": "room",
+    "label": "\u2205 | be | room",
+    "sentence": "Inside were rooms fragrant with rosewater and saffron, and a courtyard blossoming with jasmine and pomegranate trees."
+  },
+  {
+    "sent_id": 24,
+    "subj": "chicken",
+    "verb": "peck",
+    "obj": "earth",
+    "label": "chicken | peck | earth",
+    "sentence": "Chickens pecked happily on the earth."
+  },
+  {
+    "sent_id": 25,
+    "subj": "fisherman",
+    "verb": "think",
+    "obj": "joy",
+    "label": "fisherman | think | joy",
+    "sentence": "\u201cWhat joy,\u201d thought the fisherman, \u201cat last, comfort and peace.\u201d"
+  },
+  {
+    "sent_id": 26,
+    "subj": "wife",
+    "verb": "nod",
+    "obj": "satisfaction",
+    "label": "wife | nod | satisfaction",
+    "sentence": "His wife nodded in satisfaction."
+  },
+  {
+    "sent_id": 27,
+    "subj": "banu",
+    "verb": "grow",
+    "obj": "while",
+    "label": "banu | grow | while",
+    "sentence": "But after a while, Banu grew restless."
+  },
+  {
+    "sent_id": 28,
+    "subj": "pavilion",
+    "verb": "be",
+    "obj": "",
+    "label": "pavilion | be | \u2205",
+    "sentence": "\"This pavilion and garden are too small."
+  },
+  {
+    "sent_id": 29,
+    "subj": "we",
+    "verb": "need",
+    "obj": "fortress",
+    "label": "we | need | fortress",
+    "sentence": "We need a great stone fortress, with lofty battlements and gleaming domes that touch the sky."
+  },
+  {
+    "sent_id": 30,
+    "subj": "she",
+    "verb": "command",
+    "obj": "",
+    "label": "she | command | \u2205",
+    "sentence": "Tell the sea prince to grant this,\u201d she commanded."
+  },
+  {
+    "sent_id": 31,
+    "subj": "fisherman",
+    "verb": "obey",
+    "obj": "",
+    "label": "fisherman | obey | \u2205",
+    "sentence": "Though worried, the fisherman obeyed once more."
+  },
+  {
+    "sent_id": 32,
+    "subj": "sea",
+    "verb": "be",
+    "obj": "",
+    "label": "sea | be | \u2205",
+    "sentence": "The sea was calm but shadowed under a gray sky."
+  },
+  {
+    "sent_id": 33,
+    "subj": "he",
+    "verb": "speak",
+    "obj": "water",
+    "label": "he | speak | water",
+    "sentence": "He spoke to the water:\n\n\"O lord of the sea,\nHear my voice again!"
+  },
+  {
+    "sent_id": 34,
+    "subj": "wife",
+    "verb": "command",
+    "obj": "",
+    "label": "wife | command | \u2205",
+    "sentence": "My wife commands,\nA grand castle to reign."
+  },
+  {
+    "sent_id": 35,
+    "subj": "she",
+    "verb": "stand",
+    "obj": "castle",
+    "label": "she | stand | castle",
+    "sentence": "\"\n\nThe enchanted fish smiled gently, \"Go home; she stands already before her castle."
+  },
+  {
+    "sent_id": 37,
+    "subj": "wall",
+    "verb": "crown",
+    "obj": "tile",
+    "label": "wall | crown | tile",
+    "sentence": "The fisherman hurried back and beheld a splendid fortress of white marble, its walls carved with delicate arabesques, towers crowned with iridescent tiles that caught the sunlight like jewels."
+  },
+  {
+    "sent_id": 38,
+    "subj": "",
+    "verb": "be",
+    "obj": "servant",
+    "label": "\u2205 | be | servant",
+    "sentence": "Inside were servants in flowing robes, silks and gold furnishing every hall."
+  },
+  {
+    "sent_id": 39,
+    "subj": "herd",
+    "verb": "roam",
+    "obj": "pasture",
+    "label": "herd | roam | pasture",
+    "sentence": "Beyond the castle stretched gardens filled with night-blooming jasmine and date palms; herds of graceful gazelles roamed the nearby green pastures."
+  },
+  {
+    "sent_id": 40,
+    "subj": "we",
+    "verb": "live",
+    "obj": "",
+    "label": "we | live | \u2205",
+    "sentence": "\u201cThis is abundance beyond dreams,\u201d said the fisherman, \u201chere we shall live well.\u201d"
+  },
+  {
+    "sent_id": 41,
+    "subj": "banu",
+    "verb": "confide",
+    "obj": "",
+    "label": "banu | confide | \u2205",
+    "sentence": "Banu, though pleased, confided, \u201cLet us rest before dreaming more.\u201d"
+  },
+  {
+    "sent_id": 42,
+    "subj": "dawn",
+    "verb": "bring",
+    "obj": "desire",
+    "label": "dawn | bring | desire",
+    "sentence": "But dawn brought new desires."
+  },
+  {
+    "sent_id": 43,
+    "subj": "we",
+    "verb": "be",
+    "obj": "ruler",
+    "label": "we | be | ruler",
+    "sentence": "\"Husband, a castle is too small\u2014we must be rulers of the entire land."
+  },
+  {
+    "sent_id": 44,
+    "subj": "",
+    "verb": "go",
+    "obj": "fish",
+    "label": "\u2205 | go | fish",
+    "sentence": "Go to the fish and say that I must be queen."
+  },
+  {
+    "sent_id": 45,
+    "subj": "sovereign",
+    "verb": "hear",
+    "obj": "cry",
+    "label": "sovereign | hear | cry",
+    "sentence": "\"\n\nThe fisherman trembled but prayed for mercy as he approached the restless sea, whose waves now lashed angrily beneath a stormy violet sky:\n\n\"O sovereign of the seas,\nHear my humble cry!"
+  },
+  {
+    "sent_id": 46,
+    "subj": "wife",
+    "verb": "command",
+    "obj": "",
+    "label": "wife | command | \u2205",
+    "sentence": "My wife commands\nThat I ask thee high."
+  },
+  {
+    "sent_id": 47,
+    "subj": "she",
+    "verb": "desire",
+    "obj": "what",
+    "label": "she | desire | what",
+    "sentence": "\"\n\nThe fish appeared in swirling waters, \u201cWhat now does she desire?\u201d"
+  },
+  {
+    "sent_id": 48,
+    "subj": "fisherman",
+    "verb": "answer",
+    "obj": "",
+    "label": "fisherman | answer | \u2205",
+    "sentence": "The fisherman answered, \u201cShe wishes to be queen.\u201d"
+  },
+  {
+    "sent_id": 49,
+    "subj": "fish",
+    "verb": "say",
+    "obj": "",
+    "label": "fish | say | \u2205",
+    "sentence": "\u201cReturn home,\u201d said the fish, \u201cfor she wears the crown already.\u201d"
+  },
+  {
+    "sent_id": 50,
+    "subj": "soldier",
+    "verb": "march",
+    "obj": "gate",
+    "label": "soldier | march | gate",
+    "sentence": "Before the palace gates, soldiers marched to the sound of drums and the haunting call of the ney flute."
+  },
+  {
+    "sent_id": 51,
+    "subj": "banu",
+    "verb": "sit",
+    "obj": "",
+    "label": "banu | sit | \u2205",
+    "sentence": "Inside, Banu sat enthroned on a golden dais encrusted with gems, a diadem of diamonds and pearls upon her head."
+  },
+  {
+    "sent_id": 52,
+    "subj": "",
+    "verb": "stand",
+    "obj": "attendant",
+    "label": "\u2205 | stand | attendant",
+    "sentence": "Around her stood elegant attendants, rising in height like towering cypress trees."
+  },
+  {
+    "sent_id": 53,
+    "subj": "she",
+    "verb": "declare",
+    "obj": "",
+    "label": "she | declare | \u2205",
+    "sentence": "\u201cI am queen,\u201d she declared proudly."
+  },
+  {
+    "sent_id": 54,
+    "subj": "fisherman",
+    "verb": "sigh",
+    "obj": "",
+    "label": "fisherman | sigh | \u2205",
+    "sentence": "The fisherman sighed, \u201cWhat grandeur!"
+  },
+  {
+    "sent_id": 55,
+    "subj": "more",
+    "verb": "need",
+    "obj": "",
+    "label": "more | need | \u2205",
+    "sentence": "Surely now no more is needed.\u201d"
+  },
+  {
+    "sent_id": 56,
+    "subj": "i",
+    "verb": "desire",
+    "obj": "empress",
+    "label": "i | desire | empress",
+    "sentence": "But she smiled slyly, \u201cNow I desire to be the queen of all Iran, the emperor herself.\u201d\n\n\u201cEmpress?"
+  },
+  {
+    "sent_id": 57,
+    "subj": "he",
+    "verb": "warn",
+    "obj": "",
+    "label": "he | warn | \u2205",
+    "sentence": "But the sea cannot grant all,\u201d he warned."
+  },
+  {
+    "sent_id": 58,
+    "subj": "i",
+    "verb": "command",
+    "obj": "you",
+    "label": "i | command | you",
+    "sentence": "\u201cI command you!\u201d"
+  },
+  {
+    "sent_id": 59,
+    "subj": "she",
+    "verb": "say",
+    "obj": "",
+    "label": "she | say | \u2205",
+    "sentence": "she said sharply."
+  },
+  {
+    "sent_id": 60,
+    "subj": "fisherman",
+    "verb": "go",
+    "obj": "sea",
+    "label": "fisherman | go | sea",
+    "sentence": "\u201cGo, and do not refuse me.\u201d\n\nWith a heavy heart, the fisherman went again to the wild sea."
+  },
+  {
+    "sent_id": 61,
+    "subj": "cloud",
+    "verb": "fork",
+    "obj": "sky",
+    "label": "cloud | fork | sky",
+    "sentence": "Dark clouds roiled overhead, lightning forked through midnight skies, and enormous waves crashed like mountains."
+  },
+  {
+    "sent_id": 62,
+    "subj": "he",
+    "verb": "call",
+    "obj": "",
+    "label": "he | call | \u2205",
+    "sentence": "He called out once more:\n\n\u201cO spirit of the deep,\nGrant my wife\u2019s wish steep."
+  },
+  {
+    "sent_id": 63,
+    "subj": "she",
+    "verb": "desire",
+    "obj": "crown",
+    "label": "she | desire | crown",
+    "sentence": "She desires the crown\nThat rules all the town.\u201d"
+  },
+  {
+    "sent_id": 64,
+    "subj": "fish",
+    "verb": "rise",
+    "obj": "depth",
+    "label": "fish | rise | depth",
+    "sentence": "The fish rose from the depths, \u201cShe is empire\u2019s sovereign now.\u201d"
+  },
+  {
+    "sent_id": 65,
+    "subj": "banu",
+    "verb": "seat",
+    "obj": "throne",
+    "label": "banu | seat | throne",
+    "sentence": "Banu was now seated on a heavenly throne, surrounded by princes and nobles, their jewels sparkling like stars, their robes shimmering silk and gold."
+  },
+  {
+    "sent_id": 66,
+    "subj": "crown",
+    "verb": "be",
+    "obj": "",
+    "label": "crown | be | \u2205",
+    "sentence": "Her crown was taller than the tallest minaret, her voice echoing across the land."
+  },
+  {
+    "sent_id": 67,
+    "subj": "hunger",
+    "verb": "be",
+    "obj": "",
+    "label": "hunger | be | \u2205",
+    "sentence": "But her hunger for power was insatiable."
+  },
+  {
+    "sent_id": 68,
+    "subj": "she",
+    "verb": "declare",
+    "obj": "",
+    "label": "she | declare | \u2205",
+    "sentence": "\u201cI shall be the caliph, the leader of the faithful,\u201d she declared."
+  },
+  {
+    "sent_id": 69,
+    "subj": "husband",
+    "verb": "say",
+    "obj": "",
+    "label": "husband | say | \u2205",
+    "sentence": "\u201cImpossible,\u201d said her husband."
+  },
+  {
+    "sent_id": 70,
+    "subj": "sea",
+    "verb": "raise",
+    "obj": "power",
+    "label": "sea | raise | power",
+    "sentence": "\u201cOne caliph rules at a time; the seas cannot raise such a power for you.\u201d\n\n\u201cGo!\u201d"
+  },
+  {
+    "sent_id": 71,
+    "subj": "she",
+    "verb": "say",
+    "obj": "commanding",
+    "label": "she | say | commanding",
+    "sentence": "she said commanding, \u201cor you shall suffer.\u201d"
+  },
+  {
+    "sent_id": 72,
+    "subj": "fisherman",
+    "verb": "obey",
+    "obj": "",
+    "label": "fisherman | obey | \u2205",
+    "sentence": "Again the fisherman obeyed, approaching the turbulent shore, where wild winds whipped the skies to flame and the sea boiled like molten glass."
+  },
+  {
+    "sent_id": 73,
+    "subj": "",
+    "verb": "hear",
+    "obj": "prayer",
+    "label": "\u2205 | hear | prayer",
+    "sentence": "His voice trembled as he spoke:\n\n\u201cO ancient ruler beneath the waves,\nHear my prayer from your watery caves!"
+  },
+  {
+    "sent_id": 74,
+    "subj": "wife",
+    "verb": "desire",
+    "obj": "praise",
+    "label": "wife | desire | praise",
+    "sentence": "My wife desires the highest praise.\u201d"
+  },
+  {
+    "sent_id": 75,
+    "subj": "fish",
+    "verb": "rise",
+    "obj": "",
+    "label": "fish | rise | \u2205",
+    "sentence": "The fish rose calmly, \u201cShe is caliph already.\u201d"
+  },
+  {
+    "sent_id": 76,
+    "subj": "he",
+    "verb": "go",
+    "obj": "",
+    "label": "he | go | \u2205",
+    "sentence": "Home he went, finding Banu enthroned higher than the palace towers, surrounded by the magnificence of the faith: rows of flickering lamps like falling stars, sacred texts bound in leather and gold arrayed on every side."
+  },
+  {
+    "sent_id": 77,
+    "subj": "fisherman",
+    "verb": "plead",
+    "obj": "",
+    "label": "fisherman | plead | \u2205",
+    "sentence": "\u201cSurely now, no more,\u201d the fisherman pleaded."
+  },
+  {
+    "sent_id": 78,
+    "subj": "eye",
+    "verb": "burn",
+    "obj": "fire",
+    "label": "eye | burn | fire",
+    "sentence": "But Banu\u2019s eyes burned with restless fire."
+  },
+  {
+    "sent_id": 79,
+    "subj": "she",
+    "verb": "declare",
+    "obj": "",
+    "label": "she | declare | \u2205",
+    "sentence": "\u201cI shall be the sun and moon\u2019s mistress,\u201d she declared, \u201cfor how can I rest while they rise and set without my command?\u201d"
+  },
+  {
+    "sent_id": 80,
+    "subj": "fisherman",
+    "verb": "awake",
+    "obj": "start",
+    "label": "fisherman | awake | start",
+    "sentence": "The fisherman awoke with a start, shaking with fear as thunder rolled and the earth shuddered beneath violent storms."
+  },
+  {
+    "sent_id": 81,
+    "subj": "he",
+    "verb": "go",
+    "obj": "shore",
+    "label": "he | go | shore",
+    "sentence": "He went to the shore, the sky black as pitch, and the sea raging with fury like a wild herd."
+  },
+  {
+    "sent_id": 82,
+    "subj": "he",
+    "verb": "plead",
+    "obj": "one",
+    "label": "he | plead | one",
+    "sentence": "He pleaded one last time:\n\n\u201cO lord of the deep,\nMy wife\u2019s desire I keep \u2014\nTo rule the sun and moon\u2019s sweep.\u201d"
+  },
+  {
+    "sent_id": 83,
+    "subj": "fish",
+    "verb": "reply",
+    "obj": "",
+    "label": "fish | reply | \u2205",
+    "sentence": "The fish, silent and grave, replied, \u201cReturn home, to your poor hut by the sea.\u201d"
+  },
+  {
+    "sent_id": 84,
+    "subj": "fisherman",
+    "verb": "find",
+    "obj": "themselves",
+    "label": "fisherman | find | themselves",
+    "sentence": "And so, the fisherman and Banu found themselves once again in their humble clay hut by the gentle waves, where they lived quietly in the strength of the sea\u2019s mercy, content with what the world had given them."
+  }
+]

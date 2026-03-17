@@ -1,0 +1,466 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "",
+    "verb": "live",
+    "obj": "merchant",
+    "label": "\u2205 | live | merchant",
+    "sentence": "In a bustling Persian bazaar, there once lived a wealthy merchant with three daughters."
+  },
+  {
+    "sent_id": 1,
+    "subj": "he",
+    "verb": "ask",
+    "obj": "daughter",
+    "label": "he | ask | daughter",
+    "sentence": "Before he embarked on a long journey through the sunlit deserts and fragrant gardens of Shiraz, he asked each daughter what gift she would desire upon his return."
+  },
+  {
+    "sent_id": 2,
+    "subj": "eld",
+    "verb": "wish",
+    "obj": "pearl",
+    "label": "eld | wish | pearl",
+    "sentence": "The eldest wished for pearls from the Persian Gulf, the second for sparkling gems mined from the mountains near Isfahan, but the youngest, named Gulrukh (meaning \u2018Face like a rose\u2019), simply requested a single rose from the royal gardens of Kashan."
+  },
+  {
+    "sent_id": 3,
+    "subj": "",
+    "verb": "vow",
+    "obj": "",
+    "label": "\u2205 | vow | \u2205",
+    "sentence": "Though winter\u2019s chill made such a flower impossible, her father, loving her above all, vowed to try his best."
+  },
+  {
+    "sent_id": 4,
+    "subj": "merchant",
+    "verb": "return",
+    "obj": "pearl",
+    "label": "merchant | return | pearl",
+    "sentence": "When his journey ended, the merchant returned with precious pearls and jewels for his two elder daughters, but finding a rose proved hopeless."
+  },
+  {
+    "sent_id": 5,
+    "subj": "he",
+    "verb": "tell",
+    "obj": "garden",
+    "label": "he | tell | garden",
+    "sentence": "In every garden, he was told sternly, \u201cRoses do not bloom beneath snow.\u201d"
+  },
+  {
+    "sent_id": 6,
+    "subj": "he",
+    "verb": "come",
+    "obj": "palace",
+    "label": "he | come | palace",
+    "sentence": "As he traveled sadly toward home through the fragrant whispers of softly falling snow, he came upon a splendid palace surrounded by a strange garden."
+  },
+  {
+    "sent_id": 7,
+    "subj": "half",
+    "verb": "flourish",
+    "obj": "blossom",
+    "label": "half | flourish | blossom",
+    "sentence": "Half of the garden flourished in fiery spring blossoms, and the other half lay frozen beneath winter\u2019s white cloak."
+  },
+  {
+    "sent_id": 8,
+    "subj": "he",
+    "verb": "say",
+    "obj": "",
+    "label": "he | say | \u2205",
+    "sentence": "\u201cFortune smiles upon me,\u201d he said, beckoning his servant to gather a rose from the blooming half."
+  },
+  {
+    "sent_id": 9,
+    "subj": "lion",
+    "verb": "leapt",
+    "obj": "shadow",
+    "label": "lion | leapt | shadow",
+    "sentence": "Yet, as they rode away with the coveted flower, a great and fearsome lion leapt from the shadows."
+  },
+  {
+    "sent_id": 10,
+    "subj": "he",
+    "verb": "thunder",
+    "obj": "voice",
+    "label": "he | thunder | voice",
+    "sentence": "With a voice like thunder across the desert, he thundered, \u201cWho steals my roses must be devoured by my jaws!\u201d"
+  },
+  {
+    "sent_id": 11,
+    "subj": "merchant",
+    "verb": "plead",
+    "obj": "",
+    "label": "merchant | plead | \u2205",
+    "sentence": "Begging for mercy, the merchant pleaded, but the lion declared, \u201cI will spare your life only if you promise to give me whatever greets you first upon your return.\u201d"
+  },
+  {
+    "sent_id": 12,
+    "subj": "merchant",
+    "verb": "think",
+    "obj": "",
+    "label": "merchant | think | \u2205",
+    "sentence": "At first, the merchant thought it might be a stray dog or a village cat, and with a heavy heart accepted the lion\u2019s demand."
+  },
+  {
+    "sent_id": 13,
+    "subj": "it",
+    "verb": "be",
+    "obj": "gulrukh",
+    "label": "it | be | gulrukh",
+    "sentence": "But as he neared his home, it was Gulrukh herself, radiant and joyful, who ran to embrace him, kissing his weathered face."
+  },
+  {
+    "sent_id": 14,
+    "subj": "merchant",
+    "verb": "reveal",
+    "obj": "pact",
+    "label": "merchant | reveal | pact",
+    "sentence": "Stricken with sorrow, the merchant revealed the terrible pact he had made and begged her to stay away from the lion."
+  },
+  {
+    "sent_id": 15,
+    "subj": "gulrukh",
+    "verb": "say",
+    "obj": "",
+    "label": "gulrukh | say | \u2205",
+    "sentence": "But Gulrukh, brave and steadfast, said, \u201cFather, your word is sacred."
+  },
+  {
+    "sent_id": 16,
+    "subj": "i",
+    "verb": "go",
+    "obj": "lion",
+    "label": "i | go | lion",
+    "sentence": "I will go to the lion, and with kindness tame his heart."
+  },
+  {
+    "sent_id": 17,
+    "subj": "he",
+    "verb": "let",
+    "obj": "",
+    "label": "he | let | \u2205",
+    "sentence": "Perhaps he will let me return.\u201d"
+  },
+  {
+    "sent_id": 18,
+    "subj": "she",
+    "verb": "venture",
+    "obj": "dawn",
+    "label": "she | venture | dawn",
+    "sentence": "At dawn, she ventured forth into the enchanted wood."
+  },
+  {
+    "sent_id": 19,
+    "subj": "lion",
+    "verb": "be",
+    "obj": "prince",
+    "label": "lion | be | prince",
+    "sentence": "The lion, she soon learned, was a prince under a powerful spell: by day, a great lion, and by night, a noble man."
+  },
+  {
+    "sent_id": 20,
+    "subj": "he",
+    "verb": "treat",
+    "obj": "she",
+    "label": "he | treat | she",
+    "sentence": "Welcoming her to his crystal palace, he treated her with such grace that she agreed to marry him."
+  },
+  {
+    "sent_id": 21,
+    "subj": "feast",
+    "verb": "be",
+    "obj": "",
+    "label": "feast | be | \u2205",
+    "sentence": "Their wedding feast was joyous, and they lived happily, though the prince vanished each morning to mysterious places and returned at nightfall."
+  },
+  {
+    "sent_id": 22,
+    "subj": "prince",
+    "verb": "tell",
+    "obj": "she",
+    "label": "prince | tell | she",
+    "sentence": "One day, the prince told her that her eldest sister\u2019s wedding feast would be held soon at their father\u2019s home and offered to lead her there with his lion attendants."
+  },
+  {
+    "sent_id": 23,
+    "subj": "gulrukh",
+    "verb": "return",
+    "obj": "",
+    "label": "gulrukh | return | \u2205",
+    "sentence": "Overjoyed, Gulrukh returned, bringing light and laughter to her family long believing her lost."
+  },
+  {
+    "sent_id": 24,
+    "subj": "sister",
+    "verb": "marry",
+    "obj": "",
+    "label": "sister | marry | \u2205",
+    "sentence": "Soon after, her second sister also married, and when Gulrukh wished to attend, she implored her husband to accompany her."
+  },
+  {
+    "sent_id": 25,
+    "subj": "he",
+    "verb": "explain",
+    "obj": "fear",
+    "label": "he | explain | fear",
+    "sentence": "With grave fear, he explained that even the flicker of a single torchlight might deepen his enchantment, turning him into a dove doomed to wander the earth for seven years."
+  },
+  {
+    "sent_id": 26,
+    "subj": "gulrukh",
+    "verb": "insist",
+    "obj": "warning",
+    "label": "gulrukh | insist | warning",
+    "sentence": "Despite his warnings, Gulrukh insisted, assuring him that she would shield him from all light."
+  },
+  {
+    "sent_id": 27,
+    "subj": "they",
+    "verb": "journey",
+    "obj": "",
+    "label": "they | journey | \u2205",
+    "sentence": "They journeyed together, bringing their small child, and the prince waited secluded in a thick-walled chamber during the evening\u2019s celebrations."
+  },
+  {
+    "sent_id": 28,
+    "subj": "sliver",
+    "verb": "drift",
+    "obj": "crack",
+    "label": "sliver | drift | crack",
+    "sentence": "But through a crack in the door, a sliver of flame drifted unknowingly upon him, and in an instant, the prince vanished\u2014replaced by a white dove who whispered, \u201cFor seven years I must fly the earth\u2019s face, leaving white feathers as signposts on the winds."
+  },
+  {
+    "sent_id": 29,
+    "subj": "",
+    "verb": "follow",
+    "obj": "they",
+    "label": "\u2205 | follow | they",
+    "sentence": "Follow them, and perhaps you shall find me again.\u201d\n\nSo began Gulrukh\u2019s quest across the vast lands of Persia."
+  },
+  {
+    "sent_id": 30,
+    "subj": "she",
+    "verb": "follow",
+    "obj": "feather",
+    "label": "she | follow | feather",
+    "sentence": "For seven long years, she followed the white feathers north and south, over rugged mountains and fertile plains, never resting."
+  },
+  {
+    "sent_id": 31,
+    "subj": "feather",
+    "verb": "cease",
+    "obj": "",
+    "label": "feather | cease | \u2205",
+    "sentence": "One day, the feathers ceased to fall, and the dove was gone."
+  },
+  {
+    "sent_id": 32,
+    "subj": "she",
+    "verb": "call",
+    "obj": "sun",
+    "label": "she | call | sun",
+    "sentence": "Desperately, she called to the great sun, its golden disc kindling the horizons."
+  },
+  {
+    "sent_id": 33,
+    "subj": "you",
+    "verb": "see",
+    "obj": "dove",
+    "label": "you | see | dove",
+    "sentence": "\u201cHave you seen my dove?\u201d"
+  },
+  {
+    "sent_id": 34,
+    "subj": "she",
+    "verb": "implore",
+    "obj": "",
+    "label": "she | implore | \u2205",
+    "sentence": "she implored."
+  },
+  {
+    "sent_id": 35,
+    "subj": "sun",
+    "verb": "reply",
+    "obj": "",
+    "label": "sun | reply | \u2205",
+    "sentence": "The sun replied, \u201cNo, but take this jewel box, and open it when your need is greatest.\u201d"
+  },
+  {
+    "sent_id": 36,
+    "subj": "she",
+    "verb": "ask",
+    "obj": "same",
+    "label": "she | ask | same",
+    "sentence": "At night, under the silver gaze of the moon, she asked the same, and it gave her a delicate gilded egg."
+  },
+  {
+    "sent_id": 37,
+    "subj": "desert",
+    "verb": "wind",
+    "obj": "",
+    "label": "desert | wind | \u2205",
+    "sentence": "Then the desert winds, swirling through ancient cypresses, carried her voice, promising guidance and warning her to seek the fierce south wind."
+  },
+  {
+    "sent_id": 38,
+    "subj": "wind",
+    "verb": "speak",
+    "obj": "",
+    "label": "wind | speak | \u2205",
+    "sentence": "The south wind spoke, \u201cThe dove has fled to the Red Sea, where the seven years have ended, and the lion battles a monstrous dragon\u2014an enchantress who seeks to tear you apart."
+  },
+  {
+    "sent_id": 39,
+    "subj": "",
+    "verb": "defeat",
+    "obj": "dragon",
+    "label": "\u2205 | defeat | dragon",
+    "sentence": "Find the rods by the sea; breaking the eleventh will defeat the dragon and free your prince."
+  },
+  {
+    "sent_id": 40,
+    "subj": "",
+    "verb": "mount",
+    "obj": "simurgh",
+    "label": "\u2205 | mount | simurgh",
+    "sentence": "Then mount the mighty simurgh\u2014a winged creature of legend\u2014to carry you home."
+  },
+  {
+    "sent_id": 41,
+    "subj": "",
+    "verb": "beware",
+    "obj": "midpoint",
+    "label": "\u2205 | beware | midpoint",
+    "sentence": "But beware: at sea\u2019s midpoint, drop this nut to grow a tree for the simurgh\u2019s rest."
+  },
+  {
+    "sent_id": 42,
+    "subj": "gulrukh",
+    "verb": "journey",
+    "obj": "shore",
+    "label": "gulrukh | journey | shore",
+    "sentence": "Forget, and the waters will claim you.\u201d\n\nSteeled with resolve, Gulrukh journeyed to the burning shores, found the rods, and struck the dragon with the eleventh."
+  },
+  {
+    "sent_id": 43,
+    "subj": "lion",
+    "verb": "restore",
+    "obj": "form",
+    "label": "lion | restore | form",
+    "sentence": "The lion was restored to princely form, the dragon to a princess once more."
+  },
+  {
+    "sent_id": 44,
+    "subj": "",
+    "verb": "be",
+    "obj": "",
+    "label": "\u2205 | be | \u2205",
+    "sentence": "But no sooner was the spell broken than the princess seized the prince and fled on the simurgh\u2019s back."
+  },
+  {
+    "sent_id": 45,
+    "subj": "gulrukh",
+    "verb": "vow",
+    "obj": "",
+    "label": "gulrukh | vow | \u2205",
+    "sentence": "Alone once more, Gulrukh vowed to search as long as the winds blew and the roosters crowed."
+  },
+  {
+    "sent_id": 46,
+    "subj": "she",
+    "verb": "find",
+    "obj": "palace",
+    "label": "she | find | palace",
+    "sentence": "At last, she found the palace where the princess planned the prince\u2019s wedding."
+  },
+  {
+    "sent_id": 47,
+    "subj": "she",
+    "verb": "enter",
+    "obj": "",
+    "label": "she | enter | \u2205",
+    "sentence": "Wearing the dazzling cloak from the sun\u2019s box, she entered and offered it in exchange for a moment with her husband."
+  },
+  {
+    "sent_id": 48,
+    "subj": "princess",
+    "verb": "agree",
+    "obj": "",
+    "label": "princess | agree | \u2205",
+    "sentence": "The princess agreed but drugged the prince to keep him asleep."
+  },
+  {
+    "sent_id": 49,
+    "subj": "he",
+    "verb": "drift",
+    "obj": "reed",
+    "label": "he | drift | reed",
+    "sentence": "Though Gulrukh\u2019s voice poured her sorrows and loyalty at his feet, he drifted like a dream-caught reed among the cypresses."
+  },
+  {
+    "sent_id": 50,
+    "subj": "gulrukh",
+    "verb": "wander",
+    "obj": "meadow",
+    "label": "gulrukh | wander | meadow",
+    "sentence": "Left heartbroken, Gulrukh wandered into a meadow."
+  },
+  {
+    "sent_id": 51,
+    "subj": "she",
+    "verb": "break",
+    "obj": "egg",
+    "label": "she | break | egg",
+    "sentence": "Remembering the moon\u2019s gift, she broke the golden egg\u2014and out sprang a mother hen and twelve golden chicks that danced like flickering flames."
+  },
+  {
+    "sent_id": 52,
+    "subj": "princess",
+    "verb": "offer",
+    "obj": "bargain",
+    "label": "princess | offer | bargain",
+    "sentence": "Seeing this marvel, the princess again offered a bargain, and with a heavy mind, Gulrukh returned to the prince."
+  },
+  {
+    "sent_id": 53,
+    "subj": "prince",
+    "verb": "warn",
+    "obj": "chamberlain",
+    "label": "prince | warn | chamberlain",
+    "sentence": "But this time, the prince, warned by his faithful chamberlain, kept his senses and recognized Gulrukh\u2019s voice."
+  },
+  {
+    "sent_id": 54,
+    "subj": "they",
+    "verb": "slip",
+    "obj": "moonlight",
+    "label": "they | slip | moonlight",
+    "sentence": "Awaking, he embraced her, weeping, \u201cYou are my awakening from a deep spell.\u201d\n\nTogether, they slipped away under moonlight onto the simurgh\u2019s back."
+  },
+  {
+    "sent_id": 55,
+    "subj": "gulrukh",
+    "verb": "cast",
+    "obj": "nut",
+    "label": "gulrukh | cast | nut",
+    "sentence": "Halfway across the sapphire waters of the Red Sea, Gulrukh cast down the nut, raising a towering tree for the weary simurgh."
+  },
+  {
+    "sent_id": 56,
+    "subj": "they",
+    "verb": "find",
+    "obj": "",
+    "label": "they | find | \u2205",
+    "sentence": "Safely ashore, they found their child grown to beauty and strength."
+  },
+  {
+    "sent_id": 57,
+    "subj": "gulrukh",
+    "verb": "live",
+    "obj": "trial",
+    "label": "gulrukh | live | trial",
+    "sentence": "Thus, after trials as fierce as the desert sun and as enduring as the ancient mountains, Gulrukh and her prince lived in joy and harmony, their love a tale whispered beneath Persian stars for generations to come."
+  }
+]

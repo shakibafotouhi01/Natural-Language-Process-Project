@@ -1,0 +1,870 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "\u2205 | live | warrior",
+      "sent_id": 0,
+      "sentence": "Long ago, in the vast lands where the great rivers flow and the towering pines touch the sky, there lived a noble warrior named Zal.",
+      "subj": "",
+      "verb": "live",
+      "obj": "warrior"
+    },
+    {
+      "id": "e0001",
+      "label": "zal | long | \u2205",
+      "sent_id": 1,
+      "sentence": "Born under the watchful eyes of the eagle who had saved him as a child, Zal longed to journey beyond the hills of his home and see the lands of the distant tribe known as Cabul.",
+      "subj": "zal",
+      "verb": "long",
+      "obj": ""
+    },
+    {
+      "id": "e0002",
+      "label": "he | set | band",
+      "sent_id": 2,
+      "sentence": "With a strong band of warriors at his side, he set out, carrying the hopes of his people.",
+      "subj": "he",
+      "verb": "set",
+      "obj": "band"
+    },
+    {
+      "id": "e0003",
+      "label": "cabul | rule | \u2205",
+      "sent_id": 3,
+      "sentence": "Cabul was ruled by a wise leader named Mihrab, descended from a lineage once shadowed by a serpent spirit\u2014but unlike his ancestors, Mihrab was just and thoughtful.",
+      "subj": "cabul",
+      "verb": "rule",
+      "obj": ""
+    },
+    {
+      "id": "e0004",
+      "label": "mihrab | rise | council",
+      "sent_id": 4,
+      "sentence": "When news came that Zal, the son of Sam, a revered chief who paid tribute to a higher power, was approaching the village, Mihrab rose with his council and led his people bearing gifts of woven blankets, sweet berries, and carved stones to greet the traveler.",
+      "subj": "mihrab",
+      "verb": "rise",
+      "obj": "council"
+    },
+    {
+      "id": "e0005",
+      "label": "zal | welcome | guest",
+      "sent_id": 5,
+      "sentence": "Zal welcomed Mihrab\u2019s guests with a grand feast beneath the open sky, where they shared stories until the stars covered the heavens.",
+      "subj": "zal",
+      "verb": "welcome",
+      "obj": "guest"
+    },
+    {
+      "id": "e0006",
+      "label": "heart | stir | tale",
+      "sent_id": 6,
+      "sentence": "After the guests departed, Zal\u2019s heart stirred at tales spoken among his own.",
+      "subj": "heart",
+      "verb": "stir",
+      "obj": "tale"
+    },
+    {
+      "id": "e0007",
+      "label": "elder | say | \u2205",
+      "sent_id": 7,
+      "sentence": "One elder said, \u201cYoung Zal, you have seen many beautiful things, but the daughter of Mihrab outshines the tallest cedar.",
+      "subj": "elder",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0008",
+      "label": "she | be | \u2205",
+      "sent_id": 8,
+      "sentence": "She is sun-bright and as graceful as the flowing river; her smile blossoms like the wild pomegranate flower.\u201d",
+      "subj": "she",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0009",
+      "label": "word | fill | spirit",
+      "sent_id": 9,
+      "sentence": "These words filled Zal\u2019s spirit and stole away his sleep, leaving him to dream upon her image.",
+      "subj": "word",
+      "verb": "fill",
+      "obj": "spirit"
+    },
+    {
+      "id": "e0010",
+      "label": "leader | gather | \u2205",
+      "sent_id": 10,
+      "sentence": "Come morning, the leaders gathered as Mihrab approached Zal with a humble request.",
+      "subj": "leader",
+      "verb": "gather",
+      "obj": ""
+    },
+    {
+      "id": "e0011",
+      "label": "\u2205 | let | \u2205",
+      "sent_id": 11,
+      "sentence": "\u201cMighty Zal, stay with us beneath our lodge; let your presence bring joy to our fire.\u201d",
+      "subj": "",
+      "verb": "let",
+      "obj": ""
+    },
+    {
+      "id": "e0012",
+      "label": "zal | be | \u2205",
+      "sent_id": 12,
+      "sentence": "But Zal was troubled.",
+      "subj": "zal",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0013",
+      "label": "chief | bring | anger",
+      "sent_id": 13,
+      "sentence": "\u201cGreat chief, to stay under the roof of those descended from the serpent would bring anger from my father and elders.",
+      "subj": "chief",
+      "verb": "bring",
+      "obj": "anger"
+    },
+    {
+      "id": "e0014",
+      "label": "i | accept | gift",
+      "sent_id": 14,
+      "sentence": "I cannot accept this gift.\u201d",
+      "subj": "i",
+      "verb": "accept",
+      "obj": "gift"
+    },
+    {
+      "id": "e0015",
+      "label": "mihrab | bow | \u2205",
+      "sent_id": 15,
+      "sentence": "Mihrab bowed and left, and Zal\u2019s thoughts returned again to Mihrab\u2019s daughter, Rodabeh, her beauty burning in his mind.",
+      "subj": "mihrab",
+      "verb": "bow",
+      "obj": ""
+    },
+    {
+      "id": "e0016",
+      "label": "mihrab | visit | area",
+      "sent_id": 16,
+      "sentence": "One day, Mihrab visited the area where the women of the village dwelled\u2014a sheltered place fragrant with cedar resin and wildflowers, bright with colorful beads and painted skins.",
+      "subj": "mihrab",
+      "verb": "visit",
+      "obj": "area"
+    },
+    {
+      "id": "e0017",
+      "label": "he | greet | wife",
+      "sent_id": 17,
+      "sentence": "There he greeted his wife Sindokht and their daughter Rodabeh, whose beauty shone like the radiant moon washing over the dark forest.",
+      "subj": "he",
+      "verb": "greet",
+      "obj": "wife"
+    },
+    {
+      "id": "e0018",
+      "label": "sindokht | ask | stranger",
+      "sent_id": 18,
+      "sentence": "Sindokht, curious, asked about the stranger whose camp lay nearby.",
+      "subj": "sindokht",
+      "verb": "ask",
+      "obj": "stranger"
+    },
+    {
+      "id": "e0019",
+      "label": "mihrab | say | \u2205",
+      "sent_id": 19,
+      "sentence": "\u201cHe is the son of Sam, a mighty warrior,\u201d Mihrab said.",
+      "subj": "mihrab",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0020",
+      "label": "heart | beat | \u2205",
+      "sent_id": 20,
+      "sentence": "\u201cHis heart beats strong as the mountain lion\u2019s, his strength is like the bear\u2019s, fierce against his foes, generous to friends.",
+      "subj": "heart",
+      "verb": "beat",
+      "obj": ""
+    },
+    {
+      "id": "e0021",
+      "label": "it | add | honor",
+      "sent_id": 21,
+      "sentence": "Though his hair is white as the winter snow, it only adds to his honor.\u201d",
+      "subj": "it",
+      "verb": "add",
+      "obj": "honor"
+    },
+    {
+      "id": "e0022",
+      "label": "heart | flutter | wing",
+      "sent_id": 22,
+      "sentence": "Rodabeh listened with growing love, her heart fluttering like a newborn eagle\u2019s wings.",
+      "subj": "heart",
+      "verb": "flutter",
+      "obj": "wing"
+    },
+    {
+      "id": "e0023",
+      "label": "she | eat | \u2205",
+      "sent_id": 23,
+      "sentence": "She could neither eat nor rest, and in secret, she confided her longing to trusted companions who cautioned her against the one whose father had once cast him out.",
+      "subj": "she",
+      "verb": "eat",
+      "obj": ""
+    },
+    {
+      "id": "e0024",
+      "label": "spirit | waver | \u2205",
+      "sent_id": 24,
+      "sentence": "But Rodabeh\u2019s spirit would not waver.",
+      "subj": "spirit",
+      "verb": "waver",
+      "obj": ""
+    },
+    {
+      "id": "e0025",
+      "label": "\u2205 | determine | \u2205",
+      "sent_id": 25,
+      "sentence": "Determined to bring the lovers together, her loyal companions dressed in bright feathers and skins, and went to gather sweet-smelling blossoms by the river\u2019s edge, casting petals into the flowing waters, seeking visions and guidance.",
+      "subj": "",
+      "verb": "determine",
+      "obj": ""
+    },
+    {
+      "id": "e0026",
+      "label": "zal | see | bearer",
+      "sent_id": 26,
+      "sentence": "From a distance, Zal saw these flower-bearers and asked about them.",
+      "subj": "zal",
+      "verb": "see",
+      "obj": "bearer"
+    },
+    {
+      "id": "e0027",
+      "label": "they | tell | he",
+      "sent_id": 27,
+      "sentence": "They told him they came from the moonlit village of Cabul.",
+      "subj": "they",
+      "verb": "tell",
+      "obj": "he"
+    },
+    {
+      "id": "e0028",
+      "label": "joy | swell | heart",
+      "sent_id": 28,
+      "sentence": "Joy swelled within Zal\u2019s heart, and he journeyed to the riverbank with a young page.",
+      "subj": "joy",
+      "verb": "swell",
+      "obj": "heart"
+    },
+    {
+      "id": "e0029",
+      "label": "zal | draw | bow",
+      "sent_id": 29,
+      "sentence": "Spotting a swift waterbird, Zal drew his bow and with one sure shot, the bird fell among the flower gatherers.",
+      "subj": "zal",
+      "verb": "draw",
+      "obj": "bow"
+    },
+    {
+      "id": "e0030",
+      "label": "woman | inquire | \u2205",
+      "sent_id": 30,
+      "sentence": "As the young page retrieved it, the women, radiant as the rising sun, inquired who the skilled archer might be.",
+      "subj": "woman",
+      "verb": "inquire",
+      "obj": ""
+    },
+    {
+      "id": "e0031",
+      "label": "page | speak | name",
+      "sent_id": 31,
+      "sentence": "The page spoke of Zal\u2019s name and strength, but the women spoke proudly of the moon whose light outshone all.",
+      "subj": "page",
+      "verb": "speak",
+      "obj": "name"
+    },
+    {
+      "id": "e0032",
+      "label": "page | return | zal",
+      "sent_id": 32,
+      "sentence": "The page returned to Zal with news and smiles, and Zal sent precious gifts woven with shells and beads by his own hands.",
+      "subj": "page",
+      "verb": "return",
+      "obj": "zal"
+    },
+    {
+      "id": "e0033",
+      "label": "one | wish | \u2205",
+      "sent_id": 33,
+      "sentence": "One among the loyal women wished to see this mighty warrior and reveal the path to Rodabeh.",
+      "subj": "one",
+      "verb": "wish",
+      "obj": ""
+    },
+    {
+      "id": "e0034",
+      "label": "rodabeh | prepare | lodge",
+      "sent_id": 34,
+      "sentence": "Under the soft veil of dusk, Rodabeh prepared her lodge with woven mats and sweet-smoke incense, ready to welcome Zal.",
+      "subj": "rodabeh",
+      "verb": "prepare",
+      "obj": "lodge"
+    },
+    {
+      "id": "e0035",
+      "label": "he | see | \u2205",
+      "sent_id": 35,
+      "sentence": "When Zal arrived, he saw Rodabeh standing atop the lodge roof, her hair flowing like the river, shining silver in the moonlight.",
+      "subj": "he",
+      "verb": "see",
+      "obj": ""
+    },
+    {
+      "id": "e0036",
+      "label": "she | say | \u2205",
+      "sent_id": 36,
+      "sentence": "She said: \u201cTake hold of my hair, a rope to your heart.",
+      "subj": "she",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0037",
+      "label": "zal | kiss | hair",
+      "sent_id": 38,
+      "sentence": "Zal humbly kissed her hair and crafted a sturdy cord to climb, joining her in the glow of the firelight.",
+      "subj": "zal",
+      "verb": "kiss",
+      "obj": "hair"
+    },
+    {
+      "id": "e0038",
+      "label": "they | speak | night",
+      "sent_id": 39,
+      "sentence": "They spoke through the night, their hearts entwined as the stars watched over them.",
+      "subj": "they",
+      "verb": "speak",
+      "obj": "night"
+    },
+    {
+      "id": "e0039",
+      "label": "zal | fear | anger",
+      "sent_id": 40,
+      "sentence": "But Zal feared the anger of his father and the chief Minuchihr, ruler of the great lands, who might not understand this union.",
+      "subj": "zal",
+      "verb": "fear",
+      "obj": "anger"
+    },
+    {
+      "id": "e0040",
+      "label": "heart | move | side",
+      "sent_id": 41,
+      "sentence": "Yet his heart would not be moved from Rodabeh\u2019s side.",
+      "subj": "heart",
+      "verb": "move",
+      "obj": "side"
+    },
+    {
+      "id": "e0041",
+      "label": "drum | call | warrior",
+      "sent_id": 42,
+      "sentence": "As dawn came, the drums of morning called the warriors and nobles.",
+      "subj": "drum",
+      "verb": "call",
+      "obj": "warrior"
+    },
+    {
+      "id": "e0042",
+      "label": "zal | gather | elder",
+      "sent_id": 43,
+      "sentence": "Zal gathered the elders and spoke of his love for the daughter of Mihrab.",
+      "subj": "zal",
+      "verb": "gather",
+      "obj": "elder"
+    },
+    {
+      "id": "e0043",
+      "label": "man | weigh | consequence",
+      "sent_id": 44,
+      "sentence": "The wise men, with silent faces, weighed the consequences.",
+      "subj": "man",
+      "verb": "weigh",
+      "obj": "consequence"
+    },
+    {
+      "id": "e0044",
+      "label": "they | encourage | zal",
+      "sent_id": 45,
+      "sentence": "At last, they encouraged Zal to write to his father and to seek the blessing of Sam, his mighty father.",
+      "subj": "they",
+      "verb": "encourage",
+      "obj": "zal"
+    },
+    {
+      "id": "e0045",
+      "label": "zal | send | word",
+      "sent_id": 46,
+      "sentence": "Zal sent a messenger weaving words of love and fear to Sam, recalling how he was raised by the great eagle, nourished by the earth, while his father sat in the warmth of his lodge.",
+      "subj": "zal",
+      "verb": "send",
+      "obj": "word"
+    },
+    {
+      "id": "e0046",
+      "label": "heart | stir | sorrow",
+      "sent_id": 47,
+      "sentence": "Sam\u2019s heart stirred with sorrow and pride, torn between duty and hope.",
+      "subj": "heart",
+      "verb": "stir",
+      "obj": "sorrow"
+    },
+    {
+      "id": "e0047",
+      "label": "he | call | one",
+      "sent_id": 48,
+      "sentence": "He called the wise ones to study the stars, seeking guidance.",
+      "subj": "he",
+      "verb": "call",
+      "obj": "one"
+    },
+    {
+      "id": "e0048",
+      "label": "they | watch | path",
+      "sent_id": 49,
+      "sentence": "For days they watched the paths of moon and sun, and at last declared a blessing: \u201cFrom the union of Zal and Rodabeh shall rise a child mighty as the great bear, a leader who will bring balance and peace to the lands.\u201d",
+      "subj": "they",
+      "verb": "watch",
+      "obj": "path"
+    },
+    {
+      "id": "e0049",
+      "label": "sam | send | letter",
+      "sent_id": 50,
+      "sentence": "With hope rekindled, Sam sent a letter of acceptance, promising to bring the strength of his armies to honor their union, yet warning of the danger that awaited if the old grudges were not healed.",
+      "subj": "sam",
+      "verb": "send",
+      "obj": "letter"
+    },
+    {
+      "id": "e0050",
+      "label": "fear | grip | cabul",
+      "sent_id": 51,
+      "sentence": "Fear gripped Cabul, and Mihrab, desperate, spoke of taking Rodabeh to the court of Minuchihr, hoping to appease the anger that threatened their land.",
+      "subj": "fear",
+      "verb": "grip",
+      "obj": "cabul"
+    },
+    {
+      "id": "e0051",
+      "label": "sindokht | seek | way",
+      "sent_id": 52,
+      "sentence": "Sindokht, wise and quick, sought a better way.",
+      "subj": "sindokht",
+      "verb": "seek",
+      "obj": "way"
+    },
+    {
+      "id": "e0052",
+      "label": "she | journey | gift",
+      "sent_id": 53,
+      "sentence": "With gifts of shining copper and bright stones, she journeyed to Sam, offering peace.",
+      "subj": "she",
+      "verb": "journey",
+      "obj": "gift"
+    },
+    {
+      "id": "e0053",
+      "label": "sam | question | she",
+      "sent_id": 54,
+      "sentence": "Sam questioned her, swearing protection, and when assured, she revealed the truth of their hearts: though Mihrab\u2019s blood flowed from a serpent\u2019s line, he was noble, and his daughter beloved by Zal.",
+      "subj": "sam",
+      "verb": "question",
+      "obj": "she"
+    },
+    {
+      "id": "e0054",
+      "label": "sam | vow | \u2205",
+      "sent_id": 55,
+      "sentence": "Sam vowed to honor this union, sending word to the great chief Minuchihr and calling for peace and alliance through marriage.",
+      "subj": "sam",
+      "verb": "vow",
+      "obj": ""
+    },
+    {
+      "id": "e0055",
+      "label": "zal | test | council",
+      "sent_id": 56,
+      "sentence": "At the great council, Zal was tested by the elders with riddles of the seasons, the sun and moon, and the cycle of life and death.",
+      "subj": "zal",
+      "verb": "test",
+      "obj": "council"
+    },
+    {
+      "id": "e0056",
+      "label": "zal | answer | wisdom",
+      "sent_id": 57,
+      "sentence": "With wisdom born of the eagle\u2019s care, Zal answered, revealing his deep understanding of the world\u2019s hidden paths.",
+      "subj": "zal",
+      "verb": "answer",
+      "obj": "wisdom"
+    },
+    {
+      "id": "e0057",
+      "label": "warrior | sing | \u2205",
+      "sent_id": 59,
+      "sentence": "Warriors sang and danced under starry skies, honoring the strength and grace of Zal.",
+      "subj": "warrior",
+      "verb": "sing",
+      "obj": ""
+    },
+    {
+      "id": "e0058",
+      "label": "heart | join | one",
+      "sent_id": 60,
+      "sentence": "Finally, the day came when Zal and Rodabeh were united in ceremony, their hearts joined as one beneath the circle of the sky.",
+      "subj": "heart",
+      "verb": "join",
+      "obj": "one"
+    },
+    {
+      "id": "e0059",
+      "label": "people | rejoice | \u2205",
+      "sent_id": 61,
+      "sentence": "The people of Cabul and the lands beyond rejoiced, and tranquility settled over the forests and rivers.",
+      "subj": "people",
+      "verb": "rejoice",
+      "obj": ""
+    },
+    {
+      "id": "e0060",
+      "label": "zal | rule | wisdom",
+      "sent_id": 62,
+      "sentence": "Zal and Rodabeh ruled with wisdom and love, their story told by the firelight, a tale of courage, unity, and the power of the heart to transcend the shadows of the past.",
+      "subj": "zal",
+      "verb": "rule",
+      "obj": "wisdom"
+    },
+    {
+      "id": "e0061",
+      "label": "eagle | soar | \u2205",
+      "sent_id": 63,
+      "sentence": "The eagle soared high, watching over them, as their legacy blossomed like the sacred pomegranate flower in the dawn.",
+      "subj": "eagle",
+      "verb": "soar",
+      "obj": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    },
+    {
+      "source": "e0029",
+      "target": "e0030",
+      "relation": "next"
+    },
+    {
+      "source": "e0030",
+      "target": "e0031",
+      "relation": "next"
+    },
+    {
+      "source": "e0031",
+      "target": "e0032",
+      "relation": "next"
+    },
+    {
+      "source": "e0032",
+      "target": "e0033",
+      "relation": "next"
+    },
+    {
+      "source": "e0033",
+      "target": "e0034",
+      "relation": "next"
+    },
+    {
+      "source": "e0034",
+      "target": "e0035",
+      "relation": "next"
+    },
+    {
+      "source": "e0035",
+      "target": "e0036",
+      "relation": "next"
+    },
+    {
+      "source": "e0036",
+      "target": "e0037",
+      "relation": "next"
+    },
+    {
+      "source": "e0037",
+      "target": "e0038",
+      "relation": "next"
+    },
+    {
+      "source": "e0038",
+      "target": "e0039",
+      "relation": "next"
+    },
+    {
+      "source": "e0039",
+      "target": "e0040",
+      "relation": "next"
+    },
+    {
+      "source": "e0040",
+      "target": "e0041",
+      "relation": "next"
+    },
+    {
+      "source": "e0041",
+      "target": "e0042",
+      "relation": "next"
+    },
+    {
+      "source": "e0042",
+      "target": "e0043",
+      "relation": "next"
+    },
+    {
+      "source": "e0043",
+      "target": "e0044",
+      "relation": "next"
+    },
+    {
+      "source": "e0044",
+      "target": "e0045",
+      "relation": "next"
+    },
+    {
+      "source": "e0045",
+      "target": "e0046",
+      "relation": "next"
+    },
+    {
+      "source": "e0046",
+      "target": "e0047",
+      "relation": "next"
+    },
+    {
+      "source": "e0047",
+      "target": "e0048",
+      "relation": "next"
+    },
+    {
+      "source": "e0048",
+      "target": "e0049",
+      "relation": "next"
+    },
+    {
+      "source": "e0049",
+      "target": "e0050",
+      "relation": "next"
+    },
+    {
+      "source": "e0050",
+      "target": "e0051",
+      "relation": "next"
+    },
+    {
+      "source": "e0051",
+      "target": "e0052",
+      "relation": "next"
+    },
+    {
+      "source": "e0052",
+      "target": "e0053",
+      "relation": "next"
+    },
+    {
+      "source": "e0053",
+      "target": "e0054",
+      "relation": "next"
+    },
+    {
+      "source": "e0054",
+      "target": "e0055",
+      "relation": "next"
+    },
+    {
+      "source": "e0055",
+      "target": "e0056",
+      "relation": "next"
+    },
+    {
+      "source": "e0056",
+      "target": "e0057",
+      "relation": "next"
+    },
+    {
+      "source": "e0057",
+      "target": "e0058",
+      "relation": "next"
+    },
+    {
+      "source": "e0058",
+      "target": "e0059",
+      "relation": "next"
+    },
+    {
+      "source": "e0059",
+      "target": "e0060",
+      "relation": "next"
+    },
+    {
+      "source": "e0060",
+      "target": "e0061",
+      "relation": "next"
+    }
+  ]
+}

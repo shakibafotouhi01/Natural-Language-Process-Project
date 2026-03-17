@@ -1,0 +1,514 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "",
+    "verb": "live",
+    "obj": "woodcutter",
+    "label": "\u2205 | live | woodcutter",
+    "sentence": "Near the vast, whispering woodlands that stretch across the ancient Persian countryside, there lived a humble woodcutter with his wife and their two children."
+  },
+  {
+    "sent_id": 1,
+    "subj": "boy",
+    "verb": "name",
+    "obj": "bahram",
+    "label": "boy | name | bahram",
+    "sentence": "The boy was named Bahram, and the girl, Laleh."
+  },
+  {
+    "sent_id": 2,
+    "subj": "life",
+    "verb": "sustain",
+    "obj": "time",
+    "label": "life | sustain | time",
+    "sentence": "In times of plenty, their modest life was sustained by the gifts of the forest, but when a cruel famine swept the land, the woodcutter found it impossible even to provide the daily crust of bread for his family."
+  },
+  {
+    "sent_id": 3,
+    "subj": "he",
+    "verb": "share",
+    "obj": "worry",
+    "label": "he | share | worry",
+    "sentence": "One restless night, as Bahram lay troubled beneath the embroidered curtains of their small home, he shared his worries with his wife, Farzaneh."
+  },
+  {
+    "sent_id": 4,
+    "subj": "he",
+    "verb": "sigh",
+    "obj": "",
+    "label": "he | sigh | \u2205",
+    "sentence": "\u201cWhat shall become of us?\u201d he sighed."
+  },
+  {
+    "sent_id": 5,
+    "subj": "farzaneh",
+    "verb": "answer",
+    "obj": "",
+    "label": "farzaneh | answer | \u2205",
+    "sentence": "\u201cHow can we nourish our children when the granaries are empty, and we ourselves have naught to eat?\u201d\n\nWith a cold resolve, Farzaneh answered, \u201cTomorrow, before dawn, we will take Bahram and Laleh deep into the forest, where the pines grow thick as the night itself."
+  },
+  {
+    "sent_id": 6,
+    "subj": "we",
+    "verb": "build",
+    "obj": "fire",
+    "label": "we | build | fire",
+    "sentence": "There, we shall build a fire, offer them a final piece of bread each, and leave them behind."
+  },
+  {
+    "sent_id": 7,
+    "subj": "they",
+    "verb": "find",
+    "obj": "way",
+    "label": "they | find | way",
+    "sentence": "They will not find their way home, and our burdens will lessen.\u201d"
+  },
+  {
+    "sent_id": 8,
+    "subj": "clung",
+    "verb": "leave",
+    "obj": "he",
+    "label": "clung | leave | he",
+    "sentence": "Bahram\u2019s heart clung to his children, but Farzaneh\u2019s harsh words left him little choice."
+  },
+  {
+    "sent_id": 9,
+    "subj": "regret",
+    "verb": "fill",
+    "obj": "spirit",
+    "label": "regret | fill | spirit",
+    "sentence": "Only regret and sorrow filled his spirit."
+  },
+  {
+    "sent_id": 10,
+    "subj": "child",
+    "verb": "be",
+    "obj": "",
+    "label": "child | be | \u2205",
+    "sentence": "The children, too, were restless in their beds."
+  },
+  {
+    "sent_id": 11,
+    "subj": "laleh",
+    "verb": "weep",
+    "obj": "",
+    "label": "laleh | weep | \u2205",
+    "sentence": "Laleh wept softly and whispered to Bahram, \u201cOur fate is sealed.\u201d"
+  },
+  {
+    "sent_id": 12,
+    "subj": "i",
+    "verb": "find",
+    "obj": "way",
+    "label": "i | find | way",
+    "sentence": "But Bahram, determined, whispered back, \u201cFear not, sister, I will find a way.\u201d"
+  },
+  {
+    "sent_id": 13,
+    "subj": "bahram",
+    "verb": "slip",
+    "obj": "",
+    "label": "bahram | slip | \u2205",
+    "sentence": "As moonlight streamed through the lattice windows, Bahram slipped quietly outside."
+  },
+  {
+    "sent_id": 14,
+    "subj": "glow",
+    "verb": "dance",
+    "obj": "stone",
+    "label": "glow | dance | stone",
+    "sentence": "The silver glow danced upon smooth white stones that gleamed like ancient pearls scattered on the garden path."
+  },
+  {
+    "sent_id": 15,
+    "subj": "he",
+    "verb": "gather",
+    "obj": "many",
+    "label": "he | gather | many",
+    "sentence": "Quietly, he gathered as many as the pockets of his cloak could hold."
+  },
+  {
+    "sent_id": 16,
+    "subj": "farzaneh",
+    "verb": "rouse",
+    "obj": "they",
+    "label": "farzaneh | rouse | they",
+    "sentence": "The next morning, Farzaneh roused them, and they ventured deep into the forest under a pale dawn sky."
+  },
+  {
+    "sent_id": 17,
+    "subj": "bahram",
+    "verb": "drop",
+    "obj": "pearl",
+    "label": "bahram | drop | pearl",
+    "sentence": "Bahram dropped the gleaming pearls along the winding path, stealing glances back to the house, and telling his father he watched the morning sun kiss the silver rooftops, hidden as a playful white pigeon\u2014a tale Farzaneh scoffed at."
+  },
+  {
+    "sent_id": 18,
+    "subj": "farzaneh",
+    "verb": "light",
+    "obj": "fire",
+    "label": "farzaneh | light | fire",
+    "sentence": "When they reached a clearing, Farzaneh and the woodcutter lit a fire from fragrant cedar wood, and they told the children to rest while they went to gather wood anew."
+  },
+  {
+    "sent_id": 19,
+    "subj": "bahram",
+    "verb": "tend",
+    "obj": "fire",
+    "label": "bahram | tend | fire",
+    "sentence": "Bahram and Laleh tended the fire, nursing their small portions of bread as the chorus of woodpeckers and rustling leaves fooled them into believing their parents were near."
+  },
+  {
+    "sent_id": 20,
+    "subj": "sleep",
+    "verb": "claim",
+    "obj": "they",
+    "label": "sleep | claim | they",
+    "sentence": "When their eyes succumbed to exhaustion, sleep claimed them beneath a canopy of whispering cypress."
+  },
+  {
+    "sent_id": 21,
+    "subj": "bahram",
+    "verb": "awake",
+    "obj": "",
+    "label": "bahram | awake | \u2205",
+    "sentence": "As darkness fell, Bahram awoke and took Laleh\u2019s hand."
+  },
+  {
+    "sent_id": 22,
+    "subj": "pearl",
+    "verb": "shimmer",
+    "obj": "gaze",
+    "label": "pearl | shimmer | gaze",
+    "sentence": "Under the steady gaze of the full moon, the white pearls shimmered softly, guiding them through the labyrinth of shadows back to their home."
+  },
+  {
+    "sent_id": 23,
+    "subj": "heart",
+    "verb": "leap",
+    "obj": "return",
+    "label": "heart | leap | return",
+    "sentence": "Their father\u2019s heart leapt at their return, and for a moment, joy lit the humble hearth."
+  },
+  {
+    "sent_id": 24,
+    "subj": "famine",
+    "verb": "return",
+    "obj": "wind",
+    "label": "famine | return | wind",
+    "sentence": "Yet famine returned like a harsh desert wind."
+  },
+  {
+    "sent_id": 25,
+    "subj": "farzaneh",
+    "verb": "speak",
+    "obj": "husband",
+    "label": "farzaneh | speak | husband",
+    "sentence": "One night, Farzaneh spoke again to her husband with a chilling finality: \u201cOnly half a loaf remains."
+  },
+  {
+    "sent_id": 26,
+    "subj": "child",
+    "verb": "take",
+    "obj": "forest",
+    "label": "child | take | forest",
+    "sentence": "The children must be taken deeper into the forest, where they will not return.\u201d"
+  },
+  {
+    "sent_id": 27,
+    "subj": "heart",
+    "verb": "break",
+    "obj": "",
+    "label": "heart | break | \u2205",
+    "sentence": "The woodcutter\u2019s heart broke, but he was overruled by his wife\u2019s stern will."
+  },
+  {
+    "sent_id": 28,
+    "subj": "plan",
+    "verb": "falter",
+    "obj": "",
+    "label": "plan | falter | \u2205",
+    "sentence": "This time, Bahram\u2019s plan faltered."
+  },
+  {
+    "sent_id": 29,
+    "subj": "door",
+    "verb": "lock",
+    "obj": "",
+    "label": "door | lock | \u2205",
+    "sentence": "The door was locked, and he could not gather pearls."
+  },
+  {
+    "sent_id": 30,
+    "subj": "he",
+    "verb": "crumble",
+    "obj": "morsel",
+    "label": "he | crumble | morsel",
+    "sentence": "Instead, he crumbled their morsels of bread, hoping to mark a trail."
+  },
+  {
+    "sent_id": 31,
+    "subj": "forest",
+    "verb": "\u2019",
+    "obj": "dweller",
+    "label": "forest | \u2019 | dweller",
+    "sentence": "But the forest\u2019s many feathered dwellers carried away the crumbs, and when night fell, they were lost amidst ancient cedars and soaring planes."
+  },
+  {
+    "sent_id": 32,
+    "subj": "they",
+    "verb": "wander",
+    "obj": "realm",
+    "label": "they | wander | realm",
+    "sentence": "For days they wandered this wild realm, faint and hungry, sustained only by handfuls of wild barberries and whispered prayers."
+  },
+  {
+    "sent_id": 33,
+    "subj": "ear",
+    "verb": "catch",
+    "obj": "song",
+    "label": "ear | catch | song",
+    "sentence": "On the third morning\u2019s light, their ears caught the purest song\u2014a nightingale perched upon a slender branch, singing melodies sweeter than the winds over the dunes."
+  },
+  {
+    "sent_id": 34,
+    "subj": "they",
+    "verb": "follow",
+    "obj": "bird",
+    "label": "they | follow | bird",
+    "sentence": "Drawn by its enchantment, they followed the bird until it led them to a small cottage unlike any other."
+  },
+  {
+    "sent_id": 35,
+    "subj": "wall",
+    "verb": "bake",
+    "obj": "bread",
+    "label": "wall | bake | bread",
+    "sentence": "Its walls were baked from honeyed bread, and its windows gleamed with crystal sugar."
+  },
+  {
+    "sent_id": 36,
+    "subj": "bahram",
+    "verb": "say",
+    "obj": "",
+    "label": "bahram | say | \u2205",
+    "sentence": "\u201cLet us feast here,\u201d Bahram said, tasting a piece of the roof, while Laleh nibbled the sugared panes."
+  },
+  {
+    "sent_id": 37,
+    "subj": "who",
+    "verb": "dare",
+    "obj": "dwelling",
+    "label": "who | dare | dwelling",
+    "sentence": "But a voice cracked through the air, ancient and heavy with malice: \u201cWho dares nibble at my sweet dwelling?\u201d"
+  },
+  {
+    "sent_id": 38,
+    "subj": "child",
+    "verb": "answer",
+    "obj": "wind",
+    "label": "child | answer | wind",
+    "sentence": "The children answered, \u201cOnly the desert wind, the blessed wind,\u201d and pressed on with their feast."
+  },
+  {
+    "sent_id": 39,
+    "subj": "door",
+    "verb": "creak",
+    "obj": "",
+    "label": "door | creak | \u2205",
+    "sentence": "Suddenly, the door creaked open, revealing an old woman leaning on a gnarled staff."
+  },
+  {
+    "sent_id": 40,
+    "subj": "eye",
+    "verb": "burn",
+    "obj": "ember",
+    "label": "eye | burn | ember",
+    "sentence": "Her eyes burned like embers beneath dark brows, and her smile was a shadow of kindness."
+  },
+  {
+    "sent_id": 41,
+    "subj": "she",
+    "verb": "invite",
+    "obj": "they",
+    "label": "she | invite | they",
+    "sentence": "She invited them inside, offering sweet dates, thick cream, and freshly baked saffron cakes."
+  },
+  {
+    "sent_id": 42,
+    "subj": "bahram",
+    "verb": "surrender",
+    "obj": "comfort",
+    "label": "bahram | surrender | comfort",
+    "sentence": "Exhausted, Bahram and Laleh surrendered to the comfort, believing themselves safe."
+  },
+  {
+    "sent_id": 43,
+    "subj": "woman",
+    "verb": "be",
+    "obj": "sorceress",
+    "label": "woman | be | sorceress",
+    "sentence": "Yet beneath her tattered robes, the woman was a sorceress known for weaving cruel fates."
+  },
+  {
+    "sent_id": 44,
+    "subj": "she",
+    "verb": "capture",
+    "obj": "bahram",
+    "label": "she | capture | bahram",
+    "sentence": "She captured Bahram, locking him in a pen adorned with iron lattices, where she intended to fatten him for a dark feast."
+  },
+  {
+    "sent_id": 45,
+    "subj": "laleh",
+    "verb": "force",
+    "obj": "",
+    "label": "laleh | force | \u2205",
+    "sentence": "Laleh, forced to tend the fire and bring water, wept silently, praying to Anahita, goddess of mercy, for deliverance."
+  },
+  {
+    "sent_id": 46,
+    "subj": "day",
+    "verb": "turn",
+    "obj": "week",
+    "label": "day | turn | week",
+    "sentence": "Days turned to weeks."
+  },
+  {
+    "sent_id": 47,
+    "subj": "witch",
+    "verb": "test",
+    "obj": "bahram",
+    "label": "witch | test | bahram",
+    "sentence": "Each morning the witch tested Bahram, but he deceived her with a slender bone disguised as his finger."
+  },
+  {
+    "sent_id": 48,
+    "subj": "she",
+    "verb": "declare",
+    "obj": "",
+    "label": "she | declare | \u2205",
+    "sentence": "Growing impatient, she declared the morrow would seal his doom."
+  },
+  {
+    "sent_id": 49,
+    "subj": "witch",
+    "verb": "command",
+    "obj": "laleh",
+    "label": "witch | command | laleh",
+    "sentence": "When dawn came, the witch commanded Laleh to inspect the fiery oven\u2019s heat, intending to trap the girl within its burning heart."
+  },
+  {
+    "sent_id": 50,
+    "subj": "laleh",
+    "verb": "trick",
+    "obj": "sorceress",
+    "label": "laleh | trick | sorceress",
+    "sentence": "But Laleh, quick and cunning, feigned ignorance and tricked the sorceress into climbing into the oven herself."
+  },
+  {
+    "sent_id": 51,
+    "subj": "she",
+    "verb": "close",
+    "obj": "door",
+    "label": "she | close | door",
+    "sentence": "With a mighty shove, she closed the iron door, and the witch\u2019s terrible cries were swallowed by the flames."
+  },
+  {
+    "sent_id": 52,
+    "subj": "bahram",
+    "verb": "bound",
+    "obj": "cage",
+    "label": "bahram | bound | cage",
+    "sentence": "Free at last, Bahram bounded from his cage, and together they gathered treasure\u2014jewels, pearls, and ancient coins shimmering like the stars of Isfahan\u2019s night sky."
+  },
+  {
+    "sent_id": 53,
+    "subj": "they",
+    "verb": "flee",
+    "obj": "forest",
+    "label": "they | flee | forest",
+    "sentence": "Laden with riches, they fled the witch\u2019s forest."
+  },
+  {
+    "sent_id": 54,
+    "subj": "they",
+    "verb": "reach",
+    "obj": "river",
+    "label": "they | reach | river",
+    "sentence": "Soon they reached a wide river, its waters deep and silent."
+  },
+  {
+    "sent_id": 55,
+    "subj": "boat",
+    "verb": "cross",
+    "obj": "breadth",
+    "label": "boat | cross | breadth",
+    "sentence": "No boat or bridge crossed its breadth."
+  },
+  {
+    "sent_id": 56,
+    "subj": "surface",
+    "verb": "float",
+    "obj": "duck",
+    "label": "surface | float | duck",
+    "sentence": "But on the sparkling surface floated a white duck, graceful as the moonlit swan of Persian legend."
+  },
+  {
+    "sent_id": 57,
+    "subj": "laleh",
+    "verb": "call",
+    "obj": "duck",
+    "label": "laleh | call | duck",
+    "sentence": "Laleh called softly:\n\n\u201cOh white duck, shining bright,\nCarry us across your silver light.\u201d"
+  },
+  {
+    "sent_id": 58,
+    "subj": "duck",
+    "verb": "ferry",
+    "obj": "they",
+    "label": "duck | ferry | they",
+    "sentence": "The duck, a blessing from the river spirits, ferried them one by one to the far shore."
+  },
+  {
+    "sent_id": 59,
+    "subj": "path",
+    "verb": "become",
+    "obj": "river",
+    "label": "path | become | river",
+    "sentence": "Beyond the river, the paths became familiar."
+  },
+  {
+    "sent_id": 60,
+    "subj": "they",
+    "verb": "sight",
+    "obj": "wall",
+    "label": "they | sight | wall",
+    "sentence": "At last, they sighted the low walls of their father\u2019s home."
+  },
+  {
+    "sent_id": 61,
+    "subj": "joy",
+    "verb": "mingle",
+    "obj": "grief",
+    "label": "joy | mingle | grief",
+    "sentence": "Bursting inside, they embraced him, their joy mingled with grief for the absent Farzaneh, who had passed in her bitterness."
+  },
+  {
+    "sent_id": 62,
+    "subj": "they",
+    "verb": "empty",
+    "obj": "sack",
+    "label": "they | empty | sack",
+    "sentence": "They emptied their sacks of pearls and treasures, and from that day forward, the woodcutter\u2019s family knew a life of peace and plenty, under the watchful gaze of the eternal Persian sky."
+  },
+  {
+    "sent_id": 63,
+    "subj": "",
+    "verb": "end",
+    "obj": "tale",
+    "label": "\u2205 | end | tale",
+    "sentence": "And thus ends this tale, as the desert wind carries a small mouse past the window\u2014whoever captures it shall find warmth in a fur hat as grand as any from the bazaars of Shiraz."
+  }
+]

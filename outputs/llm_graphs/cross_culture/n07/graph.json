@@ -1,0 +1,856 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "people | perish | save",
+      "sent_id": 0,
+      "sentence": "Once upon a time, in a quiet Germanic realm cloaked by endless forests and misty moors, all the people had perished save for two helpless children\u2014a baby boy and his elder sister.",
+      "subj": "people",
+      "verb": "perish",
+      "obj": "save"
+    },
+    {
+      "id": "e0001",
+      "label": "parent | die | \u2205",
+      "sent_id": 1,
+      "sentence": "Their parents had died while they slept, leaving the siblings to awaken alone in a small timbered hut by the edge of the Schwarzwald.",
+      "subj": "parent",
+      "verb": "die",
+      "obj": ""
+    },
+    {
+      "id": "e0002",
+      "label": "girl | be | first",
+      "sent_id": 2,
+      "sentence": "The girl, a calm and watchful child, was the first to rouse.",
+      "subj": "girl",
+      "verb": "be",
+      "obj": "first"
+    },
+    {
+      "id": "e0003",
+      "label": "she | look | \u2205",
+      "sent_id": 3,
+      "sentence": "She looked around and, seeing no one but her little brother smiling in his dreams, lay back down in the straw-filled bed.",
+      "subj": "she",
+      "verb": "look",
+      "obj": ""
+    },
+    {
+      "id": "e0004",
+      "label": "day | pass | \u2205",
+      "sent_id": 4,
+      "sentence": "Ten days passed, and the boy shifted slightly without opening his eyes.",
+      "subj": "day",
+      "verb": "pass",
+      "obj": ""
+    },
+    {
+      "id": "e0005",
+      "label": "radiance | hover | watch",
+      "sent_id": 6,
+      "sentence": "Yet in those quiet watches, a faint, silvery radiance hovered about his head, lighting the dark hut with an otherworldly glow that puzzled his sister.",
+      "subj": "radiance",
+      "verb": "hover",
+      "obj": "watch"
+    },
+    {
+      "id": "e0006",
+      "label": "growth | be | \u2205",
+      "sent_id": 7,
+      "sentence": "As the seasons turned, the girl grew into a young woman; meanwhile, the boy\u2019s growth was slow and measured.",
+      "subj": "growth",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0007",
+      "label": "year | go | youth",
+      "sent_id": 8,
+      "sentence": "Many years went by before he could crawl, and well into his youth before he could stand unaided.",
+      "subj": "year",
+      "verb": "go",
+      "obj": "youth"
+    },
+    {
+      "id": "e0008",
+      "label": "sister | craft | bow",
+      "sent_id": 9,
+      "sentence": "When he finally learned to walk, his sister crafted a small bow and arrow for him, and hung a tiny snail shell around his neck, softly saying, \u201cYour name shall be Schneckenkind\u2014He of the Little Shell.\u201d",
+      "subj": "sister",
+      "verb": "craft",
+      "obj": "bow"
+    },
+    {
+      "id": "e0009",
+      "label": "boy | venture | wood",
+      "sent_id": 10,
+      "sentence": "Every day, the boy ventured into the dense woods with his bow, aiming at the small creatures of the forest.",
+      "subj": "boy",
+      "verb": "venture",
+      "obj": "wood"
+    },
+    {
+      "id": "e0010",
+      "label": "bird | be | tit",
+      "sent_id": 11,
+      "sentence": "The first bird he felled was a lively coal tit.",
+      "subj": "bird",
+      "verb": "be",
+      "obj": "tit"
+    },
+    {
+      "id": "e0011",
+      "label": "sister | be | \u2205",
+      "sent_id": 12,
+      "sentence": "His sister was delighted and carefully preserved the delicate creature as a trophy.",
+      "subj": "sister",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0012",
+      "label": "he | catch | squirrel",
+      "sent_id": 13,
+      "sentence": "On the next day, he caught a red squirrel, which she also saved.",
+      "subj": "he",
+      "verb": "catch",
+      "obj": "squirrel"
+    },
+    {
+      "id": "e0013",
+      "label": "partridge | provide | meal",
+      "sent_id": 14,
+      "sentence": "By the third day, a wood partridge provided the evening meal.",
+      "subj": "partridge",
+      "verb": "provide",
+      "obj": "meal"
+    },
+    {
+      "id": "e0014",
+      "label": "schneckenkind | roam | courage",
+      "sent_id": 15,
+      "sentence": "With newfound courage, Schneckenkind roamed further into the forest.",
+      "subj": "schneckenkind",
+      "verb": "roam",
+      "obj": "courage"
+    },
+    {
+      "id": "e0015",
+      "label": "skill | grow | \u2205",
+      "sent_id": 16,
+      "sentence": "His skill grew as he hunted deer, boars, and even bears.",
+      "subj": "skill",
+      "verb": "grow",
+      "obj": ""
+    },
+    {
+      "id": "e0016",
+      "label": "he | become | woodsman",
+      "sent_id": 17,
+      "sentence": "Though small, he became a master woodsman, bringing back all he caught to share with his sister.",
+      "subj": "he",
+      "verb": "become",
+      "obj": "woodsman"
+    },
+    {
+      "id": "e0017",
+      "label": "light | dance | head",
+      "sent_id": 18,
+      "sentence": "Each time he entered their lodge, that same mysterious light danced about his head, filling the room with a strange, silver splendor.",
+      "subj": "light",
+      "verb": "dance",
+      "obj": "head"
+    },
+    {
+      "id": "e0018",
+      "label": "he | remain | \u2205",
+      "sent_id": 19,
+      "sentence": "Though Schneckenkind had reached the age of a man in years, he remained as small as a child.",
+      "subj": "he",
+      "verb": "remain",
+      "obj": ""
+    },
+    {
+      "id": "e0019",
+      "label": "he | spy | figure",
+      "sent_id": 20,
+      "sentence": "One winter\u2019s day, wandering near a frozen lake, he spied a giant figure busy trapping beavers on the ice.",
+      "subj": "he",
+      "verb": "spy",
+      "obj": "figure"
+    },
+    {
+      "id": "e0020",
+      "label": "giant | be | \u2205",
+      "sent_id": 21,
+      "sentence": "The giant was broad-shouldered, clad in a heavy fur coat lined with wolf pelts, and wielded a massive spear.",
+      "subj": "giant",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0021",
+      "label": "schneckenkind | creep | \u2205",
+      "sent_id": 23,
+      "sentence": "After the giant had hunted many beavers and hauled them onto a wooden sled, Schneckenkind crept alongside and, wielding his enchanted shell, deftly snipped off the tail of one beaver before slipping away.",
+      "subj": "schneckenkind",
+      "verb": "creep",
+      "obj": ""
+    },
+    {
+      "id": "e0022",
+      "label": "he | baffle | \u2205",
+      "sent_id": 24,
+      "sentence": "When the giant returned, he was baffled to find one of his catches missing its tail, muttering curses in his guttural voice.",
+      "subj": "he",
+      "verb": "baffle",
+      "obj": ""
+    },
+    {
+      "id": "e0023",
+      "label": "schneckenkind | repeat | feat",
+      "sent_id": 25,
+      "sentence": "The next day, Schneckenkind repeated the feat, again stealing a beaver\u2019s tail from under the giant\u2019s nose.",
+      "subj": "schneckenkind",
+      "verb": "repeat",
+      "obj": "feat"
+    },
+    {
+      "id": "e0024",
+      "label": "giant | swear | \u2205",
+      "sent_id": 26,
+      "sentence": "Furious, the giant swore he would find and punish the elusive thief.",
+      "subj": "giant",
+      "verb": "swear",
+      "obj": ""
+    },
+    {
+      "id": "e0025",
+      "label": "magic | make | \u2205",
+      "sent_id": 27,
+      "sentence": "Yet, despite his keen eyes and heavy footsteps, he found no trace\u2014Schneckenkind\u2019s magic made him invisible and silent as the forest shadows.",
+      "subj": "magic",
+      "verb": "make",
+      "obj": ""
+    },
+    {
+      "id": "e0026",
+      "label": "giant | arrive | day",
+      "sent_id": 28,
+      "sentence": "On the following day, the giant arrived early, hoping to trap the little man.",
+      "subj": "giant",
+      "verb": "arrive",
+      "obj": "day"
+    },
+    {
+      "id": "e0027",
+      "label": "he | chase | they",
+      "sent_id": 29,
+      "sentence": "Hunting the fresh tracks, he chased them through snow and ice, but just as he neared his hut, he caught sight of Schneckenkind\u2014who allowed himself to be seen.",
+      "subj": "he",
+      "verb": "chase",
+      "obj": "they"
+    },
+    {
+      "id": "e0028",
+      "label": "giant | growl | \u2205",
+      "sent_id": 30,
+      "sentence": "The giant growled thunderously, \u201cWho are you, little man?",
+      "subj": "giant",
+      "verb": "growl",
+      "obj": ""
+    },
+    {
+      "id": "e0029",
+      "label": "i | mean | \u2205",
+      "sent_id": 31,
+      "sentence": "I mean to vanquish you.\u201d",
+      "subj": "i",
+      "verb": "mean",
+      "obj": ""
+    },
+    {
+      "id": "e0030",
+      "label": "schneckenkind | reply | bravery",
+      "sent_id": 32,
+      "sentence": "But Schneckenkind replied with calm bravery, \u201cYou will never catch me.\u201d",
+      "subj": "schneckenkind",
+      "verb": "reply",
+      "obj": "bravery"
+    },
+    {
+      "id": "e0031",
+      "label": "giant | lunge | \u2205",
+      "sent_id": 33,
+      "sentence": "The giant lunged, but Schnneckenkind vanished like mist.",
+      "subj": "giant",
+      "verb": "lunge",
+      "obj": ""
+    },
+    {
+      "id": "e0032",
+      "label": "\u2205 | demand | giant",
+      "sent_id": 34,
+      "sentence": "\u201cWhere are you now?\u201d demanded the giant.",
+      "subj": "",
+      "verb": "demand",
+      "obj": "giant"
+    },
+    {
+      "id": "e0033",
+      "label": "voice | come | belt",
+      "sent_id": 35,
+      "sentence": "\u201cUnder your belt,\u201d came the voice.",
+      "subj": "voice",
+      "verb": "come",
+      "obj": "belt"
+    },
+    {
+      "id": "e0034",
+      "label": "giant | strike | hand",
+      "sent_id": 36,
+      "sentence": "The giant struck his broad hand down, but found only empty air.",
+      "subj": "giant",
+      "verb": "strike",
+      "obj": "hand"
+    },
+    {
+      "id": "e0035",
+      "label": "giant | roar | \u2205",
+      "sent_id": 38,
+      "sentence": "the giant roared.",
+      "subj": "giant",
+      "verb": "roar",
+      "obj": ""
+    },
+    {
+      "id": "e0036",
+      "label": "voice | tease | \u2205",
+      "sent_id": 40,
+      "sentence": "the voice teased.",
+      "subj": "voice",
+      "verb": "tease",
+      "obj": ""
+    },
+    {
+      "id": "e0037",
+      "label": "giant | grab | nose",
+      "sent_id": 41,
+      "sentence": "The giant grabbed at his nose, only to hear the tiny voice laughing far away on the snowy ground.",
+      "subj": "giant",
+      "verb": "grab",
+      "obj": "nose"
+    },
+    {
+      "id": "e0038",
+      "label": "\u2205 | count | tail",
+      "sent_id": 43,
+      "sentence": "Count your beaver tails\u2014and know that I have taken one for my sister, too.\u201d",
+      "subj": "",
+      "verb": "count",
+      "obj": "tail"
+    },
+    {
+      "id": "e0039",
+      "label": "light | return | \u2205",
+      "sent_id": 44,
+      "sentence": "As he vanished, the silver light returned, bathing the snow in a magical glow, a sight the slow-witted giant could not comprehend.",
+      "subj": "light",
+      "verb": "return",
+      "obj": ""
+    },
+    {
+      "id": "e0040",
+      "label": "schneckenkind | tell | sister",
+      "sent_id": 45,
+      "sentence": "Returning home, Schneckenkind told his sister that their time together was nearing its end.",
+      "subj": "schneckenkind",
+      "verb": "tell",
+      "obj": "sister"
+    },
+    {
+      "id": "e0041",
+      "label": "it | be | fate",
+      "sent_id": 46,
+      "sentence": "\u201cI must journey away; it is my fate.",
+      "subj": "it",
+      "verb": "be",
+      "obj": "fate"
+    },
+    {
+      "id": "e0042",
+      "label": "she | say | \u2205",
+      "sent_id": 47,
+      "sentence": "Tell me, where would you wish to dwell?\u201d\n\n\u201cMy heart longs for the place where dawn breaks\u2014the eastern sky,\u201d she said softly.",
+      "subj": "she",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0043",
+      "label": "\u2205 | think | i",
+      "sent_id": 49,
+      "sentence": "When you see the painted skies, think of me, shining bright.\u201d",
+      "subj": "",
+      "verb": "think",
+      "obj": "i"
+    },
+    {
+      "id": "e0044",
+      "label": "\u2205 | make | home",
+      "sent_id": 50,
+      "sentence": "\u201cAnd I,\u201d said Schneckenkind, \u201cwill make my home on the highest mountains, where streams run clear and the air is pure.",
+      "subj": "",
+      "verb": "make",
+      "obj": "home"
+    },
+    {
+      "id": "e0045",
+      "label": "light | shine | head",
+      "sent_id": 51,
+      "sentence": "There, golden light will shine forever around my head, and they will call me Berggeist\u2014the Little Wild Man of the Mountains.",
+      "subj": "light",
+      "verb": "shine",
+      "obj": "head"
+    },
+    {
+      "id": "e0046",
+      "label": "i | seek | spirit",
+      "sent_id": 52,
+      "sentence": "But before we part, I must seek out the spirits who rule the earth and learn who will be friend or foe.\u201d",
+      "subj": "i",
+      "verb": "seek",
+      "obj": "spirit"
+    },
+    {
+      "id": "e0047",
+      "label": "he | travel | land",
+      "sent_id": 53,
+      "sentence": "So he traveled far across the land and even descended into the deep earth, where a fierce giant spirit kept a boiling cauldron.",
+      "subj": "he",
+      "verb": "travel",
+      "obj": "land"
+    },
+    {
+      "id": "e0048",
+      "label": "giant | recognize | schneckenkind",
+      "sent_id": 54,
+      "sentence": "This giant, kin to the one who hunted beavers, recognized Schneckenkind and cast him into the kettle to drown.",
+      "subj": "giant",
+      "verb": "recognize",
+      "obj": "schneckenkind"
+    },
+    {
+      "id": "e0049",
+      "label": "schneckenkind | empty | cauldron",
+      "sent_id": 55,
+      "sentence": "But with the power of his magic shell, Schneckenkind emptied the cauldron in an instant and leapt free, unharmed.",
+      "subj": "schneckenkind",
+      "verb": "empty",
+      "obj": "cauldron"
+    },
+    {
+      "id": "e0050",
+      "label": "he | return | sister",
+      "sent_id": 56,
+      "sentence": "He returned to his sister and told her all he had seen.",
+      "subj": "he",
+      "verb": "return",
+      "obj": "sister"
+    },
+    {
+      "id": "e0051",
+      "label": "\u2205 | dwell | spirit",
+      "sent_id": 57,
+      "sentence": "\u201cAt each of the four corners of the earth dwells a spirit, and above them all a Great Being who decides our fate.",
+      "subj": "",
+      "verb": "dwell",
+      "obj": "spirit"
+    },
+    {
+      "id": "e0052",
+      "label": "\u2205 | be | spirit",
+      "sent_id": 58,
+      "sentence": "There is also a wicked spirit deep beneath the earth to avoid.",
+      "subj": "",
+      "verb": "be",
+      "obj": "spirit"
+    },
+    {
+      "id": "e0053",
+      "label": "you | carry | \u2205",
+      "sent_id": 59,
+      "sentence": "When the winds blow from the four corners, you must go\u2014you will be carried to where you long to be.",
+      "subj": "you",
+      "verb": "carry",
+      "obj": ""
+    },
+    {
+      "id": "e0054",
+      "label": "i | dwell | height",
+      "sent_id": 60,
+      "sentence": "I shall dwell among the rocky heights, where my kin delight.\u201d\n\nWith that, Schneckenkind took his bow and set out up a towering mountain.",
+      "subj": "i",
+      "verb": "dwell",
+      "obj": "height"
+    },
+    {
+      "id": "e0055",
+      "label": "\u2205 | blow | \u2205",
+      "sent_id": 62,
+      "sentence": "Blow, winds, blow!",
+      "subj": "",
+      "verb": "blow",
+      "obj": ""
+    },
+    {
+      "id": "e0056",
+      "label": "sister | linger | \u2205",
+      "sent_id": 63,
+      "sentence": "My sister lingers \nWhere the dawn with rosy fingers \nPaints the skies on morning\u2019s breath, \nBathing clouds in shades of death.",
+      "subj": "sister",
+      "verb": "linger",
+      "obj": ""
+    },
+    {
+      "id": "e0057",
+      "label": "\u2205 | guide | wood",
+      "sent_id": 64,
+      "sentence": "There her gleaming face I\u2019ll see, \nGuiding through the wood and lea.",
+      "subj": "",
+      "verb": "guide",
+      "obj": "wood"
+    },
+    {
+      "id": "e0058",
+      "label": "\u2205 | sing | wild",
+      "sent_id": 65,
+      "sentence": "While I roam the mountain peaks, \nSing my wild and wordless speaks.",
+      "subj": "",
+      "verb": "sing",
+      "obj": "wild"
+    },
+    {
+      "id": "e0059",
+      "label": "wind | rise | \u2205",
+      "sent_id": 66,
+      "sentence": "Soon the winds rose, swirling through the forest, lifting his sister toward the blush of dawn.",
+      "subj": "wind",
+      "verb": "rise",
+      "obj": ""
+    },
+    {
+      "id": "e0060",
+      "label": "she | remain | light",
+      "sent_id": 67,
+      "sentence": "There she remains still, a shining light in the morning sky\u2014the Morning Star of the Schwarzwald, forever watching.",
+      "subj": "she",
+      "verb": "remain",
+      "obj": "light"
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    },
+    {
+      "source": "e0029",
+      "target": "e0030",
+      "relation": "next"
+    },
+    {
+      "source": "e0030",
+      "target": "e0031",
+      "relation": "next"
+    },
+    {
+      "source": "e0031",
+      "target": "e0032",
+      "relation": "next"
+    },
+    {
+      "source": "e0032",
+      "target": "e0033",
+      "relation": "next"
+    },
+    {
+      "source": "e0033",
+      "target": "e0034",
+      "relation": "next"
+    },
+    {
+      "source": "e0034",
+      "target": "e0035",
+      "relation": "next"
+    },
+    {
+      "source": "e0035",
+      "target": "e0036",
+      "relation": "next"
+    },
+    {
+      "source": "e0036",
+      "target": "e0037",
+      "relation": "next"
+    },
+    {
+      "source": "e0037",
+      "target": "e0038",
+      "relation": "next"
+    },
+    {
+      "source": "e0038",
+      "target": "e0039",
+      "relation": "next"
+    },
+    {
+      "source": "e0039",
+      "target": "e0040",
+      "relation": "next"
+    },
+    {
+      "source": "e0040",
+      "target": "e0041",
+      "relation": "next"
+    },
+    {
+      "source": "e0041",
+      "target": "e0042",
+      "relation": "next"
+    },
+    {
+      "source": "e0042",
+      "target": "e0043",
+      "relation": "next"
+    },
+    {
+      "source": "e0043",
+      "target": "e0044",
+      "relation": "next"
+    },
+    {
+      "source": "e0044",
+      "target": "e0045",
+      "relation": "next"
+    },
+    {
+      "source": "e0045",
+      "target": "e0046",
+      "relation": "next"
+    },
+    {
+      "source": "e0046",
+      "target": "e0047",
+      "relation": "next"
+    },
+    {
+      "source": "e0047",
+      "target": "e0048",
+      "relation": "next"
+    },
+    {
+      "source": "e0048",
+      "target": "e0049",
+      "relation": "next"
+    },
+    {
+      "source": "e0049",
+      "target": "e0050",
+      "relation": "next"
+    },
+    {
+      "source": "e0050",
+      "target": "e0051",
+      "relation": "next"
+    },
+    {
+      "source": "e0051",
+      "target": "e0052",
+      "relation": "next"
+    },
+    {
+      "source": "e0052",
+      "target": "e0053",
+      "relation": "next"
+    },
+    {
+      "source": "e0053",
+      "target": "e0054",
+      "relation": "next"
+    },
+    {
+      "source": "e0054",
+      "target": "e0055",
+      "relation": "next"
+    },
+    {
+      "source": "e0055",
+      "target": "e0056",
+      "relation": "next"
+    },
+    {
+      "source": "e0056",
+      "target": "e0057",
+      "relation": "next"
+    },
+    {
+      "source": "e0057",
+      "target": "e0058",
+      "relation": "next"
+    },
+    {
+      "source": "e0058",
+      "target": "e0059",
+      "relation": "next"
+    },
+    {
+      "source": "e0059",
+      "target": "e0060",
+      "relation": "next"
+    }
+  ]
+}

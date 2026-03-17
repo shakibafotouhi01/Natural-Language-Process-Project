@@ -1,0 +1,548 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "legend | venture | heart",
+      "sent_id": 0,
+      "sentence": "Legend of the Grain\n\nLong ago, in the heart of the dense Germanic woodlands, a young hunter from a village near the Spessart hills ventured out with his bow and arrows.",
+      "subj": "legend",
+      "verb": "venture",
+      "obj": "heart"
+    },
+    {
+      "id": "e0001",
+      "label": "he | look | valley",
+      "sent_id": 1,
+      "sentence": "Climbing to the crest of a steep hill, he looked down into a shadowy valley where two clear streams met among ancient oaks and beeches.",
+      "subj": "he",
+      "verb": "look",
+      "obj": "valley"
+    },
+    {
+      "id": "e0002",
+      "label": "he | spot | grazing",
+      "sent_id": 2,
+      "sentence": "There, he spotted a great wild bull grazing close to the water\u2019s edge.",
+      "subj": "he",
+      "verb": "spot",
+      "obj": "grazing"
+    },
+    {
+      "id": "e0003",
+      "label": "hunter | resolve | \u2205",
+      "sent_id": 4,
+      "sentence": "The hunter resolved to wait until the beast moved nearer to the thickets or the riverbank, where he might draw his bow with better aim.",
+      "subj": "hunter",
+      "verb": "resolve",
+      "obj": ""
+    },
+    {
+      "id": "e0004",
+      "label": "sun | sink | forest",
+      "sent_id": 5,
+      "sentence": "The sun sank behind the sprawling forest, and the bull remained firm.",
+      "subj": "sun",
+      "verb": "sink",
+      "obj": "forest"
+    },
+    {
+      "id": "e0005",
+      "label": "hunter | stay | night",
+      "sent_id": 6,
+      "sentence": "Throughout the long, chilly night, the hunter stayed awake on the hilltop, hungry and restless, feeling both awe at the wild land and frustration that the beast eluded him.",
+      "subj": "hunter",
+      "verb": "stay",
+      "obj": "night"
+    },
+    {
+      "id": "e0006",
+      "label": "he | climb | dawn",
+      "sent_id": 7,
+      "sentence": "Before dawn, he climbed once more to his vantage point.",
+      "subj": "he",
+      "verb": "climb",
+      "obj": "dawn"
+    },
+    {
+      "id": "e0007",
+      "label": "bull | stand | \u2205",
+      "sent_id": 8,
+      "sentence": "The bull still stood where it had before\u2014but now it faced east.",
+      "subj": "bull",
+      "verb": "stand",
+      "obj": ""
+    },
+    {
+      "id": "e0008",
+      "label": "he | wait | creature",
+      "sent_id": 9,
+      "sentence": "Again, he waited from dawn till dusk, yet the great creature neither fed nor wandered.",
+      "subj": "he",
+      "verb": "wait",
+      "obj": "creature"
+    },
+    {
+      "id": "e0009",
+      "label": "\u2205 | pass | star",
+      "sent_id": 10,
+      "sentence": "Another night passed beneath the endless stars, and in the faint morning light, the hunter saw the bull facing south, steadfast and motionless.",
+      "subj": "",
+      "verb": "pass",
+      "obj": "star"
+    },
+    {
+      "id": "e0010",
+      "label": "he | wait | \u2205",
+      "sent_id": 11,
+      "sentence": "He waited all day, heart heavy with wonder and confusion, and when the sun dipped low, the bull had not shifted.",
+      "subj": "he",
+      "verb": "wait",
+      "obj": ""
+    },
+    {
+      "id": "e0011",
+      "label": "hunter | come | \u2205",
+      "sent_id": 13,
+      "sentence": "The hunter came to understand that some mysterious power held the bull in place\u2014no earthly hunger or thirst moved it.",
+      "subj": "hunter",
+      "verb": "come",
+      "obj": ""
+    },
+    {
+      "id": "e0012",
+      "label": "hunter | climb | hill",
+      "sent_id": 14,
+      "sentence": "As sunlight broke the next morning, the hunter climbed the hill only to find the bull was gone.",
+      "subj": "hunter",
+      "verb": "climb",
+      "obj": "hill"
+    },
+    {
+      "id": "e0013",
+      "label": "\u2205 | grow | plant",
+      "sent_id": 15,
+      "sentence": "In its place grew a strange, unfamiliar plant.",
+      "subj": "",
+      "verb": "grow",
+      "obj": "plant"
+    },
+    {
+      "id": "e0014",
+      "label": "he | examine | ground",
+      "sent_id": 16,
+      "sentence": "He examined the ground keenly and saw faint impressions where the bull had turned\u2014east, south, west\u2014but no signs showing how it had left.",
+      "subj": "he",
+      "verb": "examine",
+      "obj": "ground"
+    },
+    {
+      "id": "e0015",
+      "label": "\u2205 | spring | shoot",
+      "sent_id": 17,
+      "sentence": "From the center of these marks sprang the tender green shoots of the new plant.",
+      "subj": "",
+      "verb": "spring",
+      "obj": "shoot"
+    },
+    {
+      "id": "e0016",
+      "label": "hunter | hurry | \u2205",
+      "sent_id": 18,
+      "sentence": "Filled with both fear and reverence, the hunter hurried back to his village and told the elders and chieftains of this marvelous vision, of the silent bull and the plant born from its standing place.",
+      "subj": "hunter",
+      "verb": "hurry",
+      "obj": ""
+    },
+    {
+      "id": "e0017",
+      "label": "villager | go | \u2205",
+      "sent_id": 19,
+      "sentence": "Together, the villagers went to see, and they found the strange crop protected by the very tracks the bull had made, yet no way in or out.",
+      "subj": "villager",
+      "verb": "go",
+      "obj": ""
+    },
+    {
+      "id": "e0018",
+      "label": "they | know | \u2205",
+      "sent_id": 20,
+      "sentence": "They knew then that Wodan had sent this gift to them\u2014a sacred plant unlike any they had known.",
+      "subj": "they",
+      "verb": "know",
+      "obj": ""
+    },
+    {
+      "id": "e0019",
+      "label": "they | remember | turning",
+      "sent_id": 21,
+      "sentence": "They remembered the turning of seasons and the time when each forest bounty was ready to be harvested.",
+      "subj": "they",
+      "verb": "remember",
+      "obj": "turning"
+    },
+    {
+      "id": "e0020",
+      "label": "they | guard | \u2205",
+      "sent_id": 22,
+      "sentence": "Watching carefully, they guarded what had sprung from the earth with solemn care.",
+      "subj": "they",
+      "verb": "guard",
+      "obj": ""
+    },
+    {
+      "id": "e0021",
+      "label": "flower | protrude | growth",
+      "sent_id": 23,
+      "sentence": "Soon, a delicate flower blossomed upon the plant, and from one knobby joint protruded a curious growth covered in soft hairs.",
+      "subj": "flower",
+      "verb": "protrude",
+      "obj": "growth"
+    },
+    {
+      "id": "e0022",
+      "label": "they | brown | autumn",
+      "sent_id": 24,
+      "sentence": "At first, the hairs were a gentle green, then they browned with the coming autumn.",
+      "subj": "they",
+      "verb": "brown",
+      "obj": "autumn"
+    },
+    {
+      "id": "e0023",
+      "label": "people | whisper | \u2205",
+      "sent_id": 25,
+      "sentence": "The people whispered that the fruit might be ripe, yet none dared touch it.",
+      "subj": "people",
+      "verb": "whisper",
+      "obj": ""
+    },
+    {
+      "id": "e0024",
+      "label": "they | gather | \u2205",
+      "sent_id": 26,
+      "sentence": "They gathered, unsure, until a young man spoke boldly: \"My path has known hardship and misfortune.",
+      "subj": "they",
+      "verb": "gather",
+      "obj": ""
+    },
+    {
+      "id": "e0025",
+      "label": "fate | seal | \u2205",
+      "sent_id": 27,
+      "sentence": "If this gift harms me, my fate is sealed regardless.",
+      "subj": "fate",
+      "verb": "seal",
+      "obj": ""
+    },
+    {
+      "id": "e0026",
+      "label": "he | lay | hand",
+      "sent_id": 28,
+      "sentence": "\"\n\nEncouraged by his courage, he laid his hand upon the plant and carefully grasped the fruit.",
+      "subj": "he",
+      "verb": "lay",
+      "obj": "hand"
+    },
+    {
+      "id": "e0027",
+      "label": "he | declare | \u2205",
+      "sent_id": 29,
+      "sentence": "Holding it firm, he declared, \"It is firm, it is ripe.\"",
+      "subj": "he",
+      "verb": "declare",
+      "obj": ""
+    },
+    {
+      "id": "e0028",
+      "label": "he | reveal | kernel",
+      "sent_id": 30,
+      "sentence": "Gently peeling back the protective husks, he revealed kernels of red gold glistening in the muted light.",
+      "subj": "he",
+      "verb": "reveal",
+      "obj": "kernel"
+    },
+    {
+      "id": "e0029",
+      "label": "he | hold | grain",
+      "sent_id": 31,
+      "sentence": "He held the grains to the crowd and tasted some himself.",
+      "subj": "he",
+      "verb": "hold",
+      "obj": "grain"
+    },
+    {
+      "id": "e0030",
+      "label": "he | fall | \u2205",
+      "sent_id": 32,
+      "sentence": "He did not fall ill.",
+      "subj": "he",
+      "verb": "fall",
+      "obj": ""
+    },
+    {
+      "id": "e0031",
+      "label": "people | know | moment",
+      "sent_id": 33,
+      "sentence": "In that moment, the people knew Wodan had sent them this sacred food to nourish their bodies and their souls.",
+      "subj": "people",
+      "verb": "know",
+      "obj": "moment"
+    },
+    {
+      "id": "e0032",
+      "label": "stalk | gather | \u2205",
+      "sent_id": 34,
+      "sentence": "When the birch leaves turned tawny with the approach of frost, the stalks too browned and the golden fruits were gathered, stored carefully for the winter months.",
+      "subj": "stalk",
+      "verb": "gather",
+      "obj": ""
+    },
+    {
+      "id": "e0033",
+      "label": "kernel | divide | household",
+      "sent_id": 35,
+      "sentence": "After the snow melted and the earth thawed, the kernels were divided among the households, four for each family to plant and cherish.",
+      "subj": "kernel",
+      "verb": "divide",
+      "obj": "household"
+    },
+    {
+      "id": "e0034",
+      "label": "people | move | house",
+      "sent_id": 36,
+      "sentence": "The people moved their humble houses closer to the blessed hill where the plant had first appeared.",
+      "subj": "people",
+      "verb": "move",
+      "obj": "house"
+    },
+    {
+      "id": "e0035",
+      "label": "they | mound | earth",
+      "sent_id": 37,
+      "sentence": "When spring returned and the hills were lush once more, they mounded the earth as it had been when the plant first sprouted, planting the sacred seed with reverence.",
+      "subj": "they",
+      "verb": "mound",
+      "obj": "earth"
+    },
+    {
+      "id": "e0036",
+      "label": "stalk | grow | \u2205",
+      "sent_id": 38,
+      "sentence": "The stalks grew tall and strong, bearing ears blushing with colors of deep red, bright gold, creamy white, and a rare dark blue.",
+      "subj": "stalk",
+      "verb": "grow",
+      "obj": ""
+    },
+    {
+      "id": "e0037",
+      "label": "harvest | multiply | year",
+      "sent_id": 39,
+      "sentence": "In the years that followed, the harvest multiplied, and the villagers welcomed neighbors from distant clans to share in this new bounty.",
+      "subj": "harvest",
+      "verb": "multiply",
+      "obj": "year"
+    },
+    {
+      "id": "e0038",
+      "label": "gift | spread | they",
+      "sent_id": 40,
+      "sentence": "Through them, the gift spread across the forests and villages far and wide, bringing the blessing of the grain\u2014the symbol of Wodan\u2019s favor and the promise of life\u2014to all who dwelled in the shadow of the great oaks.",
+      "subj": "gift",
+      "verb": "spread",
+      "obj": "they"
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    },
+    {
+      "source": "e0029",
+      "target": "e0030",
+      "relation": "next"
+    },
+    {
+      "source": "e0030",
+      "target": "e0031",
+      "relation": "next"
+    },
+    {
+      "source": "e0031",
+      "target": "e0032",
+      "relation": "next"
+    },
+    {
+      "source": "e0032",
+      "target": "e0033",
+      "relation": "next"
+    },
+    {
+      "source": "e0033",
+      "target": "e0034",
+      "relation": "next"
+    },
+    {
+      "source": "e0034",
+      "target": "e0035",
+      "relation": "next"
+    },
+    {
+      "source": "e0035",
+      "target": "e0036",
+      "relation": "next"
+    },
+    {
+      "source": "e0036",
+      "target": "e0037",
+      "relation": "next"
+    },
+    {
+      "source": "e0037",
+      "target": "e0038",
+      "relation": "next"
+    }
+  ]
+}

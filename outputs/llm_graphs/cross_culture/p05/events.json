@@ -1,0 +1,162 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "",
+    "verb": "live",
+    "obj": "man",
+    "label": "\u2205 | live | man",
+    "sentence": "Long ago, beneath the vast skies where the Great Spirit breathes life into the earth, there lived a young man guided by the wisdom of a revered elder, known as the Keeper of Traditions."
+  },
+  {
+    "sent_id": 1,
+    "subj": "elder",
+    "verb": "urge",
+    "obj": "youth",
+    "label": "elder | urge | youth",
+    "sentence": "This elder, Abulfaraj, urged the youth to seek the quiet paths of solitude and reflection, avoiding the distractions of songs and celebrations."
+  },
+  {
+    "sent_id": 2,
+    "subj": "fire",
+    "verb": "burn",
+    "obj": "chest",
+    "label": "fire | burn | chest",
+    "sentence": "Yet, the fire of youth burned fiercely within his chest, awakening a longing to dance to the drumbeats and join the circle of voices beneath the stars."
+  },
+  {
+    "sent_id": 3,
+    "subj": "man",
+    "verb": "find",
+    "obj": "counsel",
+    "label": "man | find | counsel",
+    "sentence": "Despite the elder\u2019s counsel, the young man found himself drawn one night to a gathering by the firelight, where the people had come together to share stories and music."
+  },
+  {
+    "sent_id": 4,
+    "subj": "he",
+    "verb": "watch",
+    "obj": "musician",
+    "label": "he | watch | musician",
+    "sentence": "There, he watched a solitary musician, a man who drew the bow across his native flute with such intensity it seemed as though he sought to call the very heartbeat from the earth."
+  },
+  {
+    "sent_id": 5,
+    "subj": "it",
+    "verb": "be",
+    "obj": "",
+    "label": "it | be | \u2205",
+    "sentence": "But the sound he produced was not like the soft whispers of the wind through the pines\u2014it was raw, jarring, like the cry of a lone wolf mourning a lost kin."
+  },
+  {
+    "sent_id": 6,
+    "subj": "other",
+    "verb": "press",
+    "obj": "finger",
+    "label": "other | press | finger",
+    "sentence": "Some in the circle covered their ears, others pressed silent fingers to their lips, yet the music persisted."
+  },
+  {
+    "sent_id": 7,
+    "subj": "voice",
+    "verb": "be",
+    "obj": "",
+    "label": "voice | be | \u2205",
+    "sentence": "The singer\u2019s voice was rough, not sweet like the songbirds of the meadow, but strange\u2014making the listener restless and eager for peace."
+  },
+  {
+    "sent_id": 8,
+    "subj": "man",
+    "verb": "wish",
+    "obj": "",
+    "label": "man | wish | \u2205",
+    "sentence": "The young man wished to escape, pleading inwardly, \"Let the morning come swiftly, or grant me ears that cannot hear this sorrow."
+  },
+  {
+    "sent_id": 9,
+    "subj": "he",
+    "verb": "stay",
+    "obj": "night",
+    "label": "he | stay | night",
+    "sentence": "\"\n\nStill, he stayed through the long night, honoring his companions and the gathering\u2019s spirit."
+  },
+  {
+    "sent_id": 10,
+    "subj": "hoot",
+    "verb": "mark",
+    "obj": "passing",
+    "label": "hoot | mark | passing",
+    "sentence": "The hoot of the owl, mistaken for the call to prayer, marked the passing of hours, yet sleep never found him under the watchful gaze of the stars."
+  },
+  {
+    "sent_id": 11,
+    "subj": "he",
+    "verb": "take",
+    "obj": "headband",
+    "label": "he | take | headband",
+    "sentence": "At dawn, he took his feathered headband and a sacred shell, tokens of respect, and offered them to the musician with gratitude and embrace."
+  },
+  {
+    "sent_id": 12,
+    "subj": "friend",
+    "verb": "whisper",
+    "obj": "",
+    "label": "friend | whisper | \u2205",
+    "sentence": "His friends whispered and laughed, surprised by his praise for a man who, they said, had never held wealth nor comfort, wandering from place to place like the restless wind."
+  },
+  {
+    "sent_id": 13,
+    "subj": "they",
+    "verb": "claim",
+    "obj": "",
+    "label": "they | claim | \u2205",
+    "sentence": "They claimed the musician\u2019s voice stirred fear and confusion, unsettling both mind and heart, and they doubted his worth."
+  },
+  {
+    "sent_id": 14,
+    "subj": "man",
+    "verb": "silence",
+    "obj": "tongue",
+    "label": "man | silence | tongue",
+    "sentence": "The young man silenced their tongues, saying, \"Speak no ill, for tonight I have heard a truth revealed in his song.\""
+  },
+  {
+    "sent_id": 15,
+    "subj": "he",
+    "verb": "answer",
+    "obj": "",
+    "label": "he | answer | \u2205",
+    "sentence": "When asked why he held such respect, he answered, \"Though my elder counseled me to avoid such revelry, it was fate and the Great Spirit that guided me here."
+  },
+  {
+    "sent_id": 16,
+    "subj": "i",
+    "verb": "walk",
+    "obj": "song",
+    "label": "i | walk | song",
+    "sentence": "In this music, I found a lesson and a repentance\u2014I will no longer walk blindly from the songs of our people."
+  },
+  {
+    "sent_id": 17,
+    "subj": "that",
+    "verb": "captivate",
+    "obj": "flight",
+    "label": "that | captivate | flight",
+    "sentence": "\"\n\nFor there is a power in a true voice, born from a pure heart and resonant soul, that captivates like the eagle\u2019s flight or the whisper of the river."
+  },
+  {
+    "sent_id": 18,
+    "subj": "melody",
+    "verb": "soothe",
+    "obj": "heart",
+    "label": "melody | soothe | heart",
+    "sentence": "Yet, even the sweetest melodies of distant lands cannot soothe a heart when sung from a spirit that is not free."
+  },
+  {
+    "sent_id": 19,
+    "subj": "man",
+    "verb": "learn",
+    "obj": "",
+    "label": "man | learn | \u2205",
+    "sentence": "Thus, the young man learned that night to honor the music of life in all its forms, and to listen beyond the surface\u2014to the pulse beneath the song."
+  }
+]

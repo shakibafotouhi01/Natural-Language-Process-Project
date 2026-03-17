@@ -1,0 +1,362 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "",
+    "verb": "live",
+    "obj": "fox",
+    "label": "\u2205 | live | fox",
+    "sentence": "Long ago, in the lands where the tall pines meet the rolling plains, there lived a clever fox near a village garden tended by the people of the tribe."
+  },
+  {
+    "sent_id": 1,
+    "subj": "fox",
+    "verb": "slip",
+    "obj": "gap",
+    "label": "fox | slip | gap",
+    "sentence": "Each day, the fox would slip quietly through a gap in the woven cedar fence, feasting on the ripe wild plums, sweet chokecherries, and bright hawthorn berries before setting his sights on the chickens scratching nearby."
+  },
+  {
+    "sent_id": 2,
+    "subj": "fox",
+    "verb": "live",
+    "obj": "season",
+    "label": "fox | live | season",
+    "sentence": "For many seasons, the fox lived this way, until one dawn the garden\u2019s caretaker, a wise elder, spotted him and chased him with a sturdy lodge pole."
+  },
+  {
+    "sent_id": 3,
+    "subj": "fox",
+    "verb": "dash",
+    "obj": "gap",
+    "label": "fox | dash | gap",
+    "sentence": "The fox dashed to the gap in the fence\u2014but found it freshly sealed with earth and clay, no way to slip through."
+  },
+  {
+    "sent_id": 4,
+    "subj": "fox",
+    "verb": "lie",
+    "obj": "",
+    "label": "fox | lie | \u2205",
+    "sentence": "Surrounded, the fox lay still, curling onto his back and closing his eyes, pretending to be gone from this world."
+  },
+  {
+    "sent_id": 5,
+    "subj": "elder",
+    "verb": "come",
+    "obj": "",
+    "label": "elder | come | \u2205",
+    "sentence": "The elder came close, poking the fox with the lodge pole, but the fox did not move."
+  },
+  {
+    "sent_id": 6,
+    "subj": "elder",
+    "verb": "lift",
+    "obj": "fox",
+    "label": "elder | lift | fox",
+    "sentence": "Thinking the spirit had already taken the trickster, the elder lifted the fox and cast him beyond the garden\u2019s edge."
+  },
+  {
+    "sent_id": 7,
+    "subj": "fox",
+    "verb": "wander",
+    "obj": "",
+    "label": "fox | wander | \u2205",
+    "sentence": "The fox wandered far, his belly hollow and spirit heavy, unable to find another way back to the garden\u2019s bounty."
+  },
+  {
+    "sent_id": 8,
+    "subj": "he",
+    "verb": "set",
+    "obj": "forest",
+    "label": "he | set | forest",
+    "sentence": "One day, desperate and cunning, he set out for the forest, where he knew a mighty mountain lion dwelled in a deep cave."
+  },
+  {
+    "sent_id": 10,
+    "subj": "friend",
+    "verb": "come",
+    "obj": "",
+    "label": "friend | come | \u2205",
+    "sentence": ", the fox called out, \u201cGreat mountain lion, it is I, the fox, your old friend come to visit!\u201d"
+  },
+  {
+    "sent_id": 11,
+    "subj": "lion",
+    "verb": "emerge",
+    "obj": "",
+    "label": "lion | emerge | \u2205",
+    "sentence": "The mountain lion emerged, his voice a low rumble."
+  },
+  {
+    "sent_id": 12,
+    "subj": "you",
+    "verb": "come",
+    "obj": "",
+    "label": "you | come | \u2205",
+    "sentence": "\u201cFox, why have you come this far?"
+  },
+  {
+    "sent_id": 13,
+    "subj": "you",
+    "verb": "bring",
+    "obj": "news",
+    "label": "you | bring | news",
+    "sentence": "What news do you bring?\u201d"
+  },
+  {
+    "sent_id": 14,
+    "subj": "fox",
+    "verb": "sigh",
+    "obj": "",
+    "label": "fox | sigh | \u2205",
+    "sentence": "The fox sighed, \u201cMy belly is empty, and many moons have passed without food."
+  },
+  {
+    "sent_id": 15,
+    "subj": "i",
+    "verb": "travel",
+    "obj": "",
+    "label": "i | travel | \u2205",
+    "sentence": "I have traveled far, hoping to share your meal.\u201d"
+  },
+  {
+    "sent_id": 16,
+    "subj": "lion",
+    "verb": "nod",
+    "obj": "",
+    "label": "lion | nod | \u2205",
+    "sentence": "The mountain lion nodded slowly."
+  },
+  {
+    "sent_id": 17,
+    "subj": "i",
+    "verb": "catch",
+    "obj": "boar",
+    "label": "i | catch | boar",
+    "sentence": "\u201cI caught a large boar recently but have eaten it all."
+  },
+  {
+    "sent_id": 18,
+    "subj": "hunt",
+    "verb": "provide",
+    "obj": "",
+    "label": "hunt | provide | \u2205",
+    "sentence": "Come back tomorrow, maybe the hunt will provide.\u201d"
+  },
+  {
+    "sent_id": 19,
+    "subj": "fox",
+    "verb": "offer",
+    "obj": "plan",
+    "label": "fox | offer | plan",
+    "sentence": "But the fox, too hungry to wait, offered a plan."
+  },
+  {
+    "sent_id": 20,
+    "subj": "",
+    "verb": "be",
+    "obj": "mare",
+    "label": "\u2205 | be | mare",
+    "sentence": "\u201cIn the nearby village, there is a slow-walking mare who toils at the grinding stone, turning meal all day."
+  },
+  {
+    "sent_id": 21,
+    "subj": "we",
+    "verb": "share",
+    "obj": "feast",
+    "label": "we | share | feast",
+    "sentence": "If I bring her here, we will share in the feast together.\u201d"
+  },
+  {
+    "sent_id": 22,
+    "subj": "lion",
+    "verb": "agree",
+    "obj": "",
+    "label": "lion | agree | \u2205",
+    "sentence": "The lion agreed to wait and watch for the mare."
+  },
+  {
+    "sent_id": 23,
+    "subj": "fox",
+    "verb": "travel",
+    "obj": "village",
+    "label": "fox | travel | village",
+    "sentence": "The fox traveled to the village, where the mare labored, circling the grinding stone from sunup to sundown."
+  },
+  {
+    "sent_id": 24,
+    "subj": "fox",
+    "verb": "greet",
+    "obj": "she",
+    "label": "fox | greet | she",
+    "sentence": "The fox greeted her warmly, \u201cOld friend, I\u2019ve come a long way just to see you."
+  },
+  {
+    "sent_id": 25,
+    "subj": "what",
+    "verb": "keep",
+    "obj": "",
+    "label": "what | keep | \u2205",
+    "sentence": "What keeps you turning in circles?\u201d"
+  },
+  {
+    "sent_id": 26,
+    "subj": "mare",
+    "verb": "reply",
+    "obj": "",
+    "label": "mare | reply | \u2205",
+    "sentence": "The mare replied, \u201cI work to earn my feed and rest, turning the millstone for the women of the village."
+  },
+  {
+    "sent_id": 27,
+    "subj": "work",
+    "verb": "be",
+    "obj": "",
+    "label": "work | be | \u2205",
+    "sentence": "The work is hard, but it keeps me alive.\u201d"
+  },
+  {
+    "sent_id": 28,
+    "subj": "",
+    "verb": "lie",
+    "obj": "land",
+    "label": "\u2205 | lie | land",
+    "sentence": "The fox, flicking his tail, shared a secret: \u201cBeyond the hills lies a green land where food is plenty and work unknown."
+  },
+  {
+    "sent_id": 29,
+    "subj": "",
+    "verb": "come",
+    "obj": "i",
+    "label": "\u2205 | come | i",
+    "sentence": "Come with me, and you need not turn any more stones.\u201d"
+  },
+  {
+    "sent_id": 30,
+    "subj": "",
+    "verb": "agree",
+    "obj": "",
+    "label": "\u2205 | agree | \u2205",
+    "sentence": "The mare paused, then agreed."
+  },
+  {
+    "sent_id": 31,
+    "subj": "fox",
+    "verb": "gnaw",
+    "obj": "rope",
+    "label": "fox | gnaw | rope",
+    "sentence": "The fox gnawed the ropes that bound her yoked neck, setting her free."
+  },
+  {
+    "sent_id": 32,
+    "subj": "i",
+    "verb": "ride",
+    "obj": "back",
+    "label": "i | ride | back",
+    "sentence": "\u201cMay I ride your back as we journey to this land?\u201d"
+  },
+  {
+    "sent_id": 33,
+    "subj": "he",
+    "verb": "ask",
+    "obj": "",
+    "label": "he | ask | \u2205",
+    "sentence": "he asked."
+  },
+  {
+    "sent_id": 34,
+    "subj": "mare",
+    "verb": "nod",
+    "obj": "",
+    "label": "mare | nod | \u2205",
+    "sentence": "The mare nodded, and together they traveled toward the forest cave."
+  },
+  {
+    "sent_id": 35,
+    "subj": "mare",
+    "verb": "see",
+    "obj": "",
+    "label": "mare | see | \u2205",
+    "sentence": "As they neared, the mare saw the mountain lion crouched in the bushes."
+  },
+  {
+    "sent_id": 37,
+    "subj": "she",
+    "verb": "whisper",
+    "obj": "",
+    "label": "she | whisper | \u2205",
+    "sentence": "she whispered."
+  },
+  {
+    "sent_id": 38,
+    "subj": "she",
+    "verb": "flee",
+    "obj": "",
+    "label": "she | flee | \u2205",
+    "sentence": "\u201cI must not be caught!\u201d\n\nTurning swiftly, she fled back to the village."
+  },
+  {
+    "sent_id": 39,
+    "subj": "you",
+    "verb": "run",
+    "obj": "",
+    "label": "you | run | \u2205",
+    "sentence": "\u201cWhy do you run away now?\u201d"
+  },
+  {
+    "sent_id": 40,
+    "subj": "fox",
+    "verb": "call",
+    "obj": "",
+    "label": "fox | call | \u2205",
+    "sentence": "the fox called."
+  },
+  {
+    "sent_id": 41,
+    "subj": "i",
+    "verb": "forget",
+    "obj": "gift",
+    "label": "i | forget | gift",
+    "sentence": "\u201cI forgot an important gift, a small bundle of wisdom wrapped in cloth, given by my elders to protect me in dreams."
+  },
+  {
+    "sent_id": 42,
+    "subj": "i",
+    "verb": "go",
+    "obj": "it",
+    "label": "i | go | it",
+    "sentence": "I cannot go without it!\u201d"
+  },
+  {
+    "sent_id": 43,
+    "subj": "she",
+    "verb": "answer",
+    "obj": "",
+    "label": "she | answer | \u2205",
+    "sentence": "she answered, quickening her pace."
+  },
+  {
+    "sent_id": 44,
+    "subj": "fox",
+    "verb": "frown",
+    "obj": "",
+    "label": "fox | frown | \u2205",
+    "sentence": "The fox frowned but let her go, promising to return the next day."
+  },
+  {
+    "sent_id": 45,
+    "subj": "mare",
+    "verb": "smile",
+    "obj": "",
+    "label": "mare | smile | \u2205",
+    "sentence": "Safe at the mill, the mare smiled."
+  },
+  {
+    "sent_id": 46,
+    "subj": "",
+    "verb": "avoid",
+    "obj": "friend",
+    "label": "\u2205 | avoid | friend",
+    "sentence": "\u201cMy elders\u2019 wisdom includes five truths: never travel without your protective gift; honor honest work; be grateful for what sustains you; avoid false friends, for they betray; and most importantly, keep clear of the mountain lion\u2019s lair.\u201d\n\nWith that, the mare shook the fox off her back and returned to her steady turning of the millstone, choosing the path of care over the fox\u2019s cunning deceit."
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "princess",
+    "verb": "step",
+    "obj": "stroll",
+    "label": "princess | step | stroll",
+    "sentence": "One serene evening in the heart of ancient Persia, a young princess cloaked in a silk shawl and soft leather slippers stepped out alone for a stroll through the fragrant groves near the palace gardens."
+  },
+  {
+    "sent_id": 1,
+    "subj": "she",
+    "verb": "come",
+    "obj": "spring",
+    "label": "she | come | spring",
+    "sentence": "As she wandered beneath towering cypress and date palms, she came upon a clear spring, its waters gurgling cool and pure amidst fragrant jasmine and rose bushes."
+  },
+  {
+    "sent_id": 2,
+    "subj": "princess",
+    "verb": "settle",
+    "obj": "spring",
+    "label": "princess | settle | spring",
+    "sentence": "The princess settled beside the spring to rest."
+  },
+  {
+    "sent_id": 3,
+    "subj": "she",
+    "verb": "hold",
+    "obj": "toy",
+    "label": "she | hold | toy",
+    "sentence": "In her hand she held her beloved toy\u2014a small, gleaming amber orb, cherished above all else."
+  },
+  {
+    "sent_id": 4,
+    "subj": "she",
+    "verb": "toss",
+    "obj": "it",
+    "label": "she | toss | it",
+    "sentence": "She tossed it lightly into the air and caught it again, delighting in its warm glow under the fading sun."
+  },
+  {
+    "sent_id": 5,
+    "subj": "orb",
+    "verb": "slip",
+    "obj": "toss",
+    "label": "orb | slip | toss",
+    "sentence": "But with one careless toss, the amber orb slipped from her fingers, soaring higher than before."
+  },
+  {
+    "sent_id": 6,
+    "subj": "she",
+    "verb": "stretch",
+    "obj": "",
+    "label": "she | stretch | \u2205",
+    "sentence": "She stretched to catch it, but it bounced away, rolling across the soft earth and finally plunging deep into the crystal spring."
+  },
+  {
+    "sent_id": 7,
+    "subj": "princess",
+    "verb": "be",
+    "obj": "",
+    "label": "princess | be | \u2205",
+    "sentence": "The princess peered into the depths, but the water was too clear and too deep to reach her treasure."
+  },
+  {
+    "sent_id": 8,
+    "subj": "she",
+    "verb": "cry",
+    "obj": "",
+    "label": "she | cry | \u2205",
+    "sentence": "Sighing, she cried, \u201cAh, if only I could have back my amber orb, I would trade all my silk robes, pearls, and precious jewels\u2014everything I own!\u201d"
+  },
+  {
+    "sent_id": 9,
+    "subj": "ripple",
+    "verb": "appear",
+    "obj": "",
+    "label": "ripple | appear | \u2205",
+    "sentence": "As she lamented, a sudden ripple appeared and a voice echoed quietly from the water."
+  },
+  {
+    "sent_id": 11,
+    "subj": "",
+    "verb": "startle",
+    "obj": "",
+    "label": "\u2205 | startle | \u2205",
+    "sentence": "The princess frowned, startled."
+  },
+  {
+    "sent_id": 13,
+    "subj": "orb",
+    "verb": "reply",
+    "obj": "",
+    "label": "orb | reply | \u2205",
+    "sentence": "My precious amber orb lies lost in the spring,\u201d she replied."
+  },
+  {
+    "sent_id": 14,
+    "subj": "frog",
+    "verb": "answer",
+    "obj": "",
+    "label": "frog | answer | \u2205",
+    "sentence": "The frog answered humbly, \u201cI ask not for your jewels or silks, but if you would grant me kindness\u2014allow me to live in your palace, eat from your golden dishes, and rest upon your fine cushions\u2014I will retrieve your orb.\u201d"
+  },
+  {
+    "sent_id": 15,
+    "subj": "thought",
+    "verb": "leave",
+    "obj": "water",
+    "label": "thought | leave | water",
+    "sentence": "The princess thought, this foolish frog surely cannot leave the water; yet if he brings me my orb, I shall keep my promise."
+  },
+  {
+    "sent_id": 16,
+    "subj": "she",
+    "verb": "say",
+    "obj": "",
+    "label": "she | say | \u2205",
+    "sentence": "\u201cVery well,\u201d she said reluctantly, \u201cbring me my amber orb, and I will do as you ask.\u201d"
+  },
+  {
+    "sent_id": 17,
+    "subj": "frog",
+    "verb": "dive",
+    "obj": "water",
+    "label": "frog | dive | water",
+    "sentence": "The frog dived beneath the water."
+  },
+  {
+    "sent_id": 18,
+    "subj": "it",
+    "verb": "emerge",
+    "obj": "moment",
+    "label": "it | emerge | moment",
+    "sentence": "After moments that felt like an age, it emerged, clutching the amber orb gently in its mouth."
+  },
+  {
+    "sent_id": 19,
+    "subj": "it",
+    "verb": "toss",
+    "obj": "orb",
+    "label": "it | toss | orb",
+    "sentence": "It tossed the orb onto the garden\u2019s edge."
+  },
+  {
+    "sent_id": 20,
+    "subj": "princess",
+    "verb": "seize",
+    "obj": "it",
+    "label": "princess | seize | it",
+    "sentence": "Delighted, the princess seized it and ran swiftly home, forgetting all about the frog\u2019s request."
+  },
+  {
+    "sent_id": 21,
+    "subj": "",
+    "verb": "wait",
+    "obj": "",
+    "label": "\u2205 | wait | \u2205",
+    "sentence": "\u201cWait, princess!\u201d"
+  },
+  {
+    "sent_id": 22,
+    "subj": "frog",
+    "verb": "call",
+    "obj": "",
+    "label": "frog | call | \u2205",
+    "sentence": "the frog called, \u201cRemember your promise\u2014take me with you!\u201d"
+  },
+  {
+    "sent_id": 23,
+    "subj": "she",
+    "verb": "hurry",
+    "obj": "",
+    "label": "she | hurry | \u2205",
+    "sentence": "But she only hurried on, ignoring his pleas."
+  },
+  {
+    "sent_id": 24,
+    "subj": "tapping",
+    "verb": "echo",
+    "obj": "veranda",
+    "label": "tapping | echo | veranda",
+    "sentence": "The following day, as the princess sat down to feast on pomegranates and saffron rice, a strange tapping echoed softly from the marble veranda\u2014tap, tap\u2014plash, plash\u2014as if a humble visitor was ascending the stairs of the palace."
+  },
+  {
+    "sent_id": 25,
+    "subj": "princess",
+    "verb": "open",
+    "obj": "door",
+    "label": "princess | open | door",
+    "sentence": "Soon came a gentle knock at the door, followed by a small voice singing:\n\n\u201cOpen the gate, fair princess bright,\n Open to your love\u2019s true light,\n Remember the vow you gave by the spring,\n Where the nightingales sweetly sing.\u201d\n\nStartled, the princess opened the door to find the green-eyed frog from the garden."
+  },
+  {
+    "sent_id": 26,
+    "subj": "she",
+    "verb": "shut",
+    "obj": "door",
+    "label": "she | shut | door",
+    "sentence": "Fearful, she shut the door quickly and sat back down."
+  },
+  {
+    "sent_id": 27,
+    "subj": "father",
+    "verb": "notice",
+    "obj": "distress",
+    "label": "father | notice | distress",
+    "sentence": "Her father, the king, noticed her distress and asked the cause."
+  },
+  {
+    "sent_id": 28,
+    "subj": "she",
+    "verb": "murmur",
+    "obj": "",
+    "label": "she | murmur | \u2205",
+    "sentence": "\u201cA frog,\u201d she murmured, \u201cthe same that fetched my orb this morning."
+  },
+  {
+    "sent_id": 29,
+    "subj": "i",
+    "verb": "promise",
+    "obj": "",
+    "label": "i | promise | \u2205",
+    "sentence": "I promised him lodging here, thinking he could never leave the spring."
+  },
+  {
+    "sent_id": 30,
+    "subj": "he",
+    "verb": "be",
+    "obj": "door",
+    "label": "he | be | door",
+    "sentence": "Yet here he is at the door, seeking to enter.\u201d"
+  },
+  {
+    "sent_id": 31,
+    "subj": "frog",
+    "verb": "knock",
+    "obj": "",
+    "label": "frog | knock | \u2205",
+    "sentence": "Again, the frog knocked and sang his plea."
+  },
+  {
+    "sent_id": 32,
+    "subj": "king",
+    "verb": "say",
+    "obj": "",
+    "label": "king | say | \u2205",
+    "sentence": "The king, wise and just, said, \u201cA promise given is a promise kept."
+  },
+  {
+    "sent_id": 33,
+    "subj": "",
+    "verb": "let",
+    "obj": "",
+    "label": "\u2205 | let | \u2205",
+    "sentence": "Go, let him in.\u201d"
+  },
+  {
+    "sent_id": 34,
+    "subj": "princess",
+    "verb": "open",
+    "obj": "door",
+    "label": "princess | open | door",
+    "sentence": "Reluctantly, the princess opened the door."
+  },
+  {
+    "sent_id": 35,
+    "subj": "frog",
+    "verb": "hop",
+    "obj": "hall",
+    "label": "frog | hop | hall",
+    "sentence": "The frog hopped into the grand hall, making his way\u2014tap, tap\u2014plash, plash\u2014from the marble floor to her side."
+  },
+  {
+    "sent_id": 36,
+    "subj": "he",
+    "verb": "request",
+    "obj": "",
+    "label": "he | request | \u2205",
+    "sentence": "\u201cPlace me upon a velvet cushion,\u201d he requested, \u201cthat I may rest near you.\u201d"
+  },
+  {
+    "sent_id": 37,
+    "subj": "she",
+    "verb": "obey",
+    "obj": "",
+    "label": "she | obey | \u2205",
+    "sentence": "She obeyed, moving her silk cushion for him."
+  },
+  {
+    "sent_id": 38,
+    "subj": "he",
+    "verb": "say",
+    "obj": "",
+    "label": "he | say | \u2205",
+    "sentence": "\u201cBring your dish closer, so I may eat,\u201d he said."
+  },
+  {
+    "sent_id": 39,
+    "subj": "she",
+    "verb": "hand",
+    "obj": "plate",
+    "label": "she | hand | plate",
+    "sentence": "She handed over a golden plate from which he ate ravenously."
+  },
+  {
+    "sent_id": 40,
+    "subj": "frog",
+    "verb": "say",
+    "obj": "",
+    "label": "frog | say | \u2205",
+    "sentence": "Afterward, the frog said, \u201cNow I am weary; carry me to your bedchamber and lay me upon your pillow.\u201d"
+  },
+  {
+    "sent_id": 41,
+    "subj": "princess",
+    "verb": "lift",
+    "obj": "frog",
+    "label": "princess | lift | frog",
+    "sentence": "Though full of dread, the princess lifted the frog gently and placed him beside her as she lay down."
+  },
+  {
+    "sent_id": 42,
+    "subj": "he",
+    "verb": "sleep",
+    "obj": "night",
+    "label": "he | sleep | night",
+    "sentence": "He slept through the night."
+  },
+  {
+    "sent_id": 43,
+    "subj": "frog",
+    "verb": "leap",
+    "obj": "dawn",
+    "label": "frog | leap | dawn",
+    "sentence": "At dawn, the frog leapt from the bed, hopped down the stairs, and left the palace."
+  },
+  {
+    "sent_id": 44,
+    "subj": "he",
+    "verb": "go",
+    "obj": "",
+    "label": "he | go | \u2205",
+    "sentence": "\u201cAt last,\u201d thought the princess, \u201che has gone for good.\u201d"
+  },
+  {
+    "sent_id": 45,
+    "subj": "tap",
+    "verb": "come",
+    "obj": "",
+    "label": "tap | come | \u2205",
+    "sentence": "But when night returned, the gentle tapping and singing came again, and the frog appeared to rest on her pillow through the night."
+  },
+  {
+    "sent_id": 46,
+    "subj": "this",
+    "verb": "occur",
+    "obj": "",
+    "label": "this | occur | \u2205",
+    "sentence": "This occurred a third night as well."
+  },
+  {
+    "sent_id": 47,
+    "subj": "princess",
+    "verb": "awake",
+    "obj": "morning",
+    "label": "princess | awake | morning",
+    "sentence": "On the morning that followed, the princess awoke to find a handsome prince standing at her bedside."
+  },
+  {
+    "sent_id": 48,
+    "subj": "eye",
+    "verb": "shine",
+    "obj": "lazuli",
+    "label": "eye | shine | lazuli",
+    "sentence": "His eyes shone like lapis lazuli, his robes embroidered with silver flowers."
+  },
+  {
+    "sent_id": 49,
+    "subj": "he",
+    "verb": "say",
+    "obj": "",
+    "label": "he | say | \u2205",
+    "sentence": "\u201cEnchanting fairy mischief once bound me as a frog,\u201d he said softly."
+  },
+  {
+    "sent_id": 50,
+    "subj": "kindness",
+    "verb": "break",
+    "obj": "spell",
+    "label": "kindness | break | spell",
+    "sentence": "\u201cOnly your kindness\u2014your promise kept\u2014could break the spell."
+  },
+  {
+    "sent_id": 51,
+    "subj": "i",
+    "verb": "be",
+    "obj": "",
+    "label": "i | be | \u2205",
+    "sentence": "Now I am free."
+  },
+  {
+    "sent_id": 52,
+    "subj": "",
+    "verb": "come",
+    "obj": "i",
+    "label": "\u2205 | come | i",
+    "sentence": "Come with me to my father\u2019s kingdom, where I shall wed and cherish you forever.\u201d"
+  },
+  {
+    "sent_id": 53,
+    "subj": "bridle",
+    "verb": "adorn",
+    "obj": "gem",
+    "label": "bridle | adorn | gem",
+    "sentence": "The princess gladly consented, and as they spoke, a splendid carriage arrived outside the palace\u2014its velvet cushions embroidered in gold, pulled by eight magnificent Arabian horses, their bridles adorned with gems and gilded feathers."
+  },
+  {
+    "sent_id": 54,
+    "subj": "",
+    "verb": "ride",
+    "obj": "bahram",
+    "label": "\u2205 | ride | bahram",
+    "sentence": "Behind the carriage rode the prince\u2019s loyal attendant, faithful Bahram, who had grieved deeply during his master\u2019s enchantment."
+  },
+  {
+    "sent_id": 55,
+    "subj": "princess",
+    "verb": "mount",
+    "obj": "carriage",
+    "label": "princess | mount | carriage",
+    "sentence": "Bidding farewell to the king, the princess and the prince mounted the carriage and set forth with joy toward the prince\u2019s kingdom."
+  },
+  {
+    "sent_id": 56,
+    "subj": "they",
+    "verb": "live",
+    "obj": "garden",
+    "label": "they | live | garden",
+    "sentence": "There, among fragrant gardens and gilded domes, they lived happily ever after, their days filled with love and laughter beneath the Persian sun."
+  }
+]

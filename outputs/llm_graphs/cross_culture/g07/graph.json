@@ -1,0 +1,1164 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "\u2205 | live | fisherman",
+      "sent_id": 0,
+      "sentence": "In a humble village by the Persian Gulf, there lived a poor fisherman and his wife in a tiny, crumbling clay hut near the shimmering sea.",
+      "subj": "",
+      "verb": "live",
+      "obj": "fisherman"
+    },
+    {
+      "id": "e0001",
+      "label": "fisherman | cast | line",
+      "sent_id": 1,
+      "sentence": "Every day, the fisherman would cast his simple reed fishing line into the turquoise waters, hoping to catch something to sustain them.",
+      "subj": "fisherman",
+      "verb": "cast",
+      "obj": "line"
+    },
+    {
+      "id": "e0002",
+      "label": "bobber | pull | water",
+      "sent_id": 2,
+      "sentence": "One day, as he sat on the sun-warmed shore, watching the gentle swaying of his line upon the waves glittering like jewels, suddenly his bobber was pulled deep beneath the water.",
+      "subj": "bobber",
+      "verb": "pull",
+      "obj": "water"
+    },
+    {
+      "id": "e0003",
+      "label": "he | reel | effort",
+      "sent_id": 3,
+      "sentence": "With great effort, he reeled in a magnificent fish of gleaming silver scales.",
+      "subj": "he",
+      "verb": "reel",
+      "obj": "effort"
+    },
+    {
+      "id": "e0004",
+      "label": "fish | speak | astonishment",
+      "sent_id": 4,
+      "sentence": "To his astonishment, the fish spoke in a gentle voice, \"Oh kind fisherman, spare my life!",
+      "subj": "fish",
+      "verb": "speak",
+      "obj": "astonishment"
+    },
+    {
+      "id": "e0005",
+      "label": "i | be | fish",
+      "sent_id": 5,
+      "sentence": "I am not a mere fish but a prince under a spell.",
+      "subj": "i",
+      "verb": "be",
+      "obj": "fish"
+    },
+    {
+      "id": "e0006",
+      "label": "fisherman | reply | fish",
+      "sent_id": 6,
+      "sentence": "Return me to the sea, and I shall grant you a wish.\"\n\nStartled and wary, the fisherman replied, \"A talking fish!",
+      "subj": "fisherman",
+      "verb": "reply",
+      "obj": "fish"
+    },
+    {
+      "id": "e0007",
+      "label": "marvel | concern | i",
+      "sent_id": 7,
+      "sentence": "Such marvels do not concern me.",
+      "subj": "marvel",
+      "verb": "concern",
+      "obj": "i"
+    },
+    {
+      "id": "e0008",
+      "label": "\u2205 | go | \u2205",
+      "sent_id": 8,
+      "sentence": "Go back to your watery realm.\"",
+      "subj": "",
+      "verb": "go",
+      "obj": ""
+    },
+    {
+      "id": "e0009",
+      "label": "he | set | fish",
+      "sent_id": 9,
+      "sentence": "So he set the fish free, watching it disappear beneath the waves, leaving a crimson trail like threads of ruby on the water\u2019s surface.",
+      "subj": "he",
+      "verb": "set",
+      "obj": "fish"
+    },
+    {
+      "id": "e0010",
+      "label": "he | recount | tale",
+      "sent_id": 10,
+      "sentence": "Upon returning home to his wife, he recounted the extraordinary tale.",
+      "subj": "he",
+      "verb": "recount",
+      "obj": "tale"
+    },
+    {
+      "id": "e0011",
+      "label": "you | ask | fish",
+      "sent_id": 11,
+      "sentence": "\"Why did you not ask the fish for a gift?\"",
+      "subj": "you",
+      "verb": "ask",
+      "obj": "fish"
+    },
+    {
+      "id": "e0012",
+      "label": "she | chide | \u2205",
+      "sent_id": 12,
+      "sentence": "she chided.",
+      "subj": "she",
+      "verb": "chide",
+      "obj": ""
+    },
+    {
+      "id": "e0013",
+      "label": "life | be | \u2205",
+      "sent_id": 13,
+      "sentence": "\"Our life in this dirt and mud is unbearable.",
+      "subj": "life",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0014",
+      "label": "you | go | \u2205",
+      "sent_id": 14,
+      "sentence": "You must go back and tell the fish we desire a comfortable home\u2014a small garden pavilion tucked away by the palm groves.",
+      "subj": "you",
+      "verb": "go",
+      "obj": ""
+    },
+    {
+      "id": "e0015",
+      "label": "fisherman | go | shore",
+      "sent_id": 15,
+      "sentence": "\"\n\nReluctantly, the fisherman went again to the shore.",
+      "subj": "fisherman",
+      "verb": "go",
+      "obj": "shore"
+    },
+    {
+      "id": "e0016",
+      "label": "water | shimmer | hue",
+      "sent_id": 16,
+      "sentence": "The water shimmered with strange hues of emerald and gold.",
+      "subj": "water",
+      "verb": "shimmer",
+      "obj": "hue"
+    },
+    {
+      "id": "e0017",
+      "label": "\u2205 | listen | plea",
+      "sent_id": 17,
+      "sentence": "Standing at the edge, he called out:\n\n\"O lord of the sea,\nListen to my plea!",
+      "subj": "",
+      "verb": "listen",
+      "obj": "plea"
+    },
+    {
+      "id": "e0018",
+      "label": "fish | appear | \u2205",
+      "sent_id": 19,
+      "sentence": "The magical fish appeared and asked, \"What does she desire now?\"",
+      "subj": "fish",
+      "verb": "appear",
+      "obj": ""
+    },
+    {
+      "id": "e0019",
+      "label": "fisherman | say | \u2205",
+      "sent_id": 20,
+      "sentence": "The fisherman said, \"She wishes for a cozy cottage, away from the squalor.\"",
+      "subj": "fisherman",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0020",
+      "label": "it | be | \u2205",
+      "sent_id": 21,
+      "sentence": "The fish nodded, \"Return home; it is ready for her.",
+      "subj": "it",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0021",
+      "label": "man | walk | \u2205",
+      "sent_id": 22,
+      "sentence": "\"\n\nThe man walked back, and there stood his wife, smiling in front of a neat adobe home adorned with intricate fretwork and painted tiles.",
+      "subj": "man",
+      "verb": "walk",
+      "obj": ""
+    },
+    {
+      "id": "e0022",
+      "label": "\u2205 | be | room",
+      "sent_id": 23,
+      "sentence": "Inside were rooms fragrant with rosewater and saffron, and a courtyard blossoming with jasmine and pomegranate trees.",
+      "subj": "",
+      "verb": "be",
+      "obj": "room"
+    },
+    {
+      "id": "e0023",
+      "label": "chicken | peck | earth",
+      "sent_id": 24,
+      "sentence": "Chickens pecked happily on the earth.",
+      "subj": "chicken",
+      "verb": "peck",
+      "obj": "earth"
+    },
+    {
+      "id": "e0024",
+      "label": "fisherman | think | joy",
+      "sent_id": 25,
+      "sentence": "\u201cWhat joy,\u201d thought the fisherman, \u201cat last, comfort and peace.\u201d",
+      "subj": "fisherman",
+      "verb": "think",
+      "obj": "joy"
+    },
+    {
+      "id": "e0025",
+      "label": "wife | nod | satisfaction",
+      "sent_id": 26,
+      "sentence": "His wife nodded in satisfaction.",
+      "subj": "wife",
+      "verb": "nod",
+      "obj": "satisfaction"
+    },
+    {
+      "id": "e0026",
+      "label": "banu | grow | while",
+      "sent_id": 27,
+      "sentence": "But after a while, Banu grew restless.",
+      "subj": "banu",
+      "verb": "grow",
+      "obj": "while"
+    },
+    {
+      "id": "e0027",
+      "label": "pavilion | be | \u2205",
+      "sent_id": 28,
+      "sentence": "\"This pavilion and garden are too small.",
+      "subj": "pavilion",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0028",
+      "label": "we | need | fortress",
+      "sent_id": 29,
+      "sentence": "We need a great stone fortress, with lofty battlements and gleaming domes that touch the sky.",
+      "subj": "we",
+      "verb": "need",
+      "obj": "fortress"
+    },
+    {
+      "id": "e0029",
+      "label": "she | command | \u2205",
+      "sent_id": 30,
+      "sentence": "Tell the sea prince to grant this,\u201d she commanded.",
+      "subj": "she",
+      "verb": "command",
+      "obj": ""
+    },
+    {
+      "id": "e0030",
+      "label": "fisherman | obey | \u2205",
+      "sent_id": 31,
+      "sentence": "Though worried, the fisherman obeyed once more.",
+      "subj": "fisherman",
+      "verb": "obey",
+      "obj": ""
+    },
+    {
+      "id": "e0031",
+      "label": "sea | be | \u2205",
+      "sent_id": 32,
+      "sentence": "The sea was calm but shadowed under a gray sky.",
+      "subj": "sea",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0032",
+      "label": "he | speak | water",
+      "sent_id": 33,
+      "sentence": "He spoke to the water:\n\n\"O lord of the sea,\nHear my voice again!",
+      "subj": "he",
+      "verb": "speak",
+      "obj": "water"
+    },
+    {
+      "id": "e0033",
+      "label": "wife | command | \u2205",
+      "sent_id": 34,
+      "sentence": "My wife commands,\nA grand castle to reign.",
+      "subj": "wife",
+      "verb": "command",
+      "obj": ""
+    },
+    {
+      "id": "e0034",
+      "label": "she | stand | castle",
+      "sent_id": 35,
+      "sentence": "\"\n\nThe enchanted fish smiled gently, \"Go home; she stands already before her castle.",
+      "subj": "she",
+      "verb": "stand",
+      "obj": "castle"
+    },
+    {
+      "id": "e0035",
+      "label": "wall | crown | tile",
+      "sent_id": 37,
+      "sentence": "The fisherman hurried back and beheld a splendid fortress of white marble, its walls carved with delicate arabesques, towers crowned with iridescent tiles that caught the sunlight like jewels.",
+      "subj": "wall",
+      "verb": "crown",
+      "obj": "tile"
+    },
+    {
+      "id": "e0036",
+      "label": "\u2205 | be | servant",
+      "sent_id": 38,
+      "sentence": "Inside were servants in flowing robes, silks and gold furnishing every hall.",
+      "subj": "",
+      "verb": "be",
+      "obj": "servant"
+    },
+    {
+      "id": "e0037",
+      "label": "herd | roam | pasture",
+      "sent_id": 39,
+      "sentence": "Beyond the castle stretched gardens filled with night-blooming jasmine and date palms; herds of graceful gazelles roamed the nearby green pastures.",
+      "subj": "herd",
+      "verb": "roam",
+      "obj": "pasture"
+    },
+    {
+      "id": "e0038",
+      "label": "we | live | \u2205",
+      "sent_id": 40,
+      "sentence": "\u201cThis is abundance beyond dreams,\u201d said the fisherman, \u201chere we shall live well.\u201d",
+      "subj": "we",
+      "verb": "live",
+      "obj": ""
+    },
+    {
+      "id": "e0039",
+      "label": "banu | confide | \u2205",
+      "sent_id": 41,
+      "sentence": "Banu, though pleased, confided, \u201cLet us rest before dreaming more.\u201d",
+      "subj": "banu",
+      "verb": "confide",
+      "obj": ""
+    },
+    {
+      "id": "e0040",
+      "label": "dawn | bring | desire",
+      "sent_id": 42,
+      "sentence": "But dawn brought new desires.",
+      "subj": "dawn",
+      "verb": "bring",
+      "obj": "desire"
+    },
+    {
+      "id": "e0041",
+      "label": "we | be | ruler",
+      "sent_id": 43,
+      "sentence": "\"Husband, a castle is too small\u2014we must be rulers of the entire land.",
+      "subj": "we",
+      "verb": "be",
+      "obj": "ruler"
+    },
+    {
+      "id": "e0042",
+      "label": "\u2205 | go | fish",
+      "sent_id": 44,
+      "sentence": "Go to the fish and say that I must be queen.",
+      "subj": "",
+      "verb": "go",
+      "obj": "fish"
+    },
+    {
+      "id": "e0043",
+      "label": "sovereign | hear | cry",
+      "sent_id": 45,
+      "sentence": "\"\n\nThe fisherman trembled but prayed for mercy as he approached the restless sea, whose waves now lashed angrily beneath a stormy violet sky:\n\n\"O sovereign of the seas,\nHear my humble cry!",
+      "subj": "sovereign",
+      "verb": "hear",
+      "obj": "cry"
+    },
+    {
+      "id": "e0044",
+      "label": "wife | command | \u2205",
+      "sent_id": 46,
+      "sentence": "My wife commands\nThat I ask thee high.",
+      "subj": "wife",
+      "verb": "command",
+      "obj": ""
+    },
+    {
+      "id": "e0045",
+      "label": "she | desire | what",
+      "sent_id": 47,
+      "sentence": "\"\n\nThe fish appeared in swirling waters, \u201cWhat now does she desire?\u201d",
+      "subj": "she",
+      "verb": "desire",
+      "obj": "what"
+    },
+    {
+      "id": "e0046",
+      "label": "fisherman | answer | \u2205",
+      "sent_id": 48,
+      "sentence": "The fisherman answered, \u201cShe wishes to be queen.\u201d",
+      "subj": "fisherman",
+      "verb": "answer",
+      "obj": ""
+    },
+    {
+      "id": "e0047",
+      "label": "fish | say | \u2205",
+      "sent_id": 49,
+      "sentence": "\u201cReturn home,\u201d said the fish, \u201cfor she wears the crown already.\u201d",
+      "subj": "fish",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0048",
+      "label": "soldier | march | gate",
+      "sent_id": 50,
+      "sentence": "Before the palace gates, soldiers marched to the sound of drums and the haunting call of the ney flute.",
+      "subj": "soldier",
+      "verb": "march",
+      "obj": "gate"
+    },
+    {
+      "id": "e0049",
+      "label": "banu | sit | \u2205",
+      "sent_id": 51,
+      "sentence": "Inside, Banu sat enthroned on a golden dais encrusted with gems, a diadem of diamonds and pearls upon her head.",
+      "subj": "banu",
+      "verb": "sit",
+      "obj": ""
+    },
+    {
+      "id": "e0050",
+      "label": "\u2205 | stand | attendant",
+      "sent_id": 52,
+      "sentence": "Around her stood elegant attendants, rising in height like towering cypress trees.",
+      "subj": "",
+      "verb": "stand",
+      "obj": "attendant"
+    },
+    {
+      "id": "e0051",
+      "label": "she | declare | \u2205",
+      "sent_id": 53,
+      "sentence": "\u201cI am queen,\u201d she declared proudly.",
+      "subj": "she",
+      "verb": "declare",
+      "obj": ""
+    },
+    {
+      "id": "e0052",
+      "label": "fisherman | sigh | \u2205",
+      "sent_id": 54,
+      "sentence": "The fisherman sighed, \u201cWhat grandeur!",
+      "subj": "fisherman",
+      "verb": "sigh",
+      "obj": ""
+    },
+    {
+      "id": "e0053",
+      "label": "more | need | \u2205",
+      "sent_id": 55,
+      "sentence": "Surely now no more is needed.\u201d",
+      "subj": "more",
+      "verb": "need",
+      "obj": ""
+    },
+    {
+      "id": "e0054",
+      "label": "i | desire | empress",
+      "sent_id": 56,
+      "sentence": "But she smiled slyly, \u201cNow I desire to be the queen of all Iran, the emperor herself.\u201d\n\n\u201cEmpress?",
+      "subj": "i",
+      "verb": "desire",
+      "obj": "empress"
+    },
+    {
+      "id": "e0055",
+      "label": "he | warn | \u2205",
+      "sent_id": 57,
+      "sentence": "But the sea cannot grant all,\u201d he warned.",
+      "subj": "he",
+      "verb": "warn",
+      "obj": ""
+    },
+    {
+      "id": "e0056",
+      "label": "i | command | you",
+      "sent_id": 58,
+      "sentence": "\u201cI command you!\u201d",
+      "subj": "i",
+      "verb": "command",
+      "obj": "you"
+    },
+    {
+      "id": "e0057",
+      "label": "she | say | \u2205",
+      "sent_id": 59,
+      "sentence": "she said sharply.",
+      "subj": "she",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0058",
+      "label": "fisherman | go | sea",
+      "sent_id": 60,
+      "sentence": "\u201cGo, and do not refuse me.\u201d\n\nWith a heavy heart, the fisherman went again to the wild sea.",
+      "subj": "fisherman",
+      "verb": "go",
+      "obj": "sea"
+    },
+    {
+      "id": "e0059",
+      "label": "cloud | fork | sky",
+      "sent_id": 61,
+      "sentence": "Dark clouds roiled overhead, lightning forked through midnight skies, and enormous waves crashed like mountains.",
+      "subj": "cloud",
+      "verb": "fork",
+      "obj": "sky"
+    },
+    {
+      "id": "e0060",
+      "label": "he | call | \u2205",
+      "sent_id": 62,
+      "sentence": "He called out once more:\n\n\u201cO spirit of the deep,\nGrant my wife\u2019s wish steep.",
+      "subj": "he",
+      "verb": "call",
+      "obj": ""
+    },
+    {
+      "id": "e0061",
+      "label": "she | desire | crown",
+      "sent_id": 63,
+      "sentence": "She desires the crown\nThat rules all the town.\u201d",
+      "subj": "she",
+      "verb": "desire",
+      "obj": "crown"
+    },
+    {
+      "id": "e0062",
+      "label": "fish | rise | depth",
+      "sent_id": 64,
+      "sentence": "The fish rose from the depths, \u201cShe is empire\u2019s sovereign now.\u201d",
+      "subj": "fish",
+      "verb": "rise",
+      "obj": "depth"
+    },
+    {
+      "id": "e0063",
+      "label": "banu | seat | throne",
+      "sent_id": 65,
+      "sentence": "Banu was now seated on a heavenly throne, surrounded by princes and nobles, their jewels sparkling like stars, their robes shimmering silk and gold.",
+      "subj": "banu",
+      "verb": "seat",
+      "obj": "throne"
+    },
+    {
+      "id": "e0064",
+      "label": "crown | be | \u2205",
+      "sent_id": 66,
+      "sentence": "Her crown was taller than the tallest minaret, her voice echoing across the land.",
+      "subj": "crown",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0065",
+      "label": "hunger | be | \u2205",
+      "sent_id": 67,
+      "sentence": "But her hunger for power was insatiable.",
+      "subj": "hunger",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0066",
+      "label": "she | declare | \u2205",
+      "sent_id": 68,
+      "sentence": "\u201cI shall be the caliph, the leader of the faithful,\u201d she declared.",
+      "subj": "she",
+      "verb": "declare",
+      "obj": ""
+    },
+    {
+      "id": "e0067",
+      "label": "husband | say | \u2205",
+      "sent_id": 69,
+      "sentence": "\u201cImpossible,\u201d said her husband.",
+      "subj": "husband",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0068",
+      "label": "sea | raise | power",
+      "sent_id": 70,
+      "sentence": "\u201cOne caliph rules at a time; the seas cannot raise such a power for you.\u201d\n\n\u201cGo!\u201d",
+      "subj": "sea",
+      "verb": "raise",
+      "obj": "power"
+    },
+    {
+      "id": "e0069",
+      "label": "she | say | commanding",
+      "sent_id": 71,
+      "sentence": "she said commanding, \u201cor you shall suffer.\u201d",
+      "subj": "she",
+      "verb": "say",
+      "obj": "commanding"
+    },
+    {
+      "id": "e0070",
+      "label": "fisherman | obey | \u2205",
+      "sent_id": 72,
+      "sentence": "Again the fisherman obeyed, approaching the turbulent shore, where wild winds whipped the skies to flame and the sea boiled like molten glass.",
+      "subj": "fisherman",
+      "verb": "obey",
+      "obj": ""
+    },
+    {
+      "id": "e0071",
+      "label": "\u2205 | hear | prayer",
+      "sent_id": 73,
+      "sentence": "His voice trembled as he spoke:\n\n\u201cO ancient ruler beneath the waves,\nHear my prayer from your watery caves!",
+      "subj": "",
+      "verb": "hear",
+      "obj": "prayer"
+    },
+    {
+      "id": "e0072",
+      "label": "wife | desire | praise",
+      "sent_id": 74,
+      "sentence": "My wife desires the highest praise.\u201d",
+      "subj": "wife",
+      "verb": "desire",
+      "obj": "praise"
+    },
+    {
+      "id": "e0073",
+      "label": "fish | rise | \u2205",
+      "sent_id": 75,
+      "sentence": "The fish rose calmly, \u201cShe is caliph already.\u201d",
+      "subj": "fish",
+      "verb": "rise",
+      "obj": ""
+    },
+    {
+      "id": "e0074",
+      "label": "he | go | \u2205",
+      "sent_id": 76,
+      "sentence": "Home he went, finding Banu enthroned higher than the palace towers, surrounded by the magnificence of the faith: rows of flickering lamps like falling stars, sacred texts bound in leather and gold arrayed on every side.",
+      "subj": "he",
+      "verb": "go",
+      "obj": ""
+    },
+    {
+      "id": "e0075",
+      "label": "fisherman | plead | \u2205",
+      "sent_id": 77,
+      "sentence": "\u201cSurely now, no more,\u201d the fisherman pleaded.",
+      "subj": "fisherman",
+      "verb": "plead",
+      "obj": ""
+    },
+    {
+      "id": "e0076",
+      "label": "eye | burn | fire",
+      "sent_id": 78,
+      "sentence": "But Banu\u2019s eyes burned with restless fire.",
+      "subj": "eye",
+      "verb": "burn",
+      "obj": "fire"
+    },
+    {
+      "id": "e0077",
+      "label": "she | declare | \u2205",
+      "sent_id": 79,
+      "sentence": "\u201cI shall be the sun and moon\u2019s mistress,\u201d she declared, \u201cfor how can I rest while they rise and set without my command?\u201d",
+      "subj": "she",
+      "verb": "declare",
+      "obj": ""
+    },
+    {
+      "id": "e0078",
+      "label": "fisherman | awake | start",
+      "sent_id": 80,
+      "sentence": "The fisherman awoke with a start, shaking with fear as thunder rolled and the earth shuddered beneath violent storms.",
+      "subj": "fisherman",
+      "verb": "awake",
+      "obj": "start"
+    },
+    {
+      "id": "e0079",
+      "label": "he | go | shore",
+      "sent_id": 81,
+      "sentence": "He went to the shore, the sky black as pitch, and the sea raging with fury like a wild herd.",
+      "subj": "he",
+      "verb": "go",
+      "obj": "shore"
+    },
+    {
+      "id": "e0080",
+      "label": "he | plead | one",
+      "sent_id": 82,
+      "sentence": "He pleaded one last time:\n\n\u201cO lord of the deep,\nMy wife\u2019s desire I keep \u2014\nTo rule the sun and moon\u2019s sweep.\u201d",
+      "subj": "he",
+      "verb": "plead",
+      "obj": "one"
+    },
+    {
+      "id": "e0081",
+      "label": "fish | reply | \u2205",
+      "sent_id": 83,
+      "sentence": "The fish, silent and grave, replied, \u201cReturn home, to your poor hut by the sea.\u201d",
+      "subj": "fish",
+      "verb": "reply",
+      "obj": ""
+    },
+    {
+      "id": "e0082",
+      "label": "fisherman | find | themselves",
+      "sent_id": 84,
+      "sentence": "And so, the fisherman and Banu found themselves once again in their humble clay hut by the gentle waves, where they lived quietly in the strength of the sea\u2019s mercy, content with what the world had given them.",
+      "subj": "fisherman",
+      "verb": "find",
+      "obj": "themselves"
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    },
+    {
+      "source": "e0029",
+      "target": "e0030",
+      "relation": "next"
+    },
+    {
+      "source": "e0030",
+      "target": "e0031",
+      "relation": "next"
+    },
+    {
+      "source": "e0031",
+      "target": "e0032",
+      "relation": "next"
+    },
+    {
+      "source": "e0032",
+      "target": "e0033",
+      "relation": "next"
+    },
+    {
+      "source": "e0033",
+      "target": "e0034",
+      "relation": "next"
+    },
+    {
+      "source": "e0034",
+      "target": "e0035",
+      "relation": "next"
+    },
+    {
+      "source": "e0035",
+      "target": "e0036",
+      "relation": "next"
+    },
+    {
+      "source": "e0036",
+      "target": "e0037",
+      "relation": "next"
+    },
+    {
+      "source": "e0037",
+      "target": "e0038",
+      "relation": "next"
+    },
+    {
+      "source": "e0038",
+      "target": "e0039",
+      "relation": "next"
+    },
+    {
+      "source": "e0039",
+      "target": "e0040",
+      "relation": "next"
+    },
+    {
+      "source": "e0040",
+      "target": "e0041",
+      "relation": "next"
+    },
+    {
+      "source": "e0041",
+      "target": "e0042",
+      "relation": "next"
+    },
+    {
+      "source": "e0042",
+      "target": "e0043",
+      "relation": "next"
+    },
+    {
+      "source": "e0043",
+      "target": "e0044",
+      "relation": "next"
+    },
+    {
+      "source": "e0044",
+      "target": "e0045",
+      "relation": "next"
+    },
+    {
+      "source": "e0045",
+      "target": "e0046",
+      "relation": "next"
+    },
+    {
+      "source": "e0046",
+      "target": "e0047",
+      "relation": "next"
+    },
+    {
+      "source": "e0047",
+      "target": "e0048",
+      "relation": "next"
+    },
+    {
+      "source": "e0048",
+      "target": "e0049",
+      "relation": "next"
+    },
+    {
+      "source": "e0049",
+      "target": "e0050",
+      "relation": "next"
+    },
+    {
+      "source": "e0050",
+      "target": "e0051",
+      "relation": "next"
+    },
+    {
+      "source": "e0051",
+      "target": "e0052",
+      "relation": "next"
+    },
+    {
+      "source": "e0052",
+      "target": "e0053",
+      "relation": "next"
+    },
+    {
+      "source": "e0053",
+      "target": "e0054",
+      "relation": "next"
+    },
+    {
+      "source": "e0054",
+      "target": "e0055",
+      "relation": "next"
+    },
+    {
+      "source": "e0055",
+      "target": "e0056",
+      "relation": "next"
+    },
+    {
+      "source": "e0056",
+      "target": "e0057",
+      "relation": "next"
+    },
+    {
+      "source": "e0057",
+      "target": "e0058",
+      "relation": "next"
+    },
+    {
+      "source": "e0058",
+      "target": "e0059",
+      "relation": "next"
+    },
+    {
+      "source": "e0059",
+      "target": "e0060",
+      "relation": "next"
+    },
+    {
+      "source": "e0060",
+      "target": "e0061",
+      "relation": "next"
+    },
+    {
+      "source": "e0061",
+      "target": "e0062",
+      "relation": "next"
+    },
+    {
+      "source": "e0062",
+      "target": "e0063",
+      "relation": "next"
+    },
+    {
+      "source": "e0063",
+      "target": "e0064",
+      "relation": "next"
+    },
+    {
+      "source": "e0064",
+      "target": "e0065",
+      "relation": "next"
+    },
+    {
+      "source": "e0065",
+      "target": "e0066",
+      "relation": "next"
+    },
+    {
+      "source": "e0066",
+      "target": "e0067",
+      "relation": "next"
+    },
+    {
+      "source": "e0067",
+      "target": "e0068",
+      "relation": "next"
+    },
+    {
+      "source": "e0068",
+      "target": "e0069",
+      "relation": "next"
+    },
+    {
+      "source": "e0069",
+      "target": "e0070",
+      "relation": "next"
+    },
+    {
+      "source": "e0070",
+      "target": "e0071",
+      "relation": "next"
+    },
+    {
+      "source": "e0071",
+      "target": "e0072",
+      "relation": "next"
+    },
+    {
+      "source": "e0072",
+      "target": "e0073",
+      "relation": "next"
+    },
+    {
+      "source": "e0073",
+      "target": "e0074",
+      "relation": "next"
+    },
+    {
+      "source": "e0074",
+      "target": "e0075",
+      "relation": "next"
+    },
+    {
+      "source": "e0075",
+      "target": "e0076",
+      "relation": "next"
+    },
+    {
+      "source": "e0076",
+      "target": "e0077",
+      "relation": "next"
+    },
+    {
+      "source": "e0077",
+      "target": "e0078",
+      "relation": "next"
+    },
+    {
+      "source": "e0078",
+      "target": "e0079",
+      "relation": "next"
+    },
+    {
+      "source": "e0079",
+      "target": "e0080",
+      "relation": "next"
+    },
+    {
+      "source": "e0080",
+      "target": "e0081",
+      "relation": "next"
+    },
+    {
+      "source": "e0081",
+      "target": "e0082",
+      "relation": "next"
+    }
+  ]
+}

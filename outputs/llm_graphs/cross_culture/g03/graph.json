@@ -1,0 +1,716 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "\u2205 | live | couple",
+      "sent_id": 0,
+      "sentence": "In a small village nestled beneath the rugged mountains of Persia, there lived a humble couple who longed with all their hearts for a child but remained childless for many years.",
+      "subj": "",
+      "verb": "live",
+      "obj": "couple"
+    },
+    {
+      "id": "e0001",
+      "label": "wife | stand | window",
+      "sent_id": 1,
+      "sentence": "One day, the wife stood by a small lattice window facing the grand garden of a nearby palace.",
+      "subj": "wife",
+      "verb": "stand",
+      "obj": "window"
+    },
+    {
+      "id": "e0002",
+      "label": "it | say | \u2205",
+      "sent_id": 3,
+      "sentence": "It was said that the garden belonged to a powerful sorceress, a woman both feared and respected throughout the land.",
+      "subj": "it",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0003",
+      "label": "she | spot | bed",
+      "sent_id": 4,
+      "sentence": "As the wife gazed into the garden, she spotted a bed of lovely fenugreek plants\u2014a herb prized in Persian cooking and medicine.",
+      "subj": "she",
+      "verb": "spot",
+      "obj": "bed"
+    },
+    {
+      "id": "e0004",
+      "label": "leaf | call | she",
+      "sent_id": 5,
+      "sentence": "Its vibrant green leaves called to her, and she became consumed with desire for it.",
+      "subj": "leaf",
+      "verb": "call",
+      "obj": "she"
+    },
+    {
+      "id": "e0005",
+      "label": "health | wan | \u2205",
+      "sent_id": 6,
+      "sentence": "Her health soon waned, and her face grew pale with longing.",
+      "subj": "health",
+      "verb": "wan",
+      "obj": ""
+    },
+    {
+      "id": "e0006",
+      "label": "husband | ask | \u2205",
+      "sent_id": 7,
+      "sentence": "The husband, seeing her suffer, asked what troubled her so.",
+      "subj": "husband",
+      "verb": "ask",
+      "obj": ""
+    },
+    {
+      "id": "e0007",
+      "label": "she | whisper | \u2205",
+      "sent_id": 8,
+      "sentence": "\u201cIf I do not taste the fenugreek from the sorceress\u2019s garden,\u201d she whispered, \u201cI shall surely perish.\u201d",
+      "subj": "she",
+      "verb": "whisper",
+      "obj": ""
+    },
+    {
+      "id": "e0008",
+      "label": "man | resolve | \u2205",
+      "sent_id": 9,
+      "sentence": "Driven by love, the man resolved to risk all and steal some of the herb.",
+      "subj": "man",
+      "verb": "resolve",
+      "obj": ""
+    },
+    {
+      "id": "e0009",
+      "label": "he | scale | wall",
+      "sent_id": 10,
+      "sentence": "As dusk fell, he scaled the high garden walls, plucked a handful of fenugreek leaves, and hurried home to his wife.",
+      "subj": "he",
+      "verb": "scale",
+      "obj": "wall"
+    },
+    {
+      "id": "e0010",
+      "label": "she | feast | they",
+      "sent_id": 11,
+      "sentence": "She feasted eagerly upon them, and the taste revived her like the sweetest sherbet on a summer\u2019s day.",
+      "subj": "she",
+      "verb": "feast",
+      "obj": "they"
+    },
+    {
+      "id": "e0011",
+      "label": "craving | be | \u2205",
+      "sent_id": 12,
+      "sentence": "But the next morning, her craving was threefold, and he knew he must return.",
+      "subj": "craving",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0012",
+      "label": "sorceress | confront | he",
+      "sent_id": 13,
+      "sentence": "On his next venture, however, the sorceress confronted him, her eyes blazing like burning coals.",
+      "subj": "sorceress",
+      "verb": "confront",
+      "obj": "he"
+    },
+    {
+      "id": "e0013",
+      "label": "she | thunder | dare",
+      "sent_id": 14,
+      "sentence": "\u201cHow dare you trespass and take what is mine as though you were a thief?\u201d she thundered.",
+      "subj": "she",
+      "verb": "thunder",
+      "obj": "dare"
+    },
+    {
+      "id": "e0014",
+      "label": "he | beg | mercy",
+      "sent_id": 15,
+      "sentence": "Trembling, he begged her mercy and told of his wife\u2019s dire need.",
+      "subj": "he",
+      "verb": "beg",
+      "obj": "mercy"
+    },
+    {
+      "id": "e0015",
+      "label": "sorceress | agree | \u2205",
+      "sent_id": 16,
+      "sentence": "Moved to a semblance of kindness, the sorceress agreed to allow him as much fenugreek as he wished\u2014but on one condition: that in time, they would give her their child.",
+      "subj": "sorceress",
+      "verb": "agree",
+      "obj": ""
+    },
+    {
+      "id": "e0016",
+      "label": "man | consent | \u2205",
+      "sent_id": 17,
+      "sentence": "The man, fearful yet desperate, consented.",
+      "subj": "man",
+      "verb": "consent",
+      "obj": ""
+    },
+    {
+      "id": "e0017",
+      "label": "sorceress | appear | \u2205",
+      "sent_id": 18,
+      "sentence": "When the child was born, the sorceress appeared, naming the girl Shireen, meaning \u201csweet,\u201d and took her away to raise in a hidden tower deep within the cypress forests.",
+      "subj": "sorceress",
+      "verb": "appear",
+      "obj": ""
+    },
+    {
+      "id": "e0018",
+      "label": "tower | have | door",
+      "sent_id": 19,
+      "sentence": "The tower had no door and only a small window at the top.",
+      "subj": "tower",
+      "verb": "have",
+      "obj": "door"
+    },
+    {
+      "id": "e0019",
+      "label": "she | stand | \u2205",
+      "sent_id": 20,
+      "sentence": "Whenever the sorceress wanted to visit, she would stand below and call:\n\n\u201cShireen, Shireen, \nShed down your hair for me.\u201d",
+      "subj": "she",
+      "verb": "stand",
+      "obj": ""
+    },
+    {
+      "id": "e0020",
+      "label": "hair | be | \u2205",
+      "sent_id": 21,
+      "sentence": "Shireen\u2019s hair was like spun gold, long and gleaming like the threads of Persian silk.",
+      "subj": "hair",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0021",
+      "label": "she | lower | it",
+      "sent_id": 22,
+      "sentence": "She would lower it from the window, winding her braids around a carved ring, and the sorceress would climb up as easily as a bird.",
+      "subj": "she",
+      "verb": "lower",
+      "obj": "it"
+    },
+    {
+      "id": "e0022",
+      "label": "year | pass | \u2205",
+      "sent_id": 23,
+      "sentence": "Years passed, and Shireen blossomed into a maiden of breathtaking beauty, her voice as pure and melodious as the ney flute.",
+      "subj": "year",
+      "verb": "pass",
+      "obj": ""
+    },
+    {
+      "id": "e0023",
+      "label": "prince | hear | song",
+      "sent_id": 24,
+      "sentence": "One day, a prince from a distant land rode through the forest and heard her enchanting song.",
+      "subj": "prince",
+      "verb": "hear",
+      "obj": "song"
+    },
+    {
+      "id": "e0024",
+      "label": "he | seek | \u2205",
+      "sent_id": 25,
+      "sentence": "Entranced, he sought to find her, but the tower had no door, only the high window.",
+      "subj": "he",
+      "verb": "seek",
+      "obj": ""
+    },
+    {
+      "id": "e0025",
+      "label": "he | watch | \u2205",
+      "sent_id": 26,
+      "sentence": "He watched as the sorceress called her name and heard the hair descend.",
+      "subj": "he",
+      "verb": "watch",
+      "obj": ""
+    },
+    {
+      "id": "e0026",
+      "label": "prince | think | \u2205",
+      "sent_id": 27,
+      "sentence": "\u201cI too must try,\u201d the prince thought.",
+      "subj": "prince",
+      "verb": "think",
+      "obj": ""
+    },
+    {
+      "id": "e0027",
+      "label": "he | call | shireen",
+      "sent_id": 28,
+      "sentence": "At dusk, he called softly:\n\n\u201cShireen, Shireen,",
+      "subj": "he",
+      "verb": "call",
+      "obj": "shireen"
+    },
+    {
+      "id": "e0028",
+      "label": "\u2205 | shed | hair",
+      "sent_id": 29,
+      "sentence": "Shed down your hair for me.\u201d",
+      "subj": "",
+      "verb": "shed",
+      "obj": "hair"
+    },
+    {
+      "id": "e0029",
+      "label": "tress | fall | \u2205",
+      "sent_id": 30,
+      "sentence": "Her golden tresses fell, and the prince climbed up.",
+      "subj": "tress",
+      "verb": "fall",
+      "obj": ""
+    },
+    {
+      "id": "e0030",
+      "label": "shireen | tremble | \u2205",
+      "sent_id": 31,
+      "sentence": "At first, Shireen trembled, unaccustomed to the sight of a human other than her captor.",
+      "subj": "shireen",
+      "verb": "tremble",
+      "obj": ""
+    },
+    {
+      "id": "e0031",
+      "label": "prince | speak | \u2205",
+      "sent_id": 32,
+      "sentence": "But the prince spoke kindly, and soon they vowed their love.",
+      "subj": "prince",
+      "verb": "speak",
+      "obj": ""
+    },
+    {
+      "id": "e0032",
+      "label": "she | agree | \u2205",
+      "sent_id": 33,
+      "sentence": "She agreed to escape with him, weaving a rope of silk threads he brought each night.",
+      "subj": "she",
+      "verb": "agree",
+      "obj": ""
+    },
+    {
+      "id": "e0033",
+      "label": "shireen | ask | sorceress",
+      "sent_id": 34,
+      "sentence": "Their secret remained until one day Shireen asked the sorceress why she was so heavy to haul up compared to the prince.",
+      "subj": "shireen",
+      "verb": "ask",
+      "obj": "sorceress"
+    },
+    {
+      "id": "e0034",
+      "label": "sorceress | seize | hair",
+      "sent_id": 35,
+      "sentence": "Realizing the betrayal, the sorceress seized the golden hair, cut it short, and banished Shireen to wander the desert alone, her heart heavy with sorrow.",
+      "subj": "sorceress",
+      "verb": "seize",
+      "obj": "hair"
+    },
+    {
+      "id": "e0035",
+      "label": "sorceress | let | trap",
+      "sent_id": 36,
+      "sentence": "The next time the prince came, the sorceress let down the shorn hair as a trap.",
+      "subj": "sorceress",
+      "verb": "let",
+      "obj": "trap"
+    },
+    {
+      "id": "e0036",
+      "label": "she | tell | \u2205",
+      "sent_id": 37,
+      "sentence": "Angry, she told him Shireen was lost to him forever, and in despair he fled from the tower, falling among thorny bushes that blinded him.",
+      "subj": "she",
+      "verb": "tell",
+      "obj": ""
+    },
+    {
+      "id": "e0037",
+      "label": "prince | wander | wilderness",
+      "sent_id": 38,
+      "sentence": "Blind and forlorn, the prince wandered through the wilderness, living on wild herbs and lamenting his lost love.",
+      "subj": "prince",
+      "verb": "wander",
+      "obj": "wilderness"
+    },
+    {
+      "id": "e0038",
+      "label": "footstep | bring | he",
+      "sent_id": 39,
+      "sentence": "At length, his footsteps brought him near the desert where Shireen, now a mother of twins\u2014twin stars of her own fortune\u2014was dwelling in exile.",
+      "subj": "footstep",
+      "verb": "bring",
+      "obj": "he"
+    },
+    {
+      "id": "e0039",
+      "label": "prince | call | \u2205",
+      "sent_id": 40,
+      "sentence": "Hearing her voice upon the wind, the prince called out.",
+      "subj": "prince",
+      "verb": "call",
+      "obj": ""
+    },
+    {
+      "id": "e0040",
+      "label": "shireen | recognize | he",
+      "sent_id": 41,
+      "sentence": "Shireen recognized him and embraced him, and two tears from her eyes fell upon his blind ones.",
+      "subj": "shireen",
+      "verb": "recognize",
+      "obj": "he"
+    },
+    {
+      "id": "e0041",
+      "label": "\u2205 | be | forester",
+      "sent_id": 42,
+      "sentence": "Miraculously, his sight was restored, and with joy they journeyed back to his kingdom, where they lived happily, forever blessed by the grace of the heavens.\n\n---\n\nIn another tale from those ancient lands, there was a forester who heard the plaintive cries of a child deep in the forest.",
+      "subj": "",
+      "verb": "be",
+      "obj": "forester"
+    },
+    {
+      "id": "e0042",
+      "label": "he | find | sound",
+      "sent_id": 43,
+      "sentence": "Following the sound, he found a baby perched high in the branches of an old pomegranate tree, abandoned after a bird of prey had snatched it away from its sleeping mother.",
+      "subj": "he",
+      "verb": "find",
+      "obj": "sound"
+    },
+    {
+      "id": "e0043",
+      "label": "forester | climb | \u2205",
+      "sent_id": 44,
+      "sentence": "The forester climbed and rescued the child, naming him Parvaneh, meaning \u201cbutterfly,\u201d for the bird that had carried him.",
+      "subj": "forester",
+      "verb": "climb",
+      "obj": ""
+    },
+    {
+      "id": "e0044",
+      "label": "parvaneh | raise | daughter",
+      "sent_id": 45,
+      "sentence": "Parvaneh was raised alongside the forester\u2019s daughter, Laleh, and the two children grew inseparable, their hearts bound like the threads of a Persian carpet.",
+      "subj": "parvaneh",
+      "verb": "raise",
+      "obj": "daughter"
+    },
+    {
+      "id": "e0045",
+      "label": "danger | lurk | home",
+      "sent_id": 46,
+      "sentence": "But danger lurked in their home.",
+      "subj": "danger",
+      "verb": "lurk",
+      "obj": "home"
+    },
+    {
+      "id": "e0046",
+      "label": "laleh | overhear | \u2205",
+      "sent_id": 48,
+      "sentence": "Laleh overheard and warned Parvaneh.",
+      "subj": "laleh",
+      "verb": "overhear",
+      "obj": ""
+    },
+    {
+      "id": "e0047",
+      "label": "child | flee | dawn",
+      "sent_id": 49,
+      "sentence": "At dawn, the children fled into the forest, escaping the wicked plot.",
+      "subj": "child",
+      "verb": "flee",
+      "obj": "dawn"
+    },
+    {
+      "id": "e0048",
+      "label": "cook | send | servant",
+      "sent_id": 50,
+      "sentence": "The cook sent three servants to catch them, but the children turned into magical forms to evade capture: first a rose bush and blossom, then a mosque with a glowing chandelier, and finally a lotus pond with a duck floating upon it.",
+      "subj": "cook",
+      "verb": "send",
+      "obj": "servant"
+    },
+    {
+      "id": "e0049",
+      "label": "cook | meet | end",
+      "sent_id": 51,
+      "sentence": "The cook met her end when she tried to drink the pond, and the duck dragged her beneath the waters.",
+      "subj": "cook",
+      "verb": "meet",
+      "obj": "end"
+    },
+    {
+      "id": "e0050",
+      "label": "free | return | \u2205",
+      "sent_id": 52,
+      "sentence": "Freed from their pursuer, Parvaneh and Laleh returned home, their love stronger and unbroken, living on in the whispers of the wind and the tales told beneath the stars of Persia.",
+      "subj": "free",
+      "verb": "return",
+      "obj": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    },
+    {
+      "source": "e0029",
+      "target": "e0030",
+      "relation": "next"
+    },
+    {
+      "source": "e0030",
+      "target": "e0031",
+      "relation": "next"
+    },
+    {
+      "source": "e0031",
+      "target": "e0032",
+      "relation": "next"
+    },
+    {
+      "source": "e0032",
+      "target": "e0033",
+      "relation": "next"
+    },
+    {
+      "source": "e0033",
+      "target": "e0034",
+      "relation": "next"
+    },
+    {
+      "source": "e0034",
+      "target": "e0035",
+      "relation": "next"
+    },
+    {
+      "source": "e0035",
+      "target": "e0036",
+      "relation": "next"
+    },
+    {
+      "source": "e0036",
+      "target": "e0037",
+      "relation": "next"
+    },
+    {
+      "source": "e0037",
+      "target": "e0038",
+      "relation": "next"
+    },
+    {
+      "source": "e0038",
+      "target": "e0039",
+      "relation": "next"
+    },
+    {
+      "source": "e0039",
+      "target": "e0040",
+      "relation": "next"
+    },
+    {
+      "source": "e0040",
+      "target": "e0041",
+      "relation": "next"
+    },
+    {
+      "source": "e0041",
+      "target": "e0042",
+      "relation": "next"
+    },
+    {
+      "source": "e0042",
+      "target": "e0043",
+      "relation": "next"
+    },
+    {
+      "source": "e0043",
+      "target": "e0044",
+      "relation": "next"
+    },
+    {
+      "source": "e0044",
+      "target": "e0045",
+      "relation": "next"
+    },
+    {
+      "source": "e0045",
+      "target": "e0046",
+      "relation": "next"
+    },
+    {
+      "source": "e0046",
+      "target": "e0047",
+      "relation": "next"
+    },
+    {
+      "source": "e0047",
+      "target": "e0048",
+      "relation": "next"
+    },
+    {
+      "source": "e0048",
+      "target": "e0049",
+      "relation": "next"
+    },
+    {
+      "source": "e0049",
+      "target": "e0050",
+      "relation": "next"
+    }
+  ]
+}

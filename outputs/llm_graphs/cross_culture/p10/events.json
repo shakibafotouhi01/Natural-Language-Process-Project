@@ -1,0 +1,498 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "warrior",
+    "verb": "come",
+    "obj": "sky",
+    "label": "warrior | come | sky",
+    "sentence": "Long ago, beneath the endless sky and among the great forests of the plains, there came forth four noble warriors\u2014Toos, Gew, Goodarz, and others\u2014from the wide tribes of the land of the Eagle\u2019s Nest."
+  },
+  {
+    "sent_id": 1,
+    "subj": "they",
+    "verb": "venture",
+    "obj": "grove",
+    "label": "they | venture | grove",
+    "sentence": "They ventured into the sacred groves of the Great Oak to chase the wild mustangs that roamed free."
+  },
+  {
+    "sent_id": 2,
+    "subj": "they",
+    "verb": "find",
+    "obj": "woman",
+    "label": "they | find | woman",
+    "sentence": "Deep within the woods, they found a woman of such rare beauty that even the whispering winds paused to admire her."
+  },
+  {
+    "sent_id": 3,
+    "subj": "toos",
+    "verb": "feel",
+    "obj": "",
+    "label": "toos | feel | \u2205",
+    "sentence": "Toos and Gew felt their hearts kindle like fire at her sight."
+  },
+  {
+    "sent_id": 4,
+    "subj": "they",
+    "verb": "ask",
+    "obj": "root",
+    "label": "they | ask | root",
+    "sentence": "They asked of her roots and learned she came from the ancient line of Feridoun, a lineage honored among all tribes."
+  },
+  {
+    "sent_id": 5,
+    "subj": "warrior",
+    "verb": "wish",
+    "obj": "",
+    "label": "warrior | wish | \u2205",
+    "sentence": "Each warrior wished to claim her as his wife, but neither would step aside."
+  },
+  {
+    "sent_id": 6,
+    "subj": "voice",
+    "verb": "rise",
+    "obj": "thunder",
+    "label": "voice | rise | thunder",
+    "sentence": "Their voices rose like thunder, and they nearly came to blows."
+  },
+  {
+    "sent_id": 7,
+    "subj": "elder",
+    "verb": "speak",
+    "obj": "",
+    "label": "elder | speak | \u2205",
+    "sentence": "Then a wise elder spoke, \u201cLet the Black Hawk, Kai Kawous, decide between you.\u201d"
+  },
+  {
+    "sent_id": 8,
+    "subj": "they",
+    "verb": "agree",
+    "obj": "",
+    "label": "they | agree | \u2205",
+    "sentence": "They agreed and journeyed to the great lodge of Kai Kawous, carrying the woman with them."
+  },
+  {
+    "sent_id": 9,
+    "subj": "kawous",
+    "verb": "gaze",
+    "obj": "face",
+    "label": "kawous | gaze | face",
+    "sentence": "Kai Kawous gazed upon her radiant face and his own heart burned with desire."
+  },
+  {
+    "sent_id": 10,
+    "subj": "he",
+    "verb": "declare",
+    "obj": "",
+    "label": "he | declare | \u2205",
+    "sentence": "\u201cShe is worthy of a chief,\u201d he declared, and he took her to live among his women."
+  },
+  {
+    "sent_id": 11,
+    "subj": "he",
+    "verb": "name",
+    "obj": "saiawosh",
+    "label": "he | name | saiawosh",
+    "sentence": "In time, she bore him a son, strong and tall like the towering cedars\u2014he was named Saiawosh."
+  },
+  {
+    "sent_id": 12,
+    "subj": "joy",
+    "verb": "fill",
+    "obj": "heart",
+    "label": "joy | fill | heart",
+    "sentence": "Joy filled Kai Kawous\u2019s heart, yet a shadow crossed it, for the stars had whispered a troubling prophecy: the heavens would challenge this child, and even his greatest strengths might not save him from fate."
+  },
+  {
+    "sent_id": 13,
+    "subj": "news",
+    "verb": "travel",
+    "obj": "",
+    "label": "news | travel | \u2205",
+    "sentence": "News of the child\u2019s birth traveled far, reaching the land of Rostam, the mighty warrior of the Bear Clan."
+  },
+  {
+    "sent_id": 14,
+    "subj": "rostam",
+    "verb": "journey",
+    "obj": "nest",
+    "label": "rostam | journey | nest",
+    "sentence": "Stirred from his mourning for a lost son, Rostam journeyed to the Eagle\u2019s Nest, asking to raise Saiawosh as his own."
+  },
+  {
+    "sent_id": 15,
+    "subj": "kawous",
+    "verb": "consent",
+    "obj": "",
+    "label": "kawous | consent | \u2205",
+    "sentence": "Kai Kawous consented, and Rostam brought the boy to his village, teaching him the ways of the warrior and the customs of feasting under the open skies."
+  },
+  {
+    "sent_id": 16,
+    "subj": "saiawosh",
+    "verb": "grow",
+    "obj": "strength",
+    "label": "saiawosh | grow | strength",
+    "sentence": "Saiawosh grew in strength and honor, unmatched across the lands."
+  },
+  {
+    "sent_id": 17,
+    "subj": "he",
+    "verb": "seek",
+    "obj": "rostam",
+    "label": "he | seek | rostam",
+    "sentence": "When Saiawosh was old enough to catch a great mountain lion with his own hands, he sought out Rostam and said, \u201cIt is time I meet the Black Hawk, my father, and show him the man I have become.\u201d"
+  },
+  {
+    "sent_id": 18,
+    "subj": "rostam",
+    "verb": "lead",
+    "obj": "host",
+    "label": "rostam | lead | host",
+    "sentence": "Rostam, proud, led the host through the rolling hills to Kai Kawous\u2019s lodge."
+  },
+  {
+    "sent_id": 19,
+    "subj": "tribe",
+    "verb": "rejoice",
+    "obj": "arrival",
+    "label": "tribe | rejoice | arrival",
+    "sentence": "The tribes rejoiced at Saiawosh\u2019s arrival, and Kai Kawous welcomed him with gifts of turquoise and silver, placing him beside himself on the council seat."
+  },
+  {
+    "sent_id": 20,
+    "subj": "saiawosh",
+    "verb": "prove",
+    "obj": "worth",
+    "label": "saiawosh | prove | worth",
+    "sentence": "For seven years, Saiawosh proved his worth, and in the eighth year, his father crowned him chief, and all believed the stars\u2019 dark warnings were false."
+  },
+  {
+    "sent_id": 21,
+    "subj": "weaving",
+    "verb": "be",
+    "obj": "",
+    "label": "weaving | be | \u2205",
+    "sentence": "But the weaving of fate is never so easily undone."
+  },
+  {
+    "sent_id": 22,
+    "subj": "sudaveh",
+    "verb": "see",
+    "obj": "vigor",
+    "label": "sudaveh | see | vigor",
+    "sentence": "Sudaveh, a woman at the lodge, saw Saiawosh\u2019s youthful vigor and beauty, and her heart burned with secret longing."
+  },
+  {
+    "sent_id": 23,
+    "subj": "she",
+    "verb": "send",
+    "obj": "whisper",
+    "label": "she | send | whisper",
+    "sentence": "She sent whispers inviting him into the women\u2019s quarters."
+  },
+  {
+    "sent_id": 24,
+    "subj": "saiawosh",
+    "verb": "decline",
+    "obj": "",
+    "label": "saiawosh | decline | \u2205",
+    "sentence": "Saiawosh, cautious and honorable, declined."
+  },
+  {
+    "sent_id": 25,
+    "subj": "envy",
+    "verb": "grow",
+    "obj": "",
+    "label": "envy | grow | \u2205",
+    "sentence": "Sudaveh\u2019s envy grew, and she told Kai Kawous lies, accusing Saiawosh of disrespect and deception."
+  },
+  {
+    "sent_id": 26,
+    "subj": "kawous",
+    "verb": "struggle",
+    "obj": "love",
+    "label": "kawous | struggle | love",
+    "sentence": "Blinded by love for Sudaveh and distrust, Kai Kawous struggled between fatherly love and suspicion."
+  },
+  {
+    "sent_id": 27,
+    "subj": "kawous",
+    "verb": "order",
+    "obj": "fire",
+    "label": "kawous | order | fire",
+    "sentence": "To test Saiawosh\u2019s truth, Kai Kawous ordered a great fire to be built\u2014a pyre towering like the sacred mountain, ablaze with cedar and pine, its smoke reaching the stars."
+  },
+  {
+    "sent_id": 28,
+    "subj": "son",
+    "verb": "command",
+    "obj": "",
+    "label": "son | command | \u2205",
+    "sentence": "The son was commanded to ride his horse through the flame."
+  },
+  {
+    "sent_id": 29,
+    "subj": "saiawosh",
+    "verb": "ride",
+    "obj": "prayer",
+    "label": "saiawosh | ride | prayer",
+    "sentence": "With a prayer to the Great Spirit, Saiawosh rode undaunted into the fire."
+  },
+  {
+    "sent_id": 30,
+    "subj": "all",
+    "verb": "hold",
+    "obj": "breath",
+    "label": "all | hold | breath",
+    "sentence": "All who watched held their breath, believing no man could survive such a trial."
+  },
+  {
+    "sent_id": 31,
+    "subj": "hair",
+    "verb": "sing",
+    "obj": "",
+    "label": "hair | sing | \u2205",
+    "sentence": "But Saiawosh emerged unharmed, his robes clean, not a hair singed."
+  },
+  {
+    "sent_id": 32,
+    "subj": "shout",
+    "verb": "echo",
+    "obj": "valley",
+    "label": "shout | echo | valley",
+    "sentence": "A shout of joy echoed from valley to river."
+  },
+  {
+    "sent_id": 33,
+    "subj": "heart",
+    "verb": "sink",
+    "obj": "",
+    "label": "heart | sink | \u2205",
+    "sentence": "Sudaveh\u2019s heart sank while the tribes praised Saiawosh\u2019s bravery and truth."
+  },
+  {
+    "sent_id": 34,
+    "subj": "kawous",
+    "verb": "embrace",
+    "obj": "son",
+    "label": "kawous | embrace | son",
+    "sentence": "Kai Kawous embraced his son, and peace seemed restored."
+  },
+  {
+    "sent_id": 35,
+    "subj": "shadow",
+    "verb": "linger",
+    "obj": "",
+    "label": "shadow | linger | \u2205",
+    "sentence": "Yet Sudaveh\u2019s shadow lingered, and her lies stirred again, poisoning his father\u2019s heart."
+  },
+  {
+    "sent_id": 36,
+    "subj": "seed",
+    "verb": "take",
+    "obj": "root",
+    "label": "seed | take | root",
+    "sentence": "Though Saiawosh pleaded for peace, the seeds of doubt took root."
+  },
+  {
+    "sent_id": 37,
+    "subj": "saiawosh",
+    "verb": "ask",
+    "obj": "honor",
+    "label": "saiawosh | ask | honor",
+    "sentence": "When war drums thundered and Afrasiyab, the Wolf King from the northern lands, gathered his fierce warriors to challenge the Eagle\u2019s Nest, Saiawosh asked for the honor to lead the warriors."
+  },
+  {
+    "sent_id": 38,
+    "subj": "he",
+    "verb": "march",
+    "obj": "rostam",
+    "label": "he | march | rostam",
+    "sentence": "With Rostam by his side, he marched against foes from the distant Turan forests."
+  },
+  {
+    "sent_id": 39,
+    "subj": "force",
+    "verb": "triumph",
+    "obj": "",
+    "label": "force | triumph | \u2205",
+    "sentence": "The battles raged like summer storms; at last, Saiawosh\u2019s forces triumphed, and he sent word to Kai Kawous of their success."
+  },
+  {
+    "sent_id": 41,
+    "subj": "afrasiyab",
+    "verb": "send",
+    "obj": "gift",
+    "label": "afrasiyab | send | gift",
+    "sentence": "Seeking peace, Afrasiyab sent gifts and ambassadors, asking Saiawosh to lay down arms and make a pact."
+  },
+  {
+    "sent_id": 42,
+    "subj": "saiawosh",
+    "verb": "agree",
+    "obj": "parley",
+    "label": "saiawosh | agree | parley",
+    "sentence": "Saiawosh and Rostam agreed to parley, but with caution, demanding hostages to ensure trust."
+  },
+  {
+    "sent_id": 43,
+    "subj": "peace",
+    "verb": "forge",
+    "obj": "",
+    "label": "peace | forge | \u2205",
+    "sentence": "A fragile peace was forged, yet Kai Kawous, hearing of these dealings, was filled with rage and scorned Saiawosh for what he saw as weakness."
+  },
+  {
+    "sent_id": 44,
+    "subj": "he",
+    "verb": "command",
+    "obj": "saiawosh",
+    "label": "he | command | saiawosh",
+    "sentence": "He commanded Saiawosh to break the peace and destroy the hostages and tribes beyond the borders."
+  },
+  {
+    "sent_id": 45,
+    "subj": "saiawosh",
+    "verb": "refuse",
+    "obj": "",
+    "label": "saiawosh | refuse | \u2205",
+    "sentence": "But Saiawosh, bound by honor and the spirits\u2019 guidance, refused."
+  },
+  {
+    "sent_id": 46,
+    "subj": "saiawosh",
+    "verb": "send",
+    "obj": "hostage",
+    "label": "saiawosh | send | hostage",
+    "sentence": "Choosing exile over betrayal, Saiawosh sent back the hostages and sought refuge in the lands of Afrasiyab."
+  },
+  {
+    "sent_id": 47,
+    "subj": "king",
+    "verb": "welcome",
+    "obj": "saiawosh",
+    "label": "king | welcome | saiawosh",
+    "sentence": "The Wolf King, advised by the wise Piran, welcomed Saiawosh as kin, giving him a wife, Ferangis, Afrasiyab\u2019s daughter, and a throne within Turan."
+  },
+  {
+    "sent_id": 48,
+    "subj": "saiawosh",
+    "verb": "build",
+    "obj": "city",
+    "label": "saiawosh | build | city",
+    "sentence": "Saiawosh built a city named Gangdis amid the plains\u2014a place of beauty and song, where the people rejoiced in games and dances beneath the sun."
+  },
+  {
+    "sent_id": 49,
+    "subj": "shadow",
+    "verb": "creep",
+    "obj": "",
+    "label": "shadow | creep | \u2205",
+    "sentence": "Yet fate\u2019s shadow crept closer."
+  },
+  {
+    "sent_id": 50,
+    "subj": "jealousy",
+    "verb": "poison",
+    "obj": "gersiwaz",
+    "label": "jealousy | poison | gersiwaz",
+    "sentence": "Jealousy poisoned Afrasiyab\u2019s brother Gersiwaz, who plotted against Saiawosh."
+  },
+  {
+    "sent_id": 51,
+    "subj": "gersiwaz",
+    "verb": "sow",
+    "obj": "distrust",
+    "label": "gersiwaz | sow | distrust",
+    "sentence": "Feigning friendship, Gersiwaz sowed distrust, whispering to Afrasiyab that Saiawosh planned betrayal."
+  },
+  {
+    "sent_id": 52,
+    "subj": "anger",
+    "verb": "burn",
+    "obj": "",
+    "label": "anger | burn | \u2205",
+    "sentence": "Afrasiyab\u2019s anger burned, and soon he marched against Saiawosh\u2019s city."
+  },
+  {
+    "sent_id": 53,
+    "subj": "saiawosh",
+    "verb": "speak",
+    "obj": "ferangis",
+    "label": "saiawosh | speak | ferangis",
+    "sentence": "Forewarned, Saiawosh spoke with Ferangis, preparing her for the coming loss."
+  },
+  {
+    "sent_id": 54,
+    "subj": "he",
+    "verb": "mount",
+    "obj": "horse",
+    "label": "he | mount | horse",
+    "sentence": "With tears and courage, he mounted his horse and faced the army of Turan unarmed, refusing to bite the hand that fed him."
+  },
+  {
+    "sent_id": 55,
+    "subj": "warrior",
+    "verb": "fall",
+    "obj": "autumn",
+    "label": "warrior | fall | autumn",
+    "sentence": "His warriors fell like autumn leaves around him, and Saiawosh was taken captive."
+  },
+  {
+    "sent_id": 56,
+    "subj": "ferangis",
+    "verb": "stand",
+    "obj": "father",
+    "label": "ferangis | stand | father",
+    "sentence": "Though Afrasiyab\u2019s heart wavered, influenced by Gersiwaz\u2019s poison, Ferangis stood before her father, begging for Saiawosh\u2019s life and warning of the doom that killing him would bring."
+  },
+  {
+    "sent_id": 57,
+    "subj": "rage",
+    "verb": "rule",
+    "obj": "spirit",
+    "label": "rage | rule | spirit",
+    "sentence": "Yet rage ruled Afrasiyab\u2019s spirit, and Saiawosh was slain."
+  },
+  {
+    "sent_id": 58,
+    "subj": "storm",
+    "verb": "rag",
+    "obj": "",
+    "label": "storm | rag | \u2205",
+    "sentence": "As the blade fell, storms raged\u2014heavens wept, and the earth trembled, mourning the fall of a noble chief."
+  },
+  {
+    "sent_id": 59,
+    "subj": "afrasiyab",
+    "verb": "confine",
+    "obj": "ferangis",
+    "label": "afrasiyab | confine | ferangis",
+    "sentence": "Realizing too late, Afrasiyab confined Ferangis to the shadows of the lodge."
+  },
+  {
+    "sent_id": 60,
+    "subj": "piran",
+    "verb": "plead",
+    "obj": "life",
+    "label": "piran | plead | life",
+    "sentence": "Piran pleaded for her life, offering to protect her far from the reach of pain."
+  },
+  {
+    "sent_id": 61,
+    "subj": "heart",
+    "verb": "burn",
+    "obj": "quiet",
+    "label": "heart | burn | quiet",
+    "sentence": "In the quiet that followed, Afrasiyab\u2019s heart burned with sorrow and regret."
+  },
+  {
+    "sent_id": 62,
+    "subj": "spirit",
+    "verb": "live",
+    "obj": "story",
+    "label": "spirit | live | story",
+    "sentence": "The spirit of Saiawosh lived on in stories told beneath the stars\u2014of honor, betrayal, and the weaving of fate that no power could unravel beneath the endless sky."
+  }
+]

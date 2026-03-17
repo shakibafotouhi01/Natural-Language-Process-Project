@@ -1,0 +1,362 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "",
+    "verb": "live",
+    "obj": "shah",
+    "label": "\u2205 | live | shah",
+    "sentence": "In a grand kingdom within the vast Persian realm, there lived a mighty Shah who had twelve radiant princesses, each more beautiful than the dawn over the desert sands."
+  },
+  {
+    "sent_id": 1,
+    "subj": "they",
+    "verb": "sleep",
+    "obj": "chamber",
+    "label": "they | sleep | chamber",
+    "sentence": "They all slept in a single chamber, each upon her own divan, where the door was locked tight every night."
+  },
+  {
+    "sent_id": 2,
+    "subj": "slipper",
+    "verb": "find",
+    "obj": "",
+    "label": "slipper | find | \u2205",
+    "sentence": "Yet each morning, the silk slippers lying by their beds were found worn through as if the princesses had danced under the moon\u2019s silver light until dawn."
+  },
+  {
+    "sent_id": 3,
+    "subj": "shah",
+    "verb": "puzzle",
+    "obj": "",
+    "label": "shah | puzzle | \u2205",
+    "sentence": "The Shah was puzzled\u2014how could this be, when the room was sealed, and none could glimpse where or how his daughters spent their nights?"
+  },
+  {
+    "sent_id": 4,
+    "subj": "shah",
+    "verb": "proclaim",
+    "obj": "land",
+    "label": "shah | proclaim | land",
+    "sentence": "The Shah, curious and troubled, proclaimed throughout his lands: whoever could unveil this secret and discover where the princesses danced by night might wed the princess of his choice and be named his heir."
+  },
+  {
+    "sent_id": 5,
+    "subj": "punishment",
+    "verb": "be",
+    "obj": "death",
+    "label": "punishment | be | death",
+    "sentence": "But if any failed in the quest after three nights, their punishment would be death."
+  },
+  {
+    "sent_id": 6,
+    "subj": "prince",
+    "verb": "come",
+    "obj": "",
+    "label": "prince | come | \u2205",
+    "sentence": "Soon, princes from far across the Persian territories came to try their fortune."
+  },
+  {
+    "sent_id": 7,
+    "subj": "door",
+    "verb": "leave",
+    "obj": "ajar",
+    "label": "door | leave | ajar",
+    "sentence": "They were welcomed with sumptuous feasts and given a royal chamber adjacent to the princesses\u2019 room, the door left ajar to catch any noise."
+  },
+  {
+    "sent_id": 8,
+    "subj": "hopeful",
+    "verb": "fall",
+    "obj": "slumber",
+    "label": "hopeful | fall | slumber",
+    "sentence": "Yet each night, these hopefuls fell into a deep slumber before the princesses slipped away, and by dawn, the slippers would show the evidence of their midnight revels."
+  },
+  {
+    "sent_id": 9,
+    "subj": "head",
+    "verb": "sever",
+    "obj": "decreed",
+    "label": "head | sever | decreed",
+    "sentence": "One by one, these princes vanished, their heads severed as the harsh command decreed."
+  },
+  {
+    "sent_id": 10,
+    "subj": "it",
+    "verb": "happen",
+    "obj": "",
+    "label": "it | happen | \u2205",
+    "sentence": "It so happened that an old soldier, once brave and valiant but now wounded and weary from battle, journeyed through the Zahidan forests near this kingdom."
+  },
+  {
+    "sent_id": 11,
+    "subj": "he",
+    "verb": "meet",
+    "obj": "woman",
+    "label": "he | meet | woman",
+    "sentence": "He met an elderly woman veiled in the traditional chador, who asked him of his travels."
+  },
+  {
+    "sent_id": 12,
+    "subj": "i",
+    "verb": "seek",
+    "obj": "purpose",
+    "label": "i | seek | purpose",
+    "sentence": "\u201cI seek purpose,\u201d he said, \u201cand perhaps to uncover the mystery of the princesses\u2019 secret dance, to win a kingdom in time.\u201d"
+  },
+  {
+    "sent_id": 13,
+    "subj": "she",
+    "verb": "smile",
+    "obj": "",
+    "label": "she | smile | \u2205",
+    "sentence": "She smiled mysteriously and said, \u201cTake this khilat,\u201d\u2014a shimmering cloak embroidered with stars\u2014\u201cfor when you wear it, you shall be unseen."
+  },
+  {
+    "sent_id": 14,
+    "subj": "",
+    "verb": "beware",
+    "obj": "wine",
+    "label": "\u2205 | beware | wine",
+    "sentence": "But beware the wine the princesses offer; drink not a drop, and pretend deep sleep upon your divan.\u201d"
+  },
+  {
+    "sent_id": 15,
+    "subj": "soldier",
+    "verb": "approach",
+    "obj": "shah",
+    "label": "soldier | approach | shah",
+    "sentence": "Heeding her counsel, the soldier approached the Shah and pledged to try."
+  },
+  {
+    "sent_id": 16,
+    "subj": "he",
+    "verb": "await",
+    "obj": "nightfall",
+    "label": "he | await | nightfall",
+    "sentence": "Cloaked in fine robes, he awaited nightfall as the others had."
+  },
+  {
+    "sent_id": 17,
+    "subj": "he",
+    "verb": "conceal",
+    "obj": "it",
+    "label": "he | conceal | it",
+    "sentence": "As the eldest princess approached with a goblet of wine sweetened with saffron and rosewater, he concealed it and drank nothing."
+  },
+  {
+    "sent_id": 18,
+    "subj": "he",
+    "verb": "feign",
+    "obj": "sleep",
+    "label": "he | feign | sleep",
+    "sentence": "Then he feigned sleep, snoring like a man deep in restful slumber."
+  },
+  {
+    "sent_id": 19,
+    "subj": "princess",
+    "verb": "laugh",
+    "obj": "",
+    "label": "princess | laugh | \u2205",
+    "sentence": "The princesses laughed softly, recalling all who had failed before."
+  },
+  {
+    "sent_id": 20,
+    "subj": "they",
+    "verb": "dress",
+    "obj": "silk",
+    "label": "they | dress | silk",
+    "sentence": "They dressed in shimmering silks and pearls, their eyes alight beneath the flicker of candelabras."
+  },
+  {
+    "sent_id": 21,
+    "subj": "unease",
+    "verb": "hold",
+    "obj": "peril",
+    "label": "unease | hold | peril",
+    "sentence": "The youngest princess felt unease, whispering, \u201cThis path holds peril,\u201d but the eldest reassured her, mocking her fears and pointing to the sleeping soldier."
+  },
+  {
+    "sent_id": 22,
+    "subj": "eld",
+    "verb": "clap",
+    "obj": "hand",
+    "label": "eld | clap | hand",
+    "sentence": "At a signal, the eldest clapped her hands, and the floor beneath her divan slid open, revealing a hidden stair descending into shadow."
+  },
+  {
+    "sent_id": 23,
+    "subj": "soldier",
+    "verb": "don",
+    "obj": "cloak",
+    "label": "soldier | don | cloak",
+    "sentence": "As they began their descent, the soldier donned the enchanted cloak and followed."
+  },
+  {
+    "sent_id": 24,
+    "subj": "he",
+    "verb": "brush",
+    "obj": "hem",
+    "label": "he | brush | hem",
+    "sentence": "Yet midway, he brushed against the hem of the youngest princess\u2019s embroidered robe, and she exclaimed, \u201cSomething amiss!"
+  },
+  {
+    "sent_id": 25,
+    "subj": "gown",
+    "verb": "catch",
+    "obj": "",
+    "label": "gown | catch | \u2205",
+    "sentence": "My gown is caught!\u201d"
+  },
+  {
+    "sent_id": 26,
+    "subj": "eld",
+    "verb": "dismiss",
+    "obj": "it",
+    "label": "eld | dismiss | it",
+    "sentence": "The eldest dismissed it as a mere shadow on the wall, and they continued."
+  },
+  {
+    "sent_id": 27,
+    "subj": "",
+    "verb": "lie",
+    "obj": "grove",
+    "label": "\u2205 | lie | grove",
+    "sentence": "Below lay a secret grove where the trees bore silver leaves that shimmered like moonlight on a still lake."
+  },
+  {
+    "sent_id": 28,
+    "subj": "soldier",
+    "verb": "pluck",
+    "obj": "branch",
+    "label": "soldier | pluck | branch",
+    "sentence": "The soldier carefully plucked a branch, causing a sudden rustle that made the youngest shiver with dread."
+  },
+  {
+    "sent_id": 29,
+    "subj": "next",
+    "verb": "be",
+    "obj": "orchard",
+    "label": "next | be | orchard",
+    "sentence": "Next was an orchard with golden foliage that gleamed like the treasures of Isfahan\u2019s bazaars, and then one with leaves like sparkling diamonds, each branch taken by the soldier despite the eerie noises that unsettled the youngest."
+  },
+  {
+    "sent_id": 30,
+    "subj": "they",
+    "verb": "reach",
+    "obj": "lake",
+    "label": "they | reach | lake",
+    "sentence": "At last, they reached a tranquil lake where twelve slender boats floated, each manned by a handsome prince clad in brocade and jewels, waiting patiently."
+  },
+  {
+    "sent_id": 31,
+    "subj": "princess",
+    "verb": "step",
+    "obj": "boat",
+    "label": "princess | step | boat",
+    "sentence": "Each princess stepped into a boat, and the soldier climbed with the youngest."
+  },
+  {
+    "sent_id": 32,
+    "subj": "prince",
+    "verb": "sigh",
+    "obj": "",
+    "label": "prince | sigh | \u2205",
+    "sentence": "As they rowed, the prince by the soldier\u2019s side sighed, \u201cThough I pull with all my strength, the boat drags heavily, more than on other nights.\u201d"
+  },
+  {
+    "sent_id": 33,
+    "subj": "princess",
+    "verb": "smile",
+    "obj": "",
+    "label": "princess | smile | \u2205",
+    "sentence": "The princess smiled and said, \u201cPerhaps it is the summer\u2019s heat upon us.\u201d"
+  },
+  {
+    "sent_id": 34,
+    "subj": "",
+    "verb": "stand",
+    "obj": "aglow",
+    "label": "\u2205 | stand | aglow",
+    "sentence": "On the far shore stood a splendid palace aglow with lantern light and the music of the ney and surna, mingling with the rhythms of the daf."
+  },
+  {
+    "sent_id": 35,
+    "subj": "princess",
+    "verb": "dance",
+    "obj": "hall",
+    "label": "princess | dance | hall",
+    "sentence": "Within its marble halls, the princesses danced with their princely partners, their movements echoing ancient Persian courtly dances."
+  },
+  {
+    "sent_id": 36,
+    "subj": "soldier",
+    "verb": "drink",
+    "obj": "wine",
+    "label": "soldier | drink | wine",
+    "sentence": "Invisible among them, the soldier drank the wine placed for the princesses, making their cups unexpectedly empty\u2014stirring fright in the youngest sister, though the eldest hushed her worries."
+  },
+  {
+    "sent_id": 37,
+    "subj": "revelry",
+    "verb": "last",
+    "obj": "hour",
+    "label": "revelry | last | hour",
+    "sentence": "Their revelry lasted until the hour of the wolf moon, when all their slippers were worn thin, and the princes rowed their charges back."
+  },
+  {
+    "sent_id": 38,
+    "subj": "soldier",
+    "verb": "join",
+    "obj": "boat",
+    "label": "soldier | join | boat",
+    "sentence": "This time, the soldier joined the eldest princess\u2019s boat."
+  },
+  {
+    "sent_id": 39,
+    "subj": "they",
+    "verb": "part",
+    "obj": "promise",
+    "label": "they | part | promise",
+    "sentence": "Upon returning, they parted with promises to meet again, and the soldier smuggled a golden cup as proof of his journey."
+  },
+  {
+    "sent_id": 40,
+    "subj": "soldier",
+    "verb": "present",
+    "obj": "himself",
+    "label": "soldier | present | himself",
+    "sentence": "On the third dawn, the soldier presented himself before the Shah, bearing the three branches glittering in sunlight and the golden cup."
+  },
+  {
+    "sent_id": 41,
+    "subj": "princess",
+    "verb": "stand",
+    "obj": "door",
+    "label": "princess | stand | door",
+    "sentence": "The princesses stood silently behind the chamber doors, hearing the truth unveiled."
+  },
+  {
+    "sent_id": 42,
+    "subj": "they",
+    "verb": "visit",
+    "obj": "prince",
+    "label": "they | visit | prince",
+    "sentence": "The Shah questioned them, and facing undeniable proof, they confessed their nocturnal secret: they had been visiting the princes beneath the earth\u2019s surface in a hidden palace of wonder."
+  },
+  {
+    "sent_id": 43,
+    "subj": "shah",
+    "verb": "ask",
+    "obj": "soldier",
+    "label": "shah | ask | soldier",
+    "sentence": "The Shah asked the soldier which princess he wished to wed, and the soldier, no longer young but wise, chose the eldest."
+  },
+  {
+    "sent_id": 44,
+    "subj": "wedding",
+    "verb": "celebrate",
+    "obj": "splendor",
+    "label": "wedding | celebrate | splendor",
+    "sentence": "Their wedding was celebrated with the splendor of Persian tradition, and the former soldier was named heir to the throne, bringing peace and joy to the kingdom for years to come."
+  }
+]

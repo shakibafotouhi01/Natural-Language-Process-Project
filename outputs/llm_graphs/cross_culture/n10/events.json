@@ -1,0 +1,698 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "",
+    "verb": "live",
+    "obj": "man",
+    "label": "\u2205 | live | man",
+    "sentence": "Once upon a time, in the shadowy lands of the dense Bavarian forests, there lived a man named Starkes Verlangen\u2014that is, Strong Desire\u2014who had a wife and a young son."
+  },
+  {
+    "sent_id": 1,
+    "subj": "verlangen",
+    "verb": "move",
+    "obj": "family",
+    "label": "verlangen | move | family",
+    "sentence": "As winter's grip eased, Starkes Verlangen moved his family from their village nestled among timbered hills to the edge of a vast woodland where game was plentiful, a full day's journey from their village."
+  },
+  {
+    "sent_id": 2,
+    "subj": "wife",
+    "verb": "busy",
+    "obj": "herself",
+    "label": "wife | busy | herself",
+    "sentence": "Beneath the towering spruces, the wife busied herself setting up their humble hut, while the father ventured out to hunt."
+  },
+  {
+    "sent_id": 3,
+    "subj": "verlangen",
+    "verb": "return",
+    "obj": "",
+    "label": "verlangen | return | \u2205",
+    "sentence": "One evening, as the sun was sinking behind the hills, Starkes Verlangen returned weary but triumphant, bearing a large deer."
+  },
+  {
+    "sent_id": 4,
+    "subj": "he",
+    "verb": "call",
+    "obj": "son",
+    "label": "he | call | son",
+    "sentence": "Thirsty and spent, he called his son to fetch water from a nearby brook."
+  },
+  {
+    "sent_id": 5,
+    "subj": "boy",
+    "verb": "shake",
+    "obj": "head",
+    "label": "boy | shake | head",
+    "sentence": "But the boy, though named Strong Desire, shook his head, saying the darkness frightened him."
+  },
+  {
+    "sent_id": 6,
+    "subj": "father",
+    "verb": "urge",
+    "obj": "",
+    "label": "father | urge | \u2205",
+    "sentence": "His father urged, reminding him that his mother and he were tired and the brook was but a short way off."
+  },
+  {
+    "sent_id": 7,
+    "subj": "boy",
+    "verb": "budge",
+    "obj": "",
+    "label": "boy | budge | \u2205",
+    "sentence": "Still, the boy would not budge."
+  },
+  {
+    "sent_id": 8,
+    "subj": "father",
+    "verb": "say",
+    "obj": "",
+    "label": "father | say | \u2205",
+    "sentence": "\u201cAh, my son,\u201d the father said, sadly, \u201cif you fear to fetch water in the dark, you will never defeat the Red Sorcerer.\u201d"
+  },
+  {
+    "sent_id": 9,
+    "subj": "word",
+    "verb": "strike",
+    "obj": "heart",
+    "label": "word | strike | heart",
+    "sentence": "These words struck deep into the boy\u2019s heart like the jagged edge of a sword."
+  },
+  {
+    "sent_id": 10,
+    "subj": "he",
+    "verb": "sit",
+    "obj": "night",
+    "label": "he | sit | night",
+    "sentence": "He sat through the night by their hut\u2019s wooden door, gazing upon the starry sky, sighing as one burdened with great sorrow."
+  },
+  {
+    "sent_id": 11,
+    "subj": "desire",
+    "verb": "ask",
+    "obj": "mother",
+    "label": "desire | ask | mother",
+    "sentence": "At dawn, Strong Desire asked his mother to fashion moccasins from the deer\u2019s hide while he prepared his bow and arrows with solemn purpose."
+  },
+  {
+    "sent_id": 12,
+    "subj": "he",
+    "verb": "leave",
+    "obj": "cabin",
+    "label": "he | leave | cabin",
+    "sentence": "Without a word to his parents, he left the cabin as the mist curled low over the forest floor."
+  },
+  {
+    "sent_id": 13,
+    "subj": "he",
+    "verb": "shoot",
+    "obj": "arrow",
+    "label": "he | shoot | arrow",
+    "sentence": "With resolve, he shot an arrow into the pale morning sky, letting it fall westward."
+  },
+  {
+    "sent_id": 14,
+    "subj": "he",
+    "verb": "find",
+    "obj": "path",
+    "label": "he | find | path",
+    "sentence": "Following its path, he found it piercing a stag\u2019s heart."
+  },
+  {
+    "sent_id": 15,
+    "subj": "he",
+    "verb": "feast",
+    "obj": "venison",
+    "label": "he | feast | venison",
+    "sentence": "He feasted on venison, and the next day repeated the ritual."
+  },
+  {
+    "sent_id": 16,
+    "subj": "arrow",
+    "verb": "fly",
+    "obj": "",
+    "label": "arrow | fly | \u2205",
+    "sentence": "Four arrows flew, and each night, four deer lay dead by his hand."
+  },
+  {
+    "sent_id": 17,
+    "subj": "he",
+    "verb": "leave",
+    "obj": "arrow",
+    "label": "he | leave | arrow",
+    "sentence": "In his haste and distress, he left the arrows lodged in the prey, and when the fifth dawn came, he was arrowless and hungry."
+  },
+  {
+    "sent_id": 18,
+    "subj": "he",
+    "verb": "collapse",
+    "obj": "earth",
+    "label": "he | collapse | earth",
+    "sentence": "Despairing, he collapsed on the cold earth, ready to give up."
+  },
+  {
+    "sent_id": 19,
+    "subj": "sound",
+    "verb": "stir",
+    "obj": "forest",
+    "label": "sound | stir | forest",
+    "sentence": "But then a low, rumbling sound stirred the forest beneath him, like the distant tremble of the earth."
+  },
+  {
+    "sent_id": 20,
+    "subj": "he",
+    "verb": "see",
+    "obj": "figure",
+    "label": "he | see | figure",
+    "sentence": "Rising, he saw in the distance a figure\u2014small and bent\u2014walking with a wooden staff along a smooth path that led from a gloomy cabin to a dark, brackish lake whose black waters seemed bottomless."
+  },
+  {
+    "sent_id": 21,
+    "subj": "desire",
+    "verb": "creep",
+    "obj": "",
+    "label": "desire | creep | \u2205",
+    "sentence": "Surprised, Strong Desire crept closer and hid among the pines."
+  },
+  {
+    "sent_id": 22,
+    "subj": "figure",
+    "verb": "be",
+    "obj": "none",
+    "label": "figure | be | none",
+    "sentence": "The figure was none other than the dreaded Kriegsmagd\u2014the War Witch\u2014an ancient crone shrouded in mystery and fear."
+  },
+  {
+    "sent_id": 23,
+    "subj": "staff",
+    "verb": "adorn",
+    "obj": "string",
+    "label": "staff | adorn | string",
+    "sentence": "Her staff was adorned with a string of raven feathers and painted owl talons, which fluttered with every tap she made on the earth, sending forth eerie birdcalls."
+  },
+  {
+    "sent_id": 24,
+    "subj": "crone",
+    "verb": "enter",
+    "obj": "cabin",
+    "label": "crone | enter | cabin",
+    "sentence": "The crone entered her cabin and cast off her mantle, woven entirely of women\u2019s hair and detached locks, which when shaken, emitted cackles of laughter that chilled the soul."
+  },
+  {
+    "sent_id": 25,
+    "subj": "boy",
+    "verb": "speak",
+    "obj": "word",
+    "label": "boy | speak | word",
+    "sentence": "Though frightened, the boy spoke no word."
+  },
+  {
+    "sent_id": 26,
+    "subj": "witch",
+    "verb": "fix",
+    "obj": "eye",
+    "label": "witch | fix | eye",
+    "sentence": "Then the witch fixed her sharp eyes upon him and said, \u201cI have watched you from the moment you left your father\u2019s lodge."
+  },
+  {
+    "sent_id": 27,
+    "subj": "",
+    "verb": "fear",
+    "obj": "",
+    "label": "\u2205 | fear | \u2205",
+    "sentence": "Fear not, for I shall be your protector and guide.\u201d"
+  },
+  {
+    "sent_id": 28,
+    "subj": "she",
+    "verb": "invite",
+    "obj": "he",
+    "label": "she | invite | he",
+    "sentence": "She invited him within, offering supper and asking why he traveled so far."
+  },
+  {
+    "sent_id": 29,
+    "subj": "desire",
+    "verb": "tell",
+    "obj": "she",
+    "label": "desire | tell | she",
+    "sentence": "Strong Desire told her of his shame and the hardships he faced after refusing to fetch water at night."
+  },
+  {
+    "sent_id": 30,
+    "subj": "witch",
+    "verb": "nod",
+    "obj": "",
+    "label": "witch | nod | \u2205",
+    "sentence": "The witch nodded slowly."
+  },
+  {
+    "sent_id": 31,
+    "subj": "he",
+    "verb": "admit",
+    "obj": "",
+    "label": "he | admit | \u2205",
+    "sentence": "\u201cTell me truly,\" she said, \"were you afraid to go to the brook in the dark?\u201d\n\n\u201cI was,\u201d he admitted."
+  },
+  {
+    "sent_id": 32,
+    "subj": "feather",
+    "verb": "shriek",
+    "obj": "gesture",
+    "label": "feather | shriek | gesture",
+    "sentence": "With a gesture of her staff, the raven feathers shrieked and the mantle quaked, the hair emitting a dreadful, mocking laughter."
+  },
+  {
+    "sent_id": 33,
+    "subj": "you",
+    "verb": "be",
+    "obj": "",
+    "label": "you | be | \u2205",
+    "sentence": "\u201cAnd are you afraid now?\u201d"
+  },
+  {
+    "sent_id": 34,
+    "subj": "she",
+    "verb": "ask",
+    "obj": "",
+    "label": "she | ask | \u2205",
+    "sentence": "she asked again."
+  },
+  {
+    "sent_id": 35,
+    "subj": "he",
+    "verb": "answer",
+    "obj": "",
+    "label": "he | answer | \u2205",
+    "sentence": "\u201cI am,\u201d he answered boldly."
+  },
+  {
+    "sent_id": 36,
+    "subj": "you",
+    "verb": "speak",
+    "obj": "truth",
+    "label": "you | speak | truth",
+    "sentence": "\u201cBut you speak truth without hesitation."
+  },
+  {
+    "sent_id": 37,
+    "subj": "kriegsmagd",
+    "verb": "smile",
+    "obj": "",
+    "label": "kriegsmagd | smile | \u2205",
+    "sentence": "Courage lives in you yet,\u201d the Kriegsmagd smiled."
+  },
+  {
+    "sent_id": 38,
+    "subj": "she",
+    "verb": "take",
+    "obj": "comb",
+    "label": "she | take | comb",
+    "sentence": "She took a heavy lead comb and drew it through his short hair again and again until it flowed like that of a maiden of the village."
+  },
+  {
+    "sent_id": 39,
+    "subj": "she",
+    "verb": "clothe",
+    "obj": "he",
+    "label": "she | clothe | he",
+    "sentence": "Then she clothed him in a woman\u2019s gown embroidered with forest flowers and painted his cheeks a rosy red."
+  },
+  {
+    "sent_id": 40,
+    "subj": "she",
+    "verb": "give",
+    "obj": "bowl",
+    "label": "she | give | bowl",
+    "sentence": "She gave him a shining silver bowl and told him to carry a blade of scented sedge at his waist."
+  },
+  {
+    "sent_id": 41,
+    "subj": "",
+    "verb": "go",
+    "obj": "edge",
+    "label": "\u2205 | go | edge",
+    "sentence": "\u201cTomorrow,\u201d she said, \u201cgo to the edge of that lake."
+  },
+  {
+    "sent_id": 42,
+    "subj": "sorcerer",
+    "verb": "rule",
+    "obj": "isle",
+    "label": "sorcerer | rule | isle",
+    "sentence": "The Red Sorcerer rules there from his isle."
+  },
+  {
+    "sent_id": 43,
+    "subj": "man",
+    "verb": "beg",
+    "obj": "you",
+    "label": "man | beg | you",
+    "sentence": "Many men of the village will beg you to become their wife and take you to their homes."
+  },
+  {
+    "sent_id": 44,
+    "subj": "",
+    "verb": "refuse",
+    "obj": "they",
+    "label": "\u2205 | refuse | they",
+    "sentence": "Refuse them all, and say you seek only the hand of the Red Sorcerer."
+  },
+  {
+    "sent_id": 45,
+    "subj": "",
+    "verb": "journey",
+    "obj": "he",
+    "label": "\u2205 | journey | he",
+    "sentence": "When he comes for you, journey with him, but at night, lead him from the village to a lonely path, and then with the blade of sedge, strike his head from his shoulders.\u201d"
+  },
+  {
+    "sent_id": 46,
+    "subj": "memory",
+    "verb": "steel",
+    "obj": "will",
+    "label": "memory | steel | will",
+    "sentence": "Though fear gnawed at his heart, the memory of his father\u2019s disappointment steeled his will."
+  },
+  {
+    "sent_id": 47,
+    "subj": "he",
+    "verb": "leave",
+    "obj": "cabin",
+    "label": "he | leave | cabin",
+    "sentence": "At dawn, he left the War Witch\u2019s cabin, now swallowed in a dense, pale fog thick as wool, which soon vanished when he turned to look back."
+  },
+  {
+    "sent_id": 48,
+    "subj": "he",
+    "verb": "follow",
+    "obj": "path",
+    "label": "he | follow | path",
+    "sentence": "He followed the worn path to the lake\u2019s shore opposite the Red Sorcerer\u2019s island."
+  },
+  {
+    "sent_id": 49,
+    "subj": "morning",
+    "verb": "be",
+    "obj": "",
+    "label": "morning | be | \u2205",
+    "sentence": "The morning was bright and clear, the sunlight shimmering on the water like polished glass."
+  },
+  {
+    "sent_id": 50,
+    "subj": "he",
+    "verb": "dip",
+    "obj": "bowl",
+    "label": "he | dip | bowl",
+    "sentence": "He dipped the silver bowl into the lake, drawing it out glittering, and soon a flotilla of wooden canoes, carved with serpent heads and painted with runes, swept from the island."
+  },
+  {
+    "sent_id": 51,
+    "subj": "islander",
+    "verb": "admire",
+    "obj": "beauty",
+    "label": "islander | admire | beauty",
+    "sentence": "The islanders admired his delicate dress and fair beauty, pleading for marriage with earnest voices."
+  },
+  {
+    "sent_id": 52,
+    "subj": "desire",
+    "verb": "refuse",
+    "obj": "",
+    "label": "desire | refuse | \u2205",
+    "sentence": "Strong Desire refused each boldly."
+  },
+  {
+    "sent_id": 53,
+    "subj": "head",
+    "verb": "raise",
+    "obj": "guard",
+    "label": "head | raise | guard",
+    "sentence": "When word reached the Red Sorcerer, he launched his grand boat, its ribs formed by living asp serpents with emerald eyes, their heads raised in grim guard."
+  },
+  {
+    "sent_id": 54,
+    "subj": "desire",
+    "verb": "step",
+    "obj": "",
+    "label": "desire | step | \u2205",
+    "sentence": "As Strong Desire stepped aboard, the snakes hissed and rattled fiercely, filling the air with dread, but the sorcerer calmed them with whispered spells."
+  },
+  {
+    "sent_id": 55,
+    "subj": "marriage",
+    "verb": "be",
+    "obj": "",
+    "label": "marriage | be | \u2205",
+    "sentence": "The marriage was swift, held beneath the twisted branches of ancient yews."
+  },
+  {
+    "sent_id": 56,
+    "subj": "desire",
+    "verb": "give",
+    "obj": "gift",
+    "label": "desire | give | gift",
+    "sentence": "Strong Desire gave rich gifts from the War Witch's hoard."
+  },
+  {
+    "sent_id": 58,
+    "subj": "she",
+    "verb": "be",
+    "obj": "",
+    "label": "she | be | \u2205",
+    "sentence": "Suspicion clouded her face\u2014it was no woman but a man, she was sure."
+  },
+  {
+    "sent_id": 59,
+    "subj": "she",
+    "verb": "warn",
+    "obj": "son",
+    "label": "she | warn | son",
+    "sentence": "She warned her son, but he scolded her, breaking his pipe and calling her an old owl."
+  },
+  {
+    "sent_id": 60,
+    "subj": "desire",
+    "verb": "rise",
+    "obj": "",
+    "label": "desire | rise | \u2205",
+    "sentence": "Shaken and offended, Strong Desire rose, declaring he could not remain after such insult, and left the lodge with the sorcerer trailing behind."
+  },
+  {
+    "sent_id": 61,
+    "subj": "they",
+    "verb": "walk",
+    "obj": "beach",
+    "label": "they | walk | beach",
+    "sentence": "They walked to the island\u2019s beach where the waves whispered secrets to the shore."
+  },
+  {
+    "sent_id": 62,
+    "subj": "sorcerer",
+    "verb": "beg",
+    "obj": "he",
+    "label": "sorcerer | beg | he",
+    "sentence": "Red Sorcerer begged him to stay, promising wealth and power, but Strong Desire was unmoved."
+  },
+  {
+    "sent_id": 63,
+    "subj": "sorcerer",
+    "verb": "rest",
+    "obj": "head",
+    "label": "sorcerer | rest | head",
+    "sentence": "Finally seated, the sorcerer rested his head in the lap of his strange bride, exhausted."
+  },
+  {
+    "sent_id": 64,
+    "subj": "sorcerer",
+    "verb": "reply",
+    "obj": "",
+    "label": "sorcerer | reply | \u2205",
+    "sentence": "\u201cRed Sorcerer,\u201d the youth whispered softly, \u201cyou have slain many men.\u201d\n\n\u201cHundreds,\u201d the sorcerer replied, a cruel grin creeping across his face."
+  },
+  {
+    "sent_id": 65,
+    "subj": "i",
+    "verb": "bring",
+    "obj": "ruin",
+    "label": "i | bring | ruin",
+    "sentence": "\u201cNow, with this marriage, I will bring ruin to thousands more.\u201d"
+  },
+  {
+    "sent_id": 66,
+    "subj": "desire",
+    "verb": "coax",
+    "obj": "smile",
+    "label": "desire | coax | smile",
+    "sentence": "\u201cAnd you would kill even me if I were not your wife,\u201d coaxed Strong Desire, with a sweet smile."
+  },
+  {
+    "sent_id": 67,
+    "subj": "sorcerer",
+    "verb": "say",
+    "obj": "",
+    "label": "sorcerer | say | \u2205",
+    "sentence": "\u201cIndeed,\u201d said Red Sorcerer."
+  },
+  {
+    "sent_id": 68,
+    "subj": "",
+    "verb": "sleep",
+    "obj": "",
+    "label": "\u2205 | sleep | \u2205",
+    "sentence": "\u201cSleep now, and dream of slaughter.\u201d"
+  },
+  {
+    "sent_id": 69,
+    "subj": "sorcerer",
+    "verb": "be",
+    "obj": "",
+    "label": "sorcerer | be | \u2205",
+    "sentence": "Soon the sorcerer was fast asleep."
+  },
+  {
+    "sent_id": 70,
+    "subj": "desire",
+    "verb": "draw",
+    "obj": "blade",
+    "label": "desire | draw | blade",
+    "sentence": "Seizing the moment, Strong Desire drew the blade of sedge in a swift, clean stroke, severing the wicked head from the shoulders."
+  },
+  {
+    "sent_id": 71,
+    "subj": "he",
+    "verb": "grasp",
+    "obj": "head",
+    "label": "he | grasp | head",
+    "sentence": "Casting off the gown that had concealed his true self, he grasped the bleeding head and plunged into the cold waters, swimming swiftly to the mainland."
+  },
+  {
+    "sent_id": 72,
+    "subj": "he",
+    "verb": "hear",
+    "obj": "cry",
+    "label": "he | hear | cry",
+    "sentence": "Behind him, he heard the anguished cries of those who sought the newlyweds, finding only the lifeless, headless body."
+  },
+  {
+    "sent_id": 73,
+    "subj": "witch",
+    "verb": "welcome",
+    "obj": "he",
+    "label": "witch | welcome | he",
+    "sentence": "The War Witch welcomed him back with laughter, praising his bravery and shrewdness."
+  },
+  {
+    "sent_id": 74,
+    "subj": "she",
+    "verb": "say",
+    "obj": "",
+    "label": "she | say | \u2205",
+    "sentence": "\u201cYou need not have taken the scalp,\u201d she said, cutting a lock of hair for herself."
+  },
+  {
+    "sent_id": 75,
+    "subj": "",
+    "verb": "go",
+    "obj": "this",
+    "label": "\u2205 | go | this",
+    "sentence": "\u201cNow go home with this\u2014proof that will earn your respect.\u201d"
+  },
+  {
+    "sent_id": 76,
+    "subj": "she",
+    "verb": "warn",
+    "obj": "he",
+    "label": "she | warn | he",
+    "sentence": "She warned him that on the way he would face one last peril."
+  },
+  {
+    "sent_id": 77,
+    "subj": "maunkahkeesh",
+    "verb": "demand",
+    "obj": "sacrifice",
+    "label": "maunkahkeesh | demand | sacrifice",
+    "sentence": "The Earth Spirit Maunkahkeesh demands a sacrifice of all great heroes."
+  },
+  {
+    "sent_id": 78,
+    "subj": "he",
+    "verb": "cast",
+    "obj": "partridge",
+    "label": "he | cast | partridge",
+    "sentence": "When an earthquake splits the earth beneath, he must cast a partridge into the chasm and leap over it swiftly."
+  },
+  {
+    "sent_id": 79,
+    "subj": "desire",
+    "verb": "follow",
+    "obj": "instruction",
+    "label": "desire | follow | instruction",
+    "sentence": "Grateful, Strong Desire followed these instructions and reached his village in safety."
+  },
+  {
+    "sent_id": 80,
+    "subj": "parent",
+    "verb": "mourn",
+    "obj": "",
+    "label": "parent | mourn | \u2205",
+    "sentence": "His parents mourned, believing him lost, and many false sons appeared trying to claim his place."
+  },
+  {
+    "sent_id": 81,
+    "subj": "tear",
+    "verb": "fill",
+    "obj": "eye",
+    "label": "tear | fill | eye",
+    "sentence": "But when their true son stood before them, changed from a timid boy into a man of courage and deeds, tears filled their eyes."
+  },
+  {
+    "sent_id": 82,
+    "subj": "villager",
+    "verb": "laugh",
+    "obj": "",
+    "label": "villager | laugh | \u2205",
+    "sentence": "Yet the young villagers laughed, mocking the once-fearful son."
+  },
+  {
+    "sent_id": 83,
+    "subj": "desire",
+    "verb": "reveal",
+    "obj": "trophy",
+    "label": "desire | reveal | trophy",
+    "sentence": "Then, with solemn pride, Strong Desire revealed the ghastly trophy\u2014the severed head of the Red Sorcerer, eyes still fixed in a fiendish leer."
+  },
+  {
+    "sent_id": 84,
+    "subj": "laughter",
+    "verb": "cease",
+    "obj": "",
+    "label": "laughter | cease | \u2205",
+    "sentence": "The laughter ceased."
+  },
+  {
+    "sent_id": 85,
+    "subj": "respect",
+    "verb": "replace",
+    "obj": "scorn",
+    "label": "respect | replace | scorn",
+    "sentence": "Respect and awe replaced their scorn."
+  },
+  {
+    "sent_id": 86,
+    "subj": "desire",
+    "verb": "hail",
+    "obj": "hero",
+    "label": "desire | hail | hero",
+    "sentence": "From that day, Strong Desire was hailed a hero, lifted among the bravest warriors of his people, and finally became a revered chieftain."
+  },
+  {
+    "sent_id": 87,
+    "subj": "family",
+    "verb": "earn",
+    "obj": "honor",
+    "label": "family | earn | honor",
+    "sentence": "His family, too, earned honor and esteem for generations to come."
+  }
+]

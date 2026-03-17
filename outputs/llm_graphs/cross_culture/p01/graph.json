@@ -1,0 +1,240 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "\u2205 | be | wanderer",
+      "sent_id": 0,
+      "sentence": "Long ago, there was a humble wanderer, a man of deep spirit and strong heart, journeying across the vast and endless plains under the great sky.",
+      "subj": "",
+      "verb": "be",
+      "obj": "wanderer"
+    },
+    {
+      "id": "e0001",
+      "label": "hunger | gnaw | he",
+      "sent_id": 1,
+      "sentence": "Hunger gnawed at him, and he sought sustenance among the whispering winds and ancient trails.",
+      "subj": "hunger",
+      "verb": "gnaw",
+      "obj": "he"
+    },
+    {
+      "id": "e0002",
+      "label": "he | come | pouch",
+      "sent_id": 2,
+      "sentence": "As he walked along a worn path through the tall grasses, he came upon an empty pouch that had been left beside the trail by another traveler.",
+      "subj": "he",
+      "verb": "come",
+      "obj": "pouch"
+    },
+    {
+      "id": "e0003",
+      "label": "he | lift | pouch",
+      "sent_id": 3,
+      "sentence": "He lifted the pouch, draped it over his shoulder, and with a voice carried by the breeze, he gave thanks: \u201cGreat Spirit, I am grateful to receive this empty pouch, though hungry, it holds the promise of something more.\u201d",
+      "subj": "he",
+      "verb": "lift",
+      "obj": "pouch"
+    },
+    {
+      "id": "e0004",
+      "label": "wanderer | find | bow",
+      "sent_id": 4,
+      "sentence": "Further along, the wanderer found a cracked bow lying beneath a sacred pine, its string broken and useless for hunting.",
+      "subj": "wanderer",
+      "verb": "find",
+      "obj": "bow"
+    },
+    {
+      "id": "e0005",
+      "label": "i | give | thank",
+      "sent_id": 5,
+      "sentence": "He gathered it carefully and placed it in his pouch, offering another prayer: \u201cGreat Spirit, I give thanks for this bow without a string, for it is a tool waiting for your guidance.\u201d",
+      "subj": "i",
+      "verb": "give",
+      "obj": "thank"
+    },
+    {
+      "id": "e0006",
+      "label": "he | come | time",
+      "sent_id": 6,
+      "sentence": "After some time, he came to the remains of a withered tree, its limbs bare and lifeless.",
+      "subj": "he",
+      "verb": "come",
+      "obj": "time"
+    },
+    {
+      "id": "e0007",
+      "label": "i | honor | you",
+      "sent_id": 7,
+      "sentence": "From its dry branches, he broke a few and tucked them inside his pouch, lifting his voice again to the sky: \u201cGreat Spirit, I honor you for showing me this old tree, whose branches will warm my fire.\u201d",
+      "subj": "i",
+      "verb": "honor",
+      "obj": "you"
+    },
+    {
+      "id": "e0008",
+      "label": "he | find | pot",
+      "sent_id": 8,
+      "sentence": "As he continued, he found an old clay pot, cracked and worn, dust settling upon its surface like the earth\u2019s own breath.",
+      "subj": "he",
+      "verb": "find",
+      "obj": "pot"
+    },
+    {
+      "id": "e0009",
+      "label": "he | brush | it",
+      "sent_id": 9,
+      "sentence": "He brushed it clean with care, placed it in his pouch, and spoke with gratitude: \u201cGreat Spirit, thank you for this pot, cracked yet ready to hold the gift of life.\u201d",
+      "subj": "he",
+      "verb": "brush",
+      "obj": "it"
+    },
+    {
+      "id": "e0010",
+      "label": "hook | lie | creek",
+      "sent_id": 10,
+      "sentence": "Near a winding creek, a single fishing hook lay abandoned on the shore, alone without its line.",
+      "subj": "hook",
+      "verb": "lie",
+      "obj": "creek"
+    },
+    {
+      "id": "e0011",
+      "label": "wanderer | take | hook",
+      "sent_id": 11,
+      "sentence": "The wanderer took the hook, placed it in his pouch, and with reverence, he spoke: \u201cGreat Spirit, thank you for this hook, small but hopeful.\u201d",
+      "subj": "wanderer",
+      "verb": "take",
+      "obj": "hook"
+    },
+    {
+      "id": "e0012",
+      "label": "journey | lead | he",
+      "sent_id": 12,
+      "sentence": "At last, the journey led him to the wide, flowing river\u2014its waters stretching beyond sight, deep and endless, beyond his crossing.",
+      "subj": "journey",
+      "verb": "lead",
+      "obj": "he"
+    },
+    {
+      "id": "e0013",
+      "label": "wanderer | tie | hook",
+      "sent_id": 13,
+      "sentence": "There he knelt upon the earth and gave thanks: \u201cGreat Spirit, I am grateful for this mighty river, a barrier and a blessing.\u201d\n\nWith steady hands, the wanderer tied the fishing hook to the broken bowstring, fashioning a new tool by the power of his faith and patience.",
+      "subj": "wanderer",
+      "verb": "tie",
+      "obj": "hook"
+    },
+    {
+      "id": "e0014",
+      "label": "he | cast | it",
+      "sent_id": 14,
+      "sentence": "He cast it into the river and soon drew forth a shining fish.",
+      "subj": "he",
+      "verb": "cast",
+      "obj": "it"
+    },
+    {
+      "id": "e0015",
+      "label": "he | kindle | fire",
+      "sent_id": 15,
+      "sentence": "Using the dry branches from the withered tree, he kindled a warm fire, and in the cracked pot he cooked the fish, partaking in the sacred gift the Great Spirit had woven for him on his path.",
+      "subj": "he",
+      "verb": "kindle",
+      "obj": "fire"
+    },
+    {
+      "id": "e0016",
+      "label": "faith | transform | \u2205",
+      "sent_id": 16,
+      "sentence": "Thus, the humble wanderer\u2019s faith and gratitude transformed what seemed like emptiness and brokenness into nourishment and hope, guided always by the spirit of the land and sky.",
+      "subj": "faith",
+      "verb": "transform",
+      "obj": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "",
+    "verb": "be",
+    "obj": "wanderer",
+    "label": "\u2205 | be | wanderer",
+    "sentence": "Long ago, there was a humble wanderer, a man of deep spirit and strong heart, journeying across the vast and endless plains under the great sky."
+  },
+  {
+    "sent_id": 1,
+    "subj": "hunger",
+    "verb": "gnaw",
+    "obj": "he",
+    "label": "hunger | gnaw | he",
+    "sentence": "Hunger gnawed at him, and he sought sustenance among the whispering winds and ancient trails."
+  },
+  {
+    "sent_id": 2,
+    "subj": "he",
+    "verb": "come",
+    "obj": "pouch",
+    "label": "he | come | pouch",
+    "sentence": "As he walked along a worn path through the tall grasses, he came upon an empty pouch that had been left beside the trail by another traveler."
+  },
+  {
+    "sent_id": 3,
+    "subj": "he",
+    "verb": "lift",
+    "obj": "pouch",
+    "label": "he | lift | pouch",
+    "sentence": "He lifted the pouch, draped it over his shoulder, and with a voice carried by the breeze, he gave thanks: \u201cGreat Spirit, I am grateful to receive this empty pouch, though hungry, it holds the promise of something more.\u201d"
+  },
+  {
+    "sent_id": 4,
+    "subj": "wanderer",
+    "verb": "find",
+    "obj": "bow",
+    "label": "wanderer | find | bow",
+    "sentence": "Further along, the wanderer found a cracked bow lying beneath a sacred pine, its string broken and useless for hunting."
+  },
+  {
+    "sent_id": 5,
+    "subj": "i",
+    "verb": "give",
+    "obj": "thank",
+    "label": "i | give | thank",
+    "sentence": "He gathered it carefully and placed it in his pouch, offering another prayer: \u201cGreat Spirit, I give thanks for this bow without a string, for it is a tool waiting for your guidance.\u201d"
+  },
+  {
+    "sent_id": 6,
+    "subj": "he",
+    "verb": "come",
+    "obj": "time",
+    "label": "he | come | time",
+    "sentence": "After some time, he came to the remains of a withered tree, its limbs bare and lifeless."
+  },
+  {
+    "sent_id": 7,
+    "subj": "i",
+    "verb": "honor",
+    "obj": "you",
+    "label": "i | honor | you",
+    "sentence": "From its dry branches, he broke a few and tucked them inside his pouch, lifting his voice again to the sky: \u201cGreat Spirit, I honor you for showing me this old tree, whose branches will warm my fire.\u201d"
+  },
+  {
+    "sent_id": 8,
+    "subj": "he",
+    "verb": "find",
+    "obj": "pot",
+    "label": "he | find | pot",
+    "sentence": "As he continued, he found an old clay pot, cracked and worn, dust settling upon its surface like the earth\u2019s own breath."
+  },
+  {
+    "sent_id": 9,
+    "subj": "he",
+    "verb": "brush",
+    "obj": "it",
+    "label": "he | brush | it",
+    "sentence": "He brushed it clean with care, placed it in his pouch, and spoke with gratitude: \u201cGreat Spirit, thank you for this pot, cracked yet ready to hold the gift of life.\u201d"
+  },
+  {
+    "sent_id": 10,
+    "subj": "hook",
+    "verb": "lie",
+    "obj": "creek",
+    "label": "hook | lie | creek",
+    "sentence": "Near a winding creek, a single fishing hook lay abandoned on the shore, alone without its line."
+  },
+  {
+    "sent_id": 11,
+    "subj": "wanderer",
+    "verb": "take",
+    "obj": "hook",
+    "label": "wanderer | take | hook",
+    "sentence": "The wanderer took the hook, placed it in his pouch, and with reverence, he spoke: \u201cGreat Spirit, thank you for this hook, small but hopeful.\u201d"
+  },
+  {
+    "sent_id": 12,
+    "subj": "journey",
+    "verb": "lead",
+    "obj": "he",
+    "label": "journey | lead | he",
+    "sentence": "At last, the journey led him to the wide, flowing river\u2014its waters stretching beyond sight, deep and endless, beyond his crossing."
+  },
+  {
+    "sent_id": 13,
+    "subj": "wanderer",
+    "verb": "tie",
+    "obj": "hook",
+    "label": "wanderer | tie | hook",
+    "sentence": "There he knelt upon the earth and gave thanks: \u201cGreat Spirit, I am grateful for this mighty river, a barrier and a blessing.\u201d\n\nWith steady hands, the wanderer tied the fishing hook to the broken bowstring, fashioning a new tool by the power of his faith and patience."
+  },
+  {
+    "sent_id": 14,
+    "subj": "he",
+    "verb": "cast",
+    "obj": "it",
+    "label": "he | cast | it",
+    "sentence": "He cast it into the river and soon drew forth a shining fish."
+  },
+  {
+    "sent_id": 15,
+    "subj": "he",
+    "verb": "kindle",
+    "obj": "fire",
+    "label": "he | kindle | fire",
+    "sentence": "Using the dry branches from the withered tree, he kindled a warm fire, and in the cracked pot he cooked the fish, partaking in the sacred gift the Great Spirit had woven for him on his path."
+  },
+  {
+    "sent_id": 16,
+    "subj": "faith",
+    "verb": "transform",
+    "obj": "",
+    "label": "faith | transform | \u2205",
+    "sentence": "Thus, the humble wanderer\u2019s faith and gratitude transformed what seemed like emptiness and brokenness into nourishment and hope, guided always by the spirit of the land and sky."
+  }
+]

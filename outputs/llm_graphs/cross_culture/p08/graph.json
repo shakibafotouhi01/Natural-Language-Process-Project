@@ -1,0 +1,1220 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "\u2205 | hear | tale",
+      "sent_id": 0,
+      "sentence": "Hear now the tale of Hawk and Mountain, a story told by the firesides beneath the vast sky, a sorrowful song of father and son set upon the great plains and towering forests of the First Peoples.",
+      "subj": "",
+      "verb": "hear",
+      "obj": "tale"
+    },
+    {
+      "id": "e0001",
+      "label": "mountain | rise | lodge",
+      "sent_id": 1,
+      "sentence": "One morning, Mountain, a mighty warrior of the Eagle Clan, rose from his lodge with a heavy heart, sensing shadows in his spirit.",
+      "subj": "mountain",
+      "verb": "rise",
+      "obj": "lodge"
+    },
+    {
+      "id": "e0002",
+      "label": "he | saddle | stallion",
+      "sent_id": 2,
+      "sentence": "To ease his mind, he saddled his wild stallion, Swiftwind, and set out toward the rugged lands that border the great river, near the village of the Bear Tribe.",
+      "subj": "he",
+      "verb": "saddle",
+      "obj": "stallion"
+    },
+    {
+      "id": "e0003",
+      "label": "he | stir | herd",
+      "sent_id": 3,
+      "sentence": "As he rode, he stirred a herd of wild deer, chasing them through the tall grasses until twilight embraced the land.",
+      "subj": "he",
+      "verb": "stir",
+      "obj": "herd"
+    },
+    {
+      "id": "e0004",
+      "label": "he | catch | one",
+      "sent_id": 4,
+      "sentence": "He caught one, roasted it over flames, and rested by its warmth, while Swiftwind grazed quietly nearby.",
+      "subj": "he",
+      "verb": "catch",
+      "obj": "one"
+    },
+    {
+      "id": "e0005",
+      "label": "warrior | come | horse",
+      "sent_id": 5,
+      "sentence": "While Mountain slept, seven warriors from a rival tribe came upon the horse, admiring its strength.",
+      "subj": "warrior",
+      "verb": "come",
+      "obj": "horse"
+    },
+    {
+      "id": "e0006",
+      "label": "they | cast | rope",
+      "sent_id": 6,
+      "sentence": "They cast their ropes, seeking to take Swiftwind away.",
+      "subj": "they",
+      "verb": "cast",
+      "obj": "rope"
+    },
+    {
+      "id": "e0007",
+      "label": "stallion | strike | \u2205",
+      "sent_id": 7,
+      "sentence": "But the stallion, fierce as a thunderbird, struck back, breaking free by trampling one foe and scattering the others.",
+      "subj": "stallion",
+      "verb": "strike",
+      "obj": ""
+    },
+    {
+      "id": "e0008",
+      "label": "swiftwind | capture | \u2205",
+      "sent_id": 8,
+      "sentence": "Yet, outnumbered, Swiftwind was captured and taken to the enemy village.",
+      "subj": "swiftwind",
+      "verb": "capture",
+      "obj": ""
+    },
+    {
+      "id": "e0009",
+      "label": "awake | be | \u2205",
+      "sent_id": 9,
+      "sentence": "Mountain awoke to find Swiftwind gone and was grieved, for the bond between horse and rider is sacred.",
+      "subj": "awake",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0010",
+      "label": "he | arrive | hoofprint",
+      "sent_id": 10,
+      "sentence": "Following the hoofprints, he arrived at the village gates.",
+      "subj": "he",
+      "verb": "arrive",
+      "obj": "hoofprint"
+    },
+    {
+      "id": "e0011",
+      "label": "chief | welcome | mountain",
+      "sent_id": 11,
+      "sentence": "The chief and elders welcomed Mountain with respect, hearing his tale of loss.",
+      "subj": "chief",
+      "verb": "welcome",
+      "obj": "mountain"
+    },
+    {
+      "id": "e0012",
+      "label": "chief | swear | \u2205",
+      "sent_id": 12,
+      "sentence": "The chief swore no harm would come to the great warrior and offered him shelter while the search for Swiftwind continued.",
+      "subj": "chief",
+      "verb": "swear",
+      "obj": ""
+    },
+    {
+      "id": "e0013",
+      "label": "robe | scent | sweetgrass",
+      "sent_id": 13,
+      "sentence": "At night, a radiant woman entered Mountain\u2019s lodge, her movements like the gentle wind through cedar boughs, her robe scented with sweetgrass.",
+      "subj": "robe",
+      "verb": "scent",
+      "obj": "sweetgrass"
+    },
+    {
+      "id": "e0014",
+      "label": "she | speak | \u2205",
+      "sent_id": 14,
+      "sentence": "She spoke softly, \u201cI am Morningstar, daughter of the Bear Tribe chief.",
+      "subj": "she",
+      "verb": "speak",
+      "obj": ""
+    },
+    {
+      "id": "e0015",
+      "label": "heart | yearn | courage",
+      "sent_id": 15,
+      "sentence": "My heart has long yearned after your courage and strength.",
+      "subj": "heart",
+      "verb": "yearn",
+      "obj": "courage"
+    },
+    {
+      "id": "e0016",
+      "label": "none | match | valor",
+      "sent_id": 16,
+      "sentence": "None among my people can match your valor.",
+      "subj": "none",
+      "verb": "match",
+      "obj": "valor"
+    },
+    {
+      "id": "e0017",
+      "label": "i | bring | swiftwind",
+      "sent_id": 17,
+      "sentence": "If you will listen, I shall bring Swiftwind to you, and offer my hand in friendship.\u201d",
+      "subj": "i",
+      "verb": "bring",
+      "obj": "swiftwind"
+    },
+    {
+      "id": "e0018",
+      "label": "mountain | see | wisdom",
+      "sent_id": 18,
+      "sentence": "Mountain saw wisdom in her eyes and beauty in her voice, and a hope grew in his heart.",
+      "subj": "mountain",
+      "verb": "see",
+      "obj": "wisdom"
+    },
+    {
+      "id": "e0019",
+      "label": "he | send | message",
+      "sent_id": 19,
+      "sentence": "He sent a message to the chief, who gladly consented to their union.",
+      "subj": "he",
+      "verb": "send",
+      "obj": "message"
+    },
+    {
+      "id": "e0020",
+      "label": "mountain | join | eye",
+      "sent_id": 20,
+      "sentence": "Soon, Mountain and Morningstar were joined beneath the watchful eyes of stars and earth, pledging to bear a child strong as the bear and swift as the eagle.",
+      "subj": "mountain",
+      "verb": "join",
+      "obj": "eye"
+    },
+    {
+      "id": "e0021",
+      "label": "mountain | give | stone",
+      "sent_id": 21,
+      "sentence": "Before parting, Mountain gave Morningstar a small stone, black as night yet glowing softly\u2014a token for their child.",
+      "subj": "mountain",
+      "verb": "give",
+      "obj": "stone"
+    },
+    {
+      "id": "e0022",
+      "label": "it | be | son",
+      "sent_id": 22,
+      "sentence": "\u201cShould a daughter be born, bind it among her braids to guard her; should it be a son, tie it to his arm that he may carry strength like his father.\u201d",
+      "subj": "it",
+      "verb": "be",
+      "obj": "son"
+    },
+    {
+      "id": "e0023",
+      "label": "mountain | ride | swiftwind",
+      "sent_id": 23,
+      "sentence": "Then swift as the wind, Mountain rode away with Swiftwind, leaving Morningstar behind, her heart full of both joy and sorrow.",
+      "subj": "mountain",
+      "verb": "ride",
+      "obj": "swiftwind"
+    },
+    {
+      "id": "e0024",
+      "label": "moon | pass | \u2205",
+      "sent_id": 24,
+      "sentence": "Nine moons passed, and Morningstar bore a son, whom she named Hawk.",
+      "subj": "moon",
+      "verb": "pass",
+      "obj": ""
+    },
+    {
+      "id": "e0025",
+      "label": "he | smile | breath",
+      "sent_id": 25,
+      "sentence": "From his first breaths, he smiled like the dawn.",
+      "subj": "he",
+      "verb": "smile",
+      "obj": "breath"
+    },
+    {
+      "id": "e0026",
+      "label": "limb | grow | \u2205",
+      "sent_id": 26,
+      "sentence": "His limbs grew swift and strong as a river current, and by ten winters he outshone all in the village in skill and strength.",
+      "subj": "limb",
+      "verb": "grow",
+      "obj": ""
+    },
+    {
+      "id": "e0027",
+      "label": "hawk | ask | mother",
+      "sent_id": 27,
+      "sentence": "One day, filled with fire, Hawk asked his mother, \u201cTell me of my father, whose blood runs through me, whose steps I follow.",
+      "subj": "hawk",
+      "verb": "ask",
+      "obj": "mother"
+    },
+    {
+      "id": "e0028",
+      "label": "i | search | earth",
+      "sent_id": 28,
+      "sentence": "If you keep silence, I shall search the earth till I find him.\u201d",
+      "subj": "i",
+      "verb": "search",
+      "obj": "earth"
+    },
+    {
+      "id": "e0029",
+      "label": "morningstar | show | stone",
+      "sent_id": 29,
+      "sentence": "Morningstar showed Hawk the token stone and spoke gently, \u201cYou are Mountain\u2019s seed, born of courage and honor.",
+      "subj": "morningstar",
+      "verb": "show",
+      "obj": "stone"
+    },
+    {
+      "id": "e0030",
+      "label": "\u2205 | speak | secret",
+      "sent_id": 30,
+      "sentence": "But speak our secret softly, for the rival tribes watch for weakness.",
+      "subj": "",
+      "verb": "speak",
+      "obj": "secret"
+    },
+    {
+      "id": "e0031",
+      "label": "danger | fall | you",
+      "sent_id": 31,
+      "sentence": "If they knew who you are, danger would fall upon you both.",
+      "subj": "danger",
+      "verb": "fall",
+      "obj": "you"
+    },
+    {
+      "id": "e0032",
+      "label": "path | be | yours",
+      "sent_id": 32,
+      "sentence": "Your path is yours to choose, but your destiny is bound with Mountain\u2019s.\u201d",
+      "subj": "path",
+      "verb": "be",
+      "obj": "yours"
+    },
+    {
+      "id": "e0033",
+      "label": "hawk | vow | \u2205",
+      "sent_id": 33,
+      "sentence": "Hawk, burning with longing and pride, vowed to gather warriors and reclaim the land from those who oppose his people, dreaming of glory and the crown of his people.",
+      "subj": "hawk",
+      "verb": "vow",
+      "obj": ""
+    },
+    {
+      "id": "e0034",
+      "label": "he | need | horse",
+      "sent_id": 34,
+      "sentence": "But first, he needed a horse, swift and strong like his spirit.",
+      "subj": "he",
+      "verb": "need",
+      "obj": "horse"
+    },
+    {
+      "id": "e0035",
+      "label": "he | seek | day",
+      "sent_id": 35,
+      "sentence": "For days he sought among the herds until he learned of a foal descended from Swiftwind himself.",
+      "subj": "he",
+      "verb": "seek",
+      "obj": "day"
+    },
+    {
+      "id": "e0036",
+      "label": "he | declare | \u2205",
+      "sent_id": 36,
+      "sentence": "Upon riding this foal, he declared, \u201cWith such a steed, I shall darken the skies for many foes.\u201d",
+      "subj": "he",
+      "verb": "declare",
+      "obj": ""
+    },
+    {
+      "id": "e0037",
+      "label": "hawk | gather | warrior",
+      "sent_id": 37,
+      "sentence": "Thus arrayed, Hawk gathered his warriors and set forth toward the lands of the Eagle Clan.",
+      "subj": "hawk",
+      "verb": "gather",
+      "obj": "warrior"
+    },
+    {
+      "id": "e0038",
+      "label": "word | come | chief",
+      "sent_id": 38,
+      "sentence": "Word came to the enemy chief, Skyshadow, of Hawk\u2019s growing force and fiery heart.",
+      "subj": "word",
+      "verb": "come",
+      "obj": "chief"
+    },
+    {
+      "id": "e0039",
+      "label": "skyshadow | plot | darkness",
+      "sent_id": 39,
+      "sentence": "Skyshadow plotted in darkness, sending spies and gifts to deceive the young warrior, while secretly preparing to exploit the secret of his birth.",
+      "subj": "skyshadow",
+      "verb": "plot",
+      "obj": "darkness"
+    },
+    {
+      "id": "e0040",
+      "label": "land | crumble | \u2205",
+      "sent_id": 40,
+      "sentence": "\u201cIf Hawk\u2019s father learns who stands against him, the land will crumble.",
+      "subj": "land",
+      "verb": "crumble",
+      "obj": ""
+    },
+    {
+      "id": "e0041",
+      "label": "it | keep | hide",
+      "sent_id": 41,
+      "sentence": "Better it be kept hidden that father and son face each other in battle.\u201d",
+      "subj": "it",
+      "verb": "keep",
+      "obj": "hide"
+    },
+    {
+      "id": "e0042",
+      "label": "hawk | press | path",
+      "sent_id": 42,
+      "sentence": "Hawk pressed onward, his path marked by the smoking ruins of camps, until he reached the White Lodge, heart of his father\u2019s people.",
+      "subj": "hawk",
+      "verb": "press",
+      "obj": "path"
+    },
+    {
+      "id": "e0043",
+      "label": "guardian | stand | \u2205",
+      "sent_id": 43,
+      "sentence": "Its aged guardian, Oakshield, stood firm but was no match for Hawk\u2019s youthful strength, and was taken captive.",
+      "subj": "guardian",
+      "verb": "stand",
+      "obj": ""
+    },
+    {
+      "id": "e0044",
+      "label": "daughter | come | \u2205",
+      "sent_id": 44,
+      "sentence": "Then came Oakshield\u2019s daughter, Riverwind, fierce as a storm.",
+      "subj": "daughter",
+      "verb": "come",
+      "obj": ""
+    },
+    {
+      "id": "e0045",
+      "label": "she | don | armor",
+      "sent_id": 45,
+      "sentence": "She donned armor, hid her hair beneath a warrior\u2019s helmet, and rode forth challenging Hawk to combat.",
+      "subj": "she",
+      "verb": "don",
+      "obj": "armor"
+    },
+    {
+      "id": "e0046",
+      "label": "none | dare | \u2205",
+      "sent_id": 46,
+      "sentence": "None dared face her, mistaking her for a mighty chief, but Hawk accepted her challenge boldly.",
+      "subj": "none",
+      "verb": "dare",
+      "obj": ""
+    },
+    {
+      "id": "e0047",
+      "label": "lance | clash | wave",
+      "sent_id": 47,
+      "sentence": "Their battle was thunderous\u2014arrows flew like lightning, lances clashed like crashing waves, but Hawk\u2019s power prevailed.",
+      "subj": "lance",
+      "verb": "clash",
+      "obj": "wave"
+    },
+    {
+      "id": "e0048",
+      "label": "she | reveal | woman",
+      "sent_id": 48,
+      "sentence": "Yet when he lifted her helmet, she was revealed as a woman, and he marveled at her strength.",
+      "subj": "she",
+      "verb": "reveal",
+      "obj": "woman"
+    },
+    {
+      "id": "e0049",
+      "label": "riverwind | offer | lodge",
+      "sent_id": 49,
+      "sentence": "Seeking peace, Riverwind offered the White Lodge and its treasures if Hawk would end the fight.",
+      "subj": "riverwind",
+      "verb": "offer",
+      "obj": "lodge"
+    },
+    {
+      "id": "e0050",
+      "label": "he | follow | she",
+      "sent_id": 50,
+      "sentence": "Swayed by her words and beauty, he followed her inside, but she betrayed him, locking the doors and mocking him from the battlements.",
+      "subj": "he",
+      "verb": "follow",
+      "obj": "she"
+    },
+    {
+      "id": "e0051",
+      "label": "hawk | vow | vengeance",
+      "sent_id": 51,
+      "sentence": "Incensed, Hawk vowed vengeance and rode forth, leaving the lodge a shadow of broken promises.",
+      "subj": "hawk",
+      "verb": "vow",
+      "obj": "vengeance"
+    },
+    {
+      "id": "e0052",
+      "label": "oakshield | send | word",
+      "sent_id": 52,
+      "sentence": "Meanwhile, Oakshield sent word to Mountain\u2019s people of the coming storm\u2014a youthful chief who fought like the gods themselves.",
+      "subj": "oakshield",
+      "verb": "send",
+      "obj": "word"
+    },
+    {
+      "id": "e0053",
+      "label": "mountain | answer | call",
+      "sent_id": 54,
+      "sentence": "Mountain answered the call, but the chieftain Kaiwin, lord of the people, greeted him with scorn and harsh words, even threatening his honor.",
+      "subj": "mountain",
+      "verb": "answer",
+      "obj": "call"
+    },
+    {
+      "id": "e0054",
+      "label": "pride | burn | \u2205",
+      "sent_id": 55,
+      "sentence": "Mountain\u2019s pride burned, and he withdrew from the court, yet was begged by the elders to stand with his people.",
+      "subj": "pride",
+      "verb": "burn",
+      "obj": ""
+    },
+    {
+      "id": "e0055",
+      "label": "he | venture | camp",
+      "sent_id": 56,
+      "sentence": "As Mountain prepared, he secretly ventured to Hawk\u2019s camp by night, cloaked among the enemy.",
+      "subj": "he",
+      "verb": "venture",
+      "obj": "camp"
+    },
+    {
+      "id": "e0056",
+      "label": "he | see | son",
+      "sent_id": 57,
+      "sentence": "There he saw his son\u2014a tall, proud youth surrounded by loyal warriors, feasting and laughing unaware of the fate that would bind them.",
+      "subj": "he",
+      "verb": "see",
+      "obj": "son"
+    },
+    {
+      "id": "e0057",
+      "label": "brother | move | shadow",
+      "sent_id": 58,
+      "sentence": "In the shadows, Mountain\u2019s brother-in-law, Silent River, moved to confront the stranger and was struck down by Mountain\u2019s hand.",
+      "subj": "brother",
+      "verb": "move",
+      "obj": "shadow"
+    },
+    {
+      "id": "e0058",
+      "label": "hawk | lament | loss",
+      "sent_id": 59,
+      "sentence": "Hawk lamented the loss but kept his feast, unwilling to dampen the spirits of his warriors.",
+      "subj": "hawk",
+      "verb": "lament",
+      "obj": "loss"
+    },
+    {
+      "id": "e0059",
+      "label": "morning | dawn | \u2205",
+      "sent_id": 60,
+      "sentence": "Morning dawned, and Hawk questioned the captives within the White Lodge about the war camps, seeking the identity of his father.",
+      "subj": "morning",
+      "verb": "dawn",
+      "obj": ""
+    },
+    {
+      "id": "e0060",
+      "label": "answer | come | caution",
+      "sent_id": 61,
+      "sentence": "The answers came with caution or silence, for none wished to reveal the secret that might lead to tragedy.",
+      "subj": "answer",
+      "verb": "come",
+      "obj": "caution"
+    },
+    {
+      "id": "e0061",
+      "label": "hawk | strike | elder",
+      "sent_id": 62,
+      "sentence": "Frustrated, Hawk struck the elder Oakshield down but was no closer to the truth.",
+      "subj": "hawk",
+      "verb": "strike",
+      "obj": "elder"
+    },
+    {
+      "id": "e0062",
+      "label": "hawk | meet | time",
+      "sent_id": 63,
+      "sentence": "In time, Hawk and Mountain met on the open plain between their armies.",
+      "subj": "hawk",
+      "verb": "meet",
+      "obj": "time"
+    },
+    {
+      "id": "e0063",
+      "label": "mountain | beg | youth",
+      "sent_id": 64,
+      "sentence": "Mountain begged the youth to abandon the fight, fearing the blood that might be spilled between kin.",
+      "subj": "mountain",
+      "verb": "beg",
+      "obj": "youth"
+    },
+    {
+      "id": "e0064",
+      "label": "hawk | ask | mountain",
+      "sent_id": 65,
+      "sentence": "Hawk, burning with hope, asked Mountain to tell him his name, believing the war-chief before him to be his father.",
+      "subj": "hawk",
+      "verb": "ask",
+      "obj": "mountain"
+    },
+    {
+      "id": "e0065",
+      "label": "mountain | deny | \u2205",
+      "sent_id": 66,
+      "sentence": "Mountain denied, speaking words to unsettle his son\u2019s heart.",
+      "subj": "mountain",
+      "verb": "deny",
+      "obj": ""
+    },
+    {
+      "id": "e0066",
+      "label": "sword | rang | thunderclap",
+      "sent_id": 67,
+      "sentence": "Their battle was fierce \u2014 clubs hammered like thunder, spears shattered like dry wood, swords rang like thunderclaps.",
+      "subj": "sword",
+      "verb": "rang",
+      "obj": "thunderclap"
+    },
+    {
+      "id": "e0067",
+      "label": "day | fade | night",
+      "sent_id": 68,
+      "sentence": "Day faded to night, yet neither yielded, their strength and skill matched.",
+      "subj": "day",
+      "verb": "fade",
+      "obj": "night"
+    },
+    {
+      "id": "e0068",
+      "label": "wound | fight | \u2205",
+      "sent_id": 69,
+      "sentence": "Both men bore wounds yet fought on, each the other\u2019s equal, and Mountain\u2019s heart was heavy with sorrow.",
+      "subj": "wound",
+      "verb": "fight",
+      "obj": ""
+    },
+    {
+      "id": "e0069",
+      "label": "sword | raise | \u2205",
+      "sent_id": 70,
+      "sentence": "At last, Hawk knelt upon Mountain, sword raised to end the contest.",
+      "subj": "sword",
+      "verb": "raise",
+      "obj": ""
+    },
+    {
+      "id": "e0070",
+      "label": "mountain | speak | \u2205",
+      "sent_id": 71,
+      "sentence": "Mountain spoke swiftly, \u201cIn our people\u2019s law, one who downstrikes first must spare his foe for another fight.\u201d",
+      "subj": "mountain",
+      "verb": "speak",
+      "obj": ""
+    },
+    {
+      "id": "e0071",
+      "label": "hawk | stay | hand",
+      "sent_id": 72,
+      "sentence": "Hawk stayed his hand, and they paused in the battle to catch breath.",
+      "subj": "hawk",
+      "verb": "stay",
+      "obj": "hand"
+    },
+    {
+      "id": "e0072",
+      "label": "war | stir | \u2205",
+      "sent_id": 73,
+      "sentence": "But the war stirred again the next day.",
+      "subj": "war",
+      "verb": "stir",
+      "obj": ""
+    },
+    {
+      "id": "e0073",
+      "label": "hawk | break | back",
+      "sent_id": 75,
+      "sentence": "At last, Mountain overpowered Hawk, breaking his back like a slender reed.",
+      "subj": "hawk",
+      "verb": "break",
+      "obj": "back"
+    },
+    {
+      "id": "e0074",
+      "label": "hawk | speak | breath",
+      "sent_id": 76,
+      "sentence": "In his final breaths, Hawk spoke, \u201cI sought not glory, but my father\u2019s face, for my mother\u2019s heart told me of him.",
+      "subj": "hawk",
+      "verb": "speak",
+      "obj": "breath"
+    },
+    {
+      "id": "e0075",
+      "label": "i | die | \u2205",
+      "sent_id": 77,
+      "sentence": "Now I die without knowing him.",
+      "subj": "i",
+      "verb": "die",
+      "obj": ""
+    },
+    {
+      "id": "e0076",
+      "label": "father | find | i",
+      "sent_id": 78,
+      "sentence": "Yet if the Great Spirit watches, my father shall find me and avenge my passing.\u201d",
+      "subj": "father",
+      "verb": "find",
+      "obj": "i"
+    },
+    {
+      "id": "e0077",
+      "label": "tear | carve | river",
+      "sent_id": 79,
+      "sentence": "Mountain\u2019s sword fell from trembling hands; tears carved rivers down his face.",
+      "subj": "tear",
+      "verb": "carve",
+      "obj": "river"
+    },
+    {
+      "id": "e0078",
+      "label": "he | seek | proof",
+      "sent_id": 80,
+      "sentence": "Wracked with grief, he sought proof.",
+      "subj": "he",
+      "verb": "seek",
+      "obj": "proof"
+    },
+    {
+      "id": "e0079",
+      "label": "hawk | show | \u2205",
+      "sent_id": 81,
+      "sentence": "Hawk showed him the black stone tied to his arm\u2014and mountain and son were finally united in truth, though separated by fate.",
+      "subj": "hawk",
+      "verb": "show",
+      "obj": ""
+    },
+    {
+      "id": "e0080",
+      "label": "mountain | wail | sky",
+      "sent_id": 82,
+      "sentence": "Mountain wailed beneath the opening sky, mourning the strength and life lost to fate\u2019s cruel hand.",
+      "subj": "mountain",
+      "verb": "wail",
+      "obj": "sky"
+    },
+    {
+      "id": "e0081",
+      "label": "he | wrap | hawk",
+      "sent_id": 83,
+      "sentence": "He wrapped Hawk in robes woven with golden thread and laid him to rest beneath a burial mound shaped like a great horse\u2019s hoof, fragrant with cedar and sweetgrass.",
+      "subj": "he",
+      "verb": "wrap",
+      "obj": "hawk"
+    },
+    {
+      "id": "e0082",
+      "label": "village | mourn | \u2205",
+      "sent_id": 84,
+      "sentence": "The village mourned long, their songs filled with sorrow and honor.",
+      "subj": "village",
+      "verb": "mourn",
+      "obj": ""
+    },
+    {
+      "id": "e0083",
+      "label": "morningstar | grieve | \u2205",
+      "sent_id": 85,
+      "sentence": "Far away, Morningstar, too, grieved.",
+      "subj": "morningstar",
+      "verb": "grieve",
+      "obj": ""
+    },
+    {
+      "id": "e0084",
+      "label": "she | tear | hair",
+      "sent_id": 86,
+      "sentence": "She tore her hair and cast ashes upon her head, carrying Hawk\u2019s mantle and sword close to her heart.",
+      "subj": "she",
+      "verb": "tear",
+      "obj": "hair"
+    },
+    {
+      "id": "e0085",
+      "label": "spirit | join | son",
+      "sent_id": 87,
+      "sentence": "After a long year, her spirit joined her son, and the forest whispered their names forever.",
+      "subj": "spirit",
+      "verb": "join",
+      "obj": "son"
+    },
+    {
+      "id": "e0086",
+      "label": "tale | be | \u2205",
+      "sent_id": 88,
+      "sentence": "Thus is the tale of Mountain and Hawk, a legend of courage and loss, reminding all that the ties of blood and spirit run deep and life\u2019s greatest sorrow is parting from those we cherish most.",
+      "subj": "tale",
+      "verb": "be",
+      "obj": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    },
+    {
+      "source": "e0029",
+      "target": "e0030",
+      "relation": "next"
+    },
+    {
+      "source": "e0030",
+      "target": "e0031",
+      "relation": "next"
+    },
+    {
+      "source": "e0031",
+      "target": "e0032",
+      "relation": "next"
+    },
+    {
+      "source": "e0032",
+      "target": "e0033",
+      "relation": "next"
+    },
+    {
+      "source": "e0033",
+      "target": "e0034",
+      "relation": "next"
+    },
+    {
+      "source": "e0034",
+      "target": "e0035",
+      "relation": "next"
+    },
+    {
+      "source": "e0035",
+      "target": "e0036",
+      "relation": "next"
+    },
+    {
+      "source": "e0036",
+      "target": "e0037",
+      "relation": "next"
+    },
+    {
+      "source": "e0037",
+      "target": "e0038",
+      "relation": "next"
+    },
+    {
+      "source": "e0038",
+      "target": "e0039",
+      "relation": "next"
+    },
+    {
+      "source": "e0039",
+      "target": "e0040",
+      "relation": "next"
+    },
+    {
+      "source": "e0040",
+      "target": "e0041",
+      "relation": "next"
+    },
+    {
+      "source": "e0041",
+      "target": "e0042",
+      "relation": "next"
+    },
+    {
+      "source": "e0042",
+      "target": "e0043",
+      "relation": "next"
+    },
+    {
+      "source": "e0043",
+      "target": "e0044",
+      "relation": "next"
+    },
+    {
+      "source": "e0044",
+      "target": "e0045",
+      "relation": "next"
+    },
+    {
+      "source": "e0045",
+      "target": "e0046",
+      "relation": "next"
+    },
+    {
+      "source": "e0046",
+      "target": "e0047",
+      "relation": "next"
+    },
+    {
+      "source": "e0047",
+      "target": "e0048",
+      "relation": "next"
+    },
+    {
+      "source": "e0048",
+      "target": "e0049",
+      "relation": "next"
+    },
+    {
+      "source": "e0049",
+      "target": "e0050",
+      "relation": "next"
+    },
+    {
+      "source": "e0050",
+      "target": "e0051",
+      "relation": "next"
+    },
+    {
+      "source": "e0051",
+      "target": "e0052",
+      "relation": "next"
+    },
+    {
+      "source": "e0052",
+      "target": "e0053",
+      "relation": "next"
+    },
+    {
+      "source": "e0053",
+      "target": "e0054",
+      "relation": "next"
+    },
+    {
+      "source": "e0054",
+      "target": "e0055",
+      "relation": "next"
+    },
+    {
+      "source": "e0055",
+      "target": "e0056",
+      "relation": "next"
+    },
+    {
+      "source": "e0056",
+      "target": "e0057",
+      "relation": "next"
+    },
+    {
+      "source": "e0057",
+      "target": "e0058",
+      "relation": "next"
+    },
+    {
+      "source": "e0058",
+      "target": "e0059",
+      "relation": "next"
+    },
+    {
+      "source": "e0059",
+      "target": "e0060",
+      "relation": "next"
+    },
+    {
+      "source": "e0060",
+      "target": "e0061",
+      "relation": "next"
+    },
+    {
+      "source": "e0061",
+      "target": "e0062",
+      "relation": "next"
+    },
+    {
+      "source": "e0062",
+      "target": "e0063",
+      "relation": "next"
+    },
+    {
+      "source": "e0063",
+      "target": "e0064",
+      "relation": "next"
+    },
+    {
+      "source": "e0064",
+      "target": "e0065",
+      "relation": "next"
+    },
+    {
+      "source": "e0065",
+      "target": "e0066",
+      "relation": "next"
+    },
+    {
+      "source": "e0066",
+      "target": "e0067",
+      "relation": "next"
+    },
+    {
+      "source": "e0067",
+      "target": "e0068",
+      "relation": "next"
+    },
+    {
+      "source": "e0068",
+      "target": "e0069",
+      "relation": "next"
+    },
+    {
+      "source": "e0069",
+      "target": "e0070",
+      "relation": "next"
+    },
+    {
+      "source": "e0070",
+      "target": "e0071",
+      "relation": "next"
+    },
+    {
+      "source": "e0071",
+      "target": "e0072",
+      "relation": "next"
+    },
+    {
+      "source": "e0072",
+      "target": "e0073",
+      "relation": "next"
+    },
+    {
+      "source": "e0073",
+      "target": "e0074",
+      "relation": "next"
+    },
+    {
+      "source": "e0074",
+      "target": "e0075",
+      "relation": "next"
+    },
+    {
+      "source": "e0075",
+      "target": "e0076",
+      "relation": "next"
+    },
+    {
+      "source": "e0076",
+      "target": "e0077",
+      "relation": "next"
+    },
+    {
+      "source": "e0077",
+      "target": "e0078",
+      "relation": "next"
+    },
+    {
+      "source": "e0078",
+      "target": "e0079",
+      "relation": "next"
+    },
+    {
+      "source": "e0079",
+      "target": "e0080",
+      "relation": "next"
+    },
+    {
+      "source": "e0080",
+      "target": "e0081",
+      "relation": "next"
+    },
+    {
+      "source": "e0081",
+      "target": "e0082",
+      "relation": "next"
+    },
+    {
+      "source": "e0082",
+      "target": "e0083",
+      "relation": "next"
+    },
+    {
+      "source": "e0083",
+      "target": "e0084",
+      "relation": "next"
+    },
+    {
+      "source": "e0084",
+      "target": "e0085",
+      "relation": "next"
+    },
+    {
+      "source": "e0085",
+      "target": "e0086",
+      "relation": "next"
+    }
+  ]
+}

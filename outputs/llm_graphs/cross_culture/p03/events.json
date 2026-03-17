@@ -1,0 +1,658 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "",
+    "verb": "live",
+    "obj": "warrior",
+    "label": "\u2205 | live | warrior",
+    "sentence": "Long ago, in a village beside a great river, there lived a young warrior who had fallen into hardship."
+  },
+  {
+    "sent_id": 1,
+    "subj": "spirit",
+    "verb": "be",
+    "obj": "",
+    "label": "spirit | be | \u2205",
+    "sentence": "His spirit was strong, but his hands were empty."
+  },
+  {
+    "sent_id": 2,
+    "subj": "hunger",
+    "verb": "grow",
+    "obj": "",
+    "label": "hunger | grow | \u2205",
+    "sentence": "The hunger in his heart grew, and he asked his father\u2019s blessing to leave the lodge and travel, hoping to find a living by the power of his own arm."
+  },
+  {
+    "sent_id": 3,
+    "subj": "father",
+    "verb": "say",
+    "obj": "son",
+    "label": "father | say | son",
+    "sentence": "The father, wise with years like the ancient trees, said: \u201cSon, place the feet of contentment beneath the blanket of safety."
+  },
+  {
+    "sent_id": 4,
+    "subj": "elder",
+    "verb": "speak",
+    "obj": "",
+    "label": "elder | speak | \u2205",
+    "sentence": "The elders have spoken that joy is not born from endless struggle, and the greatest medicine for want is to hold one\u2019s desires lightly."
+  },
+  {
+    "sent_id": 5,
+    "subj": "one",
+    "verb": "seize",
+    "obj": "fortune",
+    "label": "one | seize | fortune",
+    "sentence": "No one seizes fortune like snaring the wind."
+  },
+  {
+    "sent_id": 6,
+    "subj": "arrow",
+    "verb": "pierce",
+    "obj": "sky",
+    "label": "arrow | pierce | sky",
+    "sentence": "No arrows pierce the sky with empty hands."
+  },
+  {
+    "sent_id": 7,
+    "subj": "you",
+    "verb": "carry",
+    "obj": "skill",
+    "label": "you | carry | skill",
+    "sentence": "If you carry a hundred skills, but the spirits do not favor you,\nYour strength will be no shield against hardship."
+  },
+  {
+    "sent_id": 8,
+    "subj": "warrior",
+    "verb": "do",
+    "obj": "what",
+    "label": "warrior | do | what",
+    "sentence": "What can a warrior do against a cruel wind?"
+  },
+  {
+    "sent_id": 9,
+    "subj": "hand",
+    "verb": "be",
+    "obj": "",
+    "label": "hand | be | \u2205",
+    "sentence": "The hand of fate is stronger than the hand of a bear.\u201d"
+  },
+  {
+    "sent_id": 10,
+    "subj": "son",
+    "verb": "answer",
+    "obj": "",
+    "label": "son | answer | \u2205",
+    "sentence": "The son answered: \u201cFather, traveling brings many gifts\u2014renewing the spirit, learning the songs of other tribes, meeting friends, gaining honor, and seeing the world\u2019s great wonders."
+  },
+  {
+    "sent_id": 11,
+    "subj": "you",
+    "verb": "become",
+    "obj": "eagle",
+    "label": "you | become | eagle",
+    "sentence": "The journey shapes a man, as the traveling shamans teach:\n\nIf you never leave your fire circle,\nYou will never become the eagle who soars."
+  },
+  {
+    "sent_id": 12,
+    "subj": "",
+    "verb": "walk",
+    "obj": "land",
+    "label": "\u2205 | walk | land",
+    "sentence": "Walk the land far and wide,\nBefore you walk the final path.\u201d"
+  },
+  {
+    "sent_id": 13,
+    "subj": "father",
+    "verb": "nod",
+    "obj": "",
+    "label": "father | nod | \u2205",
+    "sentence": "The father nodded and replied, \u201cThe gifts of travel bless only a few: first, the wealthy trader whose tents rise in every village, surrounded by helpers and guarded by strong warriors."
+  },
+  {
+    "sent_id": 14,
+    "subj": "he",
+    "verb": "honor",
+    "obj": "",
+    "label": "he | honor | \u2205",
+    "sentence": "Wherever he travels, he is honored."
+  },
+  {
+    "sent_id": 16,
+    "subj": "man",
+    "verb": "be",
+    "obj": "stranger",
+    "label": "man | be | stranger",
+    "sentence": "But the poor man is a stranger even in his own village."
+  },
+  {
+    "sent_id": 18,
+    "subj": "people",
+    "verb": "honor",
+    "obj": "presence",
+    "label": "people | honor | presence",
+    "sentence": "The people honor such a presence like shining obsidian."
+  },
+  {
+    "sent_id": 19,
+    "subj": "man",
+    "verb": "be",
+    "obj": "sun",
+    "label": "man | be | sun",
+    "sentence": "A learned man is like the sun on the morning dew,\nSeen and treasured wherever he treads."
+  },
+  {
+    "sent_id": 20,
+    "subj": "fool",
+    "verb": "be",
+    "obj": "crow",
+    "label": "fool | be | crow",
+    "sentence": "But a fool, even if born a chief\u2019s son,\nIs like a black crow lost among eagles."
+  },
+  {
+    "sent_id": 23,
+    "subj": "face",
+    "verb": "be",
+    "obj": "gift",
+    "label": "face | be | gift",
+    "sentence": "A warrior's face is a gift to all who meet him,\nA precious shell sought by many."
+  },
+  {
+    "sent_id": 25,
+    "subj": "song",
+    "verb": "be",
+    "obj": "medicine",
+    "label": "song | be | medicine",
+    "sentence": "Sweet songs are medicine to the soul,\nBringing joy that no blade can cut."
+  },
+  {
+    "sent_id": 26,
+    "subj": "",
+    "verb": "feed",
+    "obj": "earth",
+    "label": "\u2205 | feed | earth",
+    "sentence": "Better than a strong arm is a gentle voice,\nFeeding the spirit as spring feeds the earth."
+  },
+  {
+    "sent_id": 27,
+    "subj": "work",
+    "verb": "see",
+    "obj": "",
+    "label": "work | see | \u2205",
+    "sentence": "Fifth, the craftsman who earns his place by his hands, his work seen and respected, so that his spirit is not lost as he follows his journey."
+  },
+  {
+    "sent_id": 29,
+    "subj": "king",
+    "verb": "sleep",
+    "obj": "",
+    "label": "king | sleep | \u2205",
+    "sentence": "But when the great chief falls,\nEven kings sleep hungry."
+  },
+  {
+    "sent_id": 30,
+    "subj": "gift",
+    "verb": "bring",
+    "obj": "joy",
+    "label": "gift | bring | joy",
+    "sentence": "These gifts bring joy on the road, but you, son, who have none, venture out with only daydreams."
+  },
+  {
+    "sent_id": 31,
+    "subj": "world",
+    "verb": "turn",
+    "obj": "",
+    "label": "world | turn | \u2205",
+    "sentence": "The world turns harshly, and the winds do not soften for those without the right paths.\u201d"
+  },
+  {
+    "sent_id": 32,
+    "subj": "wise",
+    "verb": "say",
+    "obj": "",
+    "label": "wise | say | \u2205",
+    "sentence": "The son spoke once more: \u201cFather, the wise say fate brings food and hardship alike, yet men must seek their path and stand against the storm."
+  },
+  {
+    "sent_id": 33,
+    "subj": "heart",
+    "verb": "dare",
+    "obj": "journey",
+    "label": "heart | dare | journey",
+    "sentence": "Though the night may hold danger, a brave heart must dare the journey when trapped by hunger and sorrow."
+  },
+  {
+    "sent_id": 34,
+    "subj": "he",
+    "verb": "suffer",
+    "obj": "pain",
+    "label": "he | suffer | pain",
+    "sentence": "When a man has fallen from honor,\nWhy should he suffer still more pain?"
+  },
+  {
+    "sent_id": 35,
+    "subj": "horizon",
+    "verb": "be",
+    "obj": "home",
+    "label": "horizon | be | home",
+    "sentence": "The whole horizon is his home,\nAnd the night shelters all travelers\u2014rich and poor alike.\u201d\n\nWith these words, the son bade his father farewell and began his journey alone."
+  },
+  {
+    "sent_id": 36,
+    "subj": "he",
+    "verb": "say",
+    "obj": "",
+    "label": "he | say | \u2205",
+    "sentence": "He said quietly, \u201cWhen luck turns its face away, a skilled man must go where no one knows his story.\u201d"
+  },
+  {
+    "sent_id": 37,
+    "subj": "he",
+    "verb": "travel",
+    "obj": "",
+    "label": "he | travel | \u2205",
+    "sentence": "He traveled until he reached the wild river, its waters roaring like thunder and tossing stones like warriors clashing."
+  },
+  {
+    "sent_id": 38,
+    "subj": "many",
+    "verb": "sit",
+    "obj": "crossing",
+    "label": "many | sit | crossing",
+    "sentence": "At the crossing, many sat with coins in hand, waiting for passage."
+  },
+  {
+    "sent_id": 39,
+    "subj": "warrior",
+    "verb": "speak",
+    "obj": "",
+    "label": "warrior | speak | \u2205",
+    "sentence": "The young warrior spoke humbly, asking to cross, but those gathered turned away."
+  },
+  {
+    "sent_id": 40,
+    "subj": "strength",
+    "verb": "move",
+    "obj": "hand",
+    "label": "strength | move | hand",
+    "sentence": "\u201cNo one crosses without tribute,\nNo strength can move the silent hand of gold.\u201d"
+  },
+  {
+    "sent_id": 41,
+    "subj": "boatman",
+    "verb": "laugh",
+    "obj": "",
+    "label": "boatman | laugh | \u2205",
+    "sentence": "A boatman laughed harshly, \u201cNo money\u2014no crossing!"
+  },
+  {
+    "sent_id": 42,
+    "subj": "",
+    "verb": "be",
+    "obj": "use",
+    "label": "\u2205 | be | use",
+    "sentence": "What use is the strength of ten men?"
+  },
+  {
+    "sent_id": 43,
+    "subj": "",
+    "verb": "pay",
+    "obj": "price",
+    "label": "\u2205 | pay | price",
+    "sentence": "Pay the price.\u201d"
+  },
+  {
+    "sent_id": 44,
+    "subj": "anger",
+    "verb": "flare",
+    "obj": "heart",
+    "label": "anger | flare | heart",
+    "sentence": "Anger flared in the warrior\u2019s heart."
+  },
+  {
+    "sent_id": 45,
+    "subj": "he",
+    "verb": "cry",
+    "obj": "",
+    "label": "he | cry | \u2205",
+    "sentence": "As the boat pulled away, he cried out, \u201cIf my robe can buy the way, take it and bring me across.\u201d"
+  },
+  {
+    "sent_id": 46,
+    "subj": "boat",
+    "verb": "turn",
+    "obj": "",
+    "label": "boat | turn | \u2205",
+    "sentence": "The boat turned back, greed overcoming pride."
+  },
+  {
+    "sent_id": 48,
+    "subj": "he",
+    "verb": "seize",
+    "obj": "collar",
+    "label": "he | seize | collar",
+    "sentence": "When the warrior reached, he seized the boatman\u2019s collar and brought him down."
+  },
+  {
+    "sent_id": 49,
+    "subj": "another",
+    "verb": "try",
+    "obj": "",
+    "label": "another | try | \u2205",
+    "sentence": "Another tried to help but met the same fate and fled."
+  },
+  {
+    "sent_id": 51,
+    "subj": "word",
+    "verb": "lead",
+    "obj": "heart",
+    "label": "word | lead | heart",
+    "sentence": "\u201cWhere there is strife, be gentle,\nA soft word can lead the fiercest heart."
+  },
+  {
+    "sent_id": 52,
+    "subj": "",
+    "verb": "lead",
+    "obj": "bear",
+    "label": "\u2205 | lead | bear",
+    "sentence": "Lead the bear by a single hair,\nNot by force that breaks the willow.\u201d"
+  },
+  {
+    "sent_id": 53,
+    "subj": "boat",
+    "verb": "reach",
+    "obj": "midstream",
+    "label": "boat | reach | midstream",
+    "sentence": "The boat reached a lone stone pillar standing midstream, and the boatman warned, \u201cThe boat must be tied or lost."
+  },
+  {
+    "sent_id": 54,
+    "subj": "warrior",
+    "verb": "climb",
+    "obj": "",
+    "label": "warrior | climb | \u2205",
+    "sentence": "Whoever is strongest, climb the pillar to fasten the cord.\u201d\n\nProud and strong, the young warrior climbed."
+  },
+  {
+    "sent_id": 55,
+    "subj": "boatman",
+    "verb": "let",
+    "obj": "",
+    "label": "boatman | let | \u2205",
+    "sentence": "But as he grasped the rope, the boatman let it slip and pushed the vessel away, leaving the warrior stranded."
+  },
+  {
+    "sent_id": 56,
+    "subj": "hunger",
+    "verb": "chase",
+    "obj": "footstep",
+    "label": "hunger | chase | footstep",
+    "sentence": "Days passed; hunger and thirst chased his footsteps."
+  },
+  {
+    "sent_id": 57,
+    "subj": "he",
+    "verb": "sink",
+    "obj": "river",
+    "label": "he | sink | river",
+    "sentence": "He sank into the river under the weight of exhaustion, but the Great Spirit spared him."
+  },
+  {
+    "sent_id": 58,
+    "subj": "he",
+    "verb": "awake",
+    "obj": "shore",
+    "label": "he | awake | shore",
+    "sentence": "He awoke on the far shore, weak and wild-eyed, eating roots and leaves to live."
+  },
+  {
+    "sent_id": 59,
+    "subj": "he",
+    "verb": "wander",
+    "obj": "desert",
+    "label": "he | wander | desert",
+    "sentence": "He wandered the desert until he found a well, where people drank and laughed."
+  },
+  {
+    "sent_id": 60,
+    "subj": "he",
+    "verb": "beg",
+    "obj": "coin",
+    "label": "he | beg | coin",
+    "sentence": "He begged for a coin but was turned away."
+  },
+  {
+    "sent_id": 61,
+    "subj": "he",
+    "verb": "scold",
+    "obj": "",
+    "label": "he | scold | \u2205",
+    "sentence": "Frustrated, he scolded and fought those who mocked him, but the many were too strong, and he fell wounded."
+  },
+  {
+    "sent_id": 62,
+    "subj": "bear",
+    "verb": "overcome",
+    "obj": "",
+    "label": "bear | overcome | \u2205",
+    "sentence": "Even the mightiest bear\nCan be overcome by the swarm of ants."
+  },
+  {
+    "sent_id": 63,
+    "subj": "they",
+    "verb": "strip",
+    "obj": "hide",
+    "label": "they | strip | hide",
+    "sentence": "When small creatures unite,\nThey strip the fierce lion's hide."
+  },
+  {
+    "sent_id": 64,
+    "subj": "he",
+    "verb": "join",
+    "obj": "band",
+    "label": "he | join | band",
+    "sentence": "Weak and alone, he joined a traveling band moving toward the night, but thieves lurked nearby, and the journey held danger."
+  },
+  {
+    "sent_id": 66,
+    "subj": "other",
+    "verb": "welcome",
+    "obj": "he",
+    "label": "other | welcome | he",
+    "sentence": "The others welcomed him warmly, bringing food and water."
+  },
+  {
+    "sent_id": 68,
+    "subj": "other",
+    "verb": "whisper",
+    "obj": "",
+    "label": "other | whisper | \u2205",
+    "sentence": "Once a stranger\u2019s friend stole his gold,\nLeaving him naked and weeping at dawn.\u201d\n\n\u201cLet us leave this stranger behind,\u201d the others whispered, afraid and suspicious."
+  },
+  {
+    "sent_id": 69,
+    "subj": "they",
+    "verb": "rise",
+    "obj": "sun",
+    "label": "they | rise | sun",
+    "sentence": "They rose with the sun and departed, abandoning the sleeping warrior."
+  },
+  {
+    "sent_id": 70,
+    "subj": "warrior",
+    "verb": "sit",
+    "obj": "breaking",
+    "label": "warrior | sit | breaking",
+    "sentence": "Lost and parched, the warrior sat with his heart breaking."
+  },
+  {
+    "sent_id": 71,
+    "subj": "who",
+    "verb": "stand",
+    "obj": "i",
+    "label": "who | stand | i",
+    "sentence": "\u201cWho will stand with me once the trading horses have gone?"
+  },
+  {
+    "sent_id": 72,
+    "subj": "stranger",
+    "verb": "walk",
+    "obj": "shadow",
+    "label": "stranger | walk | shadow",
+    "sentence": "A stranger walks with only a stranger\u2019s shadow.\u201d"
+  },
+  {
+    "sent_id": 73,
+    "subj": "he",
+    "verb": "speak",
+    "obj": "word",
+    "label": "he | speak | word",
+    "sentence": "He spoke these words when a prince from a distant tribe hunting nearby found him."
+  },
+  {
+    "sent_id": 74,
+    "subj": "prince",
+    "verb": "ask",
+    "obj": "story",
+    "label": "prince | ask | story",
+    "sentence": "Seeing his noble bearing beneath sorrow\u2019s veil, the prince asked his story."
+  },
+  {
+    "sent_id": 75,
+    "subj": "prince",
+    "verb": "clothe",
+    "obj": "he",
+    "label": "prince | clothe | he",
+    "sentence": "Moved by his plight, the prince clothed him in fine robes, gave him precious beads, and sent a trusted guide to lead him home."
+  },
+  {
+    "sent_id": 76,
+    "subj": "father",
+    "verb": "rejoice",
+    "obj": "",
+    "label": "father | rejoice | \u2205",
+    "sentence": "When they returned, his father rejoiced, grateful for his safe return."
+  },
+  {
+    "sent_id": 77,
+    "subj": "son",
+    "verb": "tell",
+    "obj": "boatman",
+    "label": "son | tell | boatman",
+    "sentence": "That evening, the son told of the harsh boatman, the cruel desert people, and the betrayals along the path."
+  },
+  {
+    "sent_id": 78,
+    "subj": "son",
+    "verb": "tell",
+    "obj": "you",
+    "label": "son | tell | you",
+    "sentence": "\u201cMy son,\u201d the father said, \u201cHave I not told you that the hands of the empty are like a broken bear\u2019s paw?\u201d"
+  },
+  {
+    "sent_id": 79,
+    "subj": "son",
+    "verb": "reply",
+    "obj": "",
+    "label": "son | reply | \u2205",
+    "sentence": "The son replied, \u201cFather, no treasure comes without trial."
+  },
+  {
+    "sent_id": 81,
+    "subj": "i",
+    "verb": "suffer",
+    "obj": "storm",
+    "label": "i | suffer | storm",
+    "sentence": "I have suffered storms, but from the clouds I gathered honey."
+  },
+  {
+    "sent_id": 82,
+    "subj": "say",
+    "verb": "set",
+    "obj": "table",
+    "label": "say | set | table",
+    "sentence": "The wise say, fate sets the table, but man must bring the fire.\u201d"
+  },
+  {
+    "sent_id": 83,
+    "subj": "",
+    "verb": "be",
+    "obj": "",
+    "label": "\u2205 | be | \u2205",
+    "sentence": "\u201cTo fear the crocodile,\nIs to never dive for pearls."
+  },
+  {
+    "sent_id": 84,
+    "subj": "stone",
+    "verb": "move",
+    "obj": "",
+    "label": "stone | move | \u2205",
+    "sentence": "The stone beneath the grinding mill never moves,\nYet must bear the heaviest load."
+  },
+  {
+    "sent_id": 85,
+    "subj": "lion",
+    "verb": "eat",
+    "obj": "what",
+    "label": "lion | eat | what",
+    "sentence": "What will the lion eat in his den?\nWhat nourishment for the fallen hawk?"
+  },
+  {
+    "sent_id": 86,
+    "subj": "you",
+    "verb": "have",
+    "obj": "hand",
+    "label": "you | have | hand",
+    "sentence": "If you wish to catch game in your own lands,\nYou must have the hands and feet of the spider.\u201d"
+  },
+  {
+    "sent_id": 87,
+    "subj": "father",
+    "verb": "nod",
+    "obj": "",
+    "label": "father | nod | \u2205",
+    "sentence": "The father nodded, \u201cThis time, the spirits favored you, and a royal hand healed your wounds."
+  },
+  {
+    "sent_id": 88,
+    "subj": "gift",
+    "verb": "be",
+    "obj": "",
+    "label": "gift | be | \u2205",
+    "sentence": "Such gifts are rare as the morning star\u2019s dance.\u201d"
+  },
+  {
+    "sent_id": 89,
+    "subj": "story",
+    "verb": "be",
+    "obj": "time",
+    "label": "story | be | time",
+    "sentence": "The story is like the time a great chief placed a precious eagle feather on the village totem, promising honor to any who could shoot an arrow through its eye."
+  },
+  {
+    "sent_id": 90,
+    "subj": "many",
+    "verb": "try",
+    "obj": "",
+    "label": "many | try | \u2205",
+    "sentence": "Many tried and missed, except a small boy, who at play let loose a random arrow, and it passed through perfectly."
+  },
+  {
+    "sent_id": 91,
+    "subj": "boy",
+    "verb": "earn",
+    "obj": "feather",
+    "label": "boy | earn | feather",
+    "sentence": "The boy earned the feather and gifts, but then, burning his bow and arrows, said, \u201cOnly the first light should last forever.\u201d"
+  },
+  {
+    "sent_id": 92,
+    "subj": "wise",
+    "verb": "walk",
+    "obj": "trail",
+    "label": "wise | walk | trail",
+    "sentence": "The wise and the foolish, the strong and the weak\u2014all walk the long trail, seeking their place beneath the sky."
+  }
+]

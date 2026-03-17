@@ -1,0 +1,442 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "",
+    "verb": "be",
+    "obj": "valley",
+    "label": "\u2205 | be | valley",
+    "sentence": "Long ago, beyond the tallest peaks and across the wide plains, there was a sacred valley cloaked in towering cedar and pine trees."
+  },
+  {
+    "sent_id": 1,
+    "subj": "river",
+    "verb": "wind",
+    "obj": "valley",
+    "label": "river | wind | valley",
+    "sentence": "A great river, like a silver serpent, wound through the valley, nourishing the sacred earth and the many living things that dwelled there."
+  },
+  {
+    "sent_id": 2,
+    "subj": "valley",
+    "verb": "be",
+    "obj": "home",
+    "label": "valley | be | home",
+    "sentence": "The valley was home to the fleet-footed rabbits, the soaring hawks, the busy squirrels, and the graceful deer."
+  },
+  {
+    "sent_id": 3,
+    "subj": "they",
+    "verb": "live",
+    "obj": "peace",
+    "label": "they | live | peace",
+    "sentence": "They lived in peace, for no fierce predators haunted the woods \u2014 no wolves or bears to bring fear to their hearts."
+  },
+  {
+    "sent_id": 4,
+    "subj": "",
+    "verb": "descend",
+    "obj": "mountain",
+    "label": "\u2205 | descend | mountain",
+    "sentence": "But one day, a lone wolf descended from the distant mountains and stepped into the valley."
+  },
+  {
+    "sent_id": 5,
+    "subj": "he",
+    "verb": "begin",
+    "obj": "",
+    "label": "he | begin | \u2205",
+    "sentence": "The moment he arrived, he began to stalk and hunt the gentle creatures, catching them one by one."
+  },
+  {
+    "sent_id": 6,
+    "subj": "deer",
+    "verb": "escape",
+    "obj": "",
+    "label": "deer | escape | \u2205",
+    "sentence": "Sometimes, a swift deer or clever squirrel would escape, but always the animals trembled, fearful that the wolf\u2019s hunger would come for them next."
+  },
+  {
+    "sent_id": 7,
+    "subj": "animal",
+    "verb": "seek",
+    "obj": "wisdom",
+    "label": "animal | seek | wisdom",
+    "sentence": "In their fear, the animals sought the wisdom of the ancient Great Horned Owl, who was said to hold the knowledge of the spirits."
+  },
+  {
+    "sent_id": 8,
+    "subj": "",
+    "verb": "bring",
+    "obj": "ruin",
+    "label": "\u2205 | bring | ruin",
+    "sentence": "The owl listened and said softly, \u201cThe wolf\u2019s strength and claws are greater than any here; fighting him alone will bring ruin."
+  },
+  {
+    "sent_id": 9,
+    "subj": "we",
+    "verb": "find",
+    "obj": "way",
+    "label": "we | find | way",
+    "sentence": "We must find a way to live with the wolf, though it weighs heavy on the heart.\u201d"
+  },
+  {
+    "sent_id": 10,
+    "subj": "thought",
+    "verb": "be",
+    "obj": "",
+    "label": "thought | be | \u2205",
+    "sentence": "The animals protested\u2014the thought of living always beneath the shadow of hunger was unbearable."
+  },
+  {
+    "sent_id": 11,
+    "subj": "one",
+    "verb": "choose",
+    "obj": "",
+    "label": "one | choose | \u2205",
+    "sentence": "So they made a sorrowful pact: each day, one of the animals would be chosen to go to the wolf willingly, feeding him so the others might rest safely for the time being."
+  },
+  {
+    "sent_id": 12,
+    "subj": "wolf",
+    "verb": "agree",
+    "obj": "hesitation",
+    "label": "wolf | agree | hesitation",
+    "sentence": "The wolf, tired of the chase and pleased by the offering of food, agreed without hesitation."
+  },
+  {
+    "sent_id": 13,
+    "subj": "animal",
+    "verb": "gather",
+    "obj": "tree",
+    "label": "animal | gather | tree",
+    "sentence": "The next dawn, the animals gathered beneath the ancient spirit tree, and it was the smallest among them\u2014a gentle rabbit with soft fur and bright eyes\u2014who was chosen to be the wolf\u2019s meal."
+  },
+  {
+    "sent_id": 14,
+    "subj": "heart",
+    "verb": "pound",
+    "obj": "fear",
+    "label": "heart | pound | fear",
+    "sentence": "The rabbit\u2019s heart pounded with fear."
+  },
+  {
+    "sent_id": 15,
+    "subj": "he",
+    "verb": "think",
+    "obj": "",
+    "label": "he | think | \u2205",
+    "sentence": "He first thought to flee, but no hiding place called to him."
+  },
+  {
+    "sent_id": 16,
+    "subj": "he",
+    "verb": "think",
+    "obj": "",
+    "label": "he | think | \u2205",
+    "sentence": "Then he thought to fight, but the wolf\u2019s power shadowed him like a storm."
+  },
+  {
+    "sent_id": 17,
+    "subj": "he",
+    "verb": "walk",
+    "obj": "spirit",
+    "label": "he | walk | spirit",
+    "sentence": "So with a humble spirit, he walked to the wolf\u2019s den and called out, \u201cGreat wolf, the hunters of this valley have sent me to you as food today.\u201d"
+  },
+  {
+    "sent_id": 18,
+    "subj": "hungry",
+    "verb": "emerge",
+    "obj": "",
+    "label": "hungry | emerge | \u2205",
+    "sentence": "Hungry, the wolf emerged and sniffed the little rabbit."
+  },
+  {
+    "sent_id": 19,
+    "subj": "he",
+    "verb": "growl",
+    "obj": "",
+    "label": "he | growl | \u2205",
+    "sentence": "\u201cA fine feast you will be,\u201d he growled."
+  },
+  {
+    "sent_id": 20,
+    "subj": "i",
+    "verb": "be",
+    "obj": "",
+    "label": "i | be | \u2205",
+    "sentence": "\u201cHow fortunate I am that the animals bring themselves to me.\u201d"
+  },
+  {
+    "sent_id": 21,
+    "subj": "rabbit",
+    "verb": "sigh",
+    "obj": "",
+    "label": "rabbit | sigh | \u2205",
+    "sentence": "The rabbit sighed and said, \u201cI come with my own paws, for I know my fate."
+  },
+  {
+    "sent_id": 22,
+    "subj": "i",
+    "verb": "wonder",
+    "obj": "",
+    "label": "i | wonder | \u2205",
+    "sentence": "But I wonder\u2014great wolf\u2014you are not the fiercest here.\u201d"
+  },
+  {
+    "sent_id": 23,
+    "subj": "eye",
+    "verb": "narrow",
+    "obj": "",
+    "label": "eye | narrow | \u2205",
+    "sentence": "The wolf\u2019s fierce eyes narrowed."
+  },
+  {
+    "sent_id": 24,
+    "subj": "you",
+    "verb": "mean",
+    "obj": "what",
+    "label": "you | mean | what",
+    "sentence": "\u201cWhat do you mean?"
+  },
+  {
+    "sent_id": 25,
+    "subj": "i",
+    "verb": "be",
+    "obj": "wolf",
+    "label": "i | be | wolf",
+    "sentence": "I am the only wolf in this valley."
+  },
+  {
+    "sent_id": 26,
+    "subj": "wolf",
+    "verb": "roam",
+    "obj": "land",
+    "label": "wolf | roam | land",
+    "sentence": "No other wolves roam these lands!\u201d"
+  },
+  {
+    "sent_id": 27,
+    "subj": "he",
+    "verb": "snarl",
+    "obj": "",
+    "label": "he | snarl | \u2205",
+    "sentence": "he snarled."
+  },
+  {
+    "sent_id": 28,
+    "subj": "rabbit",
+    "verb": "blink",
+    "obj": "",
+    "label": "rabbit | blink | \u2205",
+    "sentence": "The rabbit blinked gently."
+  },
+  {
+    "sent_id": 29,
+    "subj": "you",
+    "verb": "know",
+    "obj": "wolf",
+    "label": "you | know | wolf",
+    "sentence": "\u201cYou do not know of the other wolf."
+  },
+  {
+    "sent_id": 30,
+    "subj": "another",
+    "verb": "be",
+    "obj": "fiercer",
+    "label": "another | be | fiercer",
+    "sentence": "Though you are strong, another is fiercer, with teeth sharper and legs swifter."
+  },
+  {
+    "sent_id": 31,
+    "subj": "i",
+    "verb": "flee",
+    "obj": "",
+    "label": "i | flee | \u2205",
+    "sentence": "Even if I escaped your jaws, I could not flee that wolf.\u201d"
+  },
+  {
+    "sent_id": 32,
+    "subj": "anger",
+    "verb": "rise",
+    "obj": "smoke",
+    "label": "anger | rise | smoke",
+    "sentence": "The wolf bristled, anger rising like smoke."
+  },
+  {
+    "sent_id": 33,
+    "subj": "",
+    "verb": "lead",
+    "obj": "i",
+    "label": "\u2205 | lead | i",
+    "sentence": "\u201cLead me to this other wolf, and I will spare you\u2014for today, little meal."
+  },
+  {
+    "sent_id": 34,
+    "subj": "",
+    "verb": "show",
+    "obj": "i",
+    "label": "\u2205 | show | i",
+    "sentence": "Show me where he hides.\u201d"
+  },
+  {
+    "sent_id": 35,
+    "subj": "rabbit",
+    "verb": "exhale",
+    "obj": "",
+    "label": "rabbit | exhale | \u2205",
+    "sentence": "The rabbit exhaled softly."
+  },
+  {
+    "sent_id": 37,
+    "subj": "",
+    "verb": "follow",
+    "obj": "i",
+    "label": "\u2205 | follow | i",
+    "sentence": "Follow me.\u201d"
+  },
+  {
+    "sent_id": 38,
+    "subj": "wolf",
+    "verb": "follow",
+    "obj": "rabbit",
+    "label": "wolf | follow | rabbit",
+    "sentence": "So the wolf followed the rabbit through the forest until they came upon an old stone well, forgotten and deep."
+  },
+  {
+    "sent_id": 39,
+    "subj": "den",
+    "verb": "lie",
+    "obj": "",
+    "label": "den | lie | \u2205",
+    "sentence": "\u201cThere,\u201d said the rabbit, \u201clies the den of the other wolf, waiting in darkness.\u201d"
+  },
+  {
+    "sent_id": 40,
+    "subj": "",
+    "verb": "peer",
+    "obj": "",
+    "label": "\u2205 | peer | \u2205",
+    "sentence": "The wolf peered down but saw only blackness."
+  },
+  {
+    "sent_id": 41,
+    "subj": "he",
+    "verb": "grumble",
+    "obj": "",
+    "label": "he | grumble | \u2205",
+    "sentence": "\u201cI see nothing,\u201d he grumbled."
+  },
+  {
+    "sent_id": 42,
+    "subj": "rabbit",
+    "verb": "say",
+    "obj": "",
+    "label": "rabbit | say | \u2205",
+    "sentence": "\u201cLook closer,\u201d said the rabbit."
+  },
+  {
+    "sent_id": 43,
+    "subj": "",
+    "verb": "lower",
+    "obj": "head",
+    "label": "\u2205 | lower | head",
+    "sentence": "\u201cLower your head into the well, and you will see him staring back.\u201d"
+  },
+  {
+    "sent_id": 44,
+    "subj": "wolf",
+    "verb": "lean",
+    "obj": "",
+    "label": "wolf | lean | \u2205",
+    "sentence": "The wolf leaned over and slipped his head into the cool shadow."
+  },
+  {
+    "sent_id": 45,
+    "subj": "eye",
+    "verb": "adjust",
+    "obj": "",
+    "label": "eye | adjust | \u2205",
+    "sentence": "At last, his eyes adjusted, and he saw a wolf\u2019s glowing eyes reflected in the water below\u2014his own reflection."
+  },
+  {
+    "sent_id": 46,
+    "subj": "growl",
+    "verb": "rise",
+    "obj": "throat",
+    "label": "growl | rise | throat",
+    "sentence": "A growl rose in the wolf\u2019s throat."
+  },
+  {
+    "sent_id": 48,
+    "subj": "i",
+    "verb": "see",
+    "obj": "you",
+    "label": "i | see | you",
+    "sentence": "I see you there!\u201d"
+  },
+  {
+    "sent_id": 49,
+    "subj": "he",
+    "verb": "shout",
+    "obj": "well",
+    "label": "he | shout | well",
+    "sentence": "he shouted into the well."
+  },
+  {
+    "sent_id": 50,
+    "subj": "echo",
+    "verb": "answer",
+    "obj": "",
+    "label": "echo | answer | \u2205",
+    "sentence": "The echo answered back, \u201cCoward!"
+  },
+  {
+    "sent_id": 51,
+    "subj": "",
+    "verb": "come",
+    "obj": "",
+    "label": "\u2205 | come | \u2205",
+    "sentence": "Come forth and face me!\u201d"
+  },
+  {
+    "sent_id": 53,
+    "subj": "rabbit",
+    "verb": "watch",
+    "obj": "",
+    "label": "rabbit | watch | \u2205",
+    "sentence": "The rabbit watched as the wolf barked threats to himself, the sound bouncing off stone walls."
+  },
+  {
+    "sent_id": 54,
+    "subj": "rabbit",
+    "verb": "say",
+    "obj": "",
+    "label": "rabbit | say | \u2205",
+    "sentence": "\u201cSee,\u201d the rabbit said, \u201cthe fiercer wolf hides, while the smaller chases shadows.\u201d"
+  },
+  {
+    "sent_id": 55,
+    "subj": "wolf",
+    "verb": "leap",
+    "obj": "well",
+    "label": "wolf | leap | well",
+    "sentence": "Filled with rage, the wolf leapt into the well to confront his ghostly foe, but the depths were cold and unforgiving."
+  },
+  {
+    "sent_id": 56,
+    "subj": "wolf",
+    "verb": "swallow",
+    "obj": "",
+    "label": "wolf | swallow | \u2205",
+    "sentence": "Unable to swim, the wolf was swallowed by the water\u2019s embrace and never emerged."
+  },
+  {
+    "sent_id": 57,
+    "subj": "valley",
+    "verb": "be",
+    "obj": "day",
+    "label": "valley | be | day",
+    "sentence": "From that day, the valley was free of fear, and the animals knew that wisdom and courage, even from the smallest heart, could protect their home."
+  }
+]

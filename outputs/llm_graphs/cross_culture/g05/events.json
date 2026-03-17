@@ -1,0 +1,418 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "",
+    "verb": "stand",
+    "obj": "watermill",
+    "label": "\u2205 | stand | watermill",
+    "sentence": "In a distant land of ancient Persia, beside a sparkling river that wound through fragrant orchards and towering cypresses, stood a humble watermill."
+  },
+  {
+    "sent_id": 3,
+    "subj": "shah",
+    "verb": "summon",
+    "obj": "girl",
+    "label": "shah | summon | girl",
+    "sentence": "The Shah, a man consumed by his desire for wealth, summoned the girl to his splendid palace of marble and turquoise tiles."
+  },
+  {
+    "sent_id": 4,
+    "subj": "he",
+    "verb": "place",
+    "obj": "wheel",
+    "label": "he | place | wheel",
+    "sentence": "There, in a grand chamber filled with heaps of dry straw, he placed before her an ornate spinning wheel of polished rosewood and commanded, \u201cBy the dawn\u2019s first light, spin this straw into gold, or face the wrath of my displeasure.\u201d"
+  },
+  {
+    "sent_id": 5,
+    "subj": "i",
+    "verb": "know",
+    "obj": "nothing",
+    "label": "i | know | nothing",
+    "sentence": "The poor maiden trembled and implored, \u201cO great Shah, this is but my father's vain boast; I know nothing of such magic.\u201d"
+  },
+  {
+    "sent_id": 6,
+    "subj": "door",
+    "verb": "seal",
+    "obj": "",
+    "label": "door | seal | \u2205",
+    "sentence": "Yet the chamber\u2019s heavy doors were sealed tightly, and she was left alone."
+  },
+  {
+    "sent_id": 7,
+    "subj": "she",
+    "verb": "slump",
+    "obj": "heart",
+    "label": "she | slump | heart",
+    "sentence": "With a heart weighed by sorrow, she slumped into a cushioned corner, her tears falling like pearls upon the Persian carpet."
+  },
+  {
+    "sent_id": 8,
+    "subj": "door",
+    "verb": "creak",
+    "obj": "",
+    "label": "door | creak | \u2205",
+    "sentence": "Suddenly, the door creaked open and in limped a curious little figure, dressed in patched silks with eyes bright as stars\u2014a creature of the jinn or perhaps a dervish of the unseen realm."
+  },
+  {
+    "sent_id": 9,
+    "subj": "he",
+    "verb": "say",
+    "obj": "",
+    "label": "he | say | \u2205",
+    "sentence": "\u201cPeace be upon you, fair daughter of the mill,\u201d he said."
+  },
+  {
+    "sent_id": 10,
+    "subj": "",
+    "verb": "weep",
+    "obj": "you",
+    "label": "\u2205 | weep | you",
+    "sentence": "\u201cWhy weep you so bitterly?\u201d"
+  },
+  {
+    "sent_id": 11,
+    "subj": "i",
+    "verb": "spin",
+    "obj": "straw",
+    "label": "i | spin | straw",
+    "sentence": "\u201cAlas, I must spin this straw into gold, yet my hands know not how.\u201d"
+  },
+  {
+    "sent_id": 12,
+    "subj": "sprite",
+    "verb": "smile",
+    "obj": "glint",
+    "label": "sprite | smile | glint",
+    "sentence": "The sprite smiled with a cunning glint."
+  },
+  {
+    "sent_id": 13,
+    "subj": "",
+    "verb": "tell",
+    "obj": "i",
+    "label": "\u2205 | tell | i",
+    "sentence": "\u201cTell me what treasure you will offer me for this deed.\u201d"
+  },
+  {
+    "sent_id": 14,
+    "subj": "she",
+    "verb": "answer",
+    "obj": "",
+    "label": "she | answer | \u2205",
+    "sentence": "\u201cMy necklace of carnelian beads,\u201d she answered, hesitant but desperate."
+  },
+  {
+    "sent_id": 15,
+    "subj": "man",
+    "verb": "turn",
+    "obj": "wheel",
+    "label": "man | turn | wheel",
+    "sentence": "Seizing the necklace, the little man turned to the wheel."
+  },
+  {
+    "sent_id": 16,
+    "subj": "he",
+    "verb": "chant",
+    "obj": "thread",
+    "label": "he | chant | thread",
+    "sentence": "He chanted softly in an ancient tongue and began to whirl the spindle:\n\n\u201cTurn, turn, O sacred thread,\nFrom humble straw to gleaming dread,\nBy moon\u2019s light and morning\u2019s gleam,\nSpin the gold from this poor dream.\u201d"
+  },
+  {
+    "sent_id": 17,
+    "subj": "wheel",
+    "verb": "spin",
+    "obj": "",
+    "label": "wheel | spin | \u2205",
+    "sentence": "The wheel spun faster and faster, until the straw gleamed like the setting sun on the desert dunes."
+  },
+  {
+    "sent_id": 18,
+    "subj": "eye",
+    "verb": "gleam",
+    "obj": "greed",
+    "label": "eye | gleam | greed",
+    "sentence": "When the Shah beheld the golden bounty, his eyes gleamed with greed anew."
+  },
+  {
+    "sent_id": 19,
+    "subj": "he",
+    "verb": "demand",
+    "obj": "",
+    "label": "he | demand | \u2205",
+    "sentence": "Yet he demanded the maiden spin a greater pile before the next nightfall."
+  },
+  {
+    "sent_id": 20,
+    "subj": "she",
+    "verb": "cry",
+    "obj": "",
+    "label": "she | cry | \u2205",
+    "sentence": "Again, trapped in her gilded prison, she cried out until the mysterious visitor returned."
+  },
+  {
+    "sent_id": 21,
+    "subj": "she",
+    "verb": "say",
+    "obj": "",
+    "label": "she | say | \u2205",
+    "sentence": "\u201cWhat will you give me this time?\u201d\n\n\u201cMy mother\u2019s ring,\u201d she said, trembling."
+  },
+  {
+    "sent_id": 22,
+    "subj": "heap",
+    "verb": "become",
+    "obj": "dawn",
+    "label": "heap | become | dawn",
+    "sentence": "Again, with whispered words and graceful spinning, the little man worked his marvel; the heaps became gold before dawn."
+  },
+  {
+    "sent_id": 23,
+    "subj": "hunger",
+    "verb": "be",
+    "obj": "",
+    "label": "hunger | be | \u2205",
+    "sentence": "But the Shah\u2019s hunger for riches was insatiable."
+  },
+  {
+    "sent_id": 24,
+    "subj": "he",
+    "verb": "lead",
+    "obj": "she",
+    "label": "he | lead | she",
+    "sentence": "He led her to a mountain of straw larger than before and said, \u201cSpin all this into gold by sunrise, and you shall be my queen.\u201d"
+  },
+  {
+    "sent_id": 25,
+    "subj": "despair",
+    "verb": "overcome",
+    "obj": "she",
+    "label": "despair | overcome | she",
+    "sentence": "Alone within the vast chamber, despair overcame her."
+  },
+  {
+    "sent_id": 26,
+    "subj": "sprite",
+    "verb": "appear",
+    "obj": "",
+    "label": "sprite | appear | \u2205",
+    "sentence": "The sprite appeared once more."
+  },
+  {
+    "sent_id": 27,
+    "subj": "she",
+    "verb": "sigh",
+    "obj": "",
+    "label": "she | sigh | \u2205",
+    "sentence": "\u201cWhat can you offer now?\u201d\n\n\u201cNothing remains,\u201d she sighed."
+  },
+  {
+    "sent_id": 28,
+    "subj": "man",
+    "verb": "say",
+    "obj": "eye",
+    "label": "man | say | eye",
+    "sentence": "\u201cThen promise me your firstborn child when you reign as queen,\u201d the little man said with sharp eyes."
+  },
+  {
+    "sent_id": 29,
+    "subj": "she",
+    "verb": "see",
+    "obj": "choice",
+    "label": "she | see | choice",
+    "sentence": "Though her heart quailed, she saw no choice and agreed."
+  },
+  {
+    "sent_id": 30,
+    "subj": "wheel",
+    "verb": "sing",
+    "obj": "spell",
+    "label": "wheel | sing | spell",
+    "sentence": "Once more the wheel sang its spell, and the straw turned to gold beneath the watchful eye of dawn."
+  },
+  {
+    "sent_id": 31,
+    "subj": "shah",
+    "verb": "marry",
+    "obj": "daughter",
+    "label": "shah | marry | daughter",
+    "sentence": "The Shah, true to his word, married the miller\u2019s daughter, who ascended the throne and wore a crown of emeralds and pearls."
+  },
+  {
+    "sent_id": 32,
+    "subj": "joy",
+    "verb": "fill",
+    "obj": "hall",
+    "label": "joy | fill | hall",
+    "sentence": "When her first child was born, joy filled the palace halls, and she forgot the dark promise and the strange man."
+  },
+  {
+    "sent_id": 33,
+    "subj": "figure",
+    "verb": "return",
+    "obj": "",
+    "label": "figure | return | \u2205",
+    "sentence": "But one day, as she cradled her infant by the light of the quince tree, the little figure returned, demanding his due."
+  },
+  {
+    "sent_id": 34,
+    "subj": "queen",
+    "verb": "offer",
+    "obj": "wealth",
+    "label": "queen | offer | wealth",
+    "sentence": "Grief-stricken, the queen offered all the wealth of her kingdom for release, but the stranger\u2019s heart was hard."
+  },
+  {
+    "sent_id": 35,
+    "subj": "he",
+    "verb": "speak",
+    "obj": "",
+    "label": "he | speak | \u2205",
+    "sentence": "Then he spoke, \u201cI grant you three days."
+  },
+  {
+    "sent_id": 36,
+    "subj": "she",
+    "verb": "ponder",
+    "obj": "name",
+    "label": "she | ponder | name",
+    "sentence": "If before they pass you can guess my name, you shall keep your child.\u201d\n\nThrough sleepless nights she pondered names from far and near\u2014names whispered along caravan routes and sung in taverns from Isfahan to Shiraz."
+  },
+  {
+    "sent_id": 37,
+    "subj": "she",
+    "verb": "send",
+    "obj": "rider",
+    "label": "she | send | rider",
+    "sentence": "She sent swift riders across the realm to discover every strange and secret name."
+  },
+  {
+    "sent_id": 38,
+    "subj": "she",
+    "verb": "guess",
+    "obj": "name",
+    "label": "she | guess | name",
+    "sentence": "On the first day, she guessed names of noblemen and ancient poets: \u201cDarius, Kaveh, Rostam.\u201d"
+  },
+  {
+    "sent_id": 39,
+    "subj": "stranger",
+    "verb": "shake",
+    "obj": "head",
+    "label": "stranger | shake | head",
+    "sentence": "But the stranger shook his head each time."
+  },
+  {
+    "sent_id": 40,
+    "subj": "she",
+    "verb": "try",
+    "obj": "name",
+    "label": "she | try | name",
+    "sentence": "On the second, she tried playful names she had heard from children: \u201cKolah Namadi, Barfi, Shirazi.\""
+  },
+  {
+    "sent_id": 41,
+    "subj": "man",
+    "verb": "deny",
+    "obj": "they",
+    "label": "man | deny | they",
+    "sentence": "Yet again, the little man denied them all."
+  },
+  {
+    "sent_id": 42,
+    "subj": "messenger",
+    "verb": "return",
+    "obj": "day",
+    "label": "messenger | return | day",
+    "sentence": "On the third day, a messenger returned from a lonely hill where peacocks roamed and pomegranate trees blossomed under a sapphire sky."
+  },
+  {
+    "sent_id": 43,
+    "subj": "rider",
+    "verb": "tell",
+    "obj": "she",
+    "label": "rider | tell | she",
+    "sentence": "The rider told her:\n\n\u201cAs I climbed the hill at dusk, I saw a small hut where a fire flickered, and around it danced a peculiar little man on one leg, singing in a voice as light as jasmine breeze:\n\n\u2018Joyfully I feast and play,\nBrew today and bake next day;\nDance and chant without a shame,\nFor my name is Amoo Zhalam!\u2019"
+  },
+  {
+    "sent_id": 45,
+    "subj": "she",
+    "verb": "smile",
+    "obj": "",
+    "label": "she | smile | \u2205",
+    "sentence": "When the little man came, she smiled and called out, \u201cIs your name Dervish?\u201d"
+  },
+  {
+    "sent_id": 46,
+    "subj": "queen",
+    "verb": "come",
+    "obj": "",
+    "label": "queen | come | \u2205",
+    "sentence": "\u201cNo, O Queen!\u201d came the sharp reply."
+  },
+  {
+    "sent_id": 47,
+    "subj": "it",
+    "verb": "be",
+    "obj": "bahram",
+    "label": "it | be | bahram",
+    "sentence": "\u201cIs it Bahram?\u201d\n\n\u201cNo, my lady!\u201d"
+  },
+  {
+    "sent_id": 48,
+    "subj": "it",
+    "verb": "be",
+    "obj": "zhalam",
+    "label": "it | be | zhalam",
+    "sentence": "\u201cIs it Amoo Zhalam?\u201d"
+  },
+  {
+    "sent_id": 49,
+    "subj": "face",
+    "verb": "twist",
+    "obj": "this",
+    "label": "face | twist | this",
+    "sentence": "At this, the creature\u2019s face twisted in fury."
+  },
+  {
+    "sent_id": 50,
+    "subj": "witch",
+    "verb": "tell",
+    "obj": "that",
+    "label": "witch | tell | that",
+    "sentence": "\u201cA witch must have told you that!\u201d"
+  },
+  {
+    "sent_id": 51,
+    "subj": "he",
+    "verb": "hiss",
+    "obj": "",
+    "label": "he | hiss | \u2205",
+    "sentence": "he hissed, stamping a foot so hard it struck the stone floor, then clutching it fiercely to pull it free."
+  },
+  {
+    "sent_id": 52,
+    "subj": "he",
+    "verb": "vanish",
+    "obj": "that",
+    "label": "he | vanish | that",
+    "sentence": "And with that, he vanished into the swirling night air."
+  },
+  {
+    "sent_id": 53,
+    "subj": "baby",
+    "verb": "gurgle",
+    "obj": "",
+    "label": "baby | gurgle | \u2205",
+    "sentence": "The nurse laughed softly, the baby gurgled sweetly, and the court burst into joyful mirth, exclaiming, \u201cLong live the queen and her cleverness!"
+  },
+  {
+    "sent_id": 54,
+    "subj": "name",
+    "verb": "know",
+    "obj": "tale",
+    "label": "name | know | tale",
+    "sentence": "May Amoo Zhalam\u2019s name be forever known in tale and song.\u201d"
+  }
+]

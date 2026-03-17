@@ -1,0 +1,366 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "i | wish | \u2205",
+      "sent_id": 1,
+      "sentence": "I wished to join their circle, to walk alongside them and share their path, but they would not permit it.",
+      "subj": "i",
+      "verb": "wish",
+      "obj": ""
+    },
+    {
+      "id": "e0001",
+      "label": "i | speak | they",
+      "sent_id": 2,
+      "sentence": "I spoke to them earnestly: \"Among proud warriors and wise elders, it is not the way to turn a face from those who walk humbly, nor to deny oneself the strength found in such company.",
+      "subj": "i",
+      "verb": "speak",
+      "obj": "they"
+    },
+    {
+      "id": "e0002",
+      "label": "i | carry | blanket",
+      "sent_id": 3,
+      "sentence": "Though I lack a horse, my spirit is strong\u2014I can carry our blankets and ease your load.\"",
+      "subj": "i",
+      "verb": "carry",
+      "obj": "blanket"
+    },
+    {
+      "id": "e0003",
+      "label": "one | reply | \u2205",
+      "sent_id": 4,
+      "sentence": "Yet one among them replied, \"Do not be offended by our words.",
+      "subj": "one",
+      "verb": "reply",
+      "obj": ""
+    },
+    {
+      "id": "e0004",
+      "label": "brother | come | \u2205",
+      "sent_id": 5,
+      "sentence": "Not long ago, a false brother, cloaked like a medicine man, came and joined us, but his heart was dark.\"\n\nHow can one truly know the spirit beneath a painted face?",
+      "subj": "brother",
+      "verb": "come",
+      "obj": ""
+    },
+    {
+      "id": "e0005",
+      "label": "storyteller | know | truth",
+      "sent_id": 6,
+      "sentence": "The storyteller knows the truth the tale must hold.",
+      "subj": "storyteller",
+      "verb": "know",
+      "obj": "truth"
+    },
+    {
+      "id": "e0006",
+      "label": "they | welcome | he",
+      "sent_id": 7,
+      "sentence": "Because the medicine men are trusted, they welcomed him with open hands and hearts, believing him a friend.",
+      "subj": "they",
+      "verb": "welcome",
+      "obj": "he"
+    },
+    {
+      "id": "e0007",
+      "label": "man | wear | garment",
+      "sent_id": 8,
+      "sentence": "The true wise men wear humble garments of patched leather and soft cloth, showing only their honest selves to others.",
+      "subj": "man",
+      "verb": "wear",
+      "obj": "garment"
+    },
+    {
+      "id": "e0008",
+      "label": "\u2205 | let | \u2205",
+      "sent_id": 9,
+      "sentence": "Let deeds be your adornment, no matter the robe you wear.",
+      "subj": "",
+      "verb": "let",
+      "obj": ""
+    },
+    {
+      "id": "e0009",
+      "label": "\u2205 | mean | \u2205",
+      "sent_id": 11,
+      "sentence": "To walk the sacred path means to empty one\u2019s heart of greed and desire\u2014not merely to cast aside outer garments.",
+      "subj": "",
+      "verb": "mean",
+      "obj": ""
+    },
+    {
+      "id": "e0010",
+      "label": "strength | show | itself",
+      "sent_id": 12,
+      "sentence": "True strength shows itself in the battles of life.",
+      "subj": "strength",
+      "verb": "show",
+      "obj": "itself"
+    },
+    {
+      "id": "e0011",
+      "label": "weapon | be | good",
+      "sent_id": 13,
+      "sentence": "What good are weapons to one who cannot face the fight with courage?",
+      "subj": "weapon",
+      "verb": "be",
+      "obj": "good"
+    },
+    {
+      "id": "e0012",
+      "label": "we | make | camp",
+      "sent_id": 14,
+      "sentence": "One night, as we traveled under the quiet gaze of the moon, we made camp near a watchful stone fort.",
+      "subj": "we",
+      "verb": "make",
+      "obj": "camp"
+    },
+    {
+      "id": "e0013",
+      "label": "brother | slip | shadow",
+      "sent_id": 15,
+      "sentence": "The false brother, lifting a water gourd from a companion as though to cleanse his hands in ritual, slipped away into the shadows to steal.",
+      "subj": "brother",
+      "verb": "slip",
+      "obj": "shadow"
+    },
+    {
+      "id": "e0014",
+      "label": "pretender | turn | feather",
+      "sent_id": 16,
+      "sentence": "A pretender who wears the healer\u2019s mantle \nTurns the sacred eagle feathers into mere tassels for an enemy\u2019s horse.",
+      "subj": "pretender",
+      "verb": "turn",
+      "obj": "feather"
+    },
+    {
+      "id": "e0015",
+      "label": "he | vanish | sight",
+      "sent_id": 17,
+      "sentence": "He vanished from our sight and climbed a tall watchtower, where he took a box of precious things.",
+      "subj": "he",
+      "verb": "vanish",
+      "obj": "sight"
+    },
+    {
+      "id": "e0016",
+      "label": "stranger | go | dawn",
+      "sent_id": 18,
+      "sentence": "By dawn, the black-hearted stranger had gone far along the trail.",
+      "subj": "stranger",
+      "verb": "go",
+      "obj": "dawn"
+    },
+    {
+      "id": "e0017",
+      "label": "innocent | seize | \u2205",
+      "sent_id": 19,
+      "sentence": "When morning came, the innocent, still asleep in camp, were seized and cast into the cold shadow of the fort.",
+      "subj": "innocent",
+      "verb": "seize",
+      "obj": ""
+    },
+    {
+      "id": "e0018",
+      "label": "we | turn | day",
+      "sent_id": 20,
+      "sentence": "From that day forward, we turned from fellowship to solitude, living by this wisdom: safety lies in walking alone.",
+      "subj": "we",
+      "verb": "turn",
+      "obj": "day"
+    },
+    {
+      "id": "e0019",
+      "label": "shame | drape | great",
+      "sent_id": 21,
+      "sentence": "When one soul in a tribe acts in dishonor, \nThe shame drapes over both the great and the small.",
+      "subj": "shame",
+      "verb": "drape",
+      "obj": "great"
+    },
+    {
+      "id": "e0020",
+      "label": "you | see | taint",
+      "sent_id": 22,
+      "sentence": "Have you not seen how one wild horse \nTaints the spirit of the entire herd?",
+      "subj": "you",
+      "verb": "see",
+      "obj": "taint"
+    },
+    {
+      "id": "e0021",
+      "label": "i | answer | they",
+      "sent_id": 23,
+      "sentence": "I answered them with gratitude: \u201cGreat is the Spirit of the Earth and Sky!",
+      "subj": "i",
+      "verb": "answer",
+      "obj": "they"
+    },
+    {
+      "id": "e0022",
+      "label": "i | bar | blessing",
+      "sent_id": 24,
+      "sentence": "Though I walk apart from the medicine men, I have not been barred from their blessings.",
+      "subj": "i",
+      "verb": "bar",
+      "obj": "blessing"
+    },
+    {
+      "id": "e0023",
+      "label": "story | reach | heart",
+      "sent_id": 25,
+      "sentence": "Your story has reached my heart and will guide me through all my days.\u201d",
+      "subj": "story",
+      "verb": "reach",
+      "obj": "heart"
+    },
+    {
+      "id": "e0024",
+      "label": "heart | carry | sorrow",
+      "sent_id": 26,
+      "sentence": "For one brash wolf among the pack, \nThe hearts of wise elders carry a heavy sorrow.",
+      "subj": "heart",
+      "verb": "carry",
+      "obj": "sorrow"
+    },
+    {
+      "id": "e0025",
+      "label": "diving | muddy | it",
+      "sent_id": 27,
+      "sentence": "If a river runs sweet with clear water, \nA wolf diving in can muddy it all.",
+      "subj": "diving",
+      "verb": "muddy",
+      "obj": "it"
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    }
+  ]
+}

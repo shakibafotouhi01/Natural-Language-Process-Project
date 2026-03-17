@@ -1,0 +1,698 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "",
+    "verb": "hear",
+    "obj": "tale",
+    "label": "\u2205 | hear | tale",
+    "sentence": "Hear now the tale of Hawk and Mountain, a story told by the firesides beneath the vast sky, a sorrowful song of father and son set upon the great plains and towering forests of the First Peoples."
+  },
+  {
+    "sent_id": 1,
+    "subj": "mountain",
+    "verb": "rise",
+    "obj": "lodge",
+    "label": "mountain | rise | lodge",
+    "sentence": "One morning, Mountain, a mighty warrior of the Eagle Clan, rose from his lodge with a heavy heart, sensing shadows in his spirit."
+  },
+  {
+    "sent_id": 2,
+    "subj": "he",
+    "verb": "saddle",
+    "obj": "stallion",
+    "label": "he | saddle | stallion",
+    "sentence": "To ease his mind, he saddled his wild stallion, Swiftwind, and set out toward the rugged lands that border the great river, near the village of the Bear Tribe."
+  },
+  {
+    "sent_id": 3,
+    "subj": "he",
+    "verb": "stir",
+    "obj": "herd",
+    "label": "he | stir | herd",
+    "sentence": "As he rode, he stirred a herd of wild deer, chasing them through the tall grasses until twilight embraced the land."
+  },
+  {
+    "sent_id": 4,
+    "subj": "he",
+    "verb": "catch",
+    "obj": "one",
+    "label": "he | catch | one",
+    "sentence": "He caught one, roasted it over flames, and rested by its warmth, while Swiftwind grazed quietly nearby."
+  },
+  {
+    "sent_id": 5,
+    "subj": "warrior",
+    "verb": "come",
+    "obj": "horse",
+    "label": "warrior | come | horse",
+    "sentence": "While Mountain slept, seven warriors from a rival tribe came upon the horse, admiring its strength."
+  },
+  {
+    "sent_id": 6,
+    "subj": "they",
+    "verb": "cast",
+    "obj": "rope",
+    "label": "they | cast | rope",
+    "sentence": "They cast their ropes, seeking to take Swiftwind away."
+  },
+  {
+    "sent_id": 7,
+    "subj": "stallion",
+    "verb": "strike",
+    "obj": "",
+    "label": "stallion | strike | \u2205",
+    "sentence": "But the stallion, fierce as a thunderbird, struck back, breaking free by trampling one foe and scattering the others."
+  },
+  {
+    "sent_id": 8,
+    "subj": "swiftwind",
+    "verb": "capture",
+    "obj": "",
+    "label": "swiftwind | capture | \u2205",
+    "sentence": "Yet, outnumbered, Swiftwind was captured and taken to the enemy village."
+  },
+  {
+    "sent_id": 9,
+    "subj": "awake",
+    "verb": "be",
+    "obj": "",
+    "label": "awake | be | \u2205",
+    "sentence": "Mountain awoke to find Swiftwind gone and was grieved, for the bond between horse and rider is sacred."
+  },
+  {
+    "sent_id": 10,
+    "subj": "he",
+    "verb": "arrive",
+    "obj": "hoofprint",
+    "label": "he | arrive | hoofprint",
+    "sentence": "Following the hoofprints, he arrived at the village gates."
+  },
+  {
+    "sent_id": 11,
+    "subj": "chief",
+    "verb": "welcome",
+    "obj": "mountain",
+    "label": "chief | welcome | mountain",
+    "sentence": "The chief and elders welcomed Mountain with respect, hearing his tale of loss."
+  },
+  {
+    "sent_id": 12,
+    "subj": "chief",
+    "verb": "swear",
+    "obj": "",
+    "label": "chief | swear | \u2205",
+    "sentence": "The chief swore no harm would come to the great warrior and offered him shelter while the search for Swiftwind continued."
+  },
+  {
+    "sent_id": 13,
+    "subj": "robe",
+    "verb": "scent",
+    "obj": "sweetgrass",
+    "label": "robe | scent | sweetgrass",
+    "sentence": "At night, a radiant woman entered Mountain\u2019s lodge, her movements like the gentle wind through cedar boughs, her robe scented with sweetgrass."
+  },
+  {
+    "sent_id": 14,
+    "subj": "she",
+    "verb": "speak",
+    "obj": "",
+    "label": "she | speak | \u2205",
+    "sentence": "She spoke softly, \u201cI am Morningstar, daughter of the Bear Tribe chief."
+  },
+  {
+    "sent_id": 15,
+    "subj": "heart",
+    "verb": "yearn",
+    "obj": "courage",
+    "label": "heart | yearn | courage",
+    "sentence": "My heart has long yearned after your courage and strength."
+  },
+  {
+    "sent_id": 16,
+    "subj": "none",
+    "verb": "match",
+    "obj": "valor",
+    "label": "none | match | valor",
+    "sentence": "None among my people can match your valor."
+  },
+  {
+    "sent_id": 17,
+    "subj": "i",
+    "verb": "bring",
+    "obj": "swiftwind",
+    "label": "i | bring | swiftwind",
+    "sentence": "If you will listen, I shall bring Swiftwind to you, and offer my hand in friendship.\u201d"
+  },
+  {
+    "sent_id": 18,
+    "subj": "mountain",
+    "verb": "see",
+    "obj": "wisdom",
+    "label": "mountain | see | wisdom",
+    "sentence": "Mountain saw wisdom in her eyes and beauty in her voice, and a hope grew in his heart."
+  },
+  {
+    "sent_id": 19,
+    "subj": "he",
+    "verb": "send",
+    "obj": "message",
+    "label": "he | send | message",
+    "sentence": "He sent a message to the chief, who gladly consented to their union."
+  },
+  {
+    "sent_id": 20,
+    "subj": "mountain",
+    "verb": "join",
+    "obj": "eye",
+    "label": "mountain | join | eye",
+    "sentence": "Soon, Mountain and Morningstar were joined beneath the watchful eyes of stars and earth, pledging to bear a child strong as the bear and swift as the eagle."
+  },
+  {
+    "sent_id": 21,
+    "subj": "mountain",
+    "verb": "give",
+    "obj": "stone",
+    "label": "mountain | give | stone",
+    "sentence": "Before parting, Mountain gave Morningstar a small stone, black as night yet glowing softly\u2014a token for their child."
+  },
+  {
+    "sent_id": 22,
+    "subj": "it",
+    "verb": "be",
+    "obj": "son",
+    "label": "it | be | son",
+    "sentence": "\u201cShould a daughter be born, bind it among her braids to guard her; should it be a son, tie it to his arm that he may carry strength like his father.\u201d"
+  },
+  {
+    "sent_id": 23,
+    "subj": "mountain",
+    "verb": "ride",
+    "obj": "swiftwind",
+    "label": "mountain | ride | swiftwind",
+    "sentence": "Then swift as the wind, Mountain rode away with Swiftwind, leaving Morningstar behind, her heart full of both joy and sorrow."
+  },
+  {
+    "sent_id": 24,
+    "subj": "moon",
+    "verb": "pass",
+    "obj": "",
+    "label": "moon | pass | \u2205",
+    "sentence": "Nine moons passed, and Morningstar bore a son, whom she named Hawk."
+  },
+  {
+    "sent_id": 25,
+    "subj": "he",
+    "verb": "smile",
+    "obj": "breath",
+    "label": "he | smile | breath",
+    "sentence": "From his first breaths, he smiled like the dawn."
+  },
+  {
+    "sent_id": 26,
+    "subj": "limb",
+    "verb": "grow",
+    "obj": "",
+    "label": "limb | grow | \u2205",
+    "sentence": "His limbs grew swift and strong as a river current, and by ten winters he outshone all in the village in skill and strength."
+  },
+  {
+    "sent_id": 27,
+    "subj": "hawk",
+    "verb": "ask",
+    "obj": "mother",
+    "label": "hawk | ask | mother",
+    "sentence": "One day, filled with fire, Hawk asked his mother, \u201cTell me of my father, whose blood runs through me, whose steps I follow."
+  },
+  {
+    "sent_id": 28,
+    "subj": "i",
+    "verb": "search",
+    "obj": "earth",
+    "label": "i | search | earth",
+    "sentence": "If you keep silence, I shall search the earth till I find him.\u201d"
+  },
+  {
+    "sent_id": 29,
+    "subj": "morningstar",
+    "verb": "show",
+    "obj": "stone",
+    "label": "morningstar | show | stone",
+    "sentence": "Morningstar showed Hawk the token stone and spoke gently, \u201cYou are Mountain\u2019s seed, born of courage and honor."
+  },
+  {
+    "sent_id": 30,
+    "subj": "",
+    "verb": "speak",
+    "obj": "secret",
+    "label": "\u2205 | speak | secret",
+    "sentence": "But speak our secret softly, for the rival tribes watch for weakness."
+  },
+  {
+    "sent_id": 31,
+    "subj": "danger",
+    "verb": "fall",
+    "obj": "you",
+    "label": "danger | fall | you",
+    "sentence": "If they knew who you are, danger would fall upon you both."
+  },
+  {
+    "sent_id": 32,
+    "subj": "path",
+    "verb": "be",
+    "obj": "yours",
+    "label": "path | be | yours",
+    "sentence": "Your path is yours to choose, but your destiny is bound with Mountain\u2019s.\u201d"
+  },
+  {
+    "sent_id": 33,
+    "subj": "hawk",
+    "verb": "vow",
+    "obj": "",
+    "label": "hawk | vow | \u2205",
+    "sentence": "Hawk, burning with longing and pride, vowed to gather warriors and reclaim the land from those who oppose his people, dreaming of glory and the crown of his people."
+  },
+  {
+    "sent_id": 34,
+    "subj": "he",
+    "verb": "need",
+    "obj": "horse",
+    "label": "he | need | horse",
+    "sentence": "But first, he needed a horse, swift and strong like his spirit."
+  },
+  {
+    "sent_id": 35,
+    "subj": "he",
+    "verb": "seek",
+    "obj": "day",
+    "label": "he | seek | day",
+    "sentence": "For days he sought among the herds until he learned of a foal descended from Swiftwind himself."
+  },
+  {
+    "sent_id": 36,
+    "subj": "he",
+    "verb": "declare",
+    "obj": "",
+    "label": "he | declare | \u2205",
+    "sentence": "Upon riding this foal, he declared, \u201cWith such a steed, I shall darken the skies for many foes.\u201d"
+  },
+  {
+    "sent_id": 37,
+    "subj": "hawk",
+    "verb": "gather",
+    "obj": "warrior",
+    "label": "hawk | gather | warrior",
+    "sentence": "Thus arrayed, Hawk gathered his warriors and set forth toward the lands of the Eagle Clan."
+  },
+  {
+    "sent_id": 38,
+    "subj": "word",
+    "verb": "come",
+    "obj": "chief",
+    "label": "word | come | chief",
+    "sentence": "Word came to the enemy chief, Skyshadow, of Hawk\u2019s growing force and fiery heart."
+  },
+  {
+    "sent_id": 39,
+    "subj": "skyshadow",
+    "verb": "plot",
+    "obj": "darkness",
+    "label": "skyshadow | plot | darkness",
+    "sentence": "Skyshadow plotted in darkness, sending spies and gifts to deceive the young warrior, while secretly preparing to exploit the secret of his birth."
+  },
+  {
+    "sent_id": 40,
+    "subj": "land",
+    "verb": "crumble",
+    "obj": "",
+    "label": "land | crumble | \u2205",
+    "sentence": "\u201cIf Hawk\u2019s father learns who stands against him, the land will crumble."
+  },
+  {
+    "sent_id": 41,
+    "subj": "it",
+    "verb": "keep",
+    "obj": "hide",
+    "label": "it | keep | hide",
+    "sentence": "Better it be kept hidden that father and son face each other in battle.\u201d"
+  },
+  {
+    "sent_id": 42,
+    "subj": "hawk",
+    "verb": "press",
+    "obj": "path",
+    "label": "hawk | press | path",
+    "sentence": "Hawk pressed onward, his path marked by the smoking ruins of camps, until he reached the White Lodge, heart of his father\u2019s people."
+  },
+  {
+    "sent_id": 43,
+    "subj": "guardian",
+    "verb": "stand",
+    "obj": "",
+    "label": "guardian | stand | \u2205",
+    "sentence": "Its aged guardian, Oakshield, stood firm but was no match for Hawk\u2019s youthful strength, and was taken captive."
+  },
+  {
+    "sent_id": 44,
+    "subj": "daughter",
+    "verb": "come",
+    "obj": "",
+    "label": "daughter | come | \u2205",
+    "sentence": "Then came Oakshield\u2019s daughter, Riverwind, fierce as a storm."
+  },
+  {
+    "sent_id": 45,
+    "subj": "she",
+    "verb": "don",
+    "obj": "armor",
+    "label": "she | don | armor",
+    "sentence": "She donned armor, hid her hair beneath a warrior\u2019s helmet, and rode forth challenging Hawk to combat."
+  },
+  {
+    "sent_id": 46,
+    "subj": "none",
+    "verb": "dare",
+    "obj": "",
+    "label": "none | dare | \u2205",
+    "sentence": "None dared face her, mistaking her for a mighty chief, but Hawk accepted her challenge boldly."
+  },
+  {
+    "sent_id": 47,
+    "subj": "lance",
+    "verb": "clash",
+    "obj": "wave",
+    "label": "lance | clash | wave",
+    "sentence": "Their battle was thunderous\u2014arrows flew like lightning, lances clashed like crashing waves, but Hawk\u2019s power prevailed."
+  },
+  {
+    "sent_id": 48,
+    "subj": "she",
+    "verb": "reveal",
+    "obj": "woman",
+    "label": "she | reveal | woman",
+    "sentence": "Yet when he lifted her helmet, she was revealed as a woman, and he marveled at her strength."
+  },
+  {
+    "sent_id": 49,
+    "subj": "riverwind",
+    "verb": "offer",
+    "obj": "lodge",
+    "label": "riverwind | offer | lodge",
+    "sentence": "Seeking peace, Riverwind offered the White Lodge and its treasures if Hawk would end the fight."
+  },
+  {
+    "sent_id": 50,
+    "subj": "he",
+    "verb": "follow",
+    "obj": "she",
+    "label": "he | follow | she",
+    "sentence": "Swayed by her words and beauty, he followed her inside, but she betrayed him, locking the doors and mocking him from the battlements."
+  },
+  {
+    "sent_id": 51,
+    "subj": "hawk",
+    "verb": "vow",
+    "obj": "vengeance",
+    "label": "hawk | vow | vengeance",
+    "sentence": "Incensed, Hawk vowed vengeance and rode forth, leaving the lodge a shadow of broken promises."
+  },
+  {
+    "sent_id": 52,
+    "subj": "oakshield",
+    "verb": "send",
+    "obj": "word",
+    "label": "oakshield | send | word",
+    "sentence": "Meanwhile, Oakshield sent word to Mountain\u2019s people of the coming storm\u2014a youthful chief who fought like the gods themselves."
+  },
+  {
+    "sent_id": 54,
+    "subj": "mountain",
+    "verb": "answer",
+    "obj": "call",
+    "label": "mountain | answer | call",
+    "sentence": "Mountain answered the call, but the chieftain Kaiwin, lord of the people, greeted him with scorn and harsh words, even threatening his honor."
+  },
+  {
+    "sent_id": 55,
+    "subj": "pride",
+    "verb": "burn",
+    "obj": "",
+    "label": "pride | burn | \u2205",
+    "sentence": "Mountain\u2019s pride burned, and he withdrew from the court, yet was begged by the elders to stand with his people."
+  },
+  {
+    "sent_id": 56,
+    "subj": "he",
+    "verb": "venture",
+    "obj": "camp",
+    "label": "he | venture | camp",
+    "sentence": "As Mountain prepared, he secretly ventured to Hawk\u2019s camp by night, cloaked among the enemy."
+  },
+  {
+    "sent_id": 57,
+    "subj": "he",
+    "verb": "see",
+    "obj": "son",
+    "label": "he | see | son",
+    "sentence": "There he saw his son\u2014a tall, proud youth surrounded by loyal warriors, feasting and laughing unaware of the fate that would bind them."
+  },
+  {
+    "sent_id": 58,
+    "subj": "brother",
+    "verb": "move",
+    "obj": "shadow",
+    "label": "brother | move | shadow",
+    "sentence": "In the shadows, Mountain\u2019s brother-in-law, Silent River, moved to confront the stranger and was struck down by Mountain\u2019s hand."
+  },
+  {
+    "sent_id": 59,
+    "subj": "hawk",
+    "verb": "lament",
+    "obj": "loss",
+    "label": "hawk | lament | loss",
+    "sentence": "Hawk lamented the loss but kept his feast, unwilling to dampen the spirits of his warriors."
+  },
+  {
+    "sent_id": 60,
+    "subj": "morning",
+    "verb": "dawn",
+    "obj": "",
+    "label": "morning | dawn | \u2205",
+    "sentence": "Morning dawned, and Hawk questioned the captives within the White Lodge about the war camps, seeking the identity of his father."
+  },
+  {
+    "sent_id": 61,
+    "subj": "answer",
+    "verb": "come",
+    "obj": "caution",
+    "label": "answer | come | caution",
+    "sentence": "The answers came with caution or silence, for none wished to reveal the secret that might lead to tragedy."
+  },
+  {
+    "sent_id": 62,
+    "subj": "hawk",
+    "verb": "strike",
+    "obj": "elder",
+    "label": "hawk | strike | elder",
+    "sentence": "Frustrated, Hawk struck the elder Oakshield down but was no closer to the truth."
+  },
+  {
+    "sent_id": 63,
+    "subj": "hawk",
+    "verb": "meet",
+    "obj": "time",
+    "label": "hawk | meet | time",
+    "sentence": "In time, Hawk and Mountain met on the open plain between their armies."
+  },
+  {
+    "sent_id": 64,
+    "subj": "mountain",
+    "verb": "beg",
+    "obj": "youth",
+    "label": "mountain | beg | youth",
+    "sentence": "Mountain begged the youth to abandon the fight, fearing the blood that might be spilled between kin."
+  },
+  {
+    "sent_id": 65,
+    "subj": "hawk",
+    "verb": "ask",
+    "obj": "mountain",
+    "label": "hawk | ask | mountain",
+    "sentence": "Hawk, burning with hope, asked Mountain to tell him his name, believing the war-chief before him to be his father."
+  },
+  {
+    "sent_id": 66,
+    "subj": "mountain",
+    "verb": "deny",
+    "obj": "",
+    "label": "mountain | deny | \u2205",
+    "sentence": "Mountain denied, speaking words to unsettle his son\u2019s heart."
+  },
+  {
+    "sent_id": 67,
+    "subj": "sword",
+    "verb": "rang",
+    "obj": "thunderclap",
+    "label": "sword | rang | thunderclap",
+    "sentence": "Their battle was fierce \u2014 clubs hammered like thunder, spears shattered like dry wood, swords rang like thunderclaps."
+  },
+  {
+    "sent_id": 68,
+    "subj": "day",
+    "verb": "fade",
+    "obj": "night",
+    "label": "day | fade | night",
+    "sentence": "Day faded to night, yet neither yielded, their strength and skill matched."
+  },
+  {
+    "sent_id": 69,
+    "subj": "wound",
+    "verb": "fight",
+    "obj": "",
+    "label": "wound | fight | \u2205",
+    "sentence": "Both men bore wounds yet fought on, each the other\u2019s equal, and Mountain\u2019s heart was heavy with sorrow."
+  },
+  {
+    "sent_id": 70,
+    "subj": "sword",
+    "verb": "raise",
+    "obj": "",
+    "label": "sword | raise | \u2205",
+    "sentence": "At last, Hawk knelt upon Mountain, sword raised to end the contest."
+  },
+  {
+    "sent_id": 71,
+    "subj": "mountain",
+    "verb": "speak",
+    "obj": "",
+    "label": "mountain | speak | \u2205",
+    "sentence": "Mountain spoke swiftly, \u201cIn our people\u2019s law, one who downstrikes first must spare his foe for another fight.\u201d"
+  },
+  {
+    "sent_id": 72,
+    "subj": "hawk",
+    "verb": "stay",
+    "obj": "hand",
+    "label": "hawk | stay | hand",
+    "sentence": "Hawk stayed his hand, and they paused in the battle to catch breath."
+  },
+  {
+    "sent_id": 73,
+    "subj": "war",
+    "verb": "stir",
+    "obj": "",
+    "label": "war | stir | \u2205",
+    "sentence": "But the war stirred again the next day."
+  },
+  {
+    "sent_id": 75,
+    "subj": "hawk",
+    "verb": "break",
+    "obj": "back",
+    "label": "hawk | break | back",
+    "sentence": "At last, Mountain overpowered Hawk, breaking his back like a slender reed."
+  },
+  {
+    "sent_id": 76,
+    "subj": "hawk",
+    "verb": "speak",
+    "obj": "breath",
+    "label": "hawk | speak | breath",
+    "sentence": "In his final breaths, Hawk spoke, \u201cI sought not glory, but my father\u2019s face, for my mother\u2019s heart told me of him."
+  },
+  {
+    "sent_id": 77,
+    "subj": "i",
+    "verb": "die",
+    "obj": "",
+    "label": "i | die | \u2205",
+    "sentence": "Now I die without knowing him."
+  },
+  {
+    "sent_id": 78,
+    "subj": "father",
+    "verb": "find",
+    "obj": "i",
+    "label": "father | find | i",
+    "sentence": "Yet if the Great Spirit watches, my father shall find me and avenge my passing.\u201d"
+  },
+  {
+    "sent_id": 79,
+    "subj": "tear",
+    "verb": "carve",
+    "obj": "river",
+    "label": "tear | carve | river",
+    "sentence": "Mountain\u2019s sword fell from trembling hands; tears carved rivers down his face."
+  },
+  {
+    "sent_id": 80,
+    "subj": "he",
+    "verb": "seek",
+    "obj": "proof",
+    "label": "he | seek | proof",
+    "sentence": "Wracked with grief, he sought proof."
+  },
+  {
+    "sent_id": 81,
+    "subj": "hawk",
+    "verb": "show",
+    "obj": "",
+    "label": "hawk | show | \u2205",
+    "sentence": "Hawk showed him the black stone tied to his arm\u2014and mountain and son were finally united in truth, though separated by fate."
+  },
+  {
+    "sent_id": 82,
+    "subj": "mountain",
+    "verb": "wail",
+    "obj": "sky",
+    "label": "mountain | wail | sky",
+    "sentence": "Mountain wailed beneath the opening sky, mourning the strength and life lost to fate\u2019s cruel hand."
+  },
+  {
+    "sent_id": 83,
+    "subj": "he",
+    "verb": "wrap",
+    "obj": "hawk",
+    "label": "he | wrap | hawk",
+    "sentence": "He wrapped Hawk in robes woven with golden thread and laid him to rest beneath a burial mound shaped like a great horse\u2019s hoof, fragrant with cedar and sweetgrass."
+  },
+  {
+    "sent_id": 84,
+    "subj": "village",
+    "verb": "mourn",
+    "obj": "",
+    "label": "village | mourn | \u2205",
+    "sentence": "The village mourned long, their songs filled with sorrow and honor."
+  },
+  {
+    "sent_id": 85,
+    "subj": "morningstar",
+    "verb": "grieve",
+    "obj": "",
+    "label": "morningstar | grieve | \u2205",
+    "sentence": "Far away, Morningstar, too, grieved."
+  },
+  {
+    "sent_id": 86,
+    "subj": "she",
+    "verb": "tear",
+    "obj": "hair",
+    "label": "she | tear | hair",
+    "sentence": "She tore her hair and cast ashes upon her head, carrying Hawk\u2019s mantle and sword close to her heart."
+  },
+  {
+    "sent_id": 87,
+    "subj": "spirit",
+    "verb": "join",
+    "obj": "son",
+    "label": "spirit | join | son",
+    "sentence": "After a long year, her spirit joined her son, and the forest whispered their names forever."
+  },
+  {
+    "sent_id": 88,
+    "subj": "tale",
+    "verb": "be",
+    "obj": "",
+    "label": "tale | be | \u2205",
+    "sentence": "Thus is the tale of Mountain and Hawk, a legend of courage and loss, reminding all that the ties of blood and spirit run deep and life\u2019s greatest sorrow is parting from those we cherish most."
+  }
+]

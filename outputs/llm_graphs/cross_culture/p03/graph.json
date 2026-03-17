@@ -1,0 +1,1150 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "\u2205 | live | warrior",
+      "sent_id": 0,
+      "sentence": "Long ago, in a village beside a great river, there lived a young warrior who had fallen into hardship.",
+      "subj": "",
+      "verb": "live",
+      "obj": "warrior"
+    },
+    {
+      "id": "e0001",
+      "label": "spirit | be | \u2205",
+      "sent_id": 1,
+      "sentence": "His spirit was strong, but his hands were empty.",
+      "subj": "spirit",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0002",
+      "label": "hunger | grow | \u2205",
+      "sent_id": 2,
+      "sentence": "The hunger in his heart grew, and he asked his father\u2019s blessing to leave the lodge and travel, hoping to find a living by the power of his own arm.",
+      "subj": "hunger",
+      "verb": "grow",
+      "obj": ""
+    },
+    {
+      "id": "e0003",
+      "label": "father | say | son",
+      "sent_id": 3,
+      "sentence": "The father, wise with years like the ancient trees, said: \u201cSon, place the feet of contentment beneath the blanket of safety.",
+      "subj": "father",
+      "verb": "say",
+      "obj": "son"
+    },
+    {
+      "id": "e0004",
+      "label": "elder | speak | \u2205",
+      "sent_id": 4,
+      "sentence": "The elders have spoken that joy is not born from endless struggle, and the greatest medicine for want is to hold one\u2019s desires lightly.",
+      "subj": "elder",
+      "verb": "speak",
+      "obj": ""
+    },
+    {
+      "id": "e0005",
+      "label": "one | seize | fortune",
+      "sent_id": 5,
+      "sentence": "No one seizes fortune like snaring the wind.",
+      "subj": "one",
+      "verb": "seize",
+      "obj": "fortune"
+    },
+    {
+      "id": "e0006",
+      "label": "arrow | pierce | sky",
+      "sent_id": 6,
+      "sentence": "No arrows pierce the sky with empty hands.",
+      "subj": "arrow",
+      "verb": "pierce",
+      "obj": "sky"
+    },
+    {
+      "id": "e0007",
+      "label": "you | carry | skill",
+      "sent_id": 7,
+      "sentence": "If you carry a hundred skills, but the spirits do not favor you,\nYour strength will be no shield against hardship.",
+      "subj": "you",
+      "verb": "carry",
+      "obj": "skill"
+    },
+    {
+      "id": "e0008",
+      "label": "warrior | do | what",
+      "sent_id": 8,
+      "sentence": "What can a warrior do against a cruel wind?",
+      "subj": "warrior",
+      "verb": "do",
+      "obj": "what"
+    },
+    {
+      "id": "e0009",
+      "label": "hand | be | \u2205",
+      "sent_id": 9,
+      "sentence": "The hand of fate is stronger than the hand of a bear.\u201d",
+      "subj": "hand",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0010",
+      "label": "son | answer | \u2205",
+      "sent_id": 10,
+      "sentence": "The son answered: \u201cFather, traveling brings many gifts\u2014renewing the spirit, learning the songs of other tribes, meeting friends, gaining honor, and seeing the world\u2019s great wonders.",
+      "subj": "son",
+      "verb": "answer",
+      "obj": ""
+    },
+    {
+      "id": "e0011",
+      "label": "you | become | eagle",
+      "sent_id": 11,
+      "sentence": "The journey shapes a man, as the traveling shamans teach:\n\nIf you never leave your fire circle,\nYou will never become the eagle who soars.",
+      "subj": "you",
+      "verb": "become",
+      "obj": "eagle"
+    },
+    {
+      "id": "e0012",
+      "label": "\u2205 | walk | land",
+      "sent_id": 12,
+      "sentence": "Walk the land far and wide,\nBefore you walk the final path.\u201d",
+      "subj": "",
+      "verb": "walk",
+      "obj": "land"
+    },
+    {
+      "id": "e0013",
+      "label": "father | nod | \u2205",
+      "sent_id": 13,
+      "sentence": "The father nodded and replied, \u201cThe gifts of travel bless only a few: first, the wealthy trader whose tents rise in every village, surrounded by helpers and guarded by strong warriors.",
+      "subj": "father",
+      "verb": "nod",
+      "obj": ""
+    },
+    {
+      "id": "e0014",
+      "label": "he | honor | \u2205",
+      "sent_id": 14,
+      "sentence": "Wherever he travels, he is honored.",
+      "subj": "he",
+      "verb": "honor",
+      "obj": ""
+    },
+    {
+      "id": "e0015",
+      "label": "man | be | stranger",
+      "sent_id": 16,
+      "sentence": "But the poor man is a stranger even in his own village.",
+      "subj": "man",
+      "verb": "be",
+      "obj": "stranger"
+    },
+    {
+      "id": "e0016",
+      "label": "people | honor | presence",
+      "sent_id": 18,
+      "sentence": "The people honor such a presence like shining obsidian.",
+      "subj": "people",
+      "verb": "honor",
+      "obj": "presence"
+    },
+    {
+      "id": "e0017",
+      "label": "man | be | sun",
+      "sent_id": 19,
+      "sentence": "A learned man is like the sun on the morning dew,\nSeen and treasured wherever he treads.",
+      "subj": "man",
+      "verb": "be",
+      "obj": "sun"
+    },
+    {
+      "id": "e0018",
+      "label": "fool | be | crow",
+      "sent_id": 20,
+      "sentence": "But a fool, even if born a chief\u2019s son,\nIs like a black crow lost among eagles.",
+      "subj": "fool",
+      "verb": "be",
+      "obj": "crow"
+    },
+    {
+      "id": "e0019",
+      "label": "face | be | gift",
+      "sent_id": 23,
+      "sentence": "A warrior's face is a gift to all who meet him,\nA precious shell sought by many.",
+      "subj": "face",
+      "verb": "be",
+      "obj": "gift"
+    },
+    {
+      "id": "e0020",
+      "label": "song | be | medicine",
+      "sent_id": 25,
+      "sentence": "Sweet songs are medicine to the soul,\nBringing joy that no blade can cut.",
+      "subj": "song",
+      "verb": "be",
+      "obj": "medicine"
+    },
+    {
+      "id": "e0021",
+      "label": "\u2205 | feed | earth",
+      "sent_id": 26,
+      "sentence": "Better than a strong arm is a gentle voice,\nFeeding the spirit as spring feeds the earth.",
+      "subj": "",
+      "verb": "feed",
+      "obj": "earth"
+    },
+    {
+      "id": "e0022",
+      "label": "work | see | \u2205",
+      "sent_id": 27,
+      "sentence": "Fifth, the craftsman who earns his place by his hands, his work seen and respected, so that his spirit is not lost as he follows his journey.",
+      "subj": "work",
+      "verb": "see",
+      "obj": ""
+    },
+    {
+      "id": "e0023",
+      "label": "king | sleep | \u2205",
+      "sent_id": 29,
+      "sentence": "But when the great chief falls,\nEven kings sleep hungry.",
+      "subj": "king",
+      "verb": "sleep",
+      "obj": ""
+    },
+    {
+      "id": "e0024",
+      "label": "gift | bring | joy",
+      "sent_id": 30,
+      "sentence": "These gifts bring joy on the road, but you, son, who have none, venture out with only daydreams.",
+      "subj": "gift",
+      "verb": "bring",
+      "obj": "joy"
+    },
+    {
+      "id": "e0025",
+      "label": "world | turn | \u2205",
+      "sent_id": 31,
+      "sentence": "The world turns harshly, and the winds do not soften for those without the right paths.\u201d",
+      "subj": "world",
+      "verb": "turn",
+      "obj": ""
+    },
+    {
+      "id": "e0026",
+      "label": "wise | say | \u2205",
+      "sent_id": 32,
+      "sentence": "The son spoke once more: \u201cFather, the wise say fate brings food and hardship alike, yet men must seek their path and stand against the storm.",
+      "subj": "wise",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0027",
+      "label": "heart | dare | journey",
+      "sent_id": 33,
+      "sentence": "Though the night may hold danger, a brave heart must dare the journey when trapped by hunger and sorrow.",
+      "subj": "heart",
+      "verb": "dare",
+      "obj": "journey"
+    },
+    {
+      "id": "e0028",
+      "label": "he | suffer | pain",
+      "sent_id": 34,
+      "sentence": "When a man has fallen from honor,\nWhy should he suffer still more pain?",
+      "subj": "he",
+      "verb": "suffer",
+      "obj": "pain"
+    },
+    {
+      "id": "e0029",
+      "label": "horizon | be | home",
+      "sent_id": 35,
+      "sentence": "The whole horizon is his home,\nAnd the night shelters all travelers\u2014rich and poor alike.\u201d\n\nWith these words, the son bade his father farewell and began his journey alone.",
+      "subj": "horizon",
+      "verb": "be",
+      "obj": "home"
+    },
+    {
+      "id": "e0030",
+      "label": "he | say | \u2205",
+      "sent_id": 36,
+      "sentence": "He said quietly, \u201cWhen luck turns its face away, a skilled man must go where no one knows his story.\u201d",
+      "subj": "he",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0031",
+      "label": "he | travel | \u2205",
+      "sent_id": 37,
+      "sentence": "He traveled until he reached the wild river, its waters roaring like thunder and tossing stones like warriors clashing.",
+      "subj": "he",
+      "verb": "travel",
+      "obj": ""
+    },
+    {
+      "id": "e0032",
+      "label": "many | sit | crossing",
+      "sent_id": 38,
+      "sentence": "At the crossing, many sat with coins in hand, waiting for passage.",
+      "subj": "many",
+      "verb": "sit",
+      "obj": "crossing"
+    },
+    {
+      "id": "e0033",
+      "label": "warrior | speak | \u2205",
+      "sent_id": 39,
+      "sentence": "The young warrior spoke humbly, asking to cross, but those gathered turned away.",
+      "subj": "warrior",
+      "verb": "speak",
+      "obj": ""
+    },
+    {
+      "id": "e0034",
+      "label": "strength | move | hand",
+      "sent_id": 40,
+      "sentence": "\u201cNo one crosses without tribute,\nNo strength can move the silent hand of gold.\u201d",
+      "subj": "strength",
+      "verb": "move",
+      "obj": "hand"
+    },
+    {
+      "id": "e0035",
+      "label": "boatman | laugh | \u2205",
+      "sent_id": 41,
+      "sentence": "A boatman laughed harshly, \u201cNo money\u2014no crossing!",
+      "subj": "boatman",
+      "verb": "laugh",
+      "obj": ""
+    },
+    {
+      "id": "e0036",
+      "label": "\u2205 | be | use",
+      "sent_id": 42,
+      "sentence": "What use is the strength of ten men?",
+      "subj": "",
+      "verb": "be",
+      "obj": "use"
+    },
+    {
+      "id": "e0037",
+      "label": "\u2205 | pay | price",
+      "sent_id": 43,
+      "sentence": "Pay the price.\u201d",
+      "subj": "",
+      "verb": "pay",
+      "obj": "price"
+    },
+    {
+      "id": "e0038",
+      "label": "anger | flare | heart",
+      "sent_id": 44,
+      "sentence": "Anger flared in the warrior\u2019s heart.",
+      "subj": "anger",
+      "verb": "flare",
+      "obj": "heart"
+    },
+    {
+      "id": "e0039",
+      "label": "he | cry | \u2205",
+      "sent_id": 45,
+      "sentence": "As the boat pulled away, he cried out, \u201cIf my robe can buy the way, take it and bring me across.\u201d",
+      "subj": "he",
+      "verb": "cry",
+      "obj": ""
+    },
+    {
+      "id": "e0040",
+      "label": "boat | turn | \u2205",
+      "sent_id": 46,
+      "sentence": "The boat turned back, greed overcoming pride.",
+      "subj": "boat",
+      "verb": "turn",
+      "obj": ""
+    },
+    {
+      "id": "e0041",
+      "label": "he | seize | collar",
+      "sent_id": 48,
+      "sentence": "When the warrior reached, he seized the boatman\u2019s collar and brought him down.",
+      "subj": "he",
+      "verb": "seize",
+      "obj": "collar"
+    },
+    {
+      "id": "e0042",
+      "label": "another | try | \u2205",
+      "sent_id": 49,
+      "sentence": "Another tried to help but met the same fate and fled.",
+      "subj": "another",
+      "verb": "try",
+      "obj": ""
+    },
+    {
+      "id": "e0043",
+      "label": "word | lead | heart",
+      "sent_id": 51,
+      "sentence": "\u201cWhere there is strife, be gentle,\nA soft word can lead the fiercest heart.",
+      "subj": "word",
+      "verb": "lead",
+      "obj": "heart"
+    },
+    {
+      "id": "e0044",
+      "label": "\u2205 | lead | bear",
+      "sent_id": 52,
+      "sentence": "Lead the bear by a single hair,\nNot by force that breaks the willow.\u201d",
+      "subj": "",
+      "verb": "lead",
+      "obj": "bear"
+    },
+    {
+      "id": "e0045",
+      "label": "boat | reach | midstream",
+      "sent_id": 53,
+      "sentence": "The boat reached a lone stone pillar standing midstream, and the boatman warned, \u201cThe boat must be tied or lost.",
+      "subj": "boat",
+      "verb": "reach",
+      "obj": "midstream"
+    },
+    {
+      "id": "e0046",
+      "label": "warrior | climb | \u2205",
+      "sent_id": 54,
+      "sentence": "Whoever is strongest, climb the pillar to fasten the cord.\u201d\n\nProud and strong, the young warrior climbed.",
+      "subj": "warrior",
+      "verb": "climb",
+      "obj": ""
+    },
+    {
+      "id": "e0047",
+      "label": "boatman | let | \u2205",
+      "sent_id": 55,
+      "sentence": "But as he grasped the rope, the boatman let it slip and pushed the vessel away, leaving the warrior stranded.",
+      "subj": "boatman",
+      "verb": "let",
+      "obj": ""
+    },
+    {
+      "id": "e0048",
+      "label": "hunger | chase | footstep",
+      "sent_id": 56,
+      "sentence": "Days passed; hunger and thirst chased his footsteps.",
+      "subj": "hunger",
+      "verb": "chase",
+      "obj": "footstep"
+    },
+    {
+      "id": "e0049",
+      "label": "he | sink | river",
+      "sent_id": 57,
+      "sentence": "He sank into the river under the weight of exhaustion, but the Great Spirit spared him.",
+      "subj": "he",
+      "verb": "sink",
+      "obj": "river"
+    },
+    {
+      "id": "e0050",
+      "label": "he | awake | shore",
+      "sent_id": 58,
+      "sentence": "He awoke on the far shore, weak and wild-eyed, eating roots and leaves to live.",
+      "subj": "he",
+      "verb": "awake",
+      "obj": "shore"
+    },
+    {
+      "id": "e0051",
+      "label": "he | wander | desert",
+      "sent_id": 59,
+      "sentence": "He wandered the desert until he found a well, where people drank and laughed.",
+      "subj": "he",
+      "verb": "wander",
+      "obj": "desert"
+    },
+    {
+      "id": "e0052",
+      "label": "he | beg | coin",
+      "sent_id": 60,
+      "sentence": "He begged for a coin but was turned away.",
+      "subj": "he",
+      "verb": "beg",
+      "obj": "coin"
+    },
+    {
+      "id": "e0053",
+      "label": "he | scold | \u2205",
+      "sent_id": 61,
+      "sentence": "Frustrated, he scolded and fought those who mocked him, but the many were too strong, and he fell wounded.",
+      "subj": "he",
+      "verb": "scold",
+      "obj": ""
+    },
+    {
+      "id": "e0054",
+      "label": "bear | overcome | \u2205",
+      "sent_id": 62,
+      "sentence": "Even the mightiest bear\nCan be overcome by the swarm of ants.",
+      "subj": "bear",
+      "verb": "overcome",
+      "obj": ""
+    },
+    {
+      "id": "e0055",
+      "label": "they | strip | hide",
+      "sent_id": 63,
+      "sentence": "When small creatures unite,\nThey strip the fierce lion's hide.",
+      "subj": "they",
+      "verb": "strip",
+      "obj": "hide"
+    },
+    {
+      "id": "e0056",
+      "label": "he | join | band",
+      "sent_id": 64,
+      "sentence": "Weak and alone, he joined a traveling band moving toward the night, but thieves lurked nearby, and the journey held danger.",
+      "subj": "he",
+      "verb": "join",
+      "obj": "band"
+    },
+    {
+      "id": "e0057",
+      "label": "other | welcome | he",
+      "sent_id": 66,
+      "sentence": "The others welcomed him warmly, bringing food and water.",
+      "subj": "other",
+      "verb": "welcome",
+      "obj": "he"
+    },
+    {
+      "id": "e0058",
+      "label": "other | whisper | \u2205",
+      "sent_id": 68,
+      "sentence": "Once a stranger\u2019s friend stole his gold,\nLeaving him naked and weeping at dawn.\u201d\n\n\u201cLet us leave this stranger behind,\u201d the others whispered, afraid and suspicious.",
+      "subj": "other",
+      "verb": "whisper",
+      "obj": ""
+    },
+    {
+      "id": "e0059",
+      "label": "they | rise | sun",
+      "sent_id": 69,
+      "sentence": "They rose with the sun and departed, abandoning the sleeping warrior.",
+      "subj": "they",
+      "verb": "rise",
+      "obj": "sun"
+    },
+    {
+      "id": "e0060",
+      "label": "warrior | sit | breaking",
+      "sent_id": 70,
+      "sentence": "Lost and parched, the warrior sat with his heart breaking.",
+      "subj": "warrior",
+      "verb": "sit",
+      "obj": "breaking"
+    },
+    {
+      "id": "e0061",
+      "label": "who | stand | i",
+      "sent_id": 71,
+      "sentence": "\u201cWho will stand with me once the trading horses have gone?",
+      "subj": "who",
+      "verb": "stand",
+      "obj": "i"
+    },
+    {
+      "id": "e0062",
+      "label": "stranger | walk | shadow",
+      "sent_id": 72,
+      "sentence": "A stranger walks with only a stranger\u2019s shadow.\u201d",
+      "subj": "stranger",
+      "verb": "walk",
+      "obj": "shadow"
+    },
+    {
+      "id": "e0063",
+      "label": "he | speak | word",
+      "sent_id": 73,
+      "sentence": "He spoke these words when a prince from a distant tribe hunting nearby found him.",
+      "subj": "he",
+      "verb": "speak",
+      "obj": "word"
+    },
+    {
+      "id": "e0064",
+      "label": "prince | ask | story",
+      "sent_id": 74,
+      "sentence": "Seeing his noble bearing beneath sorrow\u2019s veil, the prince asked his story.",
+      "subj": "prince",
+      "verb": "ask",
+      "obj": "story"
+    },
+    {
+      "id": "e0065",
+      "label": "prince | clothe | he",
+      "sent_id": 75,
+      "sentence": "Moved by his plight, the prince clothed him in fine robes, gave him precious beads, and sent a trusted guide to lead him home.",
+      "subj": "prince",
+      "verb": "clothe",
+      "obj": "he"
+    },
+    {
+      "id": "e0066",
+      "label": "father | rejoice | \u2205",
+      "sent_id": 76,
+      "sentence": "When they returned, his father rejoiced, grateful for his safe return.",
+      "subj": "father",
+      "verb": "rejoice",
+      "obj": ""
+    },
+    {
+      "id": "e0067",
+      "label": "son | tell | boatman",
+      "sent_id": 77,
+      "sentence": "That evening, the son told of the harsh boatman, the cruel desert people, and the betrayals along the path.",
+      "subj": "son",
+      "verb": "tell",
+      "obj": "boatman"
+    },
+    {
+      "id": "e0068",
+      "label": "son | tell | you",
+      "sent_id": 78,
+      "sentence": "\u201cMy son,\u201d the father said, \u201cHave I not told you that the hands of the empty are like a broken bear\u2019s paw?\u201d",
+      "subj": "son",
+      "verb": "tell",
+      "obj": "you"
+    },
+    {
+      "id": "e0069",
+      "label": "son | reply | \u2205",
+      "sent_id": 79,
+      "sentence": "The son replied, \u201cFather, no treasure comes without trial.",
+      "subj": "son",
+      "verb": "reply",
+      "obj": ""
+    },
+    {
+      "id": "e0070",
+      "label": "i | suffer | storm",
+      "sent_id": 81,
+      "sentence": "I have suffered storms, but from the clouds I gathered honey.",
+      "subj": "i",
+      "verb": "suffer",
+      "obj": "storm"
+    },
+    {
+      "id": "e0071",
+      "label": "say | set | table",
+      "sent_id": 82,
+      "sentence": "The wise say, fate sets the table, but man must bring the fire.\u201d",
+      "subj": "say",
+      "verb": "set",
+      "obj": "table"
+    },
+    {
+      "id": "e0072",
+      "label": "\u2205 | be | \u2205",
+      "sent_id": 83,
+      "sentence": "\u201cTo fear the crocodile,\nIs to never dive for pearls.",
+      "subj": "",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0073",
+      "label": "stone | move | \u2205",
+      "sent_id": 84,
+      "sentence": "The stone beneath the grinding mill never moves,\nYet must bear the heaviest load.",
+      "subj": "stone",
+      "verb": "move",
+      "obj": ""
+    },
+    {
+      "id": "e0074",
+      "label": "lion | eat | what",
+      "sent_id": 85,
+      "sentence": "What will the lion eat in his den?\nWhat nourishment for the fallen hawk?",
+      "subj": "lion",
+      "verb": "eat",
+      "obj": "what"
+    },
+    {
+      "id": "e0075",
+      "label": "you | have | hand",
+      "sent_id": 86,
+      "sentence": "If you wish to catch game in your own lands,\nYou must have the hands and feet of the spider.\u201d",
+      "subj": "you",
+      "verb": "have",
+      "obj": "hand"
+    },
+    {
+      "id": "e0076",
+      "label": "father | nod | \u2205",
+      "sent_id": 87,
+      "sentence": "The father nodded, \u201cThis time, the spirits favored you, and a royal hand healed your wounds.",
+      "subj": "father",
+      "verb": "nod",
+      "obj": ""
+    },
+    {
+      "id": "e0077",
+      "label": "gift | be | \u2205",
+      "sent_id": 88,
+      "sentence": "Such gifts are rare as the morning star\u2019s dance.\u201d",
+      "subj": "gift",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0078",
+      "label": "story | be | time",
+      "sent_id": 89,
+      "sentence": "The story is like the time a great chief placed a precious eagle feather on the village totem, promising honor to any who could shoot an arrow through its eye.",
+      "subj": "story",
+      "verb": "be",
+      "obj": "time"
+    },
+    {
+      "id": "e0079",
+      "label": "many | try | \u2205",
+      "sent_id": 90,
+      "sentence": "Many tried and missed, except a small boy, who at play let loose a random arrow, and it passed through perfectly.",
+      "subj": "many",
+      "verb": "try",
+      "obj": ""
+    },
+    {
+      "id": "e0080",
+      "label": "boy | earn | feather",
+      "sent_id": 91,
+      "sentence": "The boy earned the feather and gifts, but then, burning his bow and arrows, said, \u201cOnly the first light should last forever.\u201d",
+      "subj": "boy",
+      "verb": "earn",
+      "obj": "feather"
+    },
+    {
+      "id": "e0081",
+      "label": "wise | walk | trail",
+      "sent_id": 92,
+      "sentence": "The wise and the foolish, the strong and the weak\u2014all walk the long trail, seeking their place beneath the sky.",
+      "subj": "wise",
+      "verb": "walk",
+      "obj": "trail"
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    },
+    {
+      "source": "e0029",
+      "target": "e0030",
+      "relation": "next"
+    },
+    {
+      "source": "e0030",
+      "target": "e0031",
+      "relation": "next"
+    },
+    {
+      "source": "e0031",
+      "target": "e0032",
+      "relation": "next"
+    },
+    {
+      "source": "e0032",
+      "target": "e0033",
+      "relation": "next"
+    },
+    {
+      "source": "e0033",
+      "target": "e0034",
+      "relation": "next"
+    },
+    {
+      "source": "e0034",
+      "target": "e0035",
+      "relation": "next"
+    },
+    {
+      "source": "e0035",
+      "target": "e0036",
+      "relation": "next"
+    },
+    {
+      "source": "e0036",
+      "target": "e0037",
+      "relation": "next"
+    },
+    {
+      "source": "e0037",
+      "target": "e0038",
+      "relation": "next"
+    },
+    {
+      "source": "e0038",
+      "target": "e0039",
+      "relation": "next"
+    },
+    {
+      "source": "e0039",
+      "target": "e0040",
+      "relation": "next"
+    },
+    {
+      "source": "e0040",
+      "target": "e0041",
+      "relation": "next"
+    },
+    {
+      "source": "e0041",
+      "target": "e0042",
+      "relation": "next"
+    },
+    {
+      "source": "e0042",
+      "target": "e0043",
+      "relation": "next"
+    },
+    {
+      "source": "e0043",
+      "target": "e0044",
+      "relation": "next"
+    },
+    {
+      "source": "e0044",
+      "target": "e0045",
+      "relation": "next"
+    },
+    {
+      "source": "e0045",
+      "target": "e0046",
+      "relation": "next"
+    },
+    {
+      "source": "e0046",
+      "target": "e0047",
+      "relation": "next"
+    },
+    {
+      "source": "e0047",
+      "target": "e0048",
+      "relation": "next"
+    },
+    {
+      "source": "e0048",
+      "target": "e0049",
+      "relation": "next"
+    },
+    {
+      "source": "e0049",
+      "target": "e0050",
+      "relation": "next"
+    },
+    {
+      "source": "e0050",
+      "target": "e0051",
+      "relation": "next"
+    },
+    {
+      "source": "e0051",
+      "target": "e0052",
+      "relation": "next"
+    },
+    {
+      "source": "e0052",
+      "target": "e0053",
+      "relation": "next"
+    },
+    {
+      "source": "e0053",
+      "target": "e0054",
+      "relation": "next"
+    },
+    {
+      "source": "e0054",
+      "target": "e0055",
+      "relation": "next"
+    },
+    {
+      "source": "e0055",
+      "target": "e0056",
+      "relation": "next"
+    },
+    {
+      "source": "e0056",
+      "target": "e0057",
+      "relation": "next"
+    },
+    {
+      "source": "e0057",
+      "target": "e0058",
+      "relation": "next"
+    },
+    {
+      "source": "e0058",
+      "target": "e0059",
+      "relation": "next"
+    },
+    {
+      "source": "e0059",
+      "target": "e0060",
+      "relation": "next"
+    },
+    {
+      "source": "e0060",
+      "target": "e0061",
+      "relation": "next"
+    },
+    {
+      "source": "e0061",
+      "target": "e0062",
+      "relation": "next"
+    },
+    {
+      "source": "e0062",
+      "target": "e0063",
+      "relation": "next"
+    },
+    {
+      "source": "e0063",
+      "target": "e0064",
+      "relation": "next"
+    },
+    {
+      "source": "e0064",
+      "target": "e0065",
+      "relation": "next"
+    },
+    {
+      "source": "e0065",
+      "target": "e0066",
+      "relation": "next"
+    },
+    {
+      "source": "e0066",
+      "target": "e0067",
+      "relation": "next"
+    },
+    {
+      "source": "e0067",
+      "target": "e0068",
+      "relation": "next"
+    },
+    {
+      "source": "e0068",
+      "target": "e0069",
+      "relation": "next"
+    },
+    {
+      "source": "e0069",
+      "target": "e0070",
+      "relation": "next"
+    },
+    {
+      "source": "e0070",
+      "target": "e0071",
+      "relation": "next"
+    },
+    {
+      "source": "e0071",
+      "target": "e0072",
+      "relation": "next"
+    },
+    {
+      "source": "e0072",
+      "target": "e0073",
+      "relation": "next"
+    },
+    {
+      "source": "e0073",
+      "target": "e0074",
+      "relation": "next"
+    },
+    {
+      "source": "e0074",
+      "target": "e0075",
+      "relation": "next"
+    },
+    {
+      "source": "e0075",
+      "target": "e0076",
+      "relation": "next"
+    },
+    {
+      "source": "e0076",
+      "target": "e0077",
+      "relation": "next"
+    },
+    {
+      "source": "e0077",
+      "target": "e0078",
+      "relation": "next"
+    },
+    {
+      "source": "e0078",
+      "target": "e0079",
+      "relation": "next"
+    },
+    {
+      "source": "e0079",
+      "target": "e0080",
+      "relation": "next"
+    },
+    {
+      "source": "e0080",
+      "target": "e0081",
+      "relation": "next"
+    }
+  ]
+}

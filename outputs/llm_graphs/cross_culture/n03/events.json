@@ -1,0 +1,314 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "legend",
+    "verb": "venture",
+    "obj": "heart",
+    "label": "legend | venture | heart",
+    "sentence": "Legend of the Grain\n\nLong ago, in the heart of the dense Germanic woodlands, a young hunter from a village near the Spessart hills ventured out with his bow and arrows."
+  },
+  {
+    "sent_id": 1,
+    "subj": "he",
+    "verb": "look",
+    "obj": "valley",
+    "label": "he | look | valley",
+    "sentence": "Climbing to the crest of a steep hill, he looked down into a shadowy valley where two clear streams met among ancient oaks and beeches."
+  },
+  {
+    "sent_id": 2,
+    "subj": "he",
+    "verb": "spot",
+    "obj": "grazing",
+    "label": "he | spot | grazing",
+    "sentence": "There, he spotted a great wild bull grazing close to the water\u2019s edge."
+  },
+  {
+    "sent_id": 4,
+    "subj": "hunter",
+    "verb": "resolve",
+    "obj": "",
+    "label": "hunter | resolve | \u2205",
+    "sentence": "The hunter resolved to wait until the beast moved nearer to the thickets or the riverbank, where he might draw his bow with better aim."
+  },
+  {
+    "sent_id": 5,
+    "subj": "sun",
+    "verb": "sink",
+    "obj": "forest",
+    "label": "sun | sink | forest",
+    "sentence": "The sun sank behind the sprawling forest, and the bull remained firm."
+  },
+  {
+    "sent_id": 6,
+    "subj": "hunter",
+    "verb": "stay",
+    "obj": "night",
+    "label": "hunter | stay | night",
+    "sentence": "Throughout the long, chilly night, the hunter stayed awake on the hilltop, hungry and restless, feeling both awe at the wild land and frustration that the beast eluded him."
+  },
+  {
+    "sent_id": 7,
+    "subj": "he",
+    "verb": "climb",
+    "obj": "dawn",
+    "label": "he | climb | dawn",
+    "sentence": "Before dawn, he climbed once more to his vantage point."
+  },
+  {
+    "sent_id": 8,
+    "subj": "bull",
+    "verb": "stand",
+    "obj": "",
+    "label": "bull | stand | \u2205",
+    "sentence": "The bull still stood where it had before\u2014but now it faced east."
+  },
+  {
+    "sent_id": 9,
+    "subj": "he",
+    "verb": "wait",
+    "obj": "creature",
+    "label": "he | wait | creature",
+    "sentence": "Again, he waited from dawn till dusk, yet the great creature neither fed nor wandered."
+  },
+  {
+    "sent_id": 10,
+    "subj": "",
+    "verb": "pass",
+    "obj": "star",
+    "label": "\u2205 | pass | star",
+    "sentence": "Another night passed beneath the endless stars, and in the faint morning light, the hunter saw the bull facing south, steadfast and motionless."
+  },
+  {
+    "sent_id": 11,
+    "subj": "he",
+    "verb": "wait",
+    "obj": "",
+    "label": "he | wait | \u2205",
+    "sentence": "He waited all day, heart heavy with wonder and confusion, and when the sun dipped low, the bull had not shifted."
+  },
+  {
+    "sent_id": 13,
+    "subj": "hunter",
+    "verb": "come",
+    "obj": "",
+    "label": "hunter | come | \u2205",
+    "sentence": "The hunter came to understand that some mysterious power held the bull in place\u2014no earthly hunger or thirst moved it."
+  },
+  {
+    "sent_id": 14,
+    "subj": "hunter",
+    "verb": "climb",
+    "obj": "hill",
+    "label": "hunter | climb | hill",
+    "sentence": "As sunlight broke the next morning, the hunter climbed the hill only to find the bull was gone."
+  },
+  {
+    "sent_id": 15,
+    "subj": "",
+    "verb": "grow",
+    "obj": "plant",
+    "label": "\u2205 | grow | plant",
+    "sentence": "In its place grew a strange, unfamiliar plant."
+  },
+  {
+    "sent_id": 16,
+    "subj": "he",
+    "verb": "examine",
+    "obj": "ground",
+    "label": "he | examine | ground",
+    "sentence": "He examined the ground keenly and saw faint impressions where the bull had turned\u2014east, south, west\u2014but no signs showing how it had left."
+  },
+  {
+    "sent_id": 17,
+    "subj": "",
+    "verb": "spring",
+    "obj": "shoot",
+    "label": "\u2205 | spring | shoot",
+    "sentence": "From the center of these marks sprang the tender green shoots of the new plant."
+  },
+  {
+    "sent_id": 18,
+    "subj": "hunter",
+    "verb": "hurry",
+    "obj": "",
+    "label": "hunter | hurry | \u2205",
+    "sentence": "Filled with both fear and reverence, the hunter hurried back to his village and told the elders and chieftains of this marvelous vision, of the silent bull and the plant born from its standing place."
+  },
+  {
+    "sent_id": 19,
+    "subj": "villager",
+    "verb": "go",
+    "obj": "",
+    "label": "villager | go | \u2205",
+    "sentence": "Together, the villagers went to see, and they found the strange crop protected by the very tracks the bull had made, yet no way in or out."
+  },
+  {
+    "sent_id": 20,
+    "subj": "they",
+    "verb": "know",
+    "obj": "",
+    "label": "they | know | \u2205",
+    "sentence": "They knew then that Wodan had sent this gift to them\u2014a sacred plant unlike any they had known."
+  },
+  {
+    "sent_id": 21,
+    "subj": "they",
+    "verb": "remember",
+    "obj": "turning",
+    "label": "they | remember | turning",
+    "sentence": "They remembered the turning of seasons and the time when each forest bounty was ready to be harvested."
+  },
+  {
+    "sent_id": 22,
+    "subj": "they",
+    "verb": "guard",
+    "obj": "",
+    "label": "they | guard | \u2205",
+    "sentence": "Watching carefully, they guarded what had sprung from the earth with solemn care."
+  },
+  {
+    "sent_id": 23,
+    "subj": "flower",
+    "verb": "protrude",
+    "obj": "growth",
+    "label": "flower | protrude | growth",
+    "sentence": "Soon, a delicate flower blossomed upon the plant, and from one knobby joint protruded a curious growth covered in soft hairs."
+  },
+  {
+    "sent_id": 24,
+    "subj": "they",
+    "verb": "brown",
+    "obj": "autumn",
+    "label": "they | brown | autumn",
+    "sentence": "At first, the hairs were a gentle green, then they browned with the coming autumn."
+  },
+  {
+    "sent_id": 25,
+    "subj": "people",
+    "verb": "whisper",
+    "obj": "",
+    "label": "people | whisper | \u2205",
+    "sentence": "The people whispered that the fruit might be ripe, yet none dared touch it."
+  },
+  {
+    "sent_id": 26,
+    "subj": "they",
+    "verb": "gather",
+    "obj": "",
+    "label": "they | gather | \u2205",
+    "sentence": "They gathered, unsure, until a young man spoke boldly: \"My path has known hardship and misfortune."
+  },
+  {
+    "sent_id": 27,
+    "subj": "fate",
+    "verb": "seal",
+    "obj": "",
+    "label": "fate | seal | \u2205",
+    "sentence": "If this gift harms me, my fate is sealed regardless."
+  },
+  {
+    "sent_id": 28,
+    "subj": "he",
+    "verb": "lay",
+    "obj": "hand",
+    "label": "he | lay | hand",
+    "sentence": "\"\n\nEncouraged by his courage, he laid his hand upon the plant and carefully grasped the fruit."
+  },
+  {
+    "sent_id": 29,
+    "subj": "he",
+    "verb": "declare",
+    "obj": "",
+    "label": "he | declare | \u2205",
+    "sentence": "Holding it firm, he declared, \"It is firm, it is ripe.\""
+  },
+  {
+    "sent_id": 30,
+    "subj": "he",
+    "verb": "reveal",
+    "obj": "kernel",
+    "label": "he | reveal | kernel",
+    "sentence": "Gently peeling back the protective husks, he revealed kernels of red gold glistening in the muted light."
+  },
+  {
+    "sent_id": 31,
+    "subj": "he",
+    "verb": "hold",
+    "obj": "grain",
+    "label": "he | hold | grain",
+    "sentence": "He held the grains to the crowd and tasted some himself."
+  },
+  {
+    "sent_id": 32,
+    "subj": "he",
+    "verb": "fall",
+    "obj": "",
+    "label": "he | fall | \u2205",
+    "sentence": "He did not fall ill."
+  },
+  {
+    "sent_id": 33,
+    "subj": "people",
+    "verb": "know",
+    "obj": "moment",
+    "label": "people | know | moment",
+    "sentence": "In that moment, the people knew Wodan had sent them this sacred food to nourish their bodies and their souls."
+  },
+  {
+    "sent_id": 34,
+    "subj": "stalk",
+    "verb": "gather",
+    "obj": "",
+    "label": "stalk | gather | \u2205",
+    "sentence": "When the birch leaves turned tawny with the approach of frost, the stalks too browned and the golden fruits were gathered, stored carefully for the winter months."
+  },
+  {
+    "sent_id": 35,
+    "subj": "kernel",
+    "verb": "divide",
+    "obj": "household",
+    "label": "kernel | divide | household",
+    "sentence": "After the snow melted and the earth thawed, the kernels were divided among the households, four for each family to plant and cherish."
+  },
+  {
+    "sent_id": 36,
+    "subj": "people",
+    "verb": "move",
+    "obj": "house",
+    "label": "people | move | house",
+    "sentence": "The people moved their humble houses closer to the blessed hill where the plant had first appeared."
+  },
+  {
+    "sent_id": 37,
+    "subj": "they",
+    "verb": "mound",
+    "obj": "earth",
+    "label": "they | mound | earth",
+    "sentence": "When spring returned and the hills were lush once more, they mounded the earth as it had been when the plant first sprouted, planting the sacred seed with reverence."
+  },
+  {
+    "sent_id": 38,
+    "subj": "stalk",
+    "verb": "grow",
+    "obj": "",
+    "label": "stalk | grow | \u2205",
+    "sentence": "The stalks grew tall and strong, bearing ears blushing with colors of deep red, bright gold, creamy white, and a rare dark blue."
+  },
+  {
+    "sent_id": 39,
+    "subj": "harvest",
+    "verb": "multiply",
+    "obj": "year",
+    "label": "harvest | multiply | year",
+    "sentence": "In the years that followed, the harvest multiplied, and the villagers welcomed neighbors from distant clans to share in this new bounty."
+  },
+  {
+    "sent_id": 40,
+    "subj": "gift",
+    "verb": "spread",
+    "obj": "they",
+    "label": "gift | spread | they",
+    "sentence": "Through them, the gift spread across the forests and villages far and wide, bringing the blessing of the grain\u2014the symbol of Wodan\u2019s favor and the promise of life\u2014to all who dwelled in the shadow of the great oaks."
+  }
+]

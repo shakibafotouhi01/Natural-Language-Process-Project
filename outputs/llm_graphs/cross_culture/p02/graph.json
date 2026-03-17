@@ -1,0 +1,618 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "companion | lament | time",
+      "sent_id": 0,
+      "sentence": "A companion of mine lamented the harsh times we lived in.",
+      "subj": "companion",
+      "verb": "lament",
+      "obj": "time"
+    },
+    {
+      "id": "e0001",
+      "label": "he | speak | resource",
+      "sent_id": 1,
+      "sentence": "He spoke of his meager resources and the weight of his large family, feeling too weak to carry the burden of hardship.",
+      "subj": "he",
+      "verb": "speak",
+      "obj": "resource"
+    },
+    {
+      "id": "e0002",
+      "label": "he | confess | \u2205",
+      "sent_id": 2,
+      "sentence": "He confessed that often he dreamed of traveling far beyond the mountains, to a land where no one would know his fortune or misfortune, so that whether he prospered or struggled, he could walk without judgment.",
+      "subj": "he",
+      "verb": "confess",
+      "obj": ""
+    },
+    {
+      "id": "e0003",
+      "label": "he | say | \u2205",
+      "sent_id": 3,
+      "sentence": "He said many wanderers roam hungry, unnoticed and forgotten.",
+      "subj": "he",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0004",
+      "label": "many | lie | door",
+      "sent_id": 4,
+      "sentence": "Many lay at death\u2019s door, and no one sheds a tear for them.",
+      "subj": "many",
+      "verb": "lie",
+      "obj": "door"
+    },
+    {
+      "id": "e0005",
+      "label": "heart | be | \u2205",
+      "sent_id": 5,
+      "sentence": "His heart was troubled, fearing the hidden whispers of rivals who mocked him unseen.",
+      "subj": "heart",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0006",
+      "label": "they | say | \u2205",
+      "sent_id": 6,
+      "sentence": "They said he lacked the courage to endure hardship and would soon abandon his family, choosing comfort over honor:\n\u201cSee him, that man without pride,\nNever blessed by fortune\u2019s smile,\nFleeing warmth, leaving kin to cold,\nA shadow without a path home.\u201d",
+      "subj": "they",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0007",
+      "label": "he | ask | \u2205",
+      "sent_id": 7,
+      "sentence": "Knowing I had some skill with numbers, he asked if I might use my influence with the tribal council to find him a position.",
+      "subj": "he",
+      "verb": "ask",
+      "obj": ""
+    },
+    {
+      "id": "e0008",
+      "label": "this | ease | mind",
+      "sent_id": 8,
+      "sentence": "This, he believed, would ease his mind and bind him with gratitude to me for life.",
+      "subj": "this",
+      "verb": "ease",
+      "obj": "mind"
+    },
+    {
+      "id": "e0009",
+      "label": "i | answer | \u2205",
+      "sent_id": 9,
+      "sentence": "I answered, \u201cFriend, serving the chief comes with two faces: hope for sustenance, but danger to your spirit.",
+      "subj": "i",
+      "verb": "answer",
+      "obj": ""
+    },
+    {
+      "id": "e0010",
+      "label": "one | say | \u2205",
+      "sent_id": 10,
+      "sentence": "Wise ones say it is folly to brave great risk for uncertain reward.\u201d",
+      "subj": "one",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0011",
+      "label": "one | visit | lodge",
+      "sent_id": 11,
+      "sentence": "No one visits the healer's lodge to seek wealth or claim the harvest\u2019s fruits.",
+      "subj": "one",
+      "verb": "visit",
+      "obj": "lodge"
+    },
+    {
+      "id": "e0012",
+      "label": "you | bear | sorrow",
+      "sent_id": 12,
+      "sentence": "You must either bear your sorrow, or let your beloved children be scattered like leaves upon the wind.",
+      "subj": "you",
+      "verb": "bear",
+      "obj": "sorrow"
+    },
+    {
+      "id": "e0013",
+      "label": "he | press | \u2205",
+      "sent_id": 13,
+      "sentence": "He pressed, citing old teachings: \u201cHave you not heard, \u2018The one who betrays must tremble when judged by the Great Spirit\u2019?\u201d\n\nI replied, \u201cThe path of truth is accepted by the Creator; no traveler is lost upon it.",
+      "subj": "he",
+      "verb": "press",
+      "obj": ""
+    },
+    {
+      "id": "e0014",
+      "label": "unfaithful | fear | witness",
+      "sent_id": 14,
+      "sentence": "Wise elders say four fears haunt four souls: the outlaw fears the warrior, the thief fears the watchman, the unfaithful fears the witness, and the wanderer fears the guardian of law.",
+      "subj": "unfaithful",
+      "verb": "fear",
+      "obj": "witness"
+    },
+    {
+      "id": "e0015",
+      "label": "\u2205 | spend | mean",
+      "sent_id": 15,
+      "sentence": "But what can harm the heart that holds no guilt?\u201d\n\n\u201cDo not spend beyond your means while in favor, lest when the winds turn, your foes mock your fall.",
+      "subj": "",
+      "verb": "spend",
+      "obj": "mean"
+    },
+    {
+      "id": "e0016",
+      "label": "\u2205 | be | \u2205",
+      "sent_id": 16,
+      "sentence": "Be pure, brother, and fear no shadow.",
+      "subj": "",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0017",
+      "label": "dirty | beat | \u2205",
+      "sent_id": 17,
+      "sentence": "Only the dirty are beaten by the stone\u2019s edge.\u201d",
+      "subj": "dirty",
+      "verb": "beat",
+      "obj": ""
+    },
+    {
+      "id": "e0018",
+      "label": "i | tell | story",
+      "sent_id": 18,
+      "sentence": "To soften his worry, I told the story of the fox fleeing in terror, fearing camels forced into service.",
+      "subj": "i",
+      "verb": "tell",
+      "obj": "story"
+    },
+    {
+      "id": "e0019",
+      "label": "friend | mock | \u2205",
+      "sent_id": 19,
+      "sentence": "His friends mocked: \u201cWhat harm have you, fox, with beasts of burden?\u201d",
+      "subj": "friend",
+      "verb": "mock",
+      "obj": ""
+    },
+    {
+      "id": "e0020",
+      "label": "fox | answer | \u2205",
+      "sent_id": 20,
+      "sentence": "The fox answered, \u201cSilence.",
+      "subj": "fox",
+      "verb": "answer",
+      "obj": ""
+    },
+    {
+      "id": "e0021",
+      "label": "who | help | \u2205",
+      "sent_id": 21,
+      "sentence": "If the jealous say I am a camel and catch me, who else will help?",
+      "subj": "who",
+      "verb": "help",
+      "obj": ""
+    },
+    {
+      "id": "e0022",
+      "label": "one | die | \u2205",
+      "sent_id": 22,
+      "sentence": "The one bitten by the serpent dies before the bitter herb reaches him.\u201d",
+      "subj": "one",
+      "verb": "die",
+      "obj": ""
+    },
+    {
+      "id": "e0023",
+      "label": "you | be | \u2205",
+      "sent_id": 23,
+      "sentence": "\u201cYou are honorable and true, yet enemies wait in every shadow.",
+      "subj": "you",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0024",
+      "label": "judgement | fall | heavy",
+      "sent_id": 24,
+      "sentence": "If they speak ill of you, the chief\u2019s judgement will fall heavy, and none will speak for you.",
+      "subj": "judgement",
+      "verb": "fall",
+      "obj": "heavy"
+    },
+    {
+      "id": "e0025",
+      "label": "elder | say | \u2205",
+      "sent_id": 26,
+      "sentence": "The elders say:\n\n\u2018The river holds many treasures,\nBut safety lies upon the riverbank.\u2019\u201d",
+      "subj": "elder",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0026",
+      "label": "face | darken | \u2205",
+      "sent_id": 27,
+      "sentence": "Hearing this, my friend\u2019s face darkened.",
+      "subj": "face",
+      "verb": "darken",
+      "obj": ""
+    },
+    {
+      "id": "e0027",
+      "label": "he | rebuke | i",
+      "sent_id": 28,
+      "sentence": "He rebuked me harshly, saying, \u201cWhat wisdom is this?",
+      "subj": "he",
+      "verb": "rebuke",
+      "obj": "i"
+    },
+    {
+      "id": "e0028",
+      "label": "friend | show | tooth",
+      "sent_id": 29,
+      "sentence": "Philosophers are right: friends show their teeth at the feast but turn to silence in the cell.\u201d\n\n\u201cTrust not the one who knocks upon fortune\u2019s door,\nWho calls himself kin but turns away in hardship.",
+      "subj": "friend",
+      "verb": "show",
+      "obj": "tooth"
+    },
+    {
+      "id": "e0029",
+      "label": "friendship | be | hand",
+      "sent_id": 30,
+      "sentence": "True friendship is the hand that holds tight in the coldest night.\u201d",
+      "subj": "friendship",
+      "verb": "be",
+      "obj": "hand"
+    },
+    {
+      "id": "e0030",
+      "label": "i | seek | chief",
+      "sent_id": 31,
+      "sentence": "Though hurt by his words, I sought the tribal chief.",
+      "subj": "i",
+      "verb": "seek",
+      "obj": "chief"
+    },
+    {
+      "id": "e0031",
+      "label": "i | speak | plight",
+      "sent_id": 32,
+      "sentence": "Calling on old bonds, I spoke of my friend\u2019s plight.",
+      "subj": "i",
+      "verb": "speak",
+      "obj": "plight"
+    },
+    {
+      "id": "e0032",
+      "label": "chief | grant | role",
+      "sent_id": 33,
+      "sentence": "The chief granted him a small role, and through kindness and skill, my friend rose in esteem and rank, becoming a trusted advisor to the leader, his star ascending like the sun at dawn.",
+      "subj": "chief",
+      "verb": "grant",
+      "obj": "role"
+    },
+    {
+      "id": "e0033",
+      "label": "i | rejoice | \u2205",
+      "sent_id": 34,
+      "sentence": "I rejoiced, saying:\n\n\u201cFear not tangled paths or shattered hearts,\nFor from darkness springs the life-giving light.",
+      "subj": "i",
+      "verb": "rejoice",
+      "obj": ""
+    },
+    {
+      "id": "e0034",
+      "label": "i | return | journey",
+      "sent_id": 36,
+      "sentence": "Sit not in gloom for the changing winds,\nFor patience, though bitter, yields sweet fruit.\u201d\n\nOn a journey with friends to the sacred mountain, I returned to find him waiting two day\u2019s travel away, dressed like the wandering medicine men.",
+      "subj": "i",
+      "verb": "return",
+      "obj": "journey"
+    },
+    {
+      "id": "e0035",
+      "label": "face | be | \u2205",
+      "sent_id": 37,
+      "sentence": "His face was heavy with sorrow.",
+      "subj": "face",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0036",
+      "label": "he | tell | i",
+      "sent_id": 38,
+      "sentence": "When I asked, he told me:\n\n\u201cAs you saw, envy found me and enemies brought false charges of betrayal.",
+      "subj": "he",
+      "verb": "tell",
+      "obj": "i"
+    },
+    {
+      "id": "e0037",
+      "label": "chief | seek | truth",
+      "sent_id": 39,
+      "sentence": "The chief did not seek the truth, and old friends fell silent, forgetting all we shared.",
+      "subj": "chief",
+      "verb": "seek",
+      "obj": "truth"
+    },
+    {
+      "id": "e0038",
+      "label": "\u2205 | see | \u2205",
+      "sent_id": 40,
+      "sentence": "\u201cSee how those who praise the mighty stand with bowed heads\u2014\nBut when fortune turns, all seek to trample them beneath their feet.\u201d",
+      "subj": "",
+      "verb": "see",
+      "obj": ""
+    },
+    {
+      "id": "e0039",
+      "label": "news | come | suffering",
+      "sent_id": 41,
+      "sentence": "\u201cAt last, after much suffering, news came that the sacred travelers approached, and I was freed, though my family\u2019s lands were taken.\u201d",
+      "subj": "news",
+      "verb": "come",
+      "obj": "suffering"
+    },
+    {
+      "id": "e0040",
+      "label": "i | say | \u2205",
+      "sent_id": 42,
+      "sentence": "I said, \u201cYou did not heed when I cautioned that service to chiefs is a voyage on a stormy lake\u2014gain or death are the only outcomes.\u201d",
+      "subj": "i",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0041",
+      "label": "traveler | bring | treasure",
+      "sent_id": 43,
+      "sentence": "The traveler may bring the treasure ashore,\nOr be found lifeless on the shoreline.",
+      "subj": "traveler",
+      "verb": "bring",
+      "obj": "treasure"
+    },
+    {
+      "id": "e0042",
+      "label": "you | know | \u2205",
+      "sent_id": 44,
+      "sentence": "To soothe his wounds, I spoke gently:\n\n\u201cDid you not know your hands would be bound,\nIf you did not heed the counsel of your elders?",
+      "subj": "you",
+      "verb": "know",
+      "obj": ""
+    },
+    {
+      "id": "e0043",
+      "label": "\u2205 | place | finger",
+      "sent_id": 45,
+      "sentence": "And if you cannot bear the sting\u2019s pain,\nDo not place your fingers where the scorpion dwells.\u201d",
+      "subj": "",
+      "verb": "place",
+      "obj": "finger"
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    },
+    {
+      "source": "e0029",
+      "target": "e0030",
+      "relation": "next"
+    },
+    {
+      "source": "e0030",
+      "target": "e0031",
+      "relation": "next"
+    },
+    {
+      "source": "e0031",
+      "target": "e0032",
+      "relation": "next"
+    },
+    {
+      "source": "e0032",
+      "target": "e0033",
+      "relation": "next"
+    },
+    {
+      "source": "e0033",
+      "target": "e0034",
+      "relation": "next"
+    },
+    {
+      "source": "e0034",
+      "target": "e0035",
+      "relation": "next"
+    },
+    {
+      "source": "e0035",
+      "target": "e0036",
+      "relation": "next"
+    },
+    {
+      "source": "e0036",
+      "target": "e0037",
+      "relation": "next"
+    },
+    {
+      "source": "e0037",
+      "target": "e0038",
+      "relation": "next"
+    },
+    {
+      "source": "e0038",
+      "target": "e0039",
+      "relation": "next"
+    },
+    {
+      "source": "e0039",
+      "target": "e0040",
+      "relation": "next"
+    },
+    {
+      "source": "e0040",
+      "target": "e0041",
+      "relation": "next"
+    },
+    {
+      "source": "e0041",
+      "target": "e0042",
+      "relation": "next"
+    },
+    {
+      "source": "e0042",
+      "target": "e0043",
+      "relation": "next"
+    }
+  ]
+}

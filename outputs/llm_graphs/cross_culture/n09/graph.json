@@ -1,0 +1,786 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "\u2205 | lie | cabin",
+      "sent_id": 0,
+      "sentence": "In a distant corner of the dense Germanic woods lay a lonely forester\u2019s cabin, home to a renowned hunter named Dietrich, his fair wife Elsa, and their two sons, Wilhelm and Otto.",
+      "subj": "",
+      "verb": "lie",
+      "obj": "cabin"
+    },
+    {
+      "id": "e0001",
+      "label": "elsa | remain | seclusion",
+      "sent_id": 1,
+      "sentence": "Each day, as Dietrich ventured into the vast Schwarzwald to track deer and boar\u2014their chief sustenance\u2014Elsa and her sons remained in the seclusion of their timbered home.",
+      "subj": "elsa",
+      "verb": "remain",
+      "obj": "seclusion"
+    },
+    {
+      "id": "e0002",
+      "label": "game | be | day",
+      "sent_id": 2,
+      "sentence": "In those days, game was plentiful, and Dietrich\u2019s skilled pursuit brought them well-fed and secure.",
+      "subj": "game",
+      "verb": "be",
+      "obj": "day"
+    },
+    {
+      "id": "e0003",
+      "label": "homestead | remove | village",
+      "sent_id": 3,
+      "sentence": "Their homestead was far removed from other villages, and rarely did any stranger\u2019s face breach the wild domain beyond their clearing.",
+      "subj": "homestead",
+      "verb": "remove",
+      "obj": "village"
+    },
+    {
+      "id": "e0004",
+      "label": "they | roam | \u2205",
+      "sent_id": 4,
+      "sentence": "Wilhelm and Otto were yet too young to share their father\u2019s hunts; instead, they roamed nearby, chasing woodland creatures and watching birds flit through the ancient oaks and pines.",
+      "subj": "they",
+      "verb": "roam",
+      "obj": ""
+    },
+    {
+      "id": "e0005",
+      "label": "it | be | wandering",
+      "sent_id": 5,
+      "sentence": "It was during these innocent wanderings that they noticed a tall stranger, a somber young man, visiting the cabin repeatedly whenever their father was away.",
+      "subj": "it",
+      "verb": "be",
+      "obj": "wandering"
+    },
+    {
+      "id": "e0006",
+      "label": "visit | be | whisper",
+      "sent_id": 6,
+      "sentence": "The visits were quiet and frequent, like whispers between shadows.",
+      "subj": "visit",
+      "verb": "be",
+      "obj": "whisper"
+    },
+    {
+      "id": "e0007",
+      "label": "wilhelm | turn | mother",
+      "sent_id": 7,
+      "sentence": "One evening, Wilhelm turned to their mother, curiosity shining in his eyes.",
+      "subj": "wilhelm",
+      "verb": "turn",
+      "obj": "mother"
+    },
+    {
+      "id": "e0008",
+      "label": "he | seek | father",
+      "sent_id": 9,
+      "sentence": "Does he seek my father?",
+      "subj": "he",
+      "verb": "seek",
+      "obj": "father"
+    },
+    {
+      "id": "e0009",
+      "label": "i | tell | father",
+      "sent_id": 10,
+      "sentence": "Shall I tell Father when he returns?\u201d\n\nElsa\u2019s face tightened like the bark of an old tree.",
+      "subj": "i",
+      "verb": "tell",
+      "obj": "father"
+    },
+    {
+      "id": "e0010",
+      "label": "she | say | \u2205",
+      "sent_id": 11,
+      "sentence": "\u201cFoolish child,\u201d she said sharply.",
+      "subj": "she",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0011",
+      "label": "\u2205 | attend | bow",
+      "sent_id": 12,
+      "sentence": "\u201cAttend to your bows and arrows.",
+      "subj": "",
+      "verb": "attend",
+      "obj": "bow"
+    },
+    {
+      "id": "e0012",
+      "label": "\u2205 | be | \u2205",
+      "sent_id": 13,
+      "sentence": "Be brave and venture into the woods with your brother.",
+      "subj": "",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0013",
+      "label": "son | linger | idle",
+      "sent_id": 14,
+      "sentence": "A hunter\u2019s sons do not linger at the hearth idle, nor do they speak of every shadow they glimpse.",
+      "subj": "son",
+      "verb": "linger",
+      "obj": "idle"
+    },
+    {
+      "id": "e0014",
+      "label": "\u2205 | say | nothing",
+      "sent_id": 15,
+      "sentence": "Your father has enough to bear; say nothing.\u201d",
+      "subj": "",
+      "verb": "say",
+      "obj": "nothing"
+    },
+    {
+      "id": "e0015",
+      "label": "boy | obey | \u2205",
+      "sent_id": 16,
+      "sentence": "The boys obeyed, yet their suspicions grew as the stranger\u2019s visits endured.",
+      "subj": "boy",
+      "verb": "obey",
+      "obj": ""
+    },
+    {
+      "id": "e0016",
+      "label": "they | press | \u2205",
+      "sent_id": 17,
+      "sentence": "Now older, they pressed again, declaring their intent to tell their father, for the man never followed paths nor carried food, and if he bore news, why did he never speak to their father directly?",
+      "subj": "they",
+      "verb": "press",
+      "obj": ""
+    },
+    {
+      "id": "e0017",
+      "label": "they | mention | stranger",
+      "sent_id": 18,
+      "sentence": "Their mother\u2019s countenance darkened to storm clouds; she threatened them with terrible consequences should they mention the stranger.",
+      "subj": "they",
+      "verb": "mention",
+      "obj": "stranger"
+    },
+    {
+      "id": "e0018",
+      "label": "they | keep | silent",
+      "sent_id": 19,
+      "sentence": "Fearing her wrath, they kept silent for a time.",
+      "subj": "they",
+      "verb": "keep",
+      "obj": "silent"
+    },
+    {
+      "id": "e0019",
+      "label": "visitor | come | \u2205",
+      "sent_id": 20,
+      "sentence": "Yet, the shadowy visitor came still, weaving curiosity into dread.",
+      "subj": "visitor",
+      "verb": "come",
+      "obj": ""
+    },
+    {
+      "id": "e0020",
+      "label": "they | confide | father",
+      "sent_id": 21,
+      "sentence": "At last, they confided all to their father during a hunting lesson beneath towering firs.",
+      "subj": "they",
+      "verb": "confide",
+      "obj": "father"
+    },
+    {
+      "id": "e0021",
+      "label": "eye | blaze | fury",
+      "sent_id": 22,
+      "sentence": "Dietrich\u2019s eyes blazed with silent fury before he steadied himself.",
+      "subj": "eye",
+      "verb": "blaze",
+      "obj": "fury"
+    },
+    {
+      "id": "e0022",
+      "label": "he | say | \u2205",
+      "sent_id": 23,
+      "sentence": "\u201cIt is decided,\u201d he said grimly.",
+      "subj": "he",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0023",
+      "label": "you | remain | \u2205",
+      "sent_id": 24,
+      "sentence": "\u201cYou two remain here until sundown and then return to the cabin.",
+      "subj": "you",
+      "verb": "remain",
+      "obj": ""
+    },
+    {
+      "id": "e0024",
+      "label": "you | find | i",
+      "sent_id": 25,
+      "sentence": "You shall find me there.\u201d",
+      "subj": "you",
+      "verb": "find",
+      "obj": "i"
+    },
+    {
+      "id": "e0025",
+      "label": "he | walk | \u2205",
+      "sent_id": 26,
+      "sentence": "He walked away slowly, leaving the boys to their restless play until twilight summoned them home.",
+      "subj": "he",
+      "verb": "walk",
+      "obj": ""
+    },
+    {
+      "id": "e0026",
+      "label": "they | find | arrival",
+      "sent_id": 27,
+      "sentence": "Upon arrival, they found the cabin empty.",
+      "subj": "they",
+      "verb": "find",
+      "obj": "arrival"
+    },
+    {
+      "id": "e0027",
+      "label": "mother | be | \u2205",
+      "sent_id": 28,
+      "sentence": "Their mother was gone\u2014and never again was her name spoken in the hearthlit walls.",
+      "subj": "mother",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0028",
+      "label": "elsa | linger | curse",
+      "sent_id": 29,
+      "sentence": "Though unseen, Elsa lingered like a curse, a withered specter with hollow eyes and gnarled limbs, appearing at dusk to haunt her sons as they returned from the hunt.",
+      "subj": "elsa",
+      "verb": "linger",
+      "obj": "curse"
+    },
+    {
+      "id": "e0029",
+      "label": "she | unbolt | door",
+      "sent_id": 30,
+      "sentence": "By night, she would silently unbolt the door and drift through their slumbering forms, mocking them with her pale, bony visage suspended in the darkness.",
+      "subj": "she",
+      "verb": "unbolt",
+      "obj": "door"
+    },
+    {
+      "id": "e0030",
+      "label": "presence | turn | home",
+      "sent_id": 31,
+      "sentence": "Her dreadful presence turned their once-familiar home into a place of terror.",
+      "subj": "presence",
+      "verb": "turn",
+      "obj": "home"
+    },
+    {
+      "id": "e0031",
+      "label": "\u2205 | torment | endurance",
+      "sent_id": 32,
+      "sentence": "Tormented beyond endurance, the family\u2014father and now grown sons\u2014resolved to flee the cursed forest.",
+      "subj": "",
+      "verb": "torment",
+      "obj": "endurance"
+    },
+    {
+      "id": "e0032",
+      "label": "path | lead | shore",
+      "sent_id": 33,
+      "sentence": "Their path led southward, following the winding shore of a vast, mist-shrouded lake.",
+      "subj": "path",
+      "verb": "lead",
+      "obj": "shore"
+    },
+    {
+      "id": "e0033",
+      "label": "they | come | cliff",
+      "sent_id": 34,
+      "sentence": "Around a jagged cliff, they came upon a raging waterfall where the lake gave birth to a mighty river, thundering into the valley below.",
+      "subj": "they",
+      "verb": "come",
+      "obj": "cliff"
+    },
+    {
+      "id": "e0034",
+      "label": "skull | roll | shore",
+      "sent_id": 35,
+      "sentence": "As they gazed upon the churning cascade, a strange sight startled them\u2014a woman\u2019s skull rolling swiftly along the rocky shore, as if in pursuit.",
+      "subj": "skull",
+      "verb": "roll",
+      "obj": "shore"
+    },
+    {
+      "id": "e0035",
+      "label": "\u2205 | emerge | figure",
+      "sent_id": 36,
+      "sentence": "From the nearby forest emerged a headless figure, moving with grim purpose toward the skull.",
+      "subj": "",
+      "verb": "emerge",
+      "obj": "figure"
+    },
+    {
+      "id": "e0036",
+      "label": "part | merge | speed",
+      "sent_id": 37,
+      "sentence": "The two parts merged with unnatural speed, forming a dreadful phantom racing after the hunter and his sons.",
+      "subj": "part",
+      "verb": "merge",
+      "obj": "speed"
+    },
+    {
+      "id": "e0037",
+      "label": "fear | seize | they",
+      "sent_id": 38,
+      "sentence": "Fear seized them, for the haunt was relentless, and escape seemed impossible.",
+      "subj": "fear",
+      "verb": "seize",
+      "obj": "they"
+    },
+    {
+      "id": "e0038",
+      "label": "feather | dull | \u2205",
+      "sent_id": 39,
+      "sentence": "Then Wilhelm spotted a great crane perched solemnly upon a rock amid the foaming rapids\u2014a venerable bird, feathers dulled by countless winters, eyes deep with ancient wisdom.",
+      "subj": "feather",
+      "verb": "dull",
+      "obj": ""
+    },
+    {
+      "id": "e0039",
+      "label": "crane | help | \u2205",
+      "sent_id": 40,
+      "sentence": "\u201cGrandfather crane,\u201d they called, \u201chelp us cross the falls and flee this evil!\u201d",
+      "subj": "crane",
+      "verb": "help",
+      "obj": ""
+    },
+    {
+      "id": "e0040",
+      "label": "crane | stretch | neck",
+      "sent_id": 41,
+      "sentence": "The crane, immense and solemn, stretched forth its long neck, rose on mighty wings, and flew across the turbulent water to their aid.",
+      "subj": "crane",
+      "verb": "stretch",
+      "obj": "neck"
+    },
+    {
+      "id": "e0041",
+      "label": "\u2205 | beware | \u2205",
+      "sent_id": 42,
+      "sentence": "\u201cBeware,\u201d the old bird warned, \u201ctouch not the crown of my head.",
+      "subj": "",
+      "verb": "beware",
+      "obj": ""
+    },
+    {
+      "id": "e0042",
+      "label": "age | leave | it",
+      "sent_id": 43,
+      "sentence": "Age has left it bare and tender.",
+      "subj": "age",
+      "verb": "leave",
+      "obj": "it"
+    },
+    {
+      "id": "e0043",
+      "label": "i | save | you",
+      "sent_id": 44,
+      "sentence": "Should you lay hands upon it, I cannot save you from the raging currents below.\u201d",
+      "subj": "i",
+      "verb": "save",
+      "obj": "you"
+    },
+    {
+      "id": "e0044",
+      "label": "they | heed | word",
+      "sent_id": 45,
+      "sentence": "They heeded his words with reverence, and soon found themselves safe upon the far bank.",
+      "subj": "they",
+      "verb": "heed",
+      "obj": "word"
+    },
+    {
+      "id": "e0045",
+      "label": "crane | return | \u2205",
+      "sent_id": 46,
+      "sentence": "The crane returned and carried Dietrich in like fashion before settling once more among the restless rapids.",
+      "subj": "crane",
+      "verb": "return",
+      "obj": ""
+    },
+    {
+      "id": "e0046",
+      "label": "woman | reach | shore",
+      "sent_id": 47,
+      "sentence": "But the woman\u2014now whole and dreadful\u2014reached the shore and cried, \u201cGrandfather, carry me across, that I may be with my children.",
+      "subj": "woman",
+      "verb": "reach",
+      "obj": "shore"
+    },
+    {
+      "id": "e0047",
+      "label": "i | lose | \u2205",
+      "sent_id": 48,
+      "sentence": "I am lost and sorrowful.\u201d",
+      "subj": "i",
+      "verb": "lose",
+      "obj": ""
+    },
+    {
+      "id": "e0048",
+      "label": "crane | caution | she",
+      "sent_id": 49,
+      "sentence": "The aged crane cautioned her again, repeating his warning with great solemnity.",
+      "subj": "crane",
+      "verb": "caution",
+      "obj": "she"
+    },
+    {
+      "id": "e0049",
+      "label": "she | vow | \u2205",
+      "sent_id": 50,
+      "sentence": "She vowed to obey, but scarcely had they begun the crossing than she slyly sought to touch the fragile crown.",
+      "subj": "she",
+      "verb": "vow",
+      "obj": ""
+    },
+    {
+      "id": "e0050",
+      "label": "crane | cast | she",
+      "sent_id": 51,
+      "sentence": "Swift as the storm wind, the crane cast her into the frothing torrent.",
+      "subj": "crane",
+      "verb": "cast",
+      "obj": "she"
+    },
+    {
+      "id": "e0051",
+      "label": "you | do | forbidden",
+      "sent_id": 52,
+      "sentence": "\u201cThere,\u201d he spoke sternly as she sank beneath the whirlpool, \u201cyou have done the forbidden once more.",
+      "subj": "you",
+      "verb": "do",
+      "obj": "forbidden"
+    },
+    {
+      "id": "e0052",
+      "label": "you | pursue | those",
+      "sent_id": 53,
+      "sentence": "As in life you pursued those to be shunned, so shall you henceforth be shunned by those who seek you.",
+      "subj": "you",
+      "verb": "pursue",
+      "obj": "those"
+    },
+    {
+      "id": "e0053",
+      "label": "woman | lose | time",
+      "sent_id": 55,
+      "sentence": "Consumed by the river\u2019s depths, the ghostly woman was lost to all time and memory.",
+      "subj": "woman",
+      "verb": "lose",
+      "obj": "time"
+    },
+    {
+      "id": "e0054",
+      "label": "family | embrace | crane",
+      "sent_id": 56,
+      "sentence": "Grateful and wise, the hunter\u2019s family embraced the crane as their talisman, a symbol of protection and endurance.",
+      "subj": "family",
+      "verb": "embrace",
+      "obj": "crane"
+    },
+    {
+      "id": "e0055",
+      "label": "they | prosper | wing",
+      "sent_id": 57,
+      "sentence": "Under the watchful wings of the Crane that Crossed the River, they prospered still\u2014surrounded by forest peace, abundant game, and the blessings of the ancient wild.",
+      "subj": "they",
+      "verb": "prosper",
+      "obj": "wing"
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    },
+    {
+      "source": "e0029",
+      "target": "e0030",
+      "relation": "next"
+    },
+    {
+      "source": "e0030",
+      "target": "e0031",
+      "relation": "next"
+    },
+    {
+      "source": "e0031",
+      "target": "e0032",
+      "relation": "next"
+    },
+    {
+      "source": "e0032",
+      "target": "e0033",
+      "relation": "next"
+    },
+    {
+      "source": "e0033",
+      "target": "e0034",
+      "relation": "next"
+    },
+    {
+      "source": "e0034",
+      "target": "e0035",
+      "relation": "next"
+    },
+    {
+      "source": "e0035",
+      "target": "e0036",
+      "relation": "next"
+    },
+    {
+      "source": "e0036",
+      "target": "e0037",
+      "relation": "next"
+    },
+    {
+      "source": "e0037",
+      "target": "e0038",
+      "relation": "next"
+    },
+    {
+      "source": "e0038",
+      "target": "e0039",
+      "relation": "next"
+    },
+    {
+      "source": "e0039",
+      "target": "e0040",
+      "relation": "next"
+    },
+    {
+      "source": "e0040",
+      "target": "e0041",
+      "relation": "next"
+    },
+    {
+      "source": "e0041",
+      "target": "e0042",
+      "relation": "next"
+    },
+    {
+      "source": "e0042",
+      "target": "e0043",
+      "relation": "next"
+    },
+    {
+      "source": "e0043",
+      "target": "e0044",
+      "relation": "next"
+    },
+    {
+      "source": "e0044",
+      "target": "e0045",
+      "relation": "next"
+    },
+    {
+      "source": "e0045",
+      "target": "e0046",
+      "relation": "next"
+    },
+    {
+      "source": "e0046",
+      "target": "e0047",
+      "relation": "next"
+    },
+    {
+      "source": "e0047",
+      "target": "e0048",
+      "relation": "next"
+    },
+    {
+      "source": "e0048",
+      "target": "e0049",
+      "relation": "next"
+    },
+    {
+      "source": "e0049",
+      "target": "e0050",
+      "relation": "next"
+    },
+    {
+      "source": "e0050",
+      "target": "e0051",
+      "relation": "next"
+    },
+    {
+      "source": "e0051",
+      "target": "e0052",
+      "relation": "next"
+    },
+    {
+      "source": "e0052",
+      "target": "e0053",
+      "relation": "next"
+    },
+    {
+      "source": "e0053",
+      "target": "e0054",
+      "relation": "next"
+    },
+    {
+      "source": "e0054",
+      "target": "e0055",
+      "relation": "next"
+    }
+  ]
+}

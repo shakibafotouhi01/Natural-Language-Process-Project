@@ -1,0 +1,408 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "\u2205 | speak | forest",
+      "sent_id": 0,
+      "sentence": "Long ago, in the deep forests of the old Germanic lands, animals and trees spoke together as kin, yet there was no fire to warm the earth or light the night.",
+      "subj": "",
+      "verb": "speak",
+      "obj": "forest"
+    },
+    {
+      "id": "e0001",
+      "label": "fox | be | they",
+      "sent_id": 1,
+      "sentence": "Among them, the fox was cunningest of all and pondered how to bring fire to the world.",
+      "subj": "fox",
+      "verb": "be",
+      "obj": "they"
+    },
+    {
+      "id": "e0002",
+      "label": "fox | seek | goose",
+      "sent_id": 2,
+      "sentence": "One day, the fox sought out the wild geese that soared high above the misty pine woods.",
+      "subj": "fox",
+      "verb": "seek",
+      "obj": "goose"
+    },
+    {
+      "id": "e0003",
+      "label": "he | wish | \u2205",
+      "sent_id": 3,
+      "sentence": "He wished to learn their call, for it carried the power of the skies.",
+      "subj": "he",
+      "verb": "wish",
+      "obj": ""
+    },
+    {
+      "id": "e0004",
+      "label": "goose | agree | \u2205",
+      "sent_id": 4,
+      "sentence": "The geese agreed to teach him only if he would fly with them on their great migrations.",
+      "subj": "goose",
+      "verb": "agree",
+      "obj": ""
+    },
+    {
+      "id": "e0005",
+      "label": "they | fasten | wing",
+      "sent_id": 5,
+      "sentence": "So, they fastened feathery wings upon his flanks but warned him never to open his eyes during flight.",
+      "subj": "they",
+      "verb": "fasten",
+      "obj": "wing"
+    },
+    {
+      "id": "e0006",
+      "label": "fox | fly | they",
+      "sent_id": 6,
+      "sentence": "Whenever the geese rose from the river valleys and marshes, Fox flew alongside them, practicing their honking cry.",
+      "subj": "fox",
+      "verb": "fly",
+      "obj": "they"
+    },
+    {
+      "id": "e0007",
+      "label": "dusk | fall | flight",
+      "sent_id": 7,
+      "sentence": "On one such flight, dusk fell swift and dark as they passed over the village of the glow-worms nestled in the underbrush.",
+      "subj": "dusk",
+      "verb": "fall",
+      "obj": "flight"
+    },
+    {
+      "id": "e0008",
+      "label": "he | open | eye",
+      "sent_id": 8,
+      "sentence": "The gleaming lanterns of the glow-worms shone like tiny stars, and the flickering light dazzled Fox so that he forgot the warning\u2014he opened his eyes!",
+      "subj": "he",
+      "verb": "open",
+      "obj": "eye"
+    },
+    {
+      "id": "e0009",
+      "label": "wing | droop | \u2205",
+      "sent_id": 9,
+      "sentence": "At once, his wings drooped and fell apart.",
+      "subj": "wing",
+      "verb": "droop",
+      "obj": ""
+    },
+    {
+      "id": "e0010",
+      "label": "he | tumble | \u2205",
+      "sent_id": 10,
+      "sentence": "Helpless, he tumbled downwards, landing within the stone circle that held the glow-worms\u2019 village.",
+      "subj": "he",
+      "verb": "tumble",
+      "obj": ""
+    },
+    {
+      "id": "e0011",
+      "label": "\u2205 | blaze | fire",
+      "sent_id": 11,
+      "sentence": "In the center blazed an eternal hearth fire, guarded by two kindly glow-worms who came to his aid.",
+      "subj": "",
+      "verb": "blaze",
+      "obj": "fire"
+    },
+    {
+      "id": "e0012",
+      "label": "fox | give | \u2205",
+      "sent_id": 12,
+      "sentence": "To thank them, Fox gave each a necklace strung from fragrant juniper berries gathered from bushy thickets.",
+      "subj": "fox",
+      "verb": "give",
+      "obj": ""
+    },
+    {
+      "id": "e0013",
+      "label": "fox | beg | worm",
+      "sent_id": 13,
+      "sentence": "Fox begged the glow-worms to tell him how to escape the walled village.",
+      "subj": "fox",
+      "verb": "beg",
+      "obj": "worm"
+    },
+    {
+      "id": "e0014",
+      "label": "they | lead | he",
+      "sent_id": 14,
+      "sentence": "They led him to an ancient oak, whose boughs bent low on command and flung him over the stones if he wished.",
+      "subj": "they",
+      "verb": "lead",
+      "obj": "he"
+    },
+    {
+      "id": "e0015",
+      "label": "fox | discover | earth",
+      "sent_id": 15,
+      "sentence": "That evening, near the spring where glow-worms bathed, Fox discovered earth rich with pigments\u2014red ochre and white chalk.",
+      "subj": "fox",
+      "verb": "discover",
+      "obj": "earth"
+    },
+    {
+      "id": "e0016",
+      "label": "he | smear | himself",
+      "sent_id": 16,
+      "sentence": "He smeared himself with pale white paint and returned to the village, proposing a festival of dance and music.",
+      "subj": "he",
+      "verb": "smear",
+      "obj": "himself"
+    },
+    {
+      "id": "e0017",
+      "label": "worms | gather | wood",
+      "sent_id": 17,
+      "sentence": "The glow-worms gathered wood to feed the fire while Fox secretly tied a strip of oak bark to his bushy tail.",
+      "subj": "worms",
+      "verb": "gather",
+      "obj": "wood"
+    },
+    {
+      "id": "e0018",
+      "label": "he | fashion | drum",
+      "sent_id": 18,
+      "sentence": "He fashioned a drum from hollow bark and beat out a lively rhythm, drawing the fireflies into dance.",
+      "subj": "he",
+      "verb": "fashion",
+      "obj": "drum"
+    },
+    {
+      "id": "e0019",
+      "label": "he | creep | \u2205",
+      "sent_id": 19,
+      "sentence": "Slowly, he crept closer to the hearth.",
+      "subj": "he",
+      "verb": "creep",
+      "obj": ""
+    },
+    {
+      "id": "e0020",
+      "label": "fox | hand | drum",
+      "sent_id": 20,
+      "sentence": "Feigning weariness, Fox handed his drum to some eager glow-worms.",
+      "subj": "fox",
+      "verb": "hand",
+      "obj": "drum"
+    },
+    {
+      "id": "e0021",
+      "label": "fox | shout | \u2205",
+      "sent_id": 21,
+      "sentence": "Swift as a shadow, he thrust his tail into the flames, igniting the bark, and cried, \"This hearth is too hot for me, I must find a cooler place.\"\n\nCalling to the oak, Fox shouted, \"Bend low, my strong oak, bend low!\"",
+      "subj": "fox",
+      "verb": "shout",
+      "obj": ""
+    },
+    {
+      "id": "e0022",
+      "label": "tree | bow | \u2205",
+      "sent_id": 22,
+      "sentence": "The mighty tree bowed, and Fox grasped its branches, soaring far beyond the village wall.",
+      "subj": "tree",
+      "verb": "bow",
+      "obj": ""
+    },
+    {
+      "id": "e0023",
+      "label": "worms | give | chase",
+      "sent_id": 23,
+      "sentence": "The glow-worms gave chase, their lights glimmering behind him.",
+      "subj": "worms",
+      "verb": "give",
+      "obj": "chase"
+    },
+    {
+      "id": "e0024",
+      "label": "\u2205 | spark | bark",
+      "sent_id": 24,
+      "sentence": "As Fox raced through thickets and meadows, sparks from the burning bark fell upon dry leaves and twigs, setting brushwood aflame.",
+      "subj": "",
+      "verb": "spark",
+      "obj": "bark"
+    },
+    {
+      "id": "e0025",
+      "label": "who | give | it",
+      "sent_id": 25,
+      "sentence": "At last, exhausted, Fox passed the burning tail to the hawk soaring above, who in turn gave it to the crane flying south over misty moors and shimmering lakes.",
+      "subj": "who",
+      "verb": "give",
+      "obj": "it"
+    },
+    {
+      "id": "e0026",
+      "label": "fire | carry | land",
+      "sent_id": 26,
+      "sentence": "Thus, fire was carried across the lands.",
+      "subj": "fire",
+      "verb": "carry",
+      "obj": "land"
+    },
+    {
+      "id": "e0027",
+      "label": "worm | chase | fox",
+      "sent_id": 27,
+      "sentence": "The glow-worms chased Fox to his den and declared, \"Forevermore, cunning Fox, for stealing our fire, you shall never warm yourself by its flame.\"",
+      "subj": "worm",
+      "verb": "chase",
+      "obj": "fox"
+    },
+    {
+      "id": "e0028",
+      "label": "fire | become | gift",
+      "sent_id": 28,
+      "sentence": "And so, fire became a wild gift shared among all but forever withheld from Fox\u2019s own hearth.",
+      "subj": "fire",
+      "verb": "become",
+      "obj": "gift"
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    }
+  ]
+}

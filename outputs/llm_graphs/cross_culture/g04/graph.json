@@ -1,0 +1,772 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "princess | step | stroll",
+      "sent_id": 0,
+      "sentence": "One serene evening in the heart of ancient Persia, a young princess cloaked in a silk shawl and soft leather slippers stepped out alone for a stroll through the fragrant groves near the palace gardens.",
+      "subj": "princess",
+      "verb": "step",
+      "obj": "stroll"
+    },
+    {
+      "id": "e0001",
+      "label": "she | come | spring",
+      "sent_id": 1,
+      "sentence": "As she wandered beneath towering cypress and date palms, she came upon a clear spring, its waters gurgling cool and pure amidst fragrant jasmine and rose bushes.",
+      "subj": "she",
+      "verb": "come",
+      "obj": "spring"
+    },
+    {
+      "id": "e0002",
+      "label": "princess | settle | spring",
+      "sent_id": 2,
+      "sentence": "The princess settled beside the spring to rest.",
+      "subj": "princess",
+      "verb": "settle",
+      "obj": "spring"
+    },
+    {
+      "id": "e0003",
+      "label": "she | hold | toy",
+      "sent_id": 3,
+      "sentence": "In her hand she held her beloved toy\u2014a small, gleaming amber orb, cherished above all else.",
+      "subj": "she",
+      "verb": "hold",
+      "obj": "toy"
+    },
+    {
+      "id": "e0004",
+      "label": "she | toss | it",
+      "sent_id": 4,
+      "sentence": "She tossed it lightly into the air and caught it again, delighting in its warm glow under the fading sun.",
+      "subj": "she",
+      "verb": "toss",
+      "obj": "it"
+    },
+    {
+      "id": "e0005",
+      "label": "orb | slip | toss",
+      "sent_id": 5,
+      "sentence": "But with one careless toss, the amber orb slipped from her fingers, soaring higher than before.",
+      "subj": "orb",
+      "verb": "slip",
+      "obj": "toss"
+    },
+    {
+      "id": "e0006",
+      "label": "she | stretch | \u2205",
+      "sent_id": 6,
+      "sentence": "She stretched to catch it, but it bounced away, rolling across the soft earth and finally plunging deep into the crystal spring.",
+      "subj": "she",
+      "verb": "stretch",
+      "obj": ""
+    },
+    {
+      "id": "e0007",
+      "label": "princess | be | \u2205",
+      "sent_id": 7,
+      "sentence": "The princess peered into the depths, but the water was too clear and too deep to reach her treasure.",
+      "subj": "princess",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0008",
+      "label": "she | cry | \u2205",
+      "sent_id": 8,
+      "sentence": "Sighing, she cried, \u201cAh, if only I could have back my amber orb, I would trade all my silk robes, pearls, and precious jewels\u2014everything I own!\u201d",
+      "subj": "she",
+      "verb": "cry",
+      "obj": ""
+    },
+    {
+      "id": "e0009",
+      "label": "ripple | appear | \u2205",
+      "sent_id": 9,
+      "sentence": "As she lamented, a sudden ripple appeared and a voice echoed quietly from the water.",
+      "subj": "ripple",
+      "verb": "appear",
+      "obj": ""
+    },
+    {
+      "id": "e0010",
+      "label": "\u2205 | startle | \u2205",
+      "sent_id": 11,
+      "sentence": "The princess frowned, startled.",
+      "subj": "",
+      "verb": "startle",
+      "obj": ""
+    },
+    {
+      "id": "e0011",
+      "label": "orb | reply | \u2205",
+      "sent_id": 13,
+      "sentence": "My precious amber orb lies lost in the spring,\u201d she replied.",
+      "subj": "orb",
+      "verb": "reply",
+      "obj": ""
+    },
+    {
+      "id": "e0012",
+      "label": "frog | answer | \u2205",
+      "sent_id": 14,
+      "sentence": "The frog answered humbly, \u201cI ask not for your jewels or silks, but if you would grant me kindness\u2014allow me to live in your palace, eat from your golden dishes, and rest upon your fine cushions\u2014I will retrieve your orb.\u201d",
+      "subj": "frog",
+      "verb": "answer",
+      "obj": ""
+    },
+    {
+      "id": "e0013",
+      "label": "thought | leave | water",
+      "sent_id": 15,
+      "sentence": "The princess thought, this foolish frog surely cannot leave the water; yet if he brings me my orb, I shall keep my promise.",
+      "subj": "thought",
+      "verb": "leave",
+      "obj": "water"
+    },
+    {
+      "id": "e0014",
+      "label": "she | say | \u2205",
+      "sent_id": 16,
+      "sentence": "\u201cVery well,\u201d she said reluctantly, \u201cbring me my amber orb, and I will do as you ask.\u201d",
+      "subj": "she",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0015",
+      "label": "frog | dive | water",
+      "sent_id": 17,
+      "sentence": "The frog dived beneath the water.",
+      "subj": "frog",
+      "verb": "dive",
+      "obj": "water"
+    },
+    {
+      "id": "e0016",
+      "label": "it | emerge | moment",
+      "sent_id": 18,
+      "sentence": "After moments that felt like an age, it emerged, clutching the amber orb gently in its mouth.",
+      "subj": "it",
+      "verb": "emerge",
+      "obj": "moment"
+    },
+    {
+      "id": "e0017",
+      "label": "it | toss | orb",
+      "sent_id": 19,
+      "sentence": "It tossed the orb onto the garden\u2019s edge.",
+      "subj": "it",
+      "verb": "toss",
+      "obj": "orb"
+    },
+    {
+      "id": "e0018",
+      "label": "princess | seize | it",
+      "sent_id": 20,
+      "sentence": "Delighted, the princess seized it and ran swiftly home, forgetting all about the frog\u2019s request.",
+      "subj": "princess",
+      "verb": "seize",
+      "obj": "it"
+    },
+    {
+      "id": "e0019",
+      "label": "\u2205 | wait | \u2205",
+      "sent_id": 21,
+      "sentence": "\u201cWait, princess!\u201d",
+      "subj": "",
+      "verb": "wait",
+      "obj": ""
+    },
+    {
+      "id": "e0020",
+      "label": "frog | call | \u2205",
+      "sent_id": 22,
+      "sentence": "the frog called, \u201cRemember your promise\u2014take me with you!\u201d",
+      "subj": "frog",
+      "verb": "call",
+      "obj": ""
+    },
+    {
+      "id": "e0021",
+      "label": "she | hurry | \u2205",
+      "sent_id": 23,
+      "sentence": "But she only hurried on, ignoring his pleas.",
+      "subj": "she",
+      "verb": "hurry",
+      "obj": ""
+    },
+    {
+      "id": "e0022",
+      "label": "tapping | echo | veranda",
+      "sent_id": 24,
+      "sentence": "The following day, as the princess sat down to feast on pomegranates and saffron rice, a strange tapping echoed softly from the marble veranda\u2014tap, tap\u2014plash, plash\u2014as if a humble visitor was ascending the stairs of the palace.",
+      "subj": "tapping",
+      "verb": "echo",
+      "obj": "veranda"
+    },
+    {
+      "id": "e0023",
+      "label": "princess | open | door",
+      "sent_id": 25,
+      "sentence": "Soon came a gentle knock at the door, followed by a small voice singing:\n\n\u201cOpen the gate, fair princess bright,\n Open to your love\u2019s true light,\n Remember the vow you gave by the spring,\n Where the nightingales sweetly sing.\u201d\n\nStartled, the princess opened the door to find the green-eyed frog from the garden.",
+      "subj": "princess",
+      "verb": "open",
+      "obj": "door"
+    },
+    {
+      "id": "e0024",
+      "label": "she | shut | door",
+      "sent_id": 26,
+      "sentence": "Fearful, she shut the door quickly and sat back down.",
+      "subj": "she",
+      "verb": "shut",
+      "obj": "door"
+    },
+    {
+      "id": "e0025",
+      "label": "father | notice | distress",
+      "sent_id": 27,
+      "sentence": "Her father, the king, noticed her distress and asked the cause.",
+      "subj": "father",
+      "verb": "notice",
+      "obj": "distress"
+    },
+    {
+      "id": "e0026",
+      "label": "she | murmur | \u2205",
+      "sent_id": 28,
+      "sentence": "\u201cA frog,\u201d she murmured, \u201cthe same that fetched my orb this morning.",
+      "subj": "she",
+      "verb": "murmur",
+      "obj": ""
+    },
+    {
+      "id": "e0027",
+      "label": "i | promise | \u2205",
+      "sent_id": 29,
+      "sentence": "I promised him lodging here, thinking he could never leave the spring.",
+      "subj": "i",
+      "verb": "promise",
+      "obj": ""
+    },
+    {
+      "id": "e0028",
+      "label": "he | be | door",
+      "sent_id": 30,
+      "sentence": "Yet here he is at the door, seeking to enter.\u201d",
+      "subj": "he",
+      "verb": "be",
+      "obj": "door"
+    },
+    {
+      "id": "e0029",
+      "label": "frog | knock | \u2205",
+      "sent_id": 31,
+      "sentence": "Again, the frog knocked and sang his plea.",
+      "subj": "frog",
+      "verb": "knock",
+      "obj": ""
+    },
+    {
+      "id": "e0030",
+      "label": "king | say | \u2205",
+      "sent_id": 32,
+      "sentence": "The king, wise and just, said, \u201cA promise given is a promise kept.",
+      "subj": "king",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0031",
+      "label": "\u2205 | let | \u2205",
+      "sent_id": 33,
+      "sentence": "Go, let him in.\u201d",
+      "subj": "",
+      "verb": "let",
+      "obj": ""
+    },
+    {
+      "id": "e0032",
+      "label": "princess | open | door",
+      "sent_id": 34,
+      "sentence": "Reluctantly, the princess opened the door.",
+      "subj": "princess",
+      "verb": "open",
+      "obj": "door"
+    },
+    {
+      "id": "e0033",
+      "label": "frog | hop | hall",
+      "sent_id": 35,
+      "sentence": "The frog hopped into the grand hall, making his way\u2014tap, tap\u2014plash, plash\u2014from the marble floor to her side.",
+      "subj": "frog",
+      "verb": "hop",
+      "obj": "hall"
+    },
+    {
+      "id": "e0034",
+      "label": "he | request | \u2205",
+      "sent_id": 36,
+      "sentence": "\u201cPlace me upon a velvet cushion,\u201d he requested, \u201cthat I may rest near you.\u201d",
+      "subj": "he",
+      "verb": "request",
+      "obj": ""
+    },
+    {
+      "id": "e0035",
+      "label": "she | obey | \u2205",
+      "sent_id": 37,
+      "sentence": "She obeyed, moving her silk cushion for him.",
+      "subj": "she",
+      "verb": "obey",
+      "obj": ""
+    },
+    {
+      "id": "e0036",
+      "label": "he | say | \u2205",
+      "sent_id": 38,
+      "sentence": "\u201cBring your dish closer, so I may eat,\u201d he said.",
+      "subj": "he",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0037",
+      "label": "she | hand | plate",
+      "sent_id": 39,
+      "sentence": "She handed over a golden plate from which he ate ravenously.",
+      "subj": "she",
+      "verb": "hand",
+      "obj": "plate"
+    },
+    {
+      "id": "e0038",
+      "label": "frog | say | \u2205",
+      "sent_id": 40,
+      "sentence": "Afterward, the frog said, \u201cNow I am weary; carry me to your bedchamber and lay me upon your pillow.\u201d",
+      "subj": "frog",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0039",
+      "label": "princess | lift | frog",
+      "sent_id": 41,
+      "sentence": "Though full of dread, the princess lifted the frog gently and placed him beside her as she lay down.",
+      "subj": "princess",
+      "verb": "lift",
+      "obj": "frog"
+    },
+    {
+      "id": "e0040",
+      "label": "he | sleep | night",
+      "sent_id": 42,
+      "sentence": "He slept through the night.",
+      "subj": "he",
+      "verb": "sleep",
+      "obj": "night"
+    },
+    {
+      "id": "e0041",
+      "label": "frog | leap | dawn",
+      "sent_id": 43,
+      "sentence": "At dawn, the frog leapt from the bed, hopped down the stairs, and left the palace.",
+      "subj": "frog",
+      "verb": "leap",
+      "obj": "dawn"
+    },
+    {
+      "id": "e0042",
+      "label": "he | go | \u2205",
+      "sent_id": 44,
+      "sentence": "\u201cAt last,\u201d thought the princess, \u201che has gone for good.\u201d",
+      "subj": "he",
+      "verb": "go",
+      "obj": ""
+    },
+    {
+      "id": "e0043",
+      "label": "tap | come | \u2205",
+      "sent_id": 45,
+      "sentence": "But when night returned, the gentle tapping and singing came again, and the frog appeared to rest on her pillow through the night.",
+      "subj": "tap",
+      "verb": "come",
+      "obj": ""
+    },
+    {
+      "id": "e0044",
+      "label": "this | occur | \u2205",
+      "sent_id": 46,
+      "sentence": "This occurred a third night as well.",
+      "subj": "this",
+      "verb": "occur",
+      "obj": ""
+    },
+    {
+      "id": "e0045",
+      "label": "princess | awake | morning",
+      "sent_id": 47,
+      "sentence": "On the morning that followed, the princess awoke to find a handsome prince standing at her bedside.",
+      "subj": "princess",
+      "verb": "awake",
+      "obj": "morning"
+    },
+    {
+      "id": "e0046",
+      "label": "eye | shine | lazuli",
+      "sent_id": 48,
+      "sentence": "His eyes shone like lapis lazuli, his robes embroidered with silver flowers.",
+      "subj": "eye",
+      "verb": "shine",
+      "obj": "lazuli"
+    },
+    {
+      "id": "e0047",
+      "label": "he | say | \u2205",
+      "sent_id": 49,
+      "sentence": "\u201cEnchanting fairy mischief once bound me as a frog,\u201d he said softly.",
+      "subj": "he",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0048",
+      "label": "kindness | break | spell",
+      "sent_id": 50,
+      "sentence": "\u201cOnly your kindness\u2014your promise kept\u2014could break the spell.",
+      "subj": "kindness",
+      "verb": "break",
+      "obj": "spell"
+    },
+    {
+      "id": "e0049",
+      "label": "i | be | \u2205",
+      "sent_id": 51,
+      "sentence": "Now I am free.",
+      "subj": "i",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0050",
+      "label": "\u2205 | come | i",
+      "sent_id": 52,
+      "sentence": "Come with me to my father\u2019s kingdom, where I shall wed and cherish you forever.\u201d",
+      "subj": "",
+      "verb": "come",
+      "obj": "i"
+    },
+    {
+      "id": "e0051",
+      "label": "bridle | adorn | gem",
+      "sent_id": 53,
+      "sentence": "The princess gladly consented, and as they spoke, a splendid carriage arrived outside the palace\u2014its velvet cushions embroidered in gold, pulled by eight magnificent Arabian horses, their bridles adorned with gems and gilded feathers.",
+      "subj": "bridle",
+      "verb": "adorn",
+      "obj": "gem"
+    },
+    {
+      "id": "e0052",
+      "label": "\u2205 | ride | bahram",
+      "sent_id": 54,
+      "sentence": "Behind the carriage rode the prince\u2019s loyal attendant, faithful Bahram, who had grieved deeply during his master\u2019s enchantment.",
+      "subj": "",
+      "verb": "ride",
+      "obj": "bahram"
+    },
+    {
+      "id": "e0053",
+      "label": "princess | mount | carriage",
+      "sent_id": 55,
+      "sentence": "Bidding farewell to the king, the princess and the prince mounted the carriage and set forth with joy toward the prince\u2019s kingdom.",
+      "subj": "princess",
+      "verb": "mount",
+      "obj": "carriage"
+    },
+    {
+      "id": "e0054",
+      "label": "they | live | garden",
+      "sent_id": 56,
+      "sentence": "There, among fragrant gardens and gilded domes, they lived happily ever after, their days filled with love and laughter beneath the Persian sun.",
+      "subj": "they",
+      "verb": "live",
+      "obj": "garden"
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    },
+    {
+      "source": "e0029",
+      "target": "e0030",
+      "relation": "next"
+    },
+    {
+      "source": "e0030",
+      "target": "e0031",
+      "relation": "next"
+    },
+    {
+      "source": "e0031",
+      "target": "e0032",
+      "relation": "next"
+    },
+    {
+      "source": "e0032",
+      "target": "e0033",
+      "relation": "next"
+    },
+    {
+      "source": "e0033",
+      "target": "e0034",
+      "relation": "next"
+    },
+    {
+      "source": "e0034",
+      "target": "e0035",
+      "relation": "next"
+    },
+    {
+      "source": "e0035",
+      "target": "e0036",
+      "relation": "next"
+    },
+    {
+      "source": "e0036",
+      "target": "e0037",
+      "relation": "next"
+    },
+    {
+      "source": "e0037",
+      "target": "e0038",
+      "relation": "next"
+    },
+    {
+      "source": "e0038",
+      "target": "e0039",
+      "relation": "next"
+    },
+    {
+      "source": "e0039",
+      "target": "e0040",
+      "relation": "next"
+    },
+    {
+      "source": "e0040",
+      "target": "e0041",
+      "relation": "next"
+    },
+    {
+      "source": "e0041",
+      "target": "e0042",
+      "relation": "next"
+    },
+    {
+      "source": "e0042",
+      "target": "e0043",
+      "relation": "next"
+    },
+    {
+      "source": "e0043",
+      "target": "e0044",
+      "relation": "next"
+    },
+    {
+      "source": "e0044",
+      "target": "e0045",
+      "relation": "next"
+    },
+    {
+      "source": "e0045",
+      "target": "e0046",
+      "relation": "next"
+    },
+    {
+      "source": "e0046",
+      "target": "e0047",
+      "relation": "next"
+    },
+    {
+      "source": "e0047",
+      "target": "e0048",
+      "relation": "next"
+    },
+    {
+      "source": "e0048",
+      "target": "e0049",
+      "relation": "next"
+    },
+    {
+      "source": "e0049",
+      "target": "e0050",
+      "relation": "next"
+    },
+    {
+      "source": "e0050",
+      "target": "e0051",
+      "relation": "next"
+    },
+    {
+      "source": "e0051",
+      "target": "e0052",
+      "relation": "next"
+    },
+    {
+      "source": "e0052",
+      "target": "e0053",
+      "relation": "next"
+    },
+    {
+      "source": "e0053",
+      "target": "e0054",
+      "relation": "next"
+    }
+  ]
+}

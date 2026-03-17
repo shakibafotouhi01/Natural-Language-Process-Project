@@ -1,0 +1,814 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "\u2205 | live | merchant",
+      "sent_id": 0,
+      "sentence": "In a bustling Persian bazaar, there once lived a wealthy merchant with three daughters.",
+      "subj": "",
+      "verb": "live",
+      "obj": "merchant"
+    },
+    {
+      "id": "e0001",
+      "label": "he | ask | daughter",
+      "sent_id": 1,
+      "sentence": "Before he embarked on a long journey through the sunlit deserts and fragrant gardens of Shiraz, he asked each daughter what gift she would desire upon his return.",
+      "subj": "he",
+      "verb": "ask",
+      "obj": "daughter"
+    },
+    {
+      "id": "e0002",
+      "label": "eld | wish | pearl",
+      "sent_id": 2,
+      "sentence": "The eldest wished for pearls from the Persian Gulf, the second for sparkling gems mined from the mountains near Isfahan, but the youngest, named Gulrukh (meaning \u2018Face like a rose\u2019), simply requested a single rose from the royal gardens of Kashan.",
+      "subj": "eld",
+      "verb": "wish",
+      "obj": "pearl"
+    },
+    {
+      "id": "e0003",
+      "label": "\u2205 | vow | \u2205",
+      "sent_id": 3,
+      "sentence": "Though winter\u2019s chill made such a flower impossible, her father, loving her above all, vowed to try his best.",
+      "subj": "",
+      "verb": "vow",
+      "obj": ""
+    },
+    {
+      "id": "e0004",
+      "label": "merchant | return | pearl",
+      "sent_id": 4,
+      "sentence": "When his journey ended, the merchant returned with precious pearls and jewels for his two elder daughters, but finding a rose proved hopeless.",
+      "subj": "merchant",
+      "verb": "return",
+      "obj": "pearl"
+    },
+    {
+      "id": "e0005",
+      "label": "he | tell | garden",
+      "sent_id": 5,
+      "sentence": "In every garden, he was told sternly, \u201cRoses do not bloom beneath snow.\u201d",
+      "subj": "he",
+      "verb": "tell",
+      "obj": "garden"
+    },
+    {
+      "id": "e0006",
+      "label": "he | come | palace",
+      "sent_id": 6,
+      "sentence": "As he traveled sadly toward home through the fragrant whispers of softly falling snow, he came upon a splendid palace surrounded by a strange garden.",
+      "subj": "he",
+      "verb": "come",
+      "obj": "palace"
+    },
+    {
+      "id": "e0007",
+      "label": "half | flourish | blossom",
+      "sent_id": 7,
+      "sentence": "Half of the garden flourished in fiery spring blossoms, and the other half lay frozen beneath winter\u2019s white cloak.",
+      "subj": "half",
+      "verb": "flourish",
+      "obj": "blossom"
+    },
+    {
+      "id": "e0008",
+      "label": "he | say | \u2205",
+      "sent_id": 8,
+      "sentence": "\u201cFortune smiles upon me,\u201d he said, beckoning his servant to gather a rose from the blooming half.",
+      "subj": "he",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0009",
+      "label": "lion | leapt | shadow",
+      "sent_id": 9,
+      "sentence": "Yet, as they rode away with the coveted flower, a great and fearsome lion leapt from the shadows.",
+      "subj": "lion",
+      "verb": "leapt",
+      "obj": "shadow"
+    },
+    {
+      "id": "e0010",
+      "label": "he | thunder | voice",
+      "sent_id": 10,
+      "sentence": "With a voice like thunder across the desert, he thundered, \u201cWho steals my roses must be devoured by my jaws!\u201d",
+      "subj": "he",
+      "verb": "thunder",
+      "obj": "voice"
+    },
+    {
+      "id": "e0011",
+      "label": "merchant | plead | \u2205",
+      "sent_id": 11,
+      "sentence": "Begging for mercy, the merchant pleaded, but the lion declared, \u201cI will spare your life only if you promise to give me whatever greets you first upon your return.\u201d",
+      "subj": "merchant",
+      "verb": "plead",
+      "obj": ""
+    },
+    {
+      "id": "e0012",
+      "label": "merchant | think | \u2205",
+      "sent_id": 12,
+      "sentence": "At first, the merchant thought it might be a stray dog or a village cat, and with a heavy heart accepted the lion\u2019s demand.",
+      "subj": "merchant",
+      "verb": "think",
+      "obj": ""
+    },
+    {
+      "id": "e0013",
+      "label": "it | be | gulrukh",
+      "sent_id": 13,
+      "sentence": "But as he neared his home, it was Gulrukh herself, radiant and joyful, who ran to embrace him, kissing his weathered face.",
+      "subj": "it",
+      "verb": "be",
+      "obj": "gulrukh"
+    },
+    {
+      "id": "e0014",
+      "label": "merchant | reveal | pact",
+      "sent_id": 14,
+      "sentence": "Stricken with sorrow, the merchant revealed the terrible pact he had made and begged her to stay away from the lion.",
+      "subj": "merchant",
+      "verb": "reveal",
+      "obj": "pact"
+    },
+    {
+      "id": "e0015",
+      "label": "gulrukh | say | \u2205",
+      "sent_id": 15,
+      "sentence": "But Gulrukh, brave and steadfast, said, \u201cFather, your word is sacred.",
+      "subj": "gulrukh",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0016",
+      "label": "i | go | lion",
+      "sent_id": 16,
+      "sentence": "I will go to the lion, and with kindness tame his heart.",
+      "subj": "i",
+      "verb": "go",
+      "obj": "lion"
+    },
+    {
+      "id": "e0017",
+      "label": "he | let | \u2205",
+      "sent_id": 17,
+      "sentence": "Perhaps he will let me return.\u201d",
+      "subj": "he",
+      "verb": "let",
+      "obj": ""
+    },
+    {
+      "id": "e0018",
+      "label": "she | venture | dawn",
+      "sent_id": 18,
+      "sentence": "At dawn, she ventured forth into the enchanted wood.",
+      "subj": "she",
+      "verb": "venture",
+      "obj": "dawn"
+    },
+    {
+      "id": "e0019",
+      "label": "lion | be | prince",
+      "sent_id": 19,
+      "sentence": "The lion, she soon learned, was a prince under a powerful spell: by day, a great lion, and by night, a noble man.",
+      "subj": "lion",
+      "verb": "be",
+      "obj": "prince"
+    },
+    {
+      "id": "e0020",
+      "label": "he | treat | she",
+      "sent_id": 20,
+      "sentence": "Welcoming her to his crystal palace, he treated her with such grace that she agreed to marry him.",
+      "subj": "he",
+      "verb": "treat",
+      "obj": "she"
+    },
+    {
+      "id": "e0021",
+      "label": "feast | be | \u2205",
+      "sent_id": 21,
+      "sentence": "Their wedding feast was joyous, and they lived happily, though the prince vanished each morning to mysterious places and returned at nightfall.",
+      "subj": "feast",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0022",
+      "label": "prince | tell | she",
+      "sent_id": 22,
+      "sentence": "One day, the prince told her that her eldest sister\u2019s wedding feast would be held soon at their father\u2019s home and offered to lead her there with his lion attendants.",
+      "subj": "prince",
+      "verb": "tell",
+      "obj": "she"
+    },
+    {
+      "id": "e0023",
+      "label": "gulrukh | return | \u2205",
+      "sent_id": 23,
+      "sentence": "Overjoyed, Gulrukh returned, bringing light and laughter to her family long believing her lost.",
+      "subj": "gulrukh",
+      "verb": "return",
+      "obj": ""
+    },
+    {
+      "id": "e0024",
+      "label": "sister | marry | \u2205",
+      "sent_id": 24,
+      "sentence": "Soon after, her second sister also married, and when Gulrukh wished to attend, she implored her husband to accompany her.",
+      "subj": "sister",
+      "verb": "marry",
+      "obj": ""
+    },
+    {
+      "id": "e0025",
+      "label": "he | explain | fear",
+      "sent_id": 25,
+      "sentence": "With grave fear, he explained that even the flicker of a single torchlight might deepen his enchantment, turning him into a dove doomed to wander the earth for seven years.",
+      "subj": "he",
+      "verb": "explain",
+      "obj": "fear"
+    },
+    {
+      "id": "e0026",
+      "label": "gulrukh | insist | warning",
+      "sent_id": 26,
+      "sentence": "Despite his warnings, Gulrukh insisted, assuring him that she would shield him from all light.",
+      "subj": "gulrukh",
+      "verb": "insist",
+      "obj": "warning"
+    },
+    {
+      "id": "e0027",
+      "label": "they | journey | \u2205",
+      "sent_id": 27,
+      "sentence": "They journeyed together, bringing their small child, and the prince waited secluded in a thick-walled chamber during the evening\u2019s celebrations.",
+      "subj": "they",
+      "verb": "journey",
+      "obj": ""
+    },
+    {
+      "id": "e0028",
+      "label": "sliver | drift | crack",
+      "sent_id": 28,
+      "sentence": "But through a crack in the door, a sliver of flame drifted unknowingly upon him, and in an instant, the prince vanished\u2014replaced by a white dove who whispered, \u201cFor seven years I must fly the earth\u2019s face, leaving white feathers as signposts on the winds.",
+      "subj": "sliver",
+      "verb": "drift",
+      "obj": "crack"
+    },
+    {
+      "id": "e0029",
+      "label": "\u2205 | follow | they",
+      "sent_id": 29,
+      "sentence": "Follow them, and perhaps you shall find me again.\u201d\n\nSo began Gulrukh\u2019s quest across the vast lands of Persia.",
+      "subj": "",
+      "verb": "follow",
+      "obj": "they"
+    },
+    {
+      "id": "e0030",
+      "label": "she | follow | feather",
+      "sent_id": 30,
+      "sentence": "For seven long years, she followed the white feathers north and south, over rugged mountains and fertile plains, never resting.",
+      "subj": "she",
+      "verb": "follow",
+      "obj": "feather"
+    },
+    {
+      "id": "e0031",
+      "label": "feather | cease | \u2205",
+      "sent_id": 31,
+      "sentence": "One day, the feathers ceased to fall, and the dove was gone.",
+      "subj": "feather",
+      "verb": "cease",
+      "obj": ""
+    },
+    {
+      "id": "e0032",
+      "label": "she | call | sun",
+      "sent_id": 32,
+      "sentence": "Desperately, she called to the great sun, its golden disc kindling the horizons.",
+      "subj": "she",
+      "verb": "call",
+      "obj": "sun"
+    },
+    {
+      "id": "e0033",
+      "label": "you | see | dove",
+      "sent_id": 33,
+      "sentence": "\u201cHave you seen my dove?\u201d",
+      "subj": "you",
+      "verb": "see",
+      "obj": "dove"
+    },
+    {
+      "id": "e0034",
+      "label": "she | implore | \u2205",
+      "sent_id": 34,
+      "sentence": "she implored.",
+      "subj": "she",
+      "verb": "implore",
+      "obj": ""
+    },
+    {
+      "id": "e0035",
+      "label": "sun | reply | \u2205",
+      "sent_id": 35,
+      "sentence": "The sun replied, \u201cNo, but take this jewel box, and open it when your need is greatest.\u201d",
+      "subj": "sun",
+      "verb": "reply",
+      "obj": ""
+    },
+    {
+      "id": "e0036",
+      "label": "she | ask | same",
+      "sent_id": 36,
+      "sentence": "At night, under the silver gaze of the moon, she asked the same, and it gave her a delicate gilded egg.",
+      "subj": "she",
+      "verb": "ask",
+      "obj": "same"
+    },
+    {
+      "id": "e0037",
+      "label": "desert | wind | \u2205",
+      "sent_id": 37,
+      "sentence": "Then the desert winds, swirling through ancient cypresses, carried her voice, promising guidance and warning her to seek the fierce south wind.",
+      "subj": "desert",
+      "verb": "wind",
+      "obj": ""
+    },
+    {
+      "id": "e0038",
+      "label": "wind | speak | \u2205",
+      "sent_id": 38,
+      "sentence": "The south wind spoke, \u201cThe dove has fled to the Red Sea, where the seven years have ended, and the lion battles a monstrous dragon\u2014an enchantress who seeks to tear you apart.",
+      "subj": "wind",
+      "verb": "speak",
+      "obj": ""
+    },
+    {
+      "id": "e0039",
+      "label": "\u2205 | defeat | dragon",
+      "sent_id": 39,
+      "sentence": "Find the rods by the sea; breaking the eleventh will defeat the dragon and free your prince.",
+      "subj": "",
+      "verb": "defeat",
+      "obj": "dragon"
+    },
+    {
+      "id": "e0040",
+      "label": "\u2205 | mount | simurgh",
+      "sent_id": 40,
+      "sentence": "Then mount the mighty simurgh\u2014a winged creature of legend\u2014to carry you home.",
+      "subj": "",
+      "verb": "mount",
+      "obj": "simurgh"
+    },
+    {
+      "id": "e0041",
+      "label": "\u2205 | beware | midpoint",
+      "sent_id": 41,
+      "sentence": "But beware: at sea\u2019s midpoint, drop this nut to grow a tree for the simurgh\u2019s rest.",
+      "subj": "",
+      "verb": "beware",
+      "obj": "midpoint"
+    },
+    {
+      "id": "e0042",
+      "label": "gulrukh | journey | shore",
+      "sent_id": 42,
+      "sentence": "Forget, and the waters will claim you.\u201d\n\nSteeled with resolve, Gulrukh journeyed to the burning shores, found the rods, and struck the dragon with the eleventh.",
+      "subj": "gulrukh",
+      "verb": "journey",
+      "obj": "shore"
+    },
+    {
+      "id": "e0043",
+      "label": "lion | restore | form",
+      "sent_id": 43,
+      "sentence": "The lion was restored to princely form, the dragon to a princess once more.",
+      "subj": "lion",
+      "verb": "restore",
+      "obj": "form"
+    },
+    {
+      "id": "e0044",
+      "label": "\u2205 | be | \u2205",
+      "sent_id": 44,
+      "sentence": "But no sooner was the spell broken than the princess seized the prince and fled on the simurgh\u2019s back.",
+      "subj": "",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0045",
+      "label": "gulrukh | vow | \u2205",
+      "sent_id": 45,
+      "sentence": "Alone once more, Gulrukh vowed to search as long as the winds blew and the roosters crowed.",
+      "subj": "gulrukh",
+      "verb": "vow",
+      "obj": ""
+    },
+    {
+      "id": "e0046",
+      "label": "she | find | palace",
+      "sent_id": 46,
+      "sentence": "At last, she found the palace where the princess planned the prince\u2019s wedding.",
+      "subj": "she",
+      "verb": "find",
+      "obj": "palace"
+    },
+    {
+      "id": "e0047",
+      "label": "she | enter | \u2205",
+      "sent_id": 47,
+      "sentence": "Wearing the dazzling cloak from the sun\u2019s box, she entered and offered it in exchange for a moment with her husband.",
+      "subj": "she",
+      "verb": "enter",
+      "obj": ""
+    },
+    {
+      "id": "e0048",
+      "label": "princess | agree | \u2205",
+      "sent_id": 48,
+      "sentence": "The princess agreed but drugged the prince to keep him asleep.",
+      "subj": "princess",
+      "verb": "agree",
+      "obj": ""
+    },
+    {
+      "id": "e0049",
+      "label": "he | drift | reed",
+      "sent_id": 49,
+      "sentence": "Though Gulrukh\u2019s voice poured her sorrows and loyalty at his feet, he drifted like a dream-caught reed among the cypresses.",
+      "subj": "he",
+      "verb": "drift",
+      "obj": "reed"
+    },
+    {
+      "id": "e0050",
+      "label": "gulrukh | wander | meadow",
+      "sent_id": 50,
+      "sentence": "Left heartbroken, Gulrukh wandered into a meadow.",
+      "subj": "gulrukh",
+      "verb": "wander",
+      "obj": "meadow"
+    },
+    {
+      "id": "e0051",
+      "label": "she | break | egg",
+      "sent_id": 51,
+      "sentence": "Remembering the moon\u2019s gift, she broke the golden egg\u2014and out sprang a mother hen and twelve golden chicks that danced like flickering flames.",
+      "subj": "she",
+      "verb": "break",
+      "obj": "egg"
+    },
+    {
+      "id": "e0052",
+      "label": "princess | offer | bargain",
+      "sent_id": 52,
+      "sentence": "Seeing this marvel, the princess again offered a bargain, and with a heavy mind, Gulrukh returned to the prince.",
+      "subj": "princess",
+      "verb": "offer",
+      "obj": "bargain"
+    },
+    {
+      "id": "e0053",
+      "label": "prince | warn | chamberlain",
+      "sent_id": 53,
+      "sentence": "But this time, the prince, warned by his faithful chamberlain, kept his senses and recognized Gulrukh\u2019s voice.",
+      "subj": "prince",
+      "verb": "warn",
+      "obj": "chamberlain"
+    },
+    {
+      "id": "e0054",
+      "label": "they | slip | moonlight",
+      "sent_id": 54,
+      "sentence": "Awaking, he embraced her, weeping, \u201cYou are my awakening from a deep spell.\u201d\n\nTogether, they slipped away under moonlight onto the simurgh\u2019s back.",
+      "subj": "they",
+      "verb": "slip",
+      "obj": "moonlight"
+    },
+    {
+      "id": "e0055",
+      "label": "gulrukh | cast | nut",
+      "sent_id": 55,
+      "sentence": "Halfway across the sapphire waters of the Red Sea, Gulrukh cast down the nut, raising a towering tree for the weary simurgh.",
+      "subj": "gulrukh",
+      "verb": "cast",
+      "obj": "nut"
+    },
+    {
+      "id": "e0056",
+      "label": "they | find | \u2205",
+      "sent_id": 56,
+      "sentence": "Safely ashore, they found their child grown to beauty and strength.",
+      "subj": "they",
+      "verb": "find",
+      "obj": ""
+    },
+    {
+      "id": "e0057",
+      "label": "gulrukh | live | trial",
+      "sent_id": 57,
+      "sentence": "Thus, after trials as fierce as the desert sun and as enduring as the ancient mountains, Gulrukh and her prince lived in joy and harmony, their love a tale whispered beneath Persian stars for generations to come.",
+      "subj": "gulrukh",
+      "verb": "live",
+      "obj": "trial"
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    },
+    {
+      "source": "e0029",
+      "target": "e0030",
+      "relation": "next"
+    },
+    {
+      "source": "e0030",
+      "target": "e0031",
+      "relation": "next"
+    },
+    {
+      "source": "e0031",
+      "target": "e0032",
+      "relation": "next"
+    },
+    {
+      "source": "e0032",
+      "target": "e0033",
+      "relation": "next"
+    },
+    {
+      "source": "e0033",
+      "target": "e0034",
+      "relation": "next"
+    },
+    {
+      "source": "e0034",
+      "target": "e0035",
+      "relation": "next"
+    },
+    {
+      "source": "e0035",
+      "target": "e0036",
+      "relation": "next"
+    },
+    {
+      "source": "e0036",
+      "target": "e0037",
+      "relation": "next"
+    },
+    {
+      "source": "e0037",
+      "target": "e0038",
+      "relation": "next"
+    },
+    {
+      "source": "e0038",
+      "target": "e0039",
+      "relation": "next"
+    },
+    {
+      "source": "e0039",
+      "target": "e0040",
+      "relation": "next"
+    },
+    {
+      "source": "e0040",
+      "target": "e0041",
+      "relation": "next"
+    },
+    {
+      "source": "e0041",
+      "target": "e0042",
+      "relation": "next"
+    },
+    {
+      "source": "e0042",
+      "target": "e0043",
+      "relation": "next"
+    },
+    {
+      "source": "e0043",
+      "target": "e0044",
+      "relation": "next"
+    },
+    {
+      "source": "e0044",
+      "target": "e0045",
+      "relation": "next"
+    },
+    {
+      "source": "e0045",
+      "target": "e0046",
+      "relation": "next"
+    },
+    {
+      "source": "e0046",
+      "target": "e0047",
+      "relation": "next"
+    },
+    {
+      "source": "e0047",
+      "target": "e0048",
+      "relation": "next"
+    },
+    {
+      "source": "e0048",
+      "target": "e0049",
+      "relation": "next"
+    },
+    {
+      "source": "e0049",
+      "target": "e0050",
+      "relation": "next"
+    },
+    {
+      "source": "e0050",
+      "target": "e0051",
+      "relation": "next"
+    },
+    {
+      "source": "e0051",
+      "target": "e0052",
+      "relation": "next"
+    },
+    {
+      "source": "e0052",
+      "target": "e0053",
+      "relation": "next"
+    },
+    {
+      "source": "e0053",
+      "target": "e0054",
+      "relation": "next"
+    },
+    {
+      "source": "e0054",
+      "target": "e0055",
+      "relation": "next"
+    },
+    {
+      "source": "e0055",
+      "target": "e0056",
+      "relation": "next"
+    },
+    {
+      "source": "e0056",
+      "target": "e0057",
+      "relation": "next"
+    }
+  ]
+}

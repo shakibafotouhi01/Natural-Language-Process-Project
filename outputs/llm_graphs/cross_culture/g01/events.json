@@ -1,0 +1,730 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "",
+    "verb": "be",
+    "obj": "shah",
+    "label": "\u2205 | be | shah",
+    "sentence": "In a splendid Persian realm, there was a mighty shah who possessed a wondrous garden famed throughout the land."
+  },
+  {
+    "sent_id": 1,
+    "subj": "",
+    "verb": "grow",
+    "obj": "tree",
+    "label": "\u2205 | grow | tree",
+    "sentence": "Within its verdant embrace grew a wondrous tree that bore apples of pure gold, gleaming like the sun at dawn."
+  },
+  {
+    "sent_id": 2,
+    "subj": "apple",
+    "verb": "count",
+    "obj": "",
+    "label": "apple | count | \u2205",
+    "sentence": "Each apple was carefully counted, but as they ripened, it was discovered that every night one vanished without a trace."
+  },
+  {
+    "sent_id": 3,
+    "subj": "heart",
+    "verb": "burn",
+    "obj": "anger",
+    "label": "heart | burn | anger",
+    "sentence": "The shah\u2019s heart burned with anger, and he commanded his gardener to stand vigilant beneath the golden tree until dawn."
+  },
+  {
+    "sent_id": 4,
+    "subj": "gardener",
+    "verb": "entrust",
+    "obj": "duty",
+    "label": "gardener | entrust | duty",
+    "sentence": "The gardener first entrusted this duty to his eldest son, who watched through the night, but at the stroke of midnight, slumber overcame him."
+  },
+  {
+    "sent_id": 5,
+    "subj": "apple",
+    "verb": "disappear",
+    "obj": "morning",
+    "label": "apple | disappear | morning",
+    "sentence": "By morning, yet another golden apple had disappeared."
+  },
+  {
+    "sent_id": 6,
+    "subj": "he",
+    "verb": "succumb",
+    "obj": "",
+    "label": "he | succumb | \u2205",
+    "sentence": "Then the middle son took his place beneath the boughs, yet he too succumbed to sleep before the moon had passed its zenith, and another apple was lost."
+  },
+  {
+    "sent_id": 7,
+    "subj": "son",
+    "verb": "insist",
+    "obj": "",
+    "label": "son | insist | \u2205",
+    "sentence": "Finally, the youngest son insisted on keeping the watch, though his father hesitated, fearing harm might befall him under the mysterious tree."
+  },
+  {
+    "sent_id": 8,
+    "subj": "he",
+    "verb": "permit",
+    "obj": "",
+    "label": "he | permit | \u2205",
+    "sentence": "At last, he was permitted to stay."
+  },
+  {
+    "sent_id": 9,
+    "subj": "rustling",
+    "verb": "stir",
+    "obj": "air",
+    "label": "rustling | stir | air",
+    "sentence": "When the clock chimed twelve, a rustling stirred the air, and from the shadows glided a magnificent bird, feathers shining like molten gold."
+  },
+  {
+    "sent_id": 10,
+    "subj": "it",
+    "verb": "peck",
+    "obj": "one",
+    "label": "it | peck | one",
+    "sentence": "It pecked one of the treasure-laden apples, but as the gardener\u2019s son raised his bow and shot an arrow, it passed harmlessly through the bird, which dropped a single glowing plume before soaring away like a flash of sunlight."
+  },
+  {
+    "sent_id": 11,
+    "subj": "feather",
+    "verb": "present",
+    "obj": "dawn",
+    "label": "feather | present | dawn",
+    "sentence": "At dawn, the golden feather was presented to the shah and his council."
+  },
+  {
+    "sent_id": 12,
+    "subj": "they",
+    "verb": "marvel",
+    "obj": "",
+    "label": "they | marvel | \u2205",
+    "sentence": "They marveled, declaring it worth more than all the kingdom\u2019s riches."
+  },
+  {
+    "sent_id": 13,
+    "subj": "shah",
+    "verb": "declare",
+    "obj": "",
+    "label": "shah | declare | \u2205",
+    "sentence": "Yet the shah declared, \u201cOne feather is but a token; I desire the whole golden bird itself.\u201d"
+  },
+  {
+    "sent_id": 14,
+    "subj": "son",
+    "verb": "set",
+    "obj": "resolve",
+    "label": "son | set | resolve",
+    "sentence": "With resolve, the eldest son set out to find the radiant creature."
+  },
+  {
+    "sent_id": 15,
+    "subj": "he",
+    "verb": "come",
+    "obj": "thicket",
+    "label": "he | come | thicket",
+    "sentence": "After traveling some distance, he came upon a desert thicket where a cunning fox sat by the roadside."
+  },
+  {
+    "sent_id": 16,
+    "subj": "",
+    "verb": "harm",
+    "obj": "i",
+    "label": "\u2205 | harm | i",
+    "sentence": "Ready to shoot, the prince\u2019s arrow faltered as the fox spoke softly: \u201cDo not harm me."
+  },
+  {
+    "sent_id": 17,
+    "subj": "i",
+    "verb": "know",
+    "obj": "quest",
+    "label": "i | know | quest",
+    "sentence": "I know your quest to find the golden bird."
+  },
+  {
+    "sent_id": 19,
+    "subj": "",
+    "verb": "enter",
+    "obj": "it",
+    "label": "\u2205 | enter | it",
+    "sentence": "One is splendid and adorned with silk and tiles\u2014do not enter it."
+  },
+  {
+    "sent_id": 20,
+    "subj": "",
+    "verb": "rest",
+    "obj": "humble",
+    "label": "\u2205 | rest | humble",
+    "sentence": "Rest instead in the humble, weathered inn, though it may appear unworthy.\u201d"
+  },
+  {
+    "sent_id": 21,
+    "subj": "prince",
+    "verb": "fire",
+    "obj": "",
+    "label": "prince | fire | \u2205",
+    "sentence": "Doubting such wisdom from a mere fox, the prince fired and missed."
+  },
+  {
+    "sent_id": 22,
+    "subj": "fox",
+    "verb": "vanish",
+    "obj": "brush",
+    "label": "fox | vanish | brush",
+    "sentence": "The fox vanished into the desert brush."
+  },
+  {
+    "sent_id": 23,
+    "subj": "prince",
+    "verb": "see",
+    "obj": "inn",
+    "label": "prince | see | inn",
+    "sentence": "Later at the village, the prince saw the two inns: one alive with music, laughter, and sumptuous feasts; the other dim and plain."
+  },
+  {
+    "sent_id": 24,
+    "subj": "he",
+    "verb": "choose",
+    "obj": "inn",
+    "label": "he | choose | inn",
+    "sentence": "Tempted by luxury, he chose the grand inn, reveling and forgetting his quest and homeland."
+  },
+  {
+    "sent_id": 25,
+    "subj": "time",
+    "verb": "pass",
+    "obj": "",
+    "label": "time | pass | \u2205",
+    "sentence": "Time passed, and when no word came from the eldest, the second son ventured forth."
+  },
+  {
+    "sent_id": 26,
+    "subj": "fox",
+    "verb": "appear",
+    "obj": "",
+    "label": "fox | appear | \u2205",
+    "sentence": "The same fox appeared, giving counsel once again."
+  },
+  {
+    "sent_id": 27,
+    "subj": "he",
+    "verb": "lose",
+    "obj": "sight",
+    "label": "he | lose | sight",
+    "sentence": "Yet at the village, he heard his elder brother\u2019s laughter from the bright inn, and drawn by the lure of pleasure, he too lost sight of the golden bird and his royal duty."
+  },
+  {
+    "sent_id": 28,
+    "subj": "son",
+    "verb": "seek",
+    "obj": "permission",
+    "label": "son | seek | permission",
+    "sentence": "In time, the youngest son sought permission to leave."
+  },
+  {
+    "sent_id": 29,
+    "subj": "heart",
+    "verb": "ache",
+    "obj": "",
+    "label": "heart | ache | \u2205",
+    "sentence": "Though his father\u2019s heart ached, fearing misfortune, the boy\u2019s resolve could not be stilled."
+  },
+  {
+    "sent_id": 30,
+    "subj": "he",
+    "verb": "meet",
+    "obj": "fox",
+    "label": "he | meet | fox",
+    "sentence": "Setting forth, he met the clever fox who spoke kindly and was spared harm."
+  },
+  {
+    "sent_id": 31,
+    "subj": "fox",
+    "verb": "bid",
+    "obj": "",
+    "label": "fox | bid | \u2205",
+    "sentence": "The fox bid him mount its tail for swift passage."
+  },
+  {
+    "sent_id": 32,
+    "subj": "they",
+    "verb": "race",
+    "obj": "desert",
+    "label": "they | race | desert",
+    "sentence": "Together they raced across desert and canyon, hair whipped by the wind."
+  },
+  {
+    "sent_id": 33,
+    "subj": "prince",
+    "verb": "follow",
+    "obj": "counsel",
+    "label": "prince | follow | counsel",
+    "sentence": "Arriving at the village, the young prince followed the fox\u2019s counsel, choosing the modest inn where he rested peacefully."
+  },
+  {
+    "sent_id": 34,
+    "subj": "fox",
+    "verb": "meet",
+    "obj": "he",
+    "label": "fox | meet | he",
+    "sentence": "At dawn, the fox met him again, advising, \u201cContinue on until you reach a fortress before which many slumbering guards lie sprawled."
+  },
+  {
+    "sent_id": 35,
+    "subj": "",
+    "verb": "ignore",
+    "obj": "they",
+    "label": "\u2205 | ignore | they",
+    "sentence": "Ignore them and enter the castle, moving through its halls until you find a chamber where the golden bird sits in a simple wooden cage, beside a splendid golden one."
+  },
+  {
+    "sent_id": 36,
+    "subj": "prince",
+    "verb": "find",
+    "obj": "",
+    "label": "prince | find | \u2205",
+    "sentence": "Do not replace the bird\u2019s cage with the lavish one, lest you regret it.\u201d\n\nInside the fortress, the prince found the radiant bird encaged plainly, with the three missing golden apples resting nearby."
+  },
+  {
+    "sent_id": 37,
+    "subj": "he",
+    "verb": "obey",
+    "obj": "warning",
+    "label": "he | obey | warning",
+    "sentence": "Though tempted to transfer the bird to the finer cage, he obeyed the fox\u2019s warning."
+  },
+  {
+    "sent_id": 38,
+    "subj": "cry",
+    "verb": "awake",
+    "obj": "guard",
+    "label": "cry | awake | guard",
+    "sentence": "But a sharp cry from the bird awoke the guards, and the prince was seized and brought before the fortress\u2019s ruler."
+  },
+  {
+    "sent_id": 39,
+    "subj": "court",
+    "verb": "decree",
+    "obj": "",
+    "label": "court | decree | \u2205",
+    "sentence": "The next day, the court decreed he should die unless he could bring the shah a horse that ran swifter than the desert winds."
+  },
+  {
+    "sent_id": 40,
+    "subj": "",
+    "verb": "fulfill",
+    "obj": "this",
+    "label": "\u2205 | fulfill | this",
+    "sentence": "Fulfill this, and the golden bird would be his."
+  },
+  {
+    "sent_id": 41,
+    "subj": "prince",
+    "verb": "resume",
+    "obj": "journey",
+    "label": "prince | resume | journey",
+    "sentence": "Despairing, the prince resumed his journey."
+  },
+  {
+    "sent_id": 42,
+    "subj": "fox",
+    "verb": "appear",
+    "obj": "",
+    "label": "fox | appear | \u2205",
+    "sentence": "The fox appeared once more, saying, \u201cYou suffer now because you did not heed my advice the first time."
+  },
+  {
+    "sent_id": 43,
+    "subj": "i",
+    "verb": "guide",
+    "obj": "you",
+    "label": "i | guide | you",
+    "sentence": "Yet I will guide you to the swift horse."
+  },
+  {
+    "sent_id": 44,
+    "subj": "",
+    "verb": "go",
+    "obj": "fortress",
+    "label": "\u2205 | go | fortress",
+    "sentence": "Go to a distant fortress where the horse is kept with its groom asleep beside it."
+  },
+  {
+    "sent_id": 45,
+    "subj": "",
+    "verb": "take",
+    "obj": "horse",
+    "label": "\u2205 | take | horse",
+    "sentence": "Quietly take the horse, ensuring you saddle it with the worn leather saddle, not the shining golden one nearby.\u201d"
+  },
+  {
+    "sent_id": 46,
+    "subj": "prince",
+    "verb": "comply",
+    "obj": "",
+    "label": "prince | comply | \u2205",
+    "sentence": "The prince complied, but when he saw the brilliant golden saddle, he thought, \u201cSuch a proud steed deserves the finest,\u201d and swapped the worn saddle for the golden."
+  },
+  {
+    "sent_id": 47,
+    "subj": "groom",
+    "verb": "awake",
+    "obj": "cry",
+    "label": "groom | awake | cry",
+    "sentence": "The groom awoke with a cry that roused the guards."
+  },
+  {
+    "sent_id": 48,
+    "subj": "prince",
+    "verb": "condemn",
+    "obj": "death",
+    "label": "prince | condemn | death",
+    "sentence": "As before, the prince was condemned to death, but now his life was spared if he could bring the beautiful princess to the shah."
+  },
+  {
+    "sent_id": 49,
+    "subj": "he",
+    "verb": "journey",
+    "obj": "heart",
+    "label": "he | journey | heart",
+    "sentence": "With heavy heart, he journeyed on."
+  },
+  {
+    "sent_id": 50,
+    "subj": "fox",
+    "verb": "return",
+    "obj": "",
+    "label": "fox | return | \u2205",
+    "sentence": "The fox returned, explaining, \u201cAt nightfall, you will reach the fortress of the princess."
+  },
+  {
+    "sent_id": 51,
+    "subj": "she",
+    "verb": "go",
+    "obj": "midnight",
+    "label": "she | go | midnight",
+    "sentence": "At midnight, she will go to the bathing-house."
+  },
+  {
+    "sent_id": 52,
+    "subj": "",
+    "verb": "approach",
+    "obj": "she",
+    "label": "\u2205 | approach | she",
+    "sentence": "Approach her there and greet her with a kiss."
+  },
+  {
+    "sent_id": 53,
+    "subj": "she",
+    "verb": "come",
+    "obj": "",
+    "label": "she | come | \u2205",
+    "sentence": "She will come willingly, but be wary\u2014do not allow her to visit her family first.\u201d"
+  },
+  {
+    "sent_id": 54,
+    "subj": "they",
+    "verb": "speed",
+    "obj": "dune",
+    "label": "they | speed | dune",
+    "sentence": "They sped across dunes and valleys once more."
+  },
+  {
+    "sent_id": 55,
+    "subj": "prince",
+    "verb": "find",
+    "obj": "midnight",
+    "label": "prince | find | midnight",
+    "sentence": "At midnight, the prince found the princess on her way to the bath and with a gentle kiss won her trust."
+  },
+  {
+    "sent_id": 56,
+    "subj": "she",
+    "verb": "beg",
+    "obj": "",
+    "label": "she | beg | \u2205",
+    "sentence": "She begged to bid farewell to her parents, but he refused, fearing the risk."
+  },
+  {
+    "sent_id": 57,
+    "subj": "he",
+    "verb": "relent",
+    "obj": "",
+    "label": "he | relent | \u2205",
+    "sentence": "At length, moved by tears, he relented."
+  },
+  {
+    "sent_id": 58,
+    "subj": "guard",
+    "verb": "seize",
+    "obj": "he",
+    "label": "guard | seize | he",
+    "sentence": "Yet upon entering the palace, the guards seized him."
+  },
+  {
+    "sent_id": 59,
+    "subj": "he",
+    "verb": "tell",
+    "obj": "",
+    "label": "he | tell | \u2205",
+    "sentence": "Brought before the shah, he was told that before the princess\u2019s hand could be granted, he must remove a massive hill blocking the king\u2019s window view\u2014an impossible task."
+  },
+  {
+    "sent_id": 60,
+    "subj": "hill",
+    "verb": "vanish",
+    "obj": "morning",
+    "label": "hill | vanish | morning",
+    "sentence": "After seven days struggling in vain, the fox appeared and bid him sleep; by morning, the hill had vanished."
+  },
+  {
+    "sent_id": 61,
+    "subj": "shah",
+    "verb": "agree",
+    "obj": "",
+    "label": "shah | agree | \u2205",
+    "sentence": "The shah, bound by his word, agreed, and the prince departed with the princess."
+  },
+  {
+    "sent_id": 62,
+    "subj": "fox",
+    "verb": "whisper",
+    "obj": "",
+    "label": "fox | whisper | \u2205",
+    "sentence": "The fox whispered, \u201cNow we claim all: princess, horse, and bird.\u201d"
+  },
+  {
+    "sent_id": 63,
+    "subj": "prince",
+    "verb": "ask",
+    "obj": "",
+    "label": "prince | ask | \u2205",
+    "sentence": "The prince asked how."
+  },
+  {
+    "sent_id": 64,
+    "subj": "",
+    "verb": "greet",
+    "obj": "he",
+    "label": "\u2205 | greet | he",
+    "sentence": "\u201cWhen the shah presents the princess, greet him with, \u2018Your daughter is here.\u2019"
+  },
+  {
+    "sent_id": 65,
+    "subj": "he",
+    "verb": "be",
+    "obj": "",
+    "label": "he | be | \u2205",
+    "sentence": "He will be joyful."
+  },
+  {
+    "sent_id": 66,
+    "subj": "mount",
+    "verb": "take",
+    "obj": "hand",
+    "label": "mount | take | hand",
+    "sentence": "Mount the golden horse, and when bidding farewell, take the princess\u2019s hand last."
+  },
+  {
+    "sent_id": 67,
+    "subj": "",
+    "verb": "lift",
+    "obj": "she",
+    "label": "\u2205 | lift | she",
+    "sentence": "Quickly lift her behind you on the horse, and spur him into flight\u2014swift and uncatchable.\u201d\n\nAll unfolded as planned."
+  },
+  {
+    "sent_id": 68,
+    "subj": "fox",
+    "verb": "wait",
+    "obj": "door",
+    "label": "fox | wait | door",
+    "sentence": "Upon reaching the castle where the bird dwelled, the fox waited at the door as the prince rode in, spoke to the king, and proclaimed he wished to admire the golden bird again."
+  },
+  {
+    "sent_id": 69,
+    "subj": "he",
+    "verb": "seize",
+    "obj": "bird",
+    "label": "he | seize | bird",
+    "sentence": "When handed the cage, he seized the bird and sped away."
+  },
+  {
+    "sent_id": 70,
+    "subj": "they",
+    "verb": "flee",
+    "obj": "forest",
+    "label": "they | flee | forest",
+    "sentence": "They fled to a great forest."
+  },
+  {
+    "sent_id": 71,
+    "subj": "fox",
+    "verb": "plead",
+    "obj": "tear",
+    "label": "fox | plead | tear",
+    "sentence": "The fox then pleaded with tears, \u201cPlease kill me, sever my head and feet.\u201d"
+  },
+  {
+    "sent_id": 72,
+    "subj": "prince",
+    "verb": "refuse",
+    "obj": "",
+    "label": "prince | refuse | \u2205",
+    "sentence": "The prince refused, and the fox advised, \u201cBeware two things: ransom no one from the gallows, and never sit by a river\u2019s edge.\u201d"
+  },
+  {
+    "sent_id": 73,
+    "subj": "fox",
+    "verb": "vanish",
+    "obj": "",
+    "label": "fox | vanish | \u2205",
+    "sentence": "Then the fox vanished."
+  },
+  {
+    "sent_id": 74,
+    "subj": "they",
+    "verb": "come",
+    "obj": "village",
+    "label": "they | come | village",
+    "sentence": "Riding on with the princess, they came to the village where his brothers lay in chains, condemned as thieves."
+  },
+  {
+    "sent_id": 75,
+    "subj": "prince",
+    "verb": "ask",
+    "obj": "",
+    "label": "prince | ask | \u2205",
+    "sentence": "The prince asked if they could be saved."
+  },
+  {
+    "sent_id": 76,
+    "subj": "townsfolk",
+    "verb": "say",
+    "obj": "",
+    "label": "townsfolk | say | \u2205",
+    "sentence": "The townsfolk said only if he paid their price."
+  },
+  {
+    "sent_id": 77,
+    "subj": "he",
+    "verb": "give",
+    "obj": "gold",
+    "label": "he | give | gold",
+    "sentence": "Without hesitation, he gave all his gold, and the brothers were freed, joining him homeward."
+  },
+  {
+    "sent_id": 78,
+    "subj": "brother",
+    "verb": "suggest",
+    "obj": "rest",
+    "label": "brother | suggest | rest",
+    "sentence": "Reaching the cooling shade of the river\u2019s bank, the brothers suggested a rest."
+  },
+  {
+    "sent_id": 79,
+    "subj": "prince",
+    "verb": "agree",
+    "obj": "",
+    "label": "prince | agree | \u2205",
+    "sentence": "Forgetting the fox\u2019s warning, the prince agreed."
+  },
+  {
+    "sent_id": 80,
+    "subj": "they",
+    "verb": "seize",
+    "obj": "princess",
+    "label": "they | seize | princess",
+    "sentence": "While unguarded, they seized the princess, horse, and bird, and fled home, claiming the spoils as their own."
+  },
+  {
+    "sent_id": 81,
+    "subj": "bird",
+    "verb": "be",
+    "obj": "",
+    "label": "bird | be | \u2205",
+    "sentence": "The horse refused to eat, the bird was silent, and the princess mourned."
+  },
+  {
+    "sent_id": 82,
+    "subj": "he",
+    "verb": "climb",
+    "obj": "bank",
+    "label": "he | climb | bank",
+    "sentence": "Thrown into the river\u2019s depths, the prince\u2019s body bruised, he could not climb the steep bank."
+  },
+  {
+    "sent_id": 83,
+    "subj": "fox",
+    "verb": "reappear",
+    "obj": "",
+    "label": "fox | reappear | \u2205",
+    "sentence": "The fox reappeared, scolding him for neglecting counsel."
+  },
+  {
+    "sent_id": 84,
+    "subj": "",
+    "verb": "hold",
+    "obj": "tail",
+    "label": "\u2205 | hold | tail",
+    "sentence": "\u201cHold fast to my tail.\u201d"
+  },
+  {
+    "sent_id": 85,
+    "subj": "fox",
+    "verb": "draw",
+    "obj": "he",
+    "label": "fox | draw | he",
+    "sentence": "With a mighty pull, the fox drew him from the water, whispering, \u201cYour brothers plot against you; dress in humble clothes and enter the shah\u2019s court unseen.\u201d"
+  },
+  {
+    "sent_id": 86,
+    "subj": "prince",
+    "verb": "slip",
+    "obj": "palace",
+    "label": "prince | slip | palace",
+    "sentence": "Disguised, the prince slipped into the palace."
+  },
+  {
+    "sent_id": 87,
+    "subj": "",
+    "verb": "sing",
+    "obj": "",
+    "label": "\u2205 | sing | \u2205",
+    "sentence": "As he entered, the horse began to feed, the bird sang, and the princess ceased her tears."
+  },
+  {
+    "sent_id": 88,
+    "subj": "justice",
+    "verb": "serve",
+    "obj": "",
+    "label": "justice | serve | \u2205",
+    "sentence": "Revealing his brothers\u2019 treachery, justice was served, and he wed the princess, inheriting the kingdom when the shah passed."
+  },
+  {
+    "sent_id": 89,
+    "subj": "fox",
+    "verb": "appear",
+    "obj": "",
+    "label": "fox | appear | \u2205",
+    "sentence": "Years later, walking the forest path, the old fox appeared once more, imploring the prince to free him by severing his head and feet."
+  },
+  {
+    "sent_id": 90,
+    "subj": "fox",
+    "verb": "transform",
+    "obj": "obey",
+    "label": "fox | transform | obey",
+    "sentence": "At last obeyed, the fox transformed, revealing himself as the princess\u2019s long-lost brother, who had been trapped in enchantment for many years."
+  },
+  {
+    "sent_id": 91,
+    "subj": "",
+    "verb": "end",
+    "obj": "tale",
+    "label": "\u2205 | end | tale",
+    "sentence": "Thus ends the tale of the golden bird, the swift horse, and the faithful fox, etched in the heart of Persia\u2019s timeless legends."
+  }
+]

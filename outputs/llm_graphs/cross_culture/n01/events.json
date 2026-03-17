@@ -1,0 +1,162 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "world",
+    "verb": "lie",
+    "obj": "time",
+    "label": "world | lie | time",
+    "sentence": "In the time before memory, when the dense German forests were shrouded in endless night, the world lay in total darkness."
+  },
+  {
+    "sent_id": 1,
+    "subj": "rabe",
+    "verb": "grow",
+    "obj": "",
+    "label": "rabe | grow | \u2205",
+    "sentence": "The Rabe, a cunning black bird who had existed since the beginning of days, grew weary of stumbling blindly through the dark woods and mist."
+  },
+  {
+    "sent_id": 2,
+    "subj": "rabe",
+    "verb": "discover",
+    "obj": "cottage",
+    "label": "rabe | discover | cottage",
+    "sentence": "One evening, the Rabe discovered the small cottage of a solitary old man who lived deep in the Schwarzwald with his young daughter."
+  },
+  {
+    "sent_id": 3,
+    "subj": "rabe",
+    "verb": "learn",
+    "obj": "observation",
+    "label": "rabe | learn | observation",
+    "sentence": "Through quiet observation and craft, the Rabe learned that the old man possessed a priceless treasure: all the light in the world, locked away inside a tiny wooden box, nested within box after box, hidden beneath thick woolen cloths embroidered with ancient runes."
+  },
+  {
+    "sent_id": 4,
+    "subj": "rabe",
+    "verb": "vow",
+    "obj": "",
+    "label": "rabe | vow | \u2205",
+    "sentence": "Determined, the Rabe vowed to bring light back to the shadowed forests."
+  },
+  {
+    "sent_id": 5,
+    "subj": "he",
+    "verb": "ponder",
+    "obj": "",
+    "label": "he | ponder | \u2205",
+    "sentence": "He pondered long and devised a clever plan."
+  },
+  {
+    "sent_id": 6,
+    "subj": "rabe",
+    "verb": "transform",
+    "obj": "himself",
+    "label": "rabe | transform | himself",
+    "sentence": "When the old man\u2019s daughter came to draw water from the cold, dark river, the Rabe transformed himself into a single, sharp spruce needle and drifted gently down the current, slipping into her wooden bucket."
+  },
+  {
+    "sent_id": 7,
+    "subj": "needle",
+    "verb": "slide",
+    "obj": "throat",
+    "label": "needle | slide | throat",
+    "sentence": "As she drank, the needle slid down her throat and settled deep within her warmth."
+  },
+  {
+    "sent_id": 8,
+    "subj": "rabe",
+    "verb": "change",
+    "obj": "",
+    "label": "rabe | change | \u2205",
+    "sentence": "There, the Rabe changed once more, becoming a small human child."
+  },
+  {
+    "sent_id": 9,
+    "subj": "time",
+    "verb": "pass",
+    "obj": "silence",
+    "label": "time | pass | silence",
+    "sentence": "Time passed slowly in the dim silence of her womb, until finally the Rabe was born into the world as a peculiar boy."
+  },
+  {
+    "sent_id": 10,
+    "subj": "heart",
+    "verb": "soften",
+    "obj": "",
+    "label": "heart | soften | \u2205",
+    "sentence": "Though marked by his strange looks, the old man\u2019s heart softened, and he loved this child as a grandson."
+  },
+  {
+    "sent_id": 11,
+    "subj": "he",
+    "verb": "warn",
+    "obj": "",
+    "label": "he | warn | \u2205",
+    "sentence": "Yet he fiercely warned that no one should ever touch the sacred box of light."
+  },
+  {
+    "sent_id": 12,
+    "subj": "child",
+    "verb": "beg",
+    "obj": "this",
+    "label": "child | beg | this",
+    "sentence": "Despite this, the Rabe child begged to hold the glowing treasure even for a moment."
+  },
+  {
+    "sent_id": 13,
+    "subj": "man",
+    "verb": "relent",
+    "obj": "",
+    "label": "man | relent | \u2205",
+    "sentence": "At last, the old man relented."
+  },
+  {
+    "sent_id": 14,
+    "subj": "he",
+    "verb": "lift",
+    "obj": "lid",
+    "label": "he | lift | lid",
+    "sentence": "He lifted the small box\u2019s lid and revealed a radiant, glowing orb that pulsed like a tiny sun."
+  },
+  {
+    "sent_id": 15,
+    "subj": "he",
+    "verb": "throw",
+    "obj": "it",
+    "label": "he | throw | it",
+    "sentence": "He threw it gently toward his grandson."
+  },
+  {
+    "sent_id": 16,
+    "subj": "boy",
+    "verb": "transform",
+    "obj": "bird",
+    "label": "boy | transform | bird",
+    "sentence": "As the glowing orb approached, the boy transformed rapidly into a great black bird, its vast wings unfurling like storm clouds over the forest canopy, its sharp beak wide and ready."
+  },
+  {
+    "sent_id": 17,
+    "subj": "rabe",
+    "verb": "catch",
+    "obj": "orb",
+    "label": "rabe | catch | orb",
+    "sentence": "With a triumphant croak, the Rabe caught the orb in his beak."
+  },
+  {
+    "sent_id": 18,
+    "subj": "he",
+    "verb": "burst",
+    "obj": "flap",
+    "label": "he | burst | flap",
+    "sentence": "With mighty flaps, he burst through the cottage\u2019s thatched roof, flying out through the smoke hole into the night sky, his prize shining like a beacon in his beak."
+  },
+  {
+    "sent_id": 19,
+    "subj": "light",
+    "verb": "return",
+    "obj": "day",
+    "label": "light | return | day",
+    "sentence": "Thus, from that day forward, the light returned to brighten the forests and fields, chasing away the long shadows, and filling the world with day once more."
+  }
+]

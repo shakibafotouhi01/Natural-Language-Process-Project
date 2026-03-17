@@ -1,0 +1,210 @@
+[
+  {
+    "sent_id": 1,
+    "subj": "i",
+    "verb": "wish",
+    "obj": "",
+    "label": "i | wish | \u2205",
+    "sentence": "I wished to join their circle, to walk alongside them and share their path, but they would not permit it."
+  },
+  {
+    "sent_id": 2,
+    "subj": "i",
+    "verb": "speak",
+    "obj": "they",
+    "label": "i | speak | they",
+    "sentence": "I spoke to them earnestly: \"Among proud warriors and wise elders, it is not the way to turn a face from those who walk humbly, nor to deny oneself the strength found in such company."
+  },
+  {
+    "sent_id": 3,
+    "subj": "i",
+    "verb": "carry",
+    "obj": "blanket",
+    "label": "i | carry | blanket",
+    "sentence": "Though I lack a horse, my spirit is strong\u2014I can carry our blankets and ease your load.\""
+  },
+  {
+    "sent_id": 4,
+    "subj": "one",
+    "verb": "reply",
+    "obj": "",
+    "label": "one | reply | \u2205",
+    "sentence": "Yet one among them replied, \"Do not be offended by our words."
+  },
+  {
+    "sent_id": 5,
+    "subj": "brother",
+    "verb": "come",
+    "obj": "",
+    "label": "brother | come | \u2205",
+    "sentence": "Not long ago, a false brother, cloaked like a medicine man, came and joined us, but his heart was dark.\"\n\nHow can one truly know the spirit beneath a painted face?"
+  },
+  {
+    "sent_id": 6,
+    "subj": "storyteller",
+    "verb": "know",
+    "obj": "truth",
+    "label": "storyteller | know | truth",
+    "sentence": "The storyteller knows the truth the tale must hold."
+  },
+  {
+    "sent_id": 7,
+    "subj": "they",
+    "verb": "welcome",
+    "obj": "he",
+    "label": "they | welcome | he",
+    "sentence": "Because the medicine men are trusted, they welcomed him with open hands and hearts, believing him a friend."
+  },
+  {
+    "sent_id": 8,
+    "subj": "man",
+    "verb": "wear",
+    "obj": "garment",
+    "label": "man | wear | garment",
+    "sentence": "The true wise men wear humble garments of patched leather and soft cloth, showing only their honest selves to others."
+  },
+  {
+    "sent_id": 9,
+    "subj": "",
+    "verb": "let",
+    "obj": "",
+    "label": "\u2205 | let | \u2205",
+    "sentence": "Let deeds be your adornment, no matter the robe you wear."
+  },
+  {
+    "sent_id": 11,
+    "subj": "",
+    "verb": "mean",
+    "obj": "",
+    "label": "\u2205 | mean | \u2205",
+    "sentence": "To walk the sacred path means to empty one\u2019s heart of greed and desire\u2014not merely to cast aside outer garments."
+  },
+  {
+    "sent_id": 12,
+    "subj": "strength",
+    "verb": "show",
+    "obj": "itself",
+    "label": "strength | show | itself",
+    "sentence": "True strength shows itself in the battles of life."
+  },
+  {
+    "sent_id": 13,
+    "subj": "weapon",
+    "verb": "be",
+    "obj": "good",
+    "label": "weapon | be | good",
+    "sentence": "What good are weapons to one who cannot face the fight with courage?"
+  },
+  {
+    "sent_id": 14,
+    "subj": "we",
+    "verb": "make",
+    "obj": "camp",
+    "label": "we | make | camp",
+    "sentence": "One night, as we traveled under the quiet gaze of the moon, we made camp near a watchful stone fort."
+  },
+  {
+    "sent_id": 15,
+    "subj": "brother",
+    "verb": "slip",
+    "obj": "shadow",
+    "label": "brother | slip | shadow",
+    "sentence": "The false brother, lifting a water gourd from a companion as though to cleanse his hands in ritual, slipped away into the shadows to steal."
+  },
+  {
+    "sent_id": 16,
+    "subj": "pretender",
+    "verb": "turn",
+    "obj": "feather",
+    "label": "pretender | turn | feather",
+    "sentence": "A pretender who wears the healer\u2019s mantle \nTurns the sacred eagle feathers into mere tassels for an enemy\u2019s horse."
+  },
+  {
+    "sent_id": 17,
+    "subj": "he",
+    "verb": "vanish",
+    "obj": "sight",
+    "label": "he | vanish | sight",
+    "sentence": "He vanished from our sight and climbed a tall watchtower, where he took a box of precious things."
+  },
+  {
+    "sent_id": 18,
+    "subj": "stranger",
+    "verb": "go",
+    "obj": "dawn",
+    "label": "stranger | go | dawn",
+    "sentence": "By dawn, the black-hearted stranger had gone far along the trail."
+  },
+  {
+    "sent_id": 19,
+    "subj": "innocent",
+    "verb": "seize",
+    "obj": "",
+    "label": "innocent | seize | \u2205",
+    "sentence": "When morning came, the innocent, still asleep in camp, were seized and cast into the cold shadow of the fort."
+  },
+  {
+    "sent_id": 20,
+    "subj": "we",
+    "verb": "turn",
+    "obj": "day",
+    "label": "we | turn | day",
+    "sentence": "From that day forward, we turned from fellowship to solitude, living by this wisdom: safety lies in walking alone."
+  },
+  {
+    "sent_id": 21,
+    "subj": "shame",
+    "verb": "drape",
+    "obj": "great",
+    "label": "shame | drape | great",
+    "sentence": "When one soul in a tribe acts in dishonor, \nThe shame drapes over both the great and the small."
+  },
+  {
+    "sent_id": 22,
+    "subj": "you",
+    "verb": "see",
+    "obj": "taint",
+    "label": "you | see | taint",
+    "sentence": "Have you not seen how one wild horse \nTaints the spirit of the entire herd?"
+  },
+  {
+    "sent_id": 23,
+    "subj": "i",
+    "verb": "answer",
+    "obj": "they",
+    "label": "i | answer | they",
+    "sentence": "I answered them with gratitude: \u201cGreat is the Spirit of the Earth and Sky!"
+  },
+  {
+    "sent_id": 24,
+    "subj": "i",
+    "verb": "bar",
+    "obj": "blessing",
+    "label": "i | bar | blessing",
+    "sentence": "Though I walk apart from the medicine men, I have not been barred from their blessings."
+  },
+  {
+    "sent_id": 25,
+    "subj": "story",
+    "verb": "reach",
+    "obj": "heart",
+    "label": "story | reach | heart",
+    "sentence": "Your story has reached my heart and will guide me through all my days.\u201d"
+  },
+  {
+    "sent_id": 26,
+    "subj": "heart",
+    "verb": "carry",
+    "obj": "sorrow",
+    "label": "heart | carry | sorrow",
+    "sentence": "For one brash wolf among the pack, \nThe hearts of wise elders carry a heavy sorrow."
+  },
+  {
+    "sent_id": 27,
+    "subj": "diving",
+    "verb": "muddy",
+    "obj": "it",
+    "label": "diving | muddy | it",
+    "sentence": "If a river runs sweet with clear water, \nA wolf diving in can muddy it all."
+  }
+]

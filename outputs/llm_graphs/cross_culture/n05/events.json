@@ -1,0 +1,546 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "",
+    "verb": "stand",
+    "obj": "cabin",
+    "label": "\u2205 | stand | cabin",
+    "sentence": "In the heart of an ancient Germanic forest stood a humble cabin where an old man lived with his grandson."
+  },
+  {
+    "sent_id": 1,
+    "subj": "parent",
+    "verb": "lose",
+    "obj": "terror",
+    "label": "parent | lose | terror",
+    "sentence": "The boy\u2019s parents and kin had long ago been lost to the terror of six towering giants who roamed the Black Forest."
+  },
+  {
+    "sent_id": 2,
+    "subj": "",
+    "verb": "destine",
+    "obj": "",
+    "label": "\u2205 | destine | \u2205",
+    "sentence": "The tribe whispered of an old prophecy: one day, a hero would arise, marked by a single white feather, destined to astonish all with his courage and skill."
+  },
+  {
+    "sent_id": 3,
+    "subj": "grandfather",
+    "verb": "give",
+    "obj": "bow",
+    "label": "grandfather | give | bow",
+    "sentence": "As soon as the boy was able to walk, his grandfather gave him a small bow and arrows."
+  },
+  {
+    "sent_id": 4,
+    "subj": "boy",
+    "verb": "spot",
+    "obj": "creature",
+    "label": "boy | spot | creature",
+    "sentence": "One day, near the forest edge, the boy spotted a curious creature\u2014small, swift, with soft fur."
+  },
+  {
+    "sent_id": 5,
+    "subj": "he",
+    "verb": "run",
+    "obj": "",
+    "label": "he | run | \u2205",
+    "sentence": "Unsure of what it was, he ran home to describe it."
+  },
+  {
+    "sent_id": 6,
+    "subj": "grandfather",
+    "verb": "explain",
+    "obj": "",
+    "label": "grandfather | explain | \u2205",
+    "sentence": "His grandfather explained it was a hare, good to eat if he could only hit it with his arrow."
+  },
+  {
+    "sent_id": 7,
+    "subj": "boy",
+    "verb": "try",
+    "obj": "",
+    "label": "boy | try | \u2205",
+    "sentence": "The boy tried and succeeded, bringing it back to boil for a modest feast."
+  },
+  {
+    "sent_id": 8,
+    "subj": "grandfather",
+    "verb": "teach",
+    "obj": "he",
+    "label": "grandfather | teach | he",
+    "sentence": "Encouraged, his grandfather taught him to hunt deer and boar, until the boy became a master woodsman."
+  },
+  {
+    "sent_id": 9,
+    "subj": "curiosity",
+    "verb": "grow",
+    "obj": "life",
+    "label": "curiosity | grow | life",
+    "sentence": "Isolated from other villages, the boy\u2019s curiosity grew about life beyond the trees."
+  },
+  {
+    "sent_id": 10,
+    "subj": "he",
+    "verb": "find",
+    "obj": "ash",
+    "label": "he | find | ash",
+    "sentence": "One day, at the edge of a misty clearing, he found scattered ashes and upright poles\u2014signs of a nearby homestead unfamiliar to him."
+  },
+  {
+    "sent_id": 11,
+    "subj": "man",
+    "verb": "deny",
+    "obj": "it",
+    "label": "man | deny | it",
+    "sentence": "Asked if his grandfather had prepared them, the old man firmly denied it, warning the boy\u2019s imagination was playing tricks."
+  },
+  {
+    "sent_id": 12,
+    "subj": "voice",
+    "verb": "echo",
+    "obj": "tree",
+    "label": "voice | echo | tree",
+    "sentence": "Later, as the young man ventured deeper into the forest on a solitary walk, a mysterious voice echoed through the trees: \u201cCome forth, wearer of the white feather."
+  },
+  {
+    "sent_id": 13,
+    "subj": "you",
+    "verb": "be",
+    "obj": "",
+    "label": "you | be | \u2205",
+    "sentence": "Though you do not yet bear it, you are worthy.\u201d"
+  },
+  {
+    "sent_id": 14,
+    "subj": "voice",
+    "verb": "tell",
+    "obj": "he",
+    "label": "voice | tell | he",
+    "sentence": "The voice told him to rest and dream."
+  },
+  {
+    "sent_id": 15,
+    "subj": "he",
+    "verb": "see",
+    "obj": "pipe",
+    "label": "he | see | pipe",
+    "sentence": "In this vision, he saw a pipe, a pouch for tobacco, and a large white feather."
+  },
+  {
+    "sent_id": 16,
+    "subj": "gift",
+    "verb": "lie",
+    "obj": "he",
+    "label": "gift | lie | he",
+    "sentence": "Upon waking, these gifts lay before him."
+  },
+  {
+    "sent_id": 17,
+    "subj": "voice",
+    "verb": "urge",
+    "obj": "",
+    "label": "voice | urge | \u2205",
+    "sentence": "\u201cPlace the feather upon your head,\u201d the voice urged, \u201cand you shall become a great hunter and warrior, capable of astounding feats."
+  },
+  {
+    "sent_id": 18,
+    "subj": "smoke",
+    "verb": "form",
+    "obj": "flock",
+    "label": "smoke | form | flock",
+    "sentence": "When you smoke the pipe, the smoke will form flocks of doves.\u201d"
+  },
+  {
+    "sent_id": 19,
+    "subj": "voice",
+    "verb": "reveal",
+    "obj": "itself",
+    "label": "voice | reveal | itself",
+    "sentence": "The voice revealed itself to be a woodland spirit, rooted like an ancient tree, who confided that the grandfather\u2019s kindness concealed selfish motives."
+  },
+  {
+    "sent_id": 20,
+    "subj": "spirit",
+    "verb": "give",
+    "obj": "vine",
+    "label": "spirit | give | vine",
+    "sentence": "The spirit gave the young man an enchanted vine, invisible to enemies, to be used in races against his foes."
+  },
+  {
+    "sent_id": 21,
+    "subj": "he",
+    "verb": "triumph",
+    "obj": "",
+    "label": "he | triumph | \u2205",
+    "sentence": "If he could ensnare them with the vine during a contest of speed, he would triumph."
+  },
+  {
+    "sent_id": 22,
+    "subj": "boy",
+    "verb": "glimpse",
+    "obj": "face",
+    "label": "boy | glimpse | face",
+    "sentence": "As the voice faded, the boy glimpsed the spirit\u2019s face vanish like dawn mist."
+  },
+  {
+    "sent_id": 23,
+    "subj": "he",
+    "verb": "return",
+    "obj": "",
+    "label": "he | return | \u2205",
+    "sentence": "He returned home, slept, and woke to find the pipe, pouch, and feather as promised."
+  },
+  {
+    "sent_id": 24,
+    "subj": "grandfather",
+    "verb": "recall",
+    "obj": "prophecy",
+    "label": "grandfather | recall | prophecy",
+    "sentence": "His grandfather, noting the white feather and the fluttering doves escaping the cabin, recalled the old prophecy with dread, fearing his hold over the boy weakening."
+  },
+  {
+    "sent_id": 26,
+    "subj": "word",
+    "verb": "reach",
+    "obj": "giant",
+    "label": "word | reach | giant",
+    "sentence": "Word of his coming reached the giants, who mocked him at first, calling him a mere child with his white plume."
+  },
+  {
+    "sent_id": 27,
+    "subj": "they",
+    "verb": "offer",
+    "obj": "challenge",
+    "label": "they | offer | challenge",
+    "sentence": "Yet, they offered him a challenge: to race against each of them one by one."
+  },
+  {
+    "sent_id": 28,
+    "subj": "course",
+    "verb": "run",
+    "obj": "tree",
+    "label": "course | run | tree",
+    "sentence": "The course was run to a marked birch tree facing east and back to a heavy iron club that served as the prize."
+  },
+  {
+    "sent_id": 29,
+    "subj": "",
+    "verb": "claim",
+    "obj": "club",
+    "label": "\u2205 | claim | club",
+    "sentence": "Whoever won the race claimed the club and could strike down the loser."
+  },
+  {
+    "sent_id": 30,
+    "subj": "feather",
+    "verb": "outpace",
+    "obj": "giant",
+    "label": "feather | outpace | giant",
+    "sentence": "Confident and supported by the magical vine, White Feather outpaced the first giant, ensnared him, and struck his head from his shoulders."
+  },
+  {
+    "sent_id": 31,
+    "subj": "he",
+    "verb": "defeat",
+    "obj": "giant",
+    "label": "he | defeat | giant",
+    "sentence": "Morning after morning, he defeated each giant in turn, claiming their heads as trophies."
+  },
+  {
+    "sent_id": 32,
+    "subj": "giant",
+    "verb": "propose",
+    "obj": "trap",
+    "label": "giant | propose | trap",
+    "sentence": "The last giant, cunning and wary, proposed a trap."
+  },
+  {
+    "sent_id": 33,
+    "subj": "he",
+    "verb": "offer",
+    "obj": "",
+    "label": "he | offer | \u2205",
+    "sentence": "He offered White Feather a generous head start if he would leave all the heads behind."
+  },
+  {
+    "sent_id": 34,
+    "subj": "feather",
+    "verb": "refuse",
+    "obj": "",
+    "label": "feather | refuse | \u2205",
+    "sentence": "White Feather refused, proud of his hard-won trophies."
+  },
+  {
+    "sent_id": 35,
+    "subj": "he",
+    "verb": "meet",
+    "obj": "woman",
+    "label": "he | meet | woman",
+    "sentence": "Before confronting this final giant, White Feather met the wise forest spirit again, who warned him of a great danger: on his path he would meet a bewitching woman\u2014the sixth giant in disguise\u2014who would try to lure him."
+  },
+  {
+    "sent_id": 36,
+    "subj": "he",
+    "verb": "shut",
+    "obj": "eye",
+    "label": "he | shut | eye",
+    "sentence": "On meeting her, he must shut his eyes and wish to become an elk to avoid her spell."
+  },
+  {
+    "sent_id": 38,
+    "subj": "she",
+    "verb": "claim",
+    "obj": "",
+    "label": "she | claim | \u2205",
+    "sentence": "She claimed to have traveled far to be his bride, admiring his bravery."
+  },
+  {
+    "sent_id": 39,
+    "subj": "feather",
+    "verb": "reclaim",
+    "obj": "form",
+    "label": "feather | reclaim | form",
+    "sentence": "Enchanted by her beauty and sweet words, White Feather reclaimed his human form."
+  },
+  {
+    "sent_id": 40,
+    "subj": "they",
+    "verb": "rest",
+    "obj": "",
+    "label": "they | rest | \u2205",
+    "sentence": "They rested together, and as he fell into a deep sleep, the woman revealed her true nature."
+  },
+  {
+    "sent_id": 41,
+    "subj": "she",
+    "verb": "transform",
+    "obj": "giant",
+    "label": "she | transform | giant",
+    "sentence": "She transformed back into the giant, seized the magic feather from his brow, struck him with the iron club, and turned him into a dog."
+  },
+  {
+    "sent_id": 42,
+    "subj": "he",
+    "verb": "lead",
+    "obj": "form",
+    "label": "he | lead | form",
+    "sentence": "In this form, he was led like a pet back to the village."
+  },
+  {
+    "sent_id": 43,
+    "subj": "",
+    "verb": "live",
+    "obj": "sister",
+    "label": "\u2205 | live | sister",
+    "sentence": "Not far away in a nearby village lived two sisters, daughters of a chieftain, known rivals who fasted for power, each hoping to win the favor of White Feather."
+  },
+  {
+    "sent_id": 44,
+    "subj": "giant",
+    "verb": "visit",
+    "obj": "they",
+    "label": "giant | visit | they",
+    "sentence": "The giant, now pretending to be White Feather with the stolen feather, visited them."
+  },
+  {
+    "sent_id": 45,
+    "subj": "sister",
+    "verb": "welcome",
+    "obj": "he",
+    "label": "sister | welcome | he",
+    "sentence": "The elder sister, decked in finery, welcomed him lavishly and married him."
+  },
+  {
+    "sent_id": 46,
+    "subj": "sister",
+    "verb": "take",
+    "obj": "dog",
+    "label": "sister | take | dog",
+    "sentence": "The younger sister, humble and kind, took in the dog, feeding and caring for him lovingly."
+  },
+  {
+    "sent_id": 47,
+    "subj": "feather",
+    "verb": "hold",
+    "obj": "power",
+    "label": "feather | hold | power",
+    "sentence": "Believing the feather held all its power for whoever bore it, the giant boldly hunted on the open fields, loudly calling game to him, but frightened all animals away, returning empty-handed."
+  },
+  {
+    "sent_id": 48,
+    "subj": "dog",
+    "verb": "move",
+    "obj": "riverbank",
+    "label": "dog | move | riverbank",
+    "sentence": "The dog, however, quietly moved to a riverbank, stepping into the water to draw out a stone that transformed into a beaver."
+  },
+  {
+    "sent_id": 49,
+    "subj": "giant",
+    "verb": "try",
+    "obj": "",
+    "label": "giant | try | \u2205",
+    "sentence": "Watching secretly, the giant tried to repeat this trick, but could only raise a useless stone by his belt."
+  },
+  {
+    "sent_id": 50,
+    "subj": "dog",
+    "verb": "succeed",
+    "obj": "task",
+    "label": "dog | succeed | task",
+    "sentence": "Each day, the dog succeeded at every task, while the giant failed miserably."
+  },
+  {
+    "sent_id": 51,
+    "subj": "pride",
+    "verb": "grow",
+    "obj": "",
+    "label": "pride | grow | \u2205",
+    "sentence": "The youngest sister\u2019s pride in her silent companion grew, while the elder sister\u2019s glory dimmed as she saw her husband\u2019s shortcomings."
+  },
+  {
+    "sent_id": 52,
+    "subj": "wife",
+    "verb": "journey",
+    "obj": "father",
+    "label": "wife | journey | father",
+    "sentence": "At last, the giant\u2019s wife journeyed to her father, boasting of her husband\u2019s wealth of sticks and stones she called bears and beavers."
+  },
+  {
+    "sent_id": 53,
+    "subj": "chieftain",
+    "verb": "send",
+    "obj": "messenger",
+    "label": "chieftain | send | messenger",
+    "sentence": "The old chieftain, suspecting a mystery, sent messengers to fetch the youngest daughter and her dog."
+  },
+  {
+    "sent_id": 54,
+    "subj": "they",
+    "verb": "find",
+    "obj": "dog",
+    "label": "they | find | dog",
+    "sentence": "To their surprise, they found not a dog, but a handsome young man\u2014though strangely silent."
+  },
+  {
+    "sent_id": 55,
+    "subj": "voice",
+    "verb": "lose",
+    "obj": "transformation",
+    "label": "voice | lose | transformation",
+    "sentence": "The young man\u2019s voice was lost in the dog\u2019s transformation, but the youngest sister prepared a steaming lodge in the old way."
+  },
+  {
+    "sent_id": 56,
+    "subj": "warmth",
+    "verb": "draw",
+    "obj": "enchantment",
+    "label": "warmth | draw | enchantment",
+    "sentence": "Enclosed with heated stones and swirling vapors, the lodge\u2019s warmth drew the enchantment from the young man, restoring his speech but not the magical plume."
+  },
+  {
+    "sent_id": 57,
+    "subj": "sister",
+    "verb": "accuse",
+    "obj": "sibling",
+    "label": "sister | accuse | sibling",
+    "sentence": "Meanwhile, the elder sister accused her sibling of harboring an idle dog as a husband, failing to mention the false bears and beavers."
+  },
+  {
+    "sent_id": 59,
+    "subj": "man",
+    "verb": "give",
+    "obj": "pipe",
+    "label": "man | give | pipe",
+    "sentence": "At their gathering, the young man\u2014now called White Feather\u2014was given the magic pipe."
+  },
+  {
+    "sent_id": 60,
+    "subj": "smoke",
+    "verb": "emerge",
+    "obj": "",
+    "label": "smoke | emerge | \u2205",
+    "sentence": "When the giant tried to smoke it, only smoke emerged."
+  },
+  {
+    "sent_id": 61,
+    "subj": "",
+    "verb": "place",
+    "obj": "feather",
+    "label": "\u2205 | place | feather",
+    "sentence": "When White Feather took it, placed the white feather on his brow, and smoked, great flocks of white and blue pigeons soared from the smoke, revealing the giant a fraud."
+  },
+  {
+    "sent_id": 62,
+    "subj": "chieftain",
+    "verb": "order",
+    "obj": "",
+    "label": "chieftain | order | \u2205",
+    "sentence": "The chieftain ordered the giant changed into a dog and driven to the village center, where boys pelted him with clubs."
+  },
+  {
+    "sent_id": 63,
+    "subj": "giant",
+    "verb": "meet",
+    "obj": "end",
+    "label": "giant | meet | end",
+    "sentence": "Thus, the six giants met their end and haunted the land no more."
+  },
+  {
+    "sent_id": 64,
+    "subj": "chieftain",
+    "verb": "command",
+    "obj": "man",
+    "label": "chieftain | command | man",
+    "sentence": "In honor of White Feather\u2019s victory, the chieftain commanded the young men to fashion arrows for four days."
+  },
+  {
+    "sent_id": 65,
+    "subj": "feather",
+    "verb": "request",
+    "obj": "hide",
+    "label": "feather | request | hide",
+    "sentence": "White Feather requested a buffalo hide, which he carefully shredded and scattered at night across the fields."
+  },
+  {
+    "sent_id": 66,
+    "subj": "he",
+    "verb": "lead",
+    "obj": "hunter",
+    "label": "he | lead | hunter",
+    "sentence": "On the fifth day, he led the hunters to the prairie where a great herd of buffalo appeared, drawn by the scattered hide pieces."
+  },
+  {
+    "sent_id": 67,
+    "subj": "tribe",
+    "verb": "celebrate",
+    "obj": "triumph",
+    "label": "tribe | celebrate | triumph",
+    "sentence": "The tribe celebrated White Feather\u2019s triumph with a grand feast."
+  },
+  {
+    "sent_id": 68,
+    "subj": "feather",
+    "verb": "ask",
+    "obj": "wife",
+    "label": "feather | ask | wife",
+    "sentence": "Having restored peace, White Feather asked his wife to seek her father\u2019s blessing for their journey to visit his grandfather."
+  },
+  {
+    "sent_id": 69,
+    "subj": "chieftain",
+    "verb": "say",
+    "obj": "",
+    "label": "chieftain | say | \u2205",
+    "sentence": "The chieftain said a wife must follow her husband wherever he goes."
+  },
+  {
+    "sent_id": 70,
+    "subj": "feather",
+    "verb": "step",
+    "obj": "wife",
+    "label": "feather | step | wife",
+    "sentence": "With his white feather shining and war-club in hand, White Feather stepped into the vast forest, his faithful wife at his side, ready for the next chapter of their legend."
+  }
+]

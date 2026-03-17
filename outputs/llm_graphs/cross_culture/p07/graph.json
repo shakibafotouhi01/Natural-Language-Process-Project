@@ -1,0 +1,772 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "\u2205 | be | valley",
+      "sent_id": 0,
+      "sentence": "Long ago, beyond the tallest peaks and across the wide plains, there was a sacred valley cloaked in towering cedar and pine trees.",
+      "subj": "",
+      "verb": "be",
+      "obj": "valley"
+    },
+    {
+      "id": "e0001",
+      "label": "river | wind | valley",
+      "sent_id": 1,
+      "sentence": "A great river, like a silver serpent, wound through the valley, nourishing the sacred earth and the many living things that dwelled there.",
+      "subj": "river",
+      "verb": "wind",
+      "obj": "valley"
+    },
+    {
+      "id": "e0002",
+      "label": "valley | be | home",
+      "sent_id": 2,
+      "sentence": "The valley was home to the fleet-footed rabbits, the soaring hawks, the busy squirrels, and the graceful deer.",
+      "subj": "valley",
+      "verb": "be",
+      "obj": "home"
+    },
+    {
+      "id": "e0003",
+      "label": "they | live | peace",
+      "sent_id": 3,
+      "sentence": "They lived in peace, for no fierce predators haunted the woods \u2014 no wolves or bears to bring fear to their hearts.",
+      "subj": "they",
+      "verb": "live",
+      "obj": "peace"
+    },
+    {
+      "id": "e0004",
+      "label": "\u2205 | descend | mountain",
+      "sent_id": 4,
+      "sentence": "But one day, a lone wolf descended from the distant mountains and stepped into the valley.",
+      "subj": "",
+      "verb": "descend",
+      "obj": "mountain"
+    },
+    {
+      "id": "e0005",
+      "label": "he | begin | \u2205",
+      "sent_id": 5,
+      "sentence": "The moment he arrived, he began to stalk and hunt the gentle creatures, catching them one by one.",
+      "subj": "he",
+      "verb": "begin",
+      "obj": ""
+    },
+    {
+      "id": "e0006",
+      "label": "deer | escape | \u2205",
+      "sent_id": 6,
+      "sentence": "Sometimes, a swift deer or clever squirrel would escape, but always the animals trembled, fearful that the wolf\u2019s hunger would come for them next.",
+      "subj": "deer",
+      "verb": "escape",
+      "obj": ""
+    },
+    {
+      "id": "e0007",
+      "label": "animal | seek | wisdom",
+      "sent_id": 7,
+      "sentence": "In their fear, the animals sought the wisdom of the ancient Great Horned Owl, who was said to hold the knowledge of the spirits.",
+      "subj": "animal",
+      "verb": "seek",
+      "obj": "wisdom"
+    },
+    {
+      "id": "e0008",
+      "label": "\u2205 | bring | ruin",
+      "sent_id": 8,
+      "sentence": "The owl listened and said softly, \u201cThe wolf\u2019s strength and claws are greater than any here; fighting him alone will bring ruin.",
+      "subj": "",
+      "verb": "bring",
+      "obj": "ruin"
+    },
+    {
+      "id": "e0009",
+      "label": "we | find | way",
+      "sent_id": 9,
+      "sentence": "We must find a way to live with the wolf, though it weighs heavy on the heart.\u201d",
+      "subj": "we",
+      "verb": "find",
+      "obj": "way"
+    },
+    {
+      "id": "e0010",
+      "label": "thought | be | \u2205",
+      "sent_id": 10,
+      "sentence": "The animals protested\u2014the thought of living always beneath the shadow of hunger was unbearable.",
+      "subj": "thought",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0011",
+      "label": "one | choose | \u2205",
+      "sent_id": 11,
+      "sentence": "So they made a sorrowful pact: each day, one of the animals would be chosen to go to the wolf willingly, feeding him so the others might rest safely for the time being.",
+      "subj": "one",
+      "verb": "choose",
+      "obj": ""
+    },
+    {
+      "id": "e0012",
+      "label": "wolf | agree | hesitation",
+      "sent_id": 12,
+      "sentence": "The wolf, tired of the chase and pleased by the offering of food, agreed without hesitation.",
+      "subj": "wolf",
+      "verb": "agree",
+      "obj": "hesitation"
+    },
+    {
+      "id": "e0013",
+      "label": "animal | gather | tree",
+      "sent_id": 13,
+      "sentence": "The next dawn, the animals gathered beneath the ancient spirit tree, and it was the smallest among them\u2014a gentle rabbit with soft fur and bright eyes\u2014who was chosen to be the wolf\u2019s meal.",
+      "subj": "animal",
+      "verb": "gather",
+      "obj": "tree"
+    },
+    {
+      "id": "e0014",
+      "label": "heart | pound | fear",
+      "sent_id": 14,
+      "sentence": "The rabbit\u2019s heart pounded with fear.",
+      "subj": "heart",
+      "verb": "pound",
+      "obj": "fear"
+    },
+    {
+      "id": "e0015",
+      "label": "he | think | \u2205",
+      "sent_id": 15,
+      "sentence": "He first thought to flee, but no hiding place called to him.",
+      "subj": "he",
+      "verb": "think",
+      "obj": ""
+    },
+    {
+      "id": "e0016",
+      "label": "he | think | \u2205",
+      "sent_id": 16,
+      "sentence": "Then he thought to fight, but the wolf\u2019s power shadowed him like a storm.",
+      "subj": "he",
+      "verb": "think",
+      "obj": ""
+    },
+    {
+      "id": "e0017",
+      "label": "he | walk | spirit",
+      "sent_id": 17,
+      "sentence": "So with a humble spirit, he walked to the wolf\u2019s den and called out, \u201cGreat wolf, the hunters of this valley have sent me to you as food today.\u201d",
+      "subj": "he",
+      "verb": "walk",
+      "obj": "spirit"
+    },
+    {
+      "id": "e0018",
+      "label": "hungry | emerge | \u2205",
+      "sent_id": 18,
+      "sentence": "Hungry, the wolf emerged and sniffed the little rabbit.",
+      "subj": "hungry",
+      "verb": "emerge",
+      "obj": ""
+    },
+    {
+      "id": "e0019",
+      "label": "he | growl | \u2205",
+      "sent_id": 19,
+      "sentence": "\u201cA fine feast you will be,\u201d he growled.",
+      "subj": "he",
+      "verb": "growl",
+      "obj": ""
+    },
+    {
+      "id": "e0020",
+      "label": "i | be | \u2205",
+      "sent_id": 20,
+      "sentence": "\u201cHow fortunate I am that the animals bring themselves to me.\u201d",
+      "subj": "i",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0021",
+      "label": "rabbit | sigh | \u2205",
+      "sent_id": 21,
+      "sentence": "The rabbit sighed and said, \u201cI come with my own paws, for I know my fate.",
+      "subj": "rabbit",
+      "verb": "sigh",
+      "obj": ""
+    },
+    {
+      "id": "e0022",
+      "label": "i | wonder | \u2205",
+      "sent_id": 22,
+      "sentence": "But I wonder\u2014great wolf\u2014you are not the fiercest here.\u201d",
+      "subj": "i",
+      "verb": "wonder",
+      "obj": ""
+    },
+    {
+      "id": "e0023",
+      "label": "eye | narrow | \u2205",
+      "sent_id": 23,
+      "sentence": "The wolf\u2019s fierce eyes narrowed.",
+      "subj": "eye",
+      "verb": "narrow",
+      "obj": ""
+    },
+    {
+      "id": "e0024",
+      "label": "you | mean | what",
+      "sent_id": 24,
+      "sentence": "\u201cWhat do you mean?",
+      "subj": "you",
+      "verb": "mean",
+      "obj": "what"
+    },
+    {
+      "id": "e0025",
+      "label": "i | be | wolf",
+      "sent_id": 25,
+      "sentence": "I am the only wolf in this valley.",
+      "subj": "i",
+      "verb": "be",
+      "obj": "wolf"
+    },
+    {
+      "id": "e0026",
+      "label": "wolf | roam | land",
+      "sent_id": 26,
+      "sentence": "No other wolves roam these lands!\u201d",
+      "subj": "wolf",
+      "verb": "roam",
+      "obj": "land"
+    },
+    {
+      "id": "e0027",
+      "label": "he | snarl | \u2205",
+      "sent_id": 27,
+      "sentence": "he snarled.",
+      "subj": "he",
+      "verb": "snarl",
+      "obj": ""
+    },
+    {
+      "id": "e0028",
+      "label": "rabbit | blink | \u2205",
+      "sent_id": 28,
+      "sentence": "The rabbit blinked gently.",
+      "subj": "rabbit",
+      "verb": "blink",
+      "obj": ""
+    },
+    {
+      "id": "e0029",
+      "label": "you | know | wolf",
+      "sent_id": 29,
+      "sentence": "\u201cYou do not know of the other wolf.",
+      "subj": "you",
+      "verb": "know",
+      "obj": "wolf"
+    },
+    {
+      "id": "e0030",
+      "label": "another | be | fiercer",
+      "sent_id": 30,
+      "sentence": "Though you are strong, another is fiercer, with teeth sharper and legs swifter.",
+      "subj": "another",
+      "verb": "be",
+      "obj": "fiercer"
+    },
+    {
+      "id": "e0031",
+      "label": "i | flee | \u2205",
+      "sent_id": 31,
+      "sentence": "Even if I escaped your jaws, I could not flee that wolf.\u201d",
+      "subj": "i",
+      "verb": "flee",
+      "obj": ""
+    },
+    {
+      "id": "e0032",
+      "label": "anger | rise | smoke",
+      "sent_id": 32,
+      "sentence": "The wolf bristled, anger rising like smoke.",
+      "subj": "anger",
+      "verb": "rise",
+      "obj": "smoke"
+    },
+    {
+      "id": "e0033",
+      "label": "\u2205 | lead | i",
+      "sent_id": 33,
+      "sentence": "\u201cLead me to this other wolf, and I will spare you\u2014for today, little meal.",
+      "subj": "",
+      "verb": "lead",
+      "obj": "i"
+    },
+    {
+      "id": "e0034",
+      "label": "\u2205 | show | i",
+      "sent_id": 34,
+      "sentence": "Show me where he hides.\u201d",
+      "subj": "",
+      "verb": "show",
+      "obj": "i"
+    },
+    {
+      "id": "e0035",
+      "label": "rabbit | exhale | \u2205",
+      "sent_id": 35,
+      "sentence": "The rabbit exhaled softly.",
+      "subj": "rabbit",
+      "verb": "exhale",
+      "obj": ""
+    },
+    {
+      "id": "e0036",
+      "label": "\u2205 | follow | i",
+      "sent_id": 37,
+      "sentence": "Follow me.\u201d",
+      "subj": "",
+      "verb": "follow",
+      "obj": "i"
+    },
+    {
+      "id": "e0037",
+      "label": "wolf | follow | rabbit",
+      "sent_id": 38,
+      "sentence": "So the wolf followed the rabbit through the forest until they came upon an old stone well, forgotten and deep.",
+      "subj": "wolf",
+      "verb": "follow",
+      "obj": "rabbit"
+    },
+    {
+      "id": "e0038",
+      "label": "den | lie | \u2205",
+      "sent_id": 39,
+      "sentence": "\u201cThere,\u201d said the rabbit, \u201clies the den of the other wolf, waiting in darkness.\u201d",
+      "subj": "den",
+      "verb": "lie",
+      "obj": ""
+    },
+    {
+      "id": "e0039",
+      "label": "\u2205 | peer | \u2205",
+      "sent_id": 40,
+      "sentence": "The wolf peered down but saw only blackness.",
+      "subj": "",
+      "verb": "peer",
+      "obj": ""
+    },
+    {
+      "id": "e0040",
+      "label": "he | grumble | \u2205",
+      "sent_id": 41,
+      "sentence": "\u201cI see nothing,\u201d he grumbled.",
+      "subj": "he",
+      "verb": "grumble",
+      "obj": ""
+    },
+    {
+      "id": "e0041",
+      "label": "rabbit | say | \u2205",
+      "sent_id": 42,
+      "sentence": "\u201cLook closer,\u201d said the rabbit.",
+      "subj": "rabbit",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0042",
+      "label": "\u2205 | lower | head",
+      "sent_id": 43,
+      "sentence": "\u201cLower your head into the well, and you will see him staring back.\u201d",
+      "subj": "",
+      "verb": "lower",
+      "obj": "head"
+    },
+    {
+      "id": "e0043",
+      "label": "wolf | lean | \u2205",
+      "sent_id": 44,
+      "sentence": "The wolf leaned over and slipped his head into the cool shadow.",
+      "subj": "wolf",
+      "verb": "lean",
+      "obj": ""
+    },
+    {
+      "id": "e0044",
+      "label": "eye | adjust | \u2205",
+      "sent_id": 45,
+      "sentence": "At last, his eyes adjusted, and he saw a wolf\u2019s glowing eyes reflected in the water below\u2014his own reflection.",
+      "subj": "eye",
+      "verb": "adjust",
+      "obj": ""
+    },
+    {
+      "id": "e0045",
+      "label": "growl | rise | throat",
+      "sent_id": 46,
+      "sentence": "A growl rose in the wolf\u2019s throat.",
+      "subj": "growl",
+      "verb": "rise",
+      "obj": "throat"
+    },
+    {
+      "id": "e0046",
+      "label": "i | see | you",
+      "sent_id": 48,
+      "sentence": "I see you there!\u201d",
+      "subj": "i",
+      "verb": "see",
+      "obj": "you"
+    },
+    {
+      "id": "e0047",
+      "label": "he | shout | well",
+      "sent_id": 49,
+      "sentence": "he shouted into the well.",
+      "subj": "he",
+      "verb": "shout",
+      "obj": "well"
+    },
+    {
+      "id": "e0048",
+      "label": "echo | answer | \u2205",
+      "sent_id": 50,
+      "sentence": "The echo answered back, \u201cCoward!",
+      "subj": "echo",
+      "verb": "answer",
+      "obj": ""
+    },
+    {
+      "id": "e0049",
+      "label": "\u2205 | come | \u2205",
+      "sent_id": 51,
+      "sentence": "Come forth and face me!\u201d",
+      "subj": "",
+      "verb": "come",
+      "obj": ""
+    },
+    {
+      "id": "e0050",
+      "label": "rabbit | watch | \u2205",
+      "sent_id": 53,
+      "sentence": "The rabbit watched as the wolf barked threats to himself, the sound bouncing off stone walls.",
+      "subj": "rabbit",
+      "verb": "watch",
+      "obj": ""
+    },
+    {
+      "id": "e0051",
+      "label": "rabbit | say | \u2205",
+      "sent_id": 54,
+      "sentence": "\u201cSee,\u201d the rabbit said, \u201cthe fiercer wolf hides, while the smaller chases shadows.\u201d",
+      "subj": "rabbit",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0052",
+      "label": "wolf | leap | well",
+      "sent_id": 55,
+      "sentence": "Filled with rage, the wolf leapt into the well to confront his ghostly foe, but the depths were cold and unforgiving.",
+      "subj": "wolf",
+      "verb": "leap",
+      "obj": "well"
+    },
+    {
+      "id": "e0053",
+      "label": "wolf | swallow | \u2205",
+      "sent_id": 56,
+      "sentence": "Unable to swim, the wolf was swallowed by the water\u2019s embrace and never emerged.",
+      "subj": "wolf",
+      "verb": "swallow",
+      "obj": ""
+    },
+    {
+      "id": "e0054",
+      "label": "valley | be | day",
+      "sent_id": 57,
+      "sentence": "From that day, the valley was free of fear, and the animals knew that wisdom and courage, even from the smallest heart, could protect their home.",
+      "subj": "valley",
+      "verb": "be",
+      "obj": "day"
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    },
+    {
+      "source": "e0029",
+      "target": "e0030",
+      "relation": "next"
+    },
+    {
+      "source": "e0030",
+      "target": "e0031",
+      "relation": "next"
+    },
+    {
+      "source": "e0031",
+      "target": "e0032",
+      "relation": "next"
+    },
+    {
+      "source": "e0032",
+      "target": "e0033",
+      "relation": "next"
+    },
+    {
+      "source": "e0033",
+      "target": "e0034",
+      "relation": "next"
+    },
+    {
+      "source": "e0034",
+      "target": "e0035",
+      "relation": "next"
+    },
+    {
+      "source": "e0035",
+      "target": "e0036",
+      "relation": "next"
+    },
+    {
+      "source": "e0036",
+      "target": "e0037",
+      "relation": "next"
+    },
+    {
+      "source": "e0037",
+      "target": "e0038",
+      "relation": "next"
+    },
+    {
+      "source": "e0038",
+      "target": "e0039",
+      "relation": "next"
+    },
+    {
+      "source": "e0039",
+      "target": "e0040",
+      "relation": "next"
+    },
+    {
+      "source": "e0040",
+      "target": "e0041",
+      "relation": "next"
+    },
+    {
+      "source": "e0041",
+      "target": "e0042",
+      "relation": "next"
+    },
+    {
+      "source": "e0042",
+      "target": "e0043",
+      "relation": "next"
+    },
+    {
+      "source": "e0043",
+      "target": "e0044",
+      "relation": "next"
+    },
+    {
+      "source": "e0044",
+      "target": "e0045",
+      "relation": "next"
+    },
+    {
+      "source": "e0045",
+      "target": "e0046",
+      "relation": "next"
+    },
+    {
+      "source": "e0046",
+      "target": "e0047",
+      "relation": "next"
+    },
+    {
+      "source": "e0047",
+      "target": "e0048",
+      "relation": "next"
+    },
+    {
+      "source": "e0048",
+      "target": "e0049",
+      "relation": "next"
+    },
+    {
+      "source": "e0049",
+      "target": "e0050",
+      "relation": "next"
+    },
+    {
+      "source": "e0050",
+      "target": "e0051",
+      "relation": "next"
+    },
+    {
+      "source": "e0051",
+      "target": "e0052",
+      "relation": "next"
+    },
+    {
+      "source": "e0052",
+      "target": "e0053",
+      "relation": "next"
+    },
+    {
+      "source": "e0053",
+      "target": "e0054",
+      "relation": "next"
+    }
+  ]
+}

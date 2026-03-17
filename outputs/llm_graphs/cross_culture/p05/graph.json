@@ -1,0 +1,282 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "\u2205 | live | man",
+      "sent_id": 0,
+      "sentence": "Long ago, beneath the vast skies where the Great Spirit breathes life into the earth, there lived a young man guided by the wisdom of a revered elder, known as the Keeper of Traditions.",
+      "subj": "",
+      "verb": "live",
+      "obj": "man"
+    },
+    {
+      "id": "e0001",
+      "label": "elder | urge | youth",
+      "sent_id": 1,
+      "sentence": "This elder, Abulfaraj, urged the youth to seek the quiet paths of solitude and reflection, avoiding the distractions of songs and celebrations.",
+      "subj": "elder",
+      "verb": "urge",
+      "obj": "youth"
+    },
+    {
+      "id": "e0002",
+      "label": "fire | burn | chest",
+      "sent_id": 2,
+      "sentence": "Yet, the fire of youth burned fiercely within his chest, awakening a longing to dance to the drumbeats and join the circle of voices beneath the stars.",
+      "subj": "fire",
+      "verb": "burn",
+      "obj": "chest"
+    },
+    {
+      "id": "e0003",
+      "label": "man | find | counsel",
+      "sent_id": 3,
+      "sentence": "Despite the elder\u2019s counsel, the young man found himself drawn one night to a gathering by the firelight, where the people had come together to share stories and music.",
+      "subj": "man",
+      "verb": "find",
+      "obj": "counsel"
+    },
+    {
+      "id": "e0004",
+      "label": "he | watch | musician",
+      "sent_id": 4,
+      "sentence": "There, he watched a solitary musician, a man who drew the bow across his native flute with such intensity it seemed as though he sought to call the very heartbeat from the earth.",
+      "subj": "he",
+      "verb": "watch",
+      "obj": "musician"
+    },
+    {
+      "id": "e0005",
+      "label": "it | be | \u2205",
+      "sent_id": 5,
+      "sentence": "But the sound he produced was not like the soft whispers of the wind through the pines\u2014it was raw, jarring, like the cry of a lone wolf mourning a lost kin.",
+      "subj": "it",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0006",
+      "label": "other | press | finger",
+      "sent_id": 6,
+      "sentence": "Some in the circle covered their ears, others pressed silent fingers to their lips, yet the music persisted.",
+      "subj": "other",
+      "verb": "press",
+      "obj": "finger"
+    },
+    {
+      "id": "e0007",
+      "label": "voice | be | \u2205",
+      "sent_id": 7,
+      "sentence": "The singer\u2019s voice was rough, not sweet like the songbirds of the meadow, but strange\u2014making the listener restless and eager for peace.",
+      "subj": "voice",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0008",
+      "label": "man | wish | \u2205",
+      "sent_id": 8,
+      "sentence": "The young man wished to escape, pleading inwardly, \"Let the morning come swiftly, or grant me ears that cannot hear this sorrow.",
+      "subj": "man",
+      "verb": "wish",
+      "obj": ""
+    },
+    {
+      "id": "e0009",
+      "label": "he | stay | night",
+      "sent_id": 9,
+      "sentence": "\"\n\nStill, he stayed through the long night, honoring his companions and the gathering\u2019s spirit.",
+      "subj": "he",
+      "verb": "stay",
+      "obj": "night"
+    },
+    {
+      "id": "e0010",
+      "label": "hoot | mark | passing",
+      "sent_id": 10,
+      "sentence": "The hoot of the owl, mistaken for the call to prayer, marked the passing of hours, yet sleep never found him under the watchful gaze of the stars.",
+      "subj": "hoot",
+      "verb": "mark",
+      "obj": "passing"
+    },
+    {
+      "id": "e0011",
+      "label": "he | take | headband",
+      "sent_id": 11,
+      "sentence": "At dawn, he took his feathered headband and a sacred shell, tokens of respect, and offered them to the musician with gratitude and embrace.",
+      "subj": "he",
+      "verb": "take",
+      "obj": "headband"
+    },
+    {
+      "id": "e0012",
+      "label": "friend | whisper | \u2205",
+      "sent_id": 12,
+      "sentence": "His friends whispered and laughed, surprised by his praise for a man who, they said, had never held wealth nor comfort, wandering from place to place like the restless wind.",
+      "subj": "friend",
+      "verb": "whisper",
+      "obj": ""
+    },
+    {
+      "id": "e0013",
+      "label": "they | claim | \u2205",
+      "sent_id": 13,
+      "sentence": "They claimed the musician\u2019s voice stirred fear and confusion, unsettling both mind and heart, and they doubted his worth.",
+      "subj": "they",
+      "verb": "claim",
+      "obj": ""
+    },
+    {
+      "id": "e0014",
+      "label": "man | silence | tongue",
+      "sent_id": 14,
+      "sentence": "The young man silenced their tongues, saying, \"Speak no ill, for tonight I have heard a truth revealed in his song.\"",
+      "subj": "man",
+      "verb": "silence",
+      "obj": "tongue"
+    },
+    {
+      "id": "e0015",
+      "label": "he | answer | \u2205",
+      "sent_id": 15,
+      "sentence": "When asked why he held such respect, he answered, \"Though my elder counseled me to avoid such revelry, it was fate and the Great Spirit that guided me here.",
+      "subj": "he",
+      "verb": "answer",
+      "obj": ""
+    },
+    {
+      "id": "e0016",
+      "label": "i | walk | song",
+      "sent_id": 16,
+      "sentence": "In this music, I found a lesson and a repentance\u2014I will no longer walk blindly from the songs of our people.",
+      "subj": "i",
+      "verb": "walk",
+      "obj": "song"
+    },
+    {
+      "id": "e0017",
+      "label": "that | captivate | flight",
+      "sent_id": 17,
+      "sentence": "\"\n\nFor there is a power in a true voice, born from a pure heart and resonant soul, that captivates like the eagle\u2019s flight or the whisper of the river.",
+      "subj": "that",
+      "verb": "captivate",
+      "obj": "flight"
+    },
+    {
+      "id": "e0018",
+      "label": "melody | soothe | heart",
+      "sent_id": 18,
+      "sentence": "Yet, even the sweetest melodies of distant lands cannot soothe a heart when sung from a spirit that is not free.",
+      "subj": "melody",
+      "verb": "soothe",
+      "obj": "heart"
+    },
+    {
+      "id": "e0019",
+      "label": "man | learn | \u2205",
+      "sent_id": 19,
+      "sentence": "Thus, the young man learned that night to honor the music of life in all its forms, and to listen beyond the surface\u2014to the pulse beneath the song.",
+      "subj": "man",
+      "verb": "learn",
+      "obj": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    }
+  ]
+}

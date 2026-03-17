@@ -1,0 +1,338 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "wodan",
+    "verb": "fashion",
+    "obj": "earth",
+    "label": "wodan | fashion | earth",
+    "sentence": "In the ancient days of the Germanic forests, after Wodan, the Great Mystery, had first fashioned the earth and breathed life into its people\u2014the Original Folk\u2014a shadow fell upon them."
+  },
+  {
+    "sent_id": 1,
+    "subj": "tribe",
+    "verb": "grow",
+    "obj": "",
+    "label": "tribe | grow | \u2205",
+    "sentence": "Once bound in kinship and respect, the tribes grew restless and quarrels sprouted like weeds in the enchanted woods."
+  },
+  {
+    "sent_id": 2,
+    "subj": "brother",
+    "verb": "turn",
+    "obj": "brother",
+    "label": "brother | turn | brother",
+    "sentence": "Brother turned against brother, and soon fierce disputes over hunting grounds and sacred groves led to bloodshed among the Original Folk."
+  },
+  {
+    "sent_id": 3,
+    "subj": "wodan",
+    "verb": "resolve",
+    "obj": "",
+    "label": "wodan | resolve | \u2205",
+    "sentence": "Seeing that harmony and honor had fled the land, Wodan resolved to cleanse the earth."
+  },
+  {
+    "sent_id": 4,
+    "subj": "he",
+    "verb": "summon",
+    "obj": "flood",
+    "label": "he | summon | flood",
+    "sentence": "He summoned a mighty flood, the Wasserflut, whose waters surged through the valleys and swallowed the forests, sweeping away most of the people and creatures alike."
+  },
+  {
+    "sent_id": 5,
+    "subj": "wotan",
+    "verb": "choose",
+    "obj": "",
+    "label": "wotan | choose | \u2205",
+    "sentence": "Only Wotan\u2019s chosen, Nanaboozhoo\u2014a wise and enduring hero of many tales\u2014and a few creatures strong and swift survived, floating atop a vast driftwood log on the endless waters."
+  },
+  {
+    "sent_id": 6,
+    "subj": "nanaboozhoo",
+    "verb": "allow",
+    "obj": "",
+    "label": "nanaboozhoo | allow | \u2205",
+    "sentence": "As the flood\u2019s depths stretched everywhere, Nanaboozhoo allowed the animals and birds to rest on the log in turn."
+  },
+  {
+    "sent_id": 7,
+    "subj": "land",
+    "verb": "lose",
+    "obj": "floodwater",
+    "label": "land | lose | floodwater",
+    "sentence": "Yet, the land was lost beneath the floodwaters, and hope dwindled."
+  },
+  {
+    "sent_id": 8,
+    "subj": "nanaboozhoo",
+    "verb": "speak",
+    "obj": "",
+    "label": "nanaboozhoo | speak | \u2205",
+    "sentence": "At last, Nanaboozhoo spoke solemnly: \u201cI will dive to the watery abyss and grasp a handful of earth."
+  },
+  {
+    "sent_id": 9,
+    "subj": "we",
+    "verb": "shape",
+    "obj": "land",
+    "label": "we | shape | land",
+    "sentence": "With it, and the aid of the four winds that dance through the northern forests, and the blessing of Wodan, we shall shape new land.\u201d"
+  },
+  {
+    "sent_id": 10,
+    "subj": "nanaboozhoo",
+    "verb": "plunge",
+    "obj": "water",
+    "label": "nanaboozhoo | plunge | water",
+    "sentence": "Nanaboozhoo plunged beneath the waters but remained unseen for a long while."
+  },
+  {
+    "sent_id": 11,
+    "subj": "he",
+    "verb": "tell",
+    "obj": "other",
+    "label": "he | tell | other",
+    "sentence": "When he emerged, breathless, he told the others that the water was too deep to reach the bottom."
+  },
+  {
+    "sent_id": 12,
+    "subj": "silence",
+    "verb": "fall",
+    "obj": "they",
+    "label": "silence | fall | they",
+    "sentence": "Silence fell upon them."
+  },
+  {
+    "sent_id": 14,
+    "subj": "he",
+    "verb": "vanish",
+    "obj": "wave",
+    "label": "he | vanish | wave",
+    "sentence": "He vanished beneath the waves and stayed gone for what seemed an eternity."
+  },
+  {
+    "sent_id": 15,
+    "subj": "he",
+    "verb": "declare",
+    "obj": "",
+    "label": "he | declare | \u2205",
+    "sentence": "When he finally surfaced, weak and trembling, he declared, \u201cNo bottom lies beneath these waters.\u201d"
+  },
+  {
+    "sent_id": 16,
+    "subj": "bird",
+    "verb": "step",
+    "obj": "",
+    "label": "bird | step | \u2205",
+    "sentence": "Next, the helldiver bird, Zhing-gi-biss, stepped forward, famed among men and beasts for his long, relentless dives."
+  },
+  {
+    "sent_id": 17,
+    "subj": "he",
+    "verb": "return",
+    "obj": "",
+    "label": "he | return | \u2205",
+    "sentence": "Yet he too returned broken and empty-beaked, unable to claim the earth from the depths."
+  },
+  {
+    "sent_id": 18,
+    "subj": "turtle",
+    "verb": "fail",
+    "obj": "",
+    "label": "turtle | fail | \u2205",
+    "sentence": "One after another\u2014the mink Zhon-gwayzh' and even the steadfast turtle Mizhee-kay\u2014all failed."
+  },
+  {
+    "sent_id": 19,
+    "subj": "hope",
+    "verb": "seem",
+    "obj": "lose",
+    "label": "hope | seem | lose",
+    "sentence": "The hope of finding the earth seemed lost."
+  },
+  {
+    "sent_id": 20,
+    "subj": "voice",
+    "verb": "whisper",
+    "obj": "",
+    "label": "voice | whisper | \u2205",
+    "sentence": "Then a faint, timid voice whispered: \u201cI can do it.\u201d"
+  },
+  {
+    "sent_id": 21,
+    "subj": "one",
+    "verb": "see",
+    "obj": "speaker",
+    "label": "one | see | speaker",
+    "sentence": "At first no one saw the speaker."
+  },
+  {
+    "sent_id": 22,
+    "subj": "muskrat",
+    "verb": "step",
+    "obj": "",
+    "label": "muskrat | step | \u2205",
+    "sentence": "Slowly, the small, gentle muskrat, Wa-zhushk, stepped forth."
+  },
+  {
+    "sent_id": 23,
+    "subj": "creature",
+    "verb": "laugh",
+    "obj": "",
+    "label": "creature | laugh | \u2205",
+    "sentence": "The larger creatures laughed, mocking his size and seeming frailty."
+  },
+  {
+    "sent_id": 25,
+    "subj": "",
+    "verb": "let",
+    "obj": "",
+    "label": "\u2205 | let | \u2205",
+    "sentence": "Let the muskrat try.\u201d"
+  },
+  {
+    "sent_id": 26,
+    "subj": "muskrat",
+    "verb": "dive",
+    "obj": "",
+    "label": "muskrat | dive | \u2205",
+    "sentence": "The muskrat dove deep and stayed submerged longer than any had dared."
+  },
+  {
+    "sent_id": 27,
+    "subj": "doubt",
+    "verb": "wash",
+    "obj": "other",
+    "label": "doubt | wash | other",
+    "sentence": "Doubt washed over the others."
+  },
+  {
+    "sent_id": 28,
+    "subj": "he",
+    "verb": "perish",
+    "obj": "",
+    "label": "he | perish | \u2205",
+    "sentence": "Surely, he had perished."
+  },
+  {
+    "sent_id": 29,
+    "subj": "paw",
+    "verb": "grasp",
+    "obj": "clod",
+    "label": "paw | grasp | clod",
+    "sentence": "But far below the waves, the tiny muskrat\u2019s paws grasped a small clod of earth."
+  },
+  {
+    "sent_id": 30,
+    "subj": "he",
+    "verb": "fight",
+    "obj": "way",
+    "label": "he | fight | way",
+    "sentence": "Weak and near spent, he fought his way upward."
+  },
+  {
+    "sent_id": 31,
+    "subj": "nanaboozhoo",
+    "verb": "catch",
+    "obj": "he",
+    "label": "nanaboozhoo | catch | he",
+    "sentence": "As he surfaced, Nanaboozhoo caught him onto the log."
+  },
+  {
+    "sent_id": 32,
+    "subj": "he",
+    "verb": "mourn",
+    "obj": "song",
+    "label": "he | mourn | song",
+    "sentence": "\u201cBrothers and sisters, the muskrat has given his life for us,\u201d he mourned as a sorrowful song rose into the sky."
+  },
+  {
+    "sent_id": 33,
+    "subj": "surprise",
+    "verb": "blossom",
+    "obj": "",
+    "label": "surprise | blossom | \u2205",
+    "sentence": "Yet then, surprise blossomed: something clenched tightly in muskrat\u2019s paw."
+  },
+  {
+    "sent_id": 34,
+    "subj": "nanaboozhoo",
+    "verb": "open",
+    "obj": "it",
+    "label": "nanaboozhoo | open | it",
+    "sentence": "Nanaboozhoo carefully opened it to reveal a small ball of earth."
+  },
+  {
+    "sent_id": 35,
+    "subj": "joy",
+    "verb": "burst",
+    "obj": "all",
+    "label": "joy | burst | all",
+    "sentence": "Joy burst forth from all who beheld it."
+  },
+  {
+    "sent_id": 36,
+    "subj": "nanaboozhoo",
+    "verb": "take",
+    "obj": "earth",
+    "label": "nanaboozhoo | take | earth",
+    "sentence": "With great respect, Nanaboozhoo took the earth."
+  },
+  {
+    "sent_id": 37,
+    "subj": "turtle",
+    "verb": "swam",
+    "obj": "",
+    "label": "turtle | swam | \u2205",
+    "sentence": "At once, the wise old turtle, Mizhee-kay, swam close and said, \u201cLet my back carry this earth."
+  },
+  {
+    "sent_id": 38,
+    "subj": "we",
+    "verb": "fashion",
+    "obj": "world",
+    "label": "we | fashion | world",
+    "sentence": "With Wodan\u2019s blessing, we shall fashion a new world.\u201d"
+  },
+  {
+    "sent_id": 39,
+    "subj": "nanaboozhoo",
+    "verb": "call",
+    "obj": "wind",
+    "label": "nanaboozhoo | call | wind",
+    "sentence": "Placing the earth upon the turtle\u2019s broad shell, Nanaboozhoo called on the Four Winds\u2014the northern, southern, eastern, and western breaths that roam the forests and mountains."
+  },
+  {
+    "sent_id": 40,
+    "subj": "they",
+    "verb": "stir",
+    "obj": "",
+    "label": "they | stir | \u2205",
+    "sentence": "They stirred and blew with mighty power, and the small clod of earth grew and grew until it rose above the waters like a new island."
+  },
+  {
+    "sent_id": 41,
+    "subj": "animal",
+    "verb": "dance",
+    "obj": "",
+    "label": "animal | dance | \u2205",
+    "sentence": "As the island expanded, the animals and Nanaboozhoo danced and sang in a growing circle upon it."
+  },
+  {
+    "sent_id": 42,
+    "subj": "wind",
+    "verb": "still",
+    "obj": "home",
+    "label": "wind | still | home",
+    "sentence": "When at last the winds stilled and the waters calmed, the great island stood firm\u2014a new home for the second peoples of the earth."
+  },
+  {
+    "sent_id": 43,
+    "subj": "respect",
+    "verb": "hold",
+    "obj": "day",
+    "label": "respect | hold | day",
+    "sentence": "To this day, in the folk songs and tales of the German lands, respect is held for the turtle whose steadfastness bore the new earth, and for the brave muskrat whose sacrifice made life anew."
+  }
+]

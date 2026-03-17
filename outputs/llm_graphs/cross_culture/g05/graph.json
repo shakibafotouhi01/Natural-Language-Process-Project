@@ -1,0 +1,730 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "\u2205 | stand | watermill",
+      "sent_id": 0,
+      "sentence": "In a distant land of ancient Persia, beside a sparkling river that wound through fragrant orchards and towering cypresses, stood a humble watermill.",
+      "subj": "",
+      "verb": "stand",
+      "obj": "watermill"
+    },
+    {
+      "id": "e0001",
+      "label": "shah | summon | girl",
+      "sent_id": 3,
+      "sentence": "The Shah, a man consumed by his desire for wealth, summoned the girl to his splendid palace of marble and turquoise tiles.",
+      "subj": "shah",
+      "verb": "summon",
+      "obj": "girl"
+    },
+    {
+      "id": "e0002",
+      "label": "he | place | wheel",
+      "sent_id": 4,
+      "sentence": "There, in a grand chamber filled with heaps of dry straw, he placed before her an ornate spinning wheel of polished rosewood and commanded, \u201cBy the dawn\u2019s first light, spin this straw into gold, or face the wrath of my displeasure.\u201d",
+      "subj": "he",
+      "verb": "place",
+      "obj": "wheel"
+    },
+    {
+      "id": "e0003",
+      "label": "i | know | nothing",
+      "sent_id": 5,
+      "sentence": "The poor maiden trembled and implored, \u201cO great Shah, this is but my father's vain boast; I know nothing of such magic.\u201d",
+      "subj": "i",
+      "verb": "know",
+      "obj": "nothing"
+    },
+    {
+      "id": "e0004",
+      "label": "door | seal | \u2205",
+      "sent_id": 6,
+      "sentence": "Yet the chamber\u2019s heavy doors were sealed tightly, and she was left alone.",
+      "subj": "door",
+      "verb": "seal",
+      "obj": ""
+    },
+    {
+      "id": "e0005",
+      "label": "she | slump | heart",
+      "sent_id": 7,
+      "sentence": "With a heart weighed by sorrow, she slumped into a cushioned corner, her tears falling like pearls upon the Persian carpet.",
+      "subj": "she",
+      "verb": "slump",
+      "obj": "heart"
+    },
+    {
+      "id": "e0006",
+      "label": "door | creak | \u2205",
+      "sent_id": 8,
+      "sentence": "Suddenly, the door creaked open and in limped a curious little figure, dressed in patched silks with eyes bright as stars\u2014a creature of the jinn or perhaps a dervish of the unseen realm.",
+      "subj": "door",
+      "verb": "creak",
+      "obj": ""
+    },
+    {
+      "id": "e0007",
+      "label": "he | say | \u2205",
+      "sent_id": 9,
+      "sentence": "\u201cPeace be upon you, fair daughter of the mill,\u201d he said.",
+      "subj": "he",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0008",
+      "label": "\u2205 | weep | you",
+      "sent_id": 10,
+      "sentence": "\u201cWhy weep you so bitterly?\u201d",
+      "subj": "",
+      "verb": "weep",
+      "obj": "you"
+    },
+    {
+      "id": "e0009",
+      "label": "i | spin | straw",
+      "sent_id": 11,
+      "sentence": "\u201cAlas, I must spin this straw into gold, yet my hands know not how.\u201d",
+      "subj": "i",
+      "verb": "spin",
+      "obj": "straw"
+    },
+    {
+      "id": "e0010",
+      "label": "sprite | smile | glint",
+      "sent_id": 12,
+      "sentence": "The sprite smiled with a cunning glint.",
+      "subj": "sprite",
+      "verb": "smile",
+      "obj": "glint"
+    },
+    {
+      "id": "e0011",
+      "label": "\u2205 | tell | i",
+      "sent_id": 13,
+      "sentence": "\u201cTell me what treasure you will offer me for this deed.\u201d",
+      "subj": "",
+      "verb": "tell",
+      "obj": "i"
+    },
+    {
+      "id": "e0012",
+      "label": "she | answer | \u2205",
+      "sent_id": 14,
+      "sentence": "\u201cMy necklace of carnelian beads,\u201d she answered, hesitant but desperate.",
+      "subj": "she",
+      "verb": "answer",
+      "obj": ""
+    },
+    {
+      "id": "e0013",
+      "label": "man | turn | wheel",
+      "sent_id": 15,
+      "sentence": "Seizing the necklace, the little man turned to the wheel.",
+      "subj": "man",
+      "verb": "turn",
+      "obj": "wheel"
+    },
+    {
+      "id": "e0014",
+      "label": "he | chant | thread",
+      "sent_id": 16,
+      "sentence": "He chanted softly in an ancient tongue and began to whirl the spindle:\n\n\u201cTurn, turn, O sacred thread,\nFrom humble straw to gleaming dread,\nBy moon\u2019s light and morning\u2019s gleam,\nSpin the gold from this poor dream.\u201d",
+      "subj": "he",
+      "verb": "chant",
+      "obj": "thread"
+    },
+    {
+      "id": "e0015",
+      "label": "wheel | spin | \u2205",
+      "sent_id": 17,
+      "sentence": "The wheel spun faster and faster, until the straw gleamed like the setting sun on the desert dunes.",
+      "subj": "wheel",
+      "verb": "spin",
+      "obj": ""
+    },
+    {
+      "id": "e0016",
+      "label": "eye | gleam | greed",
+      "sent_id": 18,
+      "sentence": "When the Shah beheld the golden bounty, his eyes gleamed with greed anew.",
+      "subj": "eye",
+      "verb": "gleam",
+      "obj": "greed"
+    },
+    {
+      "id": "e0017",
+      "label": "he | demand | \u2205",
+      "sent_id": 19,
+      "sentence": "Yet he demanded the maiden spin a greater pile before the next nightfall.",
+      "subj": "he",
+      "verb": "demand",
+      "obj": ""
+    },
+    {
+      "id": "e0018",
+      "label": "she | cry | \u2205",
+      "sent_id": 20,
+      "sentence": "Again, trapped in her gilded prison, she cried out until the mysterious visitor returned.",
+      "subj": "she",
+      "verb": "cry",
+      "obj": ""
+    },
+    {
+      "id": "e0019",
+      "label": "she | say | \u2205",
+      "sent_id": 21,
+      "sentence": "\u201cWhat will you give me this time?\u201d\n\n\u201cMy mother\u2019s ring,\u201d she said, trembling.",
+      "subj": "she",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0020",
+      "label": "heap | become | dawn",
+      "sent_id": 22,
+      "sentence": "Again, with whispered words and graceful spinning, the little man worked his marvel; the heaps became gold before dawn.",
+      "subj": "heap",
+      "verb": "become",
+      "obj": "dawn"
+    },
+    {
+      "id": "e0021",
+      "label": "hunger | be | \u2205",
+      "sent_id": 23,
+      "sentence": "But the Shah\u2019s hunger for riches was insatiable.",
+      "subj": "hunger",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0022",
+      "label": "he | lead | she",
+      "sent_id": 24,
+      "sentence": "He led her to a mountain of straw larger than before and said, \u201cSpin all this into gold by sunrise, and you shall be my queen.\u201d",
+      "subj": "he",
+      "verb": "lead",
+      "obj": "she"
+    },
+    {
+      "id": "e0023",
+      "label": "despair | overcome | she",
+      "sent_id": 25,
+      "sentence": "Alone within the vast chamber, despair overcame her.",
+      "subj": "despair",
+      "verb": "overcome",
+      "obj": "she"
+    },
+    {
+      "id": "e0024",
+      "label": "sprite | appear | \u2205",
+      "sent_id": 26,
+      "sentence": "The sprite appeared once more.",
+      "subj": "sprite",
+      "verb": "appear",
+      "obj": ""
+    },
+    {
+      "id": "e0025",
+      "label": "she | sigh | \u2205",
+      "sent_id": 27,
+      "sentence": "\u201cWhat can you offer now?\u201d\n\n\u201cNothing remains,\u201d she sighed.",
+      "subj": "she",
+      "verb": "sigh",
+      "obj": ""
+    },
+    {
+      "id": "e0026",
+      "label": "man | say | eye",
+      "sent_id": 28,
+      "sentence": "\u201cThen promise me your firstborn child when you reign as queen,\u201d the little man said with sharp eyes.",
+      "subj": "man",
+      "verb": "say",
+      "obj": "eye"
+    },
+    {
+      "id": "e0027",
+      "label": "she | see | choice",
+      "sent_id": 29,
+      "sentence": "Though her heart quailed, she saw no choice and agreed.",
+      "subj": "she",
+      "verb": "see",
+      "obj": "choice"
+    },
+    {
+      "id": "e0028",
+      "label": "wheel | sing | spell",
+      "sent_id": 30,
+      "sentence": "Once more the wheel sang its spell, and the straw turned to gold beneath the watchful eye of dawn.",
+      "subj": "wheel",
+      "verb": "sing",
+      "obj": "spell"
+    },
+    {
+      "id": "e0029",
+      "label": "shah | marry | daughter",
+      "sent_id": 31,
+      "sentence": "The Shah, true to his word, married the miller\u2019s daughter, who ascended the throne and wore a crown of emeralds and pearls.",
+      "subj": "shah",
+      "verb": "marry",
+      "obj": "daughter"
+    },
+    {
+      "id": "e0030",
+      "label": "joy | fill | hall",
+      "sent_id": 32,
+      "sentence": "When her first child was born, joy filled the palace halls, and she forgot the dark promise and the strange man.",
+      "subj": "joy",
+      "verb": "fill",
+      "obj": "hall"
+    },
+    {
+      "id": "e0031",
+      "label": "figure | return | \u2205",
+      "sent_id": 33,
+      "sentence": "But one day, as she cradled her infant by the light of the quince tree, the little figure returned, demanding his due.",
+      "subj": "figure",
+      "verb": "return",
+      "obj": ""
+    },
+    {
+      "id": "e0032",
+      "label": "queen | offer | wealth",
+      "sent_id": 34,
+      "sentence": "Grief-stricken, the queen offered all the wealth of her kingdom for release, but the stranger\u2019s heart was hard.",
+      "subj": "queen",
+      "verb": "offer",
+      "obj": "wealth"
+    },
+    {
+      "id": "e0033",
+      "label": "he | speak | \u2205",
+      "sent_id": 35,
+      "sentence": "Then he spoke, \u201cI grant you three days.",
+      "subj": "he",
+      "verb": "speak",
+      "obj": ""
+    },
+    {
+      "id": "e0034",
+      "label": "she | ponder | name",
+      "sent_id": 36,
+      "sentence": "If before they pass you can guess my name, you shall keep your child.\u201d\n\nThrough sleepless nights she pondered names from far and near\u2014names whispered along caravan routes and sung in taverns from Isfahan to Shiraz.",
+      "subj": "she",
+      "verb": "ponder",
+      "obj": "name"
+    },
+    {
+      "id": "e0035",
+      "label": "she | send | rider",
+      "sent_id": 37,
+      "sentence": "She sent swift riders across the realm to discover every strange and secret name.",
+      "subj": "she",
+      "verb": "send",
+      "obj": "rider"
+    },
+    {
+      "id": "e0036",
+      "label": "she | guess | name",
+      "sent_id": 38,
+      "sentence": "On the first day, she guessed names of noblemen and ancient poets: \u201cDarius, Kaveh, Rostam.\u201d",
+      "subj": "she",
+      "verb": "guess",
+      "obj": "name"
+    },
+    {
+      "id": "e0037",
+      "label": "stranger | shake | head",
+      "sent_id": 39,
+      "sentence": "But the stranger shook his head each time.",
+      "subj": "stranger",
+      "verb": "shake",
+      "obj": "head"
+    },
+    {
+      "id": "e0038",
+      "label": "she | try | name",
+      "sent_id": 40,
+      "sentence": "On the second, she tried playful names she had heard from children: \u201cKolah Namadi, Barfi, Shirazi.\"",
+      "subj": "she",
+      "verb": "try",
+      "obj": "name"
+    },
+    {
+      "id": "e0039",
+      "label": "man | deny | they",
+      "sent_id": 41,
+      "sentence": "Yet again, the little man denied them all.",
+      "subj": "man",
+      "verb": "deny",
+      "obj": "they"
+    },
+    {
+      "id": "e0040",
+      "label": "messenger | return | day",
+      "sent_id": 42,
+      "sentence": "On the third day, a messenger returned from a lonely hill where peacocks roamed and pomegranate trees blossomed under a sapphire sky.",
+      "subj": "messenger",
+      "verb": "return",
+      "obj": "day"
+    },
+    {
+      "id": "e0041",
+      "label": "rider | tell | she",
+      "sent_id": 43,
+      "sentence": "The rider told her:\n\n\u201cAs I climbed the hill at dusk, I saw a small hut where a fire flickered, and around it danced a peculiar little man on one leg, singing in a voice as light as jasmine breeze:\n\n\u2018Joyfully I feast and play,\nBrew today and bake next day;\nDance and chant without a shame,\nFor my name is Amoo Zhalam!\u2019",
+      "subj": "rider",
+      "verb": "tell",
+      "obj": "she"
+    },
+    {
+      "id": "e0042",
+      "label": "she | smile | \u2205",
+      "sent_id": 45,
+      "sentence": "When the little man came, she smiled and called out, \u201cIs your name Dervish?\u201d",
+      "subj": "she",
+      "verb": "smile",
+      "obj": ""
+    },
+    {
+      "id": "e0043",
+      "label": "queen | come | \u2205",
+      "sent_id": 46,
+      "sentence": "\u201cNo, O Queen!\u201d came the sharp reply.",
+      "subj": "queen",
+      "verb": "come",
+      "obj": ""
+    },
+    {
+      "id": "e0044",
+      "label": "it | be | bahram",
+      "sent_id": 47,
+      "sentence": "\u201cIs it Bahram?\u201d\n\n\u201cNo, my lady!\u201d",
+      "subj": "it",
+      "verb": "be",
+      "obj": "bahram"
+    },
+    {
+      "id": "e0045",
+      "label": "it | be | zhalam",
+      "sent_id": 48,
+      "sentence": "\u201cIs it Amoo Zhalam?\u201d",
+      "subj": "it",
+      "verb": "be",
+      "obj": "zhalam"
+    },
+    {
+      "id": "e0046",
+      "label": "face | twist | this",
+      "sent_id": 49,
+      "sentence": "At this, the creature\u2019s face twisted in fury.",
+      "subj": "face",
+      "verb": "twist",
+      "obj": "this"
+    },
+    {
+      "id": "e0047",
+      "label": "witch | tell | that",
+      "sent_id": 50,
+      "sentence": "\u201cA witch must have told you that!\u201d",
+      "subj": "witch",
+      "verb": "tell",
+      "obj": "that"
+    },
+    {
+      "id": "e0048",
+      "label": "he | hiss | \u2205",
+      "sent_id": 51,
+      "sentence": "he hissed, stamping a foot so hard it struck the stone floor, then clutching it fiercely to pull it free.",
+      "subj": "he",
+      "verb": "hiss",
+      "obj": ""
+    },
+    {
+      "id": "e0049",
+      "label": "he | vanish | that",
+      "sent_id": 52,
+      "sentence": "And with that, he vanished into the swirling night air.",
+      "subj": "he",
+      "verb": "vanish",
+      "obj": "that"
+    },
+    {
+      "id": "e0050",
+      "label": "baby | gurgle | \u2205",
+      "sent_id": 53,
+      "sentence": "The nurse laughed softly, the baby gurgled sweetly, and the court burst into joyful mirth, exclaiming, \u201cLong live the queen and her cleverness!",
+      "subj": "baby",
+      "verb": "gurgle",
+      "obj": ""
+    },
+    {
+      "id": "e0051",
+      "label": "name | know | tale",
+      "sent_id": 54,
+      "sentence": "May Amoo Zhalam\u2019s name be forever known in tale and song.\u201d",
+      "subj": "name",
+      "verb": "know",
+      "obj": "tale"
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    },
+    {
+      "source": "e0029",
+      "target": "e0030",
+      "relation": "next"
+    },
+    {
+      "source": "e0030",
+      "target": "e0031",
+      "relation": "next"
+    },
+    {
+      "source": "e0031",
+      "target": "e0032",
+      "relation": "next"
+    },
+    {
+      "source": "e0032",
+      "target": "e0033",
+      "relation": "next"
+    },
+    {
+      "source": "e0033",
+      "target": "e0034",
+      "relation": "next"
+    },
+    {
+      "source": "e0034",
+      "target": "e0035",
+      "relation": "next"
+    },
+    {
+      "source": "e0035",
+      "target": "e0036",
+      "relation": "next"
+    },
+    {
+      "source": "e0036",
+      "target": "e0037",
+      "relation": "next"
+    },
+    {
+      "source": "e0037",
+      "target": "e0038",
+      "relation": "next"
+    },
+    {
+      "source": "e0038",
+      "target": "e0039",
+      "relation": "next"
+    },
+    {
+      "source": "e0039",
+      "target": "e0040",
+      "relation": "next"
+    },
+    {
+      "source": "e0040",
+      "target": "e0041",
+      "relation": "next"
+    },
+    {
+      "source": "e0041",
+      "target": "e0042",
+      "relation": "next"
+    },
+    {
+      "source": "e0042",
+      "target": "e0043",
+      "relation": "next"
+    },
+    {
+      "source": "e0043",
+      "target": "e0044",
+      "relation": "next"
+    },
+    {
+      "source": "e0044",
+      "target": "e0045",
+      "relation": "next"
+    },
+    {
+      "source": "e0045",
+      "target": "e0046",
+      "relation": "next"
+    },
+    {
+      "source": "e0046",
+      "target": "e0047",
+      "relation": "next"
+    },
+    {
+      "source": "e0047",
+      "target": "e0048",
+      "relation": "next"
+    },
+    {
+      "source": "e0048",
+      "target": "e0049",
+      "relation": "next"
+    },
+    {
+      "source": "e0049",
+      "target": "e0050",
+      "relation": "next"
+    },
+    {
+      "source": "e0050",
+      "target": "e0051",
+      "relation": "next"
+    }
+  ]
+}

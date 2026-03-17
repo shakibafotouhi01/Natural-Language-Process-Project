@@ -1,0 +1,490 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "people",
+    "verb": "perish",
+    "obj": "save",
+    "label": "people | perish | save",
+    "sentence": "Once upon a time, in a quiet Germanic realm cloaked by endless forests and misty moors, all the people had perished save for two helpless children\u2014a baby boy and his elder sister."
+  },
+  {
+    "sent_id": 1,
+    "subj": "parent",
+    "verb": "die",
+    "obj": "",
+    "label": "parent | die | \u2205",
+    "sentence": "Their parents had died while they slept, leaving the siblings to awaken alone in a small timbered hut by the edge of the Schwarzwald."
+  },
+  {
+    "sent_id": 2,
+    "subj": "girl",
+    "verb": "be",
+    "obj": "first",
+    "label": "girl | be | first",
+    "sentence": "The girl, a calm and watchful child, was the first to rouse."
+  },
+  {
+    "sent_id": 3,
+    "subj": "she",
+    "verb": "look",
+    "obj": "",
+    "label": "she | look | \u2205",
+    "sentence": "She looked around and, seeing no one but her little brother smiling in his dreams, lay back down in the straw-filled bed."
+  },
+  {
+    "sent_id": 4,
+    "subj": "day",
+    "verb": "pass",
+    "obj": "",
+    "label": "day | pass | \u2205",
+    "sentence": "Ten days passed, and the boy shifted slightly without opening his eyes."
+  },
+  {
+    "sent_id": 6,
+    "subj": "radiance",
+    "verb": "hover",
+    "obj": "watch",
+    "label": "radiance | hover | watch",
+    "sentence": "Yet in those quiet watches, a faint, silvery radiance hovered about his head, lighting the dark hut with an otherworldly glow that puzzled his sister."
+  },
+  {
+    "sent_id": 7,
+    "subj": "growth",
+    "verb": "be",
+    "obj": "",
+    "label": "growth | be | \u2205",
+    "sentence": "As the seasons turned, the girl grew into a young woman; meanwhile, the boy\u2019s growth was slow and measured."
+  },
+  {
+    "sent_id": 8,
+    "subj": "year",
+    "verb": "go",
+    "obj": "youth",
+    "label": "year | go | youth",
+    "sentence": "Many years went by before he could crawl, and well into his youth before he could stand unaided."
+  },
+  {
+    "sent_id": 9,
+    "subj": "sister",
+    "verb": "craft",
+    "obj": "bow",
+    "label": "sister | craft | bow",
+    "sentence": "When he finally learned to walk, his sister crafted a small bow and arrow for him, and hung a tiny snail shell around his neck, softly saying, \u201cYour name shall be Schneckenkind\u2014He of the Little Shell.\u201d"
+  },
+  {
+    "sent_id": 10,
+    "subj": "boy",
+    "verb": "venture",
+    "obj": "wood",
+    "label": "boy | venture | wood",
+    "sentence": "Every day, the boy ventured into the dense woods with his bow, aiming at the small creatures of the forest."
+  },
+  {
+    "sent_id": 11,
+    "subj": "bird",
+    "verb": "be",
+    "obj": "tit",
+    "label": "bird | be | tit",
+    "sentence": "The first bird he felled was a lively coal tit."
+  },
+  {
+    "sent_id": 12,
+    "subj": "sister",
+    "verb": "be",
+    "obj": "",
+    "label": "sister | be | \u2205",
+    "sentence": "His sister was delighted and carefully preserved the delicate creature as a trophy."
+  },
+  {
+    "sent_id": 13,
+    "subj": "he",
+    "verb": "catch",
+    "obj": "squirrel",
+    "label": "he | catch | squirrel",
+    "sentence": "On the next day, he caught a red squirrel, which she also saved."
+  },
+  {
+    "sent_id": 14,
+    "subj": "partridge",
+    "verb": "provide",
+    "obj": "meal",
+    "label": "partridge | provide | meal",
+    "sentence": "By the third day, a wood partridge provided the evening meal."
+  },
+  {
+    "sent_id": 15,
+    "subj": "schneckenkind",
+    "verb": "roam",
+    "obj": "courage",
+    "label": "schneckenkind | roam | courage",
+    "sentence": "With newfound courage, Schneckenkind roamed further into the forest."
+  },
+  {
+    "sent_id": 16,
+    "subj": "skill",
+    "verb": "grow",
+    "obj": "",
+    "label": "skill | grow | \u2205",
+    "sentence": "His skill grew as he hunted deer, boars, and even bears."
+  },
+  {
+    "sent_id": 17,
+    "subj": "he",
+    "verb": "become",
+    "obj": "woodsman",
+    "label": "he | become | woodsman",
+    "sentence": "Though small, he became a master woodsman, bringing back all he caught to share with his sister."
+  },
+  {
+    "sent_id": 18,
+    "subj": "light",
+    "verb": "dance",
+    "obj": "head",
+    "label": "light | dance | head",
+    "sentence": "Each time he entered their lodge, that same mysterious light danced about his head, filling the room with a strange, silver splendor."
+  },
+  {
+    "sent_id": 19,
+    "subj": "he",
+    "verb": "remain",
+    "obj": "",
+    "label": "he | remain | \u2205",
+    "sentence": "Though Schneckenkind had reached the age of a man in years, he remained as small as a child."
+  },
+  {
+    "sent_id": 20,
+    "subj": "he",
+    "verb": "spy",
+    "obj": "figure",
+    "label": "he | spy | figure",
+    "sentence": "One winter\u2019s day, wandering near a frozen lake, he spied a giant figure busy trapping beavers on the ice."
+  },
+  {
+    "sent_id": 21,
+    "subj": "giant",
+    "verb": "be",
+    "obj": "",
+    "label": "giant | be | \u2205",
+    "sentence": "The giant was broad-shouldered, clad in a heavy fur coat lined with wolf pelts, and wielded a massive spear."
+  },
+  {
+    "sent_id": 23,
+    "subj": "schneckenkind",
+    "verb": "creep",
+    "obj": "",
+    "label": "schneckenkind | creep | \u2205",
+    "sentence": "After the giant had hunted many beavers and hauled them onto a wooden sled, Schneckenkind crept alongside and, wielding his enchanted shell, deftly snipped off the tail of one beaver before slipping away."
+  },
+  {
+    "sent_id": 24,
+    "subj": "he",
+    "verb": "baffle",
+    "obj": "",
+    "label": "he | baffle | \u2205",
+    "sentence": "When the giant returned, he was baffled to find one of his catches missing its tail, muttering curses in his guttural voice."
+  },
+  {
+    "sent_id": 25,
+    "subj": "schneckenkind",
+    "verb": "repeat",
+    "obj": "feat",
+    "label": "schneckenkind | repeat | feat",
+    "sentence": "The next day, Schneckenkind repeated the feat, again stealing a beaver\u2019s tail from under the giant\u2019s nose."
+  },
+  {
+    "sent_id": 26,
+    "subj": "giant",
+    "verb": "swear",
+    "obj": "",
+    "label": "giant | swear | \u2205",
+    "sentence": "Furious, the giant swore he would find and punish the elusive thief."
+  },
+  {
+    "sent_id": 27,
+    "subj": "magic",
+    "verb": "make",
+    "obj": "",
+    "label": "magic | make | \u2205",
+    "sentence": "Yet, despite his keen eyes and heavy footsteps, he found no trace\u2014Schneckenkind\u2019s magic made him invisible and silent as the forest shadows."
+  },
+  {
+    "sent_id": 28,
+    "subj": "giant",
+    "verb": "arrive",
+    "obj": "day",
+    "label": "giant | arrive | day",
+    "sentence": "On the following day, the giant arrived early, hoping to trap the little man."
+  },
+  {
+    "sent_id": 29,
+    "subj": "he",
+    "verb": "chase",
+    "obj": "they",
+    "label": "he | chase | they",
+    "sentence": "Hunting the fresh tracks, he chased them through snow and ice, but just as he neared his hut, he caught sight of Schneckenkind\u2014who allowed himself to be seen."
+  },
+  {
+    "sent_id": 30,
+    "subj": "giant",
+    "verb": "growl",
+    "obj": "",
+    "label": "giant | growl | \u2205",
+    "sentence": "The giant growled thunderously, \u201cWho are you, little man?"
+  },
+  {
+    "sent_id": 31,
+    "subj": "i",
+    "verb": "mean",
+    "obj": "",
+    "label": "i | mean | \u2205",
+    "sentence": "I mean to vanquish you.\u201d"
+  },
+  {
+    "sent_id": 32,
+    "subj": "schneckenkind",
+    "verb": "reply",
+    "obj": "bravery",
+    "label": "schneckenkind | reply | bravery",
+    "sentence": "But Schneckenkind replied with calm bravery, \u201cYou will never catch me.\u201d"
+  },
+  {
+    "sent_id": 33,
+    "subj": "giant",
+    "verb": "lunge",
+    "obj": "",
+    "label": "giant | lunge | \u2205",
+    "sentence": "The giant lunged, but Schnneckenkind vanished like mist."
+  },
+  {
+    "sent_id": 34,
+    "subj": "",
+    "verb": "demand",
+    "obj": "giant",
+    "label": "\u2205 | demand | giant",
+    "sentence": "\u201cWhere are you now?\u201d demanded the giant."
+  },
+  {
+    "sent_id": 35,
+    "subj": "voice",
+    "verb": "come",
+    "obj": "belt",
+    "label": "voice | come | belt",
+    "sentence": "\u201cUnder your belt,\u201d came the voice."
+  },
+  {
+    "sent_id": 36,
+    "subj": "giant",
+    "verb": "strike",
+    "obj": "hand",
+    "label": "giant | strike | hand",
+    "sentence": "The giant struck his broad hand down, but found only empty air."
+  },
+  {
+    "sent_id": 38,
+    "subj": "giant",
+    "verb": "roar",
+    "obj": "",
+    "label": "giant | roar | \u2205",
+    "sentence": "the giant roared."
+  },
+  {
+    "sent_id": 40,
+    "subj": "voice",
+    "verb": "tease",
+    "obj": "",
+    "label": "voice | tease | \u2205",
+    "sentence": "the voice teased."
+  },
+  {
+    "sent_id": 41,
+    "subj": "giant",
+    "verb": "grab",
+    "obj": "nose",
+    "label": "giant | grab | nose",
+    "sentence": "The giant grabbed at his nose, only to hear the tiny voice laughing far away on the snowy ground."
+  },
+  {
+    "sent_id": 43,
+    "subj": "",
+    "verb": "count",
+    "obj": "tail",
+    "label": "\u2205 | count | tail",
+    "sentence": "Count your beaver tails\u2014and know that I have taken one for my sister, too.\u201d"
+  },
+  {
+    "sent_id": 44,
+    "subj": "light",
+    "verb": "return",
+    "obj": "",
+    "label": "light | return | \u2205",
+    "sentence": "As he vanished, the silver light returned, bathing the snow in a magical glow, a sight the slow-witted giant could not comprehend."
+  },
+  {
+    "sent_id": 45,
+    "subj": "schneckenkind",
+    "verb": "tell",
+    "obj": "sister",
+    "label": "schneckenkind | tell | sister",
+    "sentence": "Returning home, Schneckenkind told his sister that their time together was nearing its end."
+  },
+  {
+    "sent_id": 46,
+    "subj": "it",
+    "verb": "be",
+    "obj": "fate",
+    "label": "it | be | fate",
+    "sentence": "\u201cI must journey away; it is my fate."
+  },
+  {
+    "sent_id": 47,
+    "subj": "she",
+    "verb": "say",
+    "obj": "",
+    "label": "she | say | \u2205",
+    "sentence": "Tell me, where would you wish to dwell?\u201d\n\n\u201cMy heart longs for the place where dawn breaks\u2014the eastern sky,\u201d she said softly."
+  },
+  {
+    "sent_id": 49,
+    "subj": "",
+    "verb": "think",
+    "obj": "i",
+    "label": "\u2205 | think | i",
+    "sentence": "When you see the painted skies, think of me, shining bright.\u201d"
+  },
+  {
+    "sent_id": 50,
+    "subj": "",
+    "verb": "make",
+    "obj": "home",
+    "label": "\u2205 | make | home",
+    "sentence": "\u201cAnd I,\u201d said Schneckenkind, \u201cwill make my home on the highest mountains, where streams run clear and the air is pure."
+  },
+  {
+    "sent_id": 51,
+    "subj": "light",
+    "verb": "shine",
+    "obj": "head",
+    "label": "light | shine | head",
+    "sentence": "There, golden light will shine forever around my head, and they will call me Berggeist\u2014the Little Wild Man of the Mountains."
+  },
+  {
+    "sent_id": 52,
+    "subj": "i",
+    "verb": "seek",
+    "obj": "spirit",
+    "label": "i | seek | spirit",
+    "sentence": "But before we part, I must seek out the spirits who rule the earth and learn who will be friend or foe.\u201d"
+  },
+  {
+    "sent_id": 53,
+    "subj": "he",
+    "verb": "travel",
+    "obj": "land",
+    "label": "he | travel | land",
+    "sentence": "So he traveled far across the land and even descended into the deep earth, where a fierce giant spirit kept a boiling cauldron."
+  },
+  {
+    "sent_id": 54,
+    "subj": "giant",
+    "verb": "recognize",
+    "obj": "schneckenkind",
+    "label": "giant | recognize | schneckenkind",
+    "sentence": "This giant, kin to the one who hunted beavers, recognized Schneckenkind and cast him into the kettle to drown."
+  },
+  {
+    "sent_id": 55,
+    "subj": "schneckenkind",
+    "verb": "empty",
+    "obj": "cauldron",
+    "label": "schneckenkind | empty | cauldron",
+    "sentence": "But with the power of his magic shell, Schneckenkind emptied the cauldron in an instant and leapt free, unharmed."
+  },
+  {
+    "sent_id": 56,
+    "subj": "he",
+    "verb": "return",
+    "obj": "sister",
+    "label": "he | return | sister",
+    "sentence": "He returned to his sister and told her all he had seen."
+  },
+  {
+    "sent_id": 57,
+    "subj": "",
+    "verb": "dwell",
+    "obj": "spirit",
+    "label": "\u2205 | dwell | spirit",
+    "sentence": "\u201cAt each of the four corners of the earth dwells a spirit, and above them all a Great Being who decides our fate."
+  },
+  {
+    "sent_id": 58,
+    "subj": "",
+    "verb": "be",
+    "obj": "spirit",
+    "label": "\u2205 | be | spirit",
+    "sentence": "There is also a wicked spirit deep beneath the earth to avoid."
+  },
+  {
+    "sent_id": 59,
+    "subj": "you",
+    "verb": "carry",
+    "obj": "",
+    "label": "you | carry | \u2205",
+    "sentence": "When the winds blow from the four corners, you must go\u2014you will be carried to where you long to be."
+  },
+  {
+    "sent_id": 60,
+    "subj": "i",
+    "verb": "dwell",
+    "obj": "height",
+    "label": "i | dwell | height",
+    "sentence": "I shall dwell among the rocky heights, where my kin delight.\u201d\n\nWith that, Schneckenkind took his bow and set out up a towering mountain."
+  },
+  {
+    "sent_id": 62,
+    "subj": "",
+    "verb": "blow",
+    "obj": "",
+    "label": "\u2205 | blow | \u2205",
+    "sentence": "Blow, winds, blow!"
+  },
+  {
+    "sent_id": 63,
+    "subj": "sister",
+    "verb": "linger",
+    "obj": "",
+    "label": "sister | linger | \u2205",
+    "sentence": "My sister lingers \nWhere the dawn with rosy fingers \nPaints the skies on morning\u2019s breath, \nBathing clouds in shades of death."
+  },
+  {
+    "sent_id": 64,
+    "subj": "",
+    "verb": "guide",
+    "obj": "wood",
+    "label": "\u2205 | guide | wood",
+    "sentence": "There her gleaming face I\u2019ll see, \nGuiding through the wood and lea."
+  },
+  {
+    "sent_id": 65,
+    "subj": "",
+    "verb": "sing",
+    "obj": "wild",
+    "label": "\u2205 | sing | wild",
+    "sentence": "While I roam the mountain peaks, \nSing my wild and wordless speaks."
+  },
+  {
+    "sent_id": 66,
+    "subj": "wind",
+    "verb": "rise",
+    "obj": "",
+    "label": "wind | rise | \u2205",
+    "sentence": "Soon the winds rose, swirling through the forest, lifting his sister toward the blush of dawn."
+  },
+  {
+    "sent_id": 67,
+    "subj": "she",
+    "verb": "remain",
+    "obj": "light",
+    "label": "she | remain | light",
+    "sentence": "There she remains still, a shining light in the morning sky\u2014the Morning Star of the Schwarzwald, forever watching."
+  }
+]

@@ -1,0 +1,576 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "\u2205 | live | man",
+      "sent_id": 0,
+      "sentence": "Once, in the rolling hills and dark forests of old Saxony, there lived a man named Aggo Dah Gauda, who bore a stubborn fate: one of his legs was bound tightly up to his thigh, a punishment for once using that very foot against a revered forest healer, a wise Kr\u00e4uterfrau.",
+      "subj": "",
+      "verb": "live",
+      "obj": "man"
+    },
+    {
+      "id": "e0001",
+      "label": "this | force | aggo",
+      "sent_id": 1,
+      "sentence": "This forced Aggo to move by hopping, yet through tireless practice, he became highly skilled, leaping across the forest glades with an agility that seemed almost magical.",
+      "subj": "this",
+      "verb": "force",
+      "obj": "aggo"
+    },
+    {
+      "id": "e0002",
+      "label": "house | stand | edge",
+      "sent_id": 2,
+      "sentence": "Aggo was a man of some standing; his humble timber-framed house stood proudly at the edge of a great clearing, and his courtyard stretched as far as the eye could see toward the setting sun.",
+      "subj": "house",
+      "verb": "stand",
+      "obj": "edge"
+    },
+    {
+      "id": "e0003",
+      "label": "treasure | be | daughter",
+      "sent_id": 3,
+      "sentence": "His dearest treasure was his lovely daughter, whose beauty was said to rival that of the morning sun glistening on the river Elbe.",
+      "subj": "treasure",
+      "verb": "be",
+      "obj": "daughter"
+    },
+    {
+      "id": "e0004",
+      "label": "heart | be | \u2205",
+      "sent_id": 4,
+      "sentence": "Yet Aggo\u2019s heart was heavy with worry, for he feared the King of the Wisents\u2014the mighty ruler of the herds that roamed these ancient woods\u2014who wielded power over all the great bison and could command them as he pleased.",
+      "subj": "heart",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0005",
+      "label": "aggo | warn | daughter",
+      "sent_id": 5,
+      "sentence": "Aggo warned his daughter sternly to remain indoors, for the Wisent King prowled near by, ever watchful and ready to carry her away into his realm.",
+      "subj": "aggo",
+      "verb": "warn",
+      "obj": "daughter"
+    },
+    {
+      "id": "e0006",
+      "label": "aggo | set | wisps",
+      "sent_id": 6,
+      "sentence": "One bright morning, with just a few wisps of mist curling in the air, Aggo set out with his fishing spear, reminding his daughter as he left: \u201cMy child, stay within the house.",
+      "subj": "aggo",
+      "verb": "set",
+      "obj": "wisps"
+    },
+    {
+      "id": "e0007",
+      "label": "king | watch | eye",
+      "sent_id": 7,
+      "sentence": "The Wisent King watches with unblinking eyes, and the forest is no place for you alone.\u201d\n\nWith that, he hopped off, his good spirits high.",
+      "subj": "king",
+      "verb": "watch",
+      "obj": "eye"
+    },
+    {
+      "id": "e0008",
+      "label": "he | reach | riverbank",
+      "sent_id": 8,
+      "sentence": "But scarcely had he reached the glistening riverbank when a strange song floated on the breeze:\n\nMan with his leg bound tight, \nMan with his leg bound tight, \nLeg broken\u2014broke\u2014 \nBroken right.",
+      "subj": "he",
+      "verb": "reach",
+      "obj": "riverbank"
+    },
+    {
+      "id": "e0009",
+      "label": "one | be | sight",
+      "sent_id": 9,
+      "sentence": "No one was in sight, yet Aggo heard the mocking tune clearly, and knowing it to be the work of the Wisent King\u2019s spies, he hurried home as fast as his one leg could carry him.",
+      "subj": "one",
+      "verb": "be",
+      "obj": "sight"
+    },
+    {
+      "id": "e0010",
+      "label": "daughter | grow | confinement",
+      "sent_id": 10,
+      "sentence": "Left alone, the daughter grew restless with her confinement.",
+      "subj": "daughter",
+      "verb": "grow",
+      "obj": "confinement"
+    },
+    {
+      "id": "e0011",
+      "label": "she | think | \u2205",
+      "sent_id": 11,
+      "sentence": "\u201cIt is cruel to be locked away while the forest calls to me,\u201d she thought.",
+      "subj": "she",
+      "verb": "think",
+      "obj": ""
+    },
+    {
+      "id": "e0012",
+      "label": "warning | haunt | i",
+      "sent_id": 12,
+      "sentence": "\u201cBut father\u2019s warning haunts me.",
+      "subj": "warning",
+      "verb": "haunt",
+      "obj": "i"
+    },
+    {
+      "id": "e0013",
+      "label": "i | climb | roof",
+      "sent_id": 13,
+      "sentence": "Yet I know what I will do\u2014I shall climb to the roof and braid my hair in the soft sunlight, safe above the reach of harm.\u201d",
+      "subj": "i",
+      "verb": "climb",
+      "obj": "roof"
+    },
+    {
+      "id": "e0014",
+      "label": "she | climb | shingle",
+      "sent_id": 14,
+      "sentence": "So she climbed to the heavy wooden shingles and began to untangle and comb her long, shining hair, which flowed in thick waves so long that it spilled like golden ribbons down the side of the house and brushed the forest floor as she sat.",
+      "subj": "she",
+      "verb": "climb",
+      "obj": "shingle"
+    },
+    {
+      "id": "e0015",
+      "label": "king | charge | tree",
+      "sent_id": 15,
+      "sentence": "Unaware of danger, she was suddenly seized\u2014the Wisent King charged through the trees with his herd thundering behind him.",
+      "subj": "king",
+      "verb": "charge",
+      "obj": "tree"
+    },
+    {
+      "id": "e0016",
+      "label": "he | lift | she",
+      "sent_id": 16,
+      "sentence": "Catching hold of the shimmering locks, he lifted her onto the back of his largest bison and rode swiftly across the open glades.",
+      "subj": "he",
+      "verb": "lift",
+      "obj": "she"
+    },
+    {
+      "id": "e0017",
+      "label": "he | bear | she",
+      "sent_id": 17,
+      "sentence": "Crossing a chilly river that marked the edge of his domain, he bore her away to a lodge hidden deep in the ancient forest.",
+      "subj": "he",
+      "verb": "bear",
+      "obj": "she"
+    },
+    {
+      "id": "e0018",
+      "label": "king | seek | \u2205",
+      "sent_id": 18,
+      "sentence": "There, the Wisent King sought to win her heart, but she remained withdrawn, gloomy as the dark pine trees under a moonless sky.",
+      "subj": "king",
+      "verb": "seek",
+      "obj": ""
+    },
+    {
+      "id": "e0019",
+      "label": "she | speak | \u2205",
+      "sent_id": 19,
+      "sentence": "Though he lavished her with the choicest venison and wild herbs, placed her in the seat of honour beneath his great oak beams, and gave her gentle rides upon his quietest bison, she spoke little and showed no warmth.",
+      "subj": "she",
+      "verb": "speak",
+      "obj": ""
+    },
+    {
+      "id": "e0020",
+      "label": "he | vow | \u2205",
+      "sent_id": 20,
+      "sentence": "He vowed that none in his lodge must harm or displease her, and sometimes he played a haunting melody on his flute beneath her window, a song filled with yearning:\n\nMy beloved, \nMy beloved, \nAh me!",
+      "subj": "he",
+      "verb": "vow",
+      "obj": ""
+    },
+    {
+      "id": "e0021",
+      "label": "i | think | you",
+      "sent_id": 21,
+      "sentence": "When I think of you, \nAh me!",
+      "subj": "i",
+      "verb": "think",
+      "obj": "you"
+    },
+    {
+      "id": "e0022",
+      "label": "i | do | what",
+      "sent_id": 22,
+      "sentence": "What can I do?",
+      "subj": "i",
+      "verb": "do",
+      "obj": "what"
+    },
+    {
+      "id": "e0023",
+      "label": "i | love | you",
+      "sent_id": 23,
+      "sentence": "How I love you, \nAh me!",
+      "subj": "i",
+      "verb": "love",
+      "obj": "you"
+    },
+    {
+      "id": "e0024",
+      "label": "\u2205 | hate | i",
+      "sent_id": 24,
+      "sentence": "Do not hate me, \nSpeak\u2014if must be stern, \nBut hear my heart, \nAh me!",
+      "subj": "",
+      "verb": "hate",
+      "obj": "i"
+    },
+    {
+      "id": "e0025",
+      "label": "aggo | reach | \u2205",
+      "sent_id": 25,
+      "sentence": "Meanwhile, Aggo reached home and instantly knew his daughter was gone.",
+      "subj": "aggo",
+      "verb": "reach",
+      "obj": ""
+    },
+    {
+      "id": "e0026",
+      "label": "he | vow | \u2205",
+      "sent_id": 26,
+      "sentence": "His fury was such that he might have torn out every hair on his head, yet, being long bald, he could only hop in place to vent his grief, pacing tirelessly east, west, north, and south \u2014 until, worn but undaunted, he vowed never to rest until she was safely home.",
+      "subj": "he",
+      "verb": "vow",
+      "obj": ""
+    },
+    {
+      "id": "e0027",
+      "label": "aggo | find | river",
+      "sent_id": 27,
+      "sentence": "Tracking the Wisent King\u2019s trail, Aggo found the frozen river where the herd had crossed.",
+      "subj": "aggo",
+      "verb": "find",
+      "obj": "river"
+    },
+    {
+      "id": "e0028",
+      "label": "he | wait | \u2205",
+      "sent_id": 28,
+      "sentence": "Though the ice was thin, he waited until it grew firm, then leapt onward, following a path marked by broken twigs\u2014signs his clever daughter had left, catching her hair on branches during her abduction.",
+      "subj": "he",
+      "verb": "wait",
+      "obj": ""
+    },
+    {
+      "id": "e0029",
+      "label": "aggo | reach | lodge",
+      "sent_id": 29,
+      "sentence": "At nightfall, Aggo reached the Wisent King\u2019s lodge.",
+      "subj": "aggo",
+      "verb": "reach",
+      "obj": "lodge"
+    },
+    {
+      "id": "e0030",
+      "label": "he | see | \u2205",
+      "sent_id": 30,
+      "sentence": "Peering through its lattice, he saw his daughter sitting silent and sorrowful.",
+      "subj": "he",
+      "verb": "see",
+      "obj": ""
+    },
+    {
+      "id": "e0031",
+      "label": "heart | soften | \u2205",
+      "sent_id": 31,
+      "sentence": "Upon seeing her father, her heart softened.",
+      "subj": "heart",
+      "verb": "soften",
+      "obj": ""
+    },
+    {
+      "id": "e0032",
+      "label": "she | ask | cup",
+      "sent_id": 32,
+      "sentence": "She asked for the water cup and told the king she would fetch him a drink.",
+      "subj": "she",
+      "verb": "ask",
+      "obj": "cup"
+    },
+    {
+      "id": "e0033",
+      "label": "king | wait | return",
+      "sent_id": 33,
+      "sentence": "The king, hopeful, waited for her return.",
+      "subj": "king",
+      "verb": "wait",
+      "obj": "return"
+    },
+    {
+      "id": "e0034",
+      "label": "aggo | spring | \u2205",
+      "sent_id": 34,
+      "sentence": "But when she slipped away, Aggo sprang up, clutching his daughter tightly, and hopped swiftly westward with the whole herd shouting in pursuit under the full moon.",
+      "subj": "aggo",
+      "verb": "spring",
+      "obj": ""
+    },
+    {
+      "id": "e0035",
+      "label": "\u2205 | determine | \u2205",
+      "sent_id": 35,
+      "sentence": "Though the bison ran fast, their leader was determined not to be outrun by a one-legged man.",
+      "subj": "",
+      "verb": "determine",
+      "obj": ""
+    },
+    {
+      "id": "e0036",
+      "label": "leap | take | he",
+      "sent_id": 36,
+      "sentence": "Yet Aggo\u2019s clever leaps took him in sudden zigzags\u2014just out of reach, confusing the herd and their enraged king, who shouted and bellowed in frustration.",
+      "subj": "leap",
+      "verb": "take",
+      "obj": "he"
+    },
+    {
+      "id": "e0037",
+      "label": "king | madden | \u2205",
+      "sent_id": 37,
+      "sentence": "At last, the king, maddened and weary, called off the chase and vanished into the forest forever.",
+      "subj": "king",
+      "verb": "madden",
+      "obj": ""
+    },
+    {
+      "id": "e0038",
+      "label": "safe | carry | daughter",
+      "sent_id": 38,
+      "sentence": "Safe at last, Aggo carried his daughter across the stream to his home.",
+      "subj": "safe",
+      "verb": "carry",
+      "obj": "daughter"
+    },
+    {
+      "id": "e0039",
+      "label": "time | pass | \u2205",
+      "sent_id": 39,
+      "sentence": "Time passed, and she married a brave young huntsman, who owned no mighty beasts save for a splendid deerskin cloak he wore on their wedding day.",
+      "subj": "time",
+      "verb": "pass",
+      "obj": ""
+    },
+    {
+      "id": "e0040",
+      "label": "leg | carry | he",
+      "sent_id": 40,
+      "sentence": "On that day, Aggo\u2019s single leg carried him with livelier hops than ever before, a joyful sign that all was well once more.",
+      "subj": "leg",
+      "verb": "carry",
+      "obj": "he"
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    },
+    {
+      "source": "e0029",
+      "target": "e0030",
+      "relation": "next"
+    },
+    {
+      "source": "e0030",
+      "target": "e0031",
+      "relation": "next"
+    },
+    {
+      "source": "e0031",
+      "target": "e0032",
+      "relation": "next"
+    },
+    {
+      "source": "e0032",
+      "target": "e0033",
+      "relation": "next"
+    },
+    {
+      "source": "e0033",
+      "target": "e0034",
+      "relation": "next"
+    },
+    {
+      "source": "e0034",
+      "target": "e0035",
+      "relation": "next"
+    },
+    {
+      "source": "e0035",
+      "target": "e0036",
+      "relation": "next"
+    },
+    {
+      "source": "e0036",
+      "target": "e0037",
+      "relation": "next"
+    },
+    {
+      "source": "e0037",
+      "target": "e0038",
+      "relation": "next"
+    },
+    {
+      "source": "e0038",
+      "target": "e0039",
+      "relation": "next"
+    },
+    {
+      "source": "e0039",
+      "target": "e0040",
+      "relation": "next"
+    }
+  ]
+}

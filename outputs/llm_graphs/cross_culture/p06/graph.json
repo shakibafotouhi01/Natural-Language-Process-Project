@@ -1,0 +1,632 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "\u2205 | live | fox",
+      "sent_id": 0,
+      "sentence": "Long ago, in the lands where the tall pines meet the rolling plains, there lived a clever fox near a village garden tended by the people of the tribe.",
+      "subj": "",
+      "verb": "live",
+      "obj": "fox"
+    },
+    {
+      "id": "e0001",
+      "label": "fox | slip | gap",
+      "sent_id": 1,
+      "sentence": "Each day, the fox would slip quietly through a gap in the woven cedar fence, feasting on the ripe wild plums, sweet chokecherries, and bright hawthorn berries before setting his sights on the chickens scratching nearby.",
+      "subj": "fox",
+      "verb": "slip",
+      "obj": "gap"
+    },
+    {
+      "id": "e0002",
+      "label": "fox | live | season",
+      "sent_id": 2,
+      "sentence": "For many seasons, the fox lived this way, until one dawn the garden\u2019s caretaker, a wise elder, spotted him and chased him with a sturdy lodge pole.",
+      "subj": "fox",
+      "verb": "live",
+      "obj": "season"
+    },
+    {
+      "id": "e0003",
+      "label": "fox | dash | gap",
+      "sent_id": 3,
+      "sentence": "The fox dashed to the gap in the fence\u2014but found it freshly sealed with earth and clay, no way to slip through.",
+      "subj": "fox",
+      "verb": "dash",
+      "obj": "gap"
+    },
+    {
+      "id": "e0004",
+      "label": "fox | lie | \u2205",
+      "sent_id": 4,
+      "sentence": "Surrounded, the fox lay still, curling onto his back and closing his eyes, pretending to be gone from this world.",
+      "subj": "fox",
+      "verb": "lie",
+      "obj": ""
+    },
+    {
+      "id": "e0005",
+      "label": "elder | come | \u2205",
+      "sent_id": 5,
+      "sentence": "The elder came close, poking the fox with the lodge pole, but the fox did not move.",
+      "subj": "elder",
+      "verb": "come",
+      "obj": ""
+    },
+    {
+      "id": "e0006",
+      "label": "elder | lift | fox",
+      "sent_id": 6,
+      "sentence": "Thinking the spirit had already taken the trickster, the elder lifted the fox and cast him beyond the garden\u2019s edge.",
+      "subj": "elder",
+      "verb": "lift",
+      "obj": "fox"
+    },
+    {
+      "id": "e0007",
+      "label": "fox | wander | \u2205",
+      "sent_id": 7,
+      "sentence": "The fox wandered far, his belly hollow and spirit heavy, unable to find another way back to the garden\u2019s bounty.",
+      "subj": "fox",
+      "verb": "wander",
+      "obj": ""
+    },
+    {
+      "id": "e0008",
+      "label": "he | set | forest",
+      "sent_id": 8,
+      "sentence": "One day, desperate and cunning, he set out for the forest, where he knew a mighty mountain lion dwelled in a deep cave.",
+      "subj": "he",
+      "verb": "set",
+      "obj": "forest"
+    },
+    {
+      "id": "e0009",
+      "label": "friend | come | \u2205",
+      "sent_id": 10,
+      "sentence": ", the fox called out, \u201cGreat mountain lion, it is I, the fox, your old friend come to visit!\u201d",
+      "subj": "friend",
+      "verb": "come",
+      "obj": ""
+    },
+    {
+      "id": "e0010",
+      "label": "lion | emerge | \u2205",
+      "sent_id": 11,
+      "sentence": "The mountain lion emerged, his voice a low rumble.",
+      "subj": "lion",
+      "verb": "emerge",
+      "obj": ""
+    },
+    {
+      "id": "e0011",
+      "label": "you | come | \u2205",
+      "sent_id": 12,
+      "sentence": "\u201cFox, why have you come this far?",
+      "subj": "you",
+      "verb": "come",
+      "obj": ""
+    },
+    {
+      "id": "e0012",
+      "label": "you | bring | news",
+      "sent_id": 13,
+      "sentence": "What news do you bring?\u201d",
+      "subj": "you",
+      "verb": "bring",
+      "obj": "news"
+    },
+    {
+      "id": "e0013",
+      "label": "fox | sigh | \u2205",
+      "sent_id": 14,
+      "sentence": "The fox sighed, \u201cMy belly is empty, and many moons have passed without food.",
+      "subj": "fox",
+      "verb": "sigh",
+      "obj": ""
+    },
+    {
+      "id": "e0014",
+      "label": "i | travel | \u2205",
+      "sent_id": 15,
+      "sentence": "I have traveled far, hoping to share your meal.\u201d",
+      "subj": "i",
+      "verb": "travel",
+      "obj": ""
+    },
+    {
+      "id": "e0015",
+      "label": "lion | nod | \u2205",
+      "sent_id": 16,
+      "sentence": "The mountain lion nodded slowly.",
+      "subj": "lion",
+      "verb": "nod",
+      "obj": ""
+    },
+    {
+      "id": "e0016",
+      "label": "i | catch | boar",
+      "sent_id": 17,
+      "sentence": "\u201cI caught a large boar recently but have eaten it all.",
+      "subj": "i",
+      "verb": "catch",
+      "obj": "boar"
+    },
+    {
+      "id": "e0017",
+      "label": "hunt | provide | \u2205",
+      "sent_id": 18,
+      "sentence": "Come back tomorrow, maybe the hunt will provide.\u201d",
+      "subj": "hunt",
+      "verb": "provide",
+      "obj": ""
+    },
+    {
+      "id": "e0018",
+      "label": "fox | offer | plan",
+      "sent_id": 19,
+      "sentence": "But the fox, too hungry to wait, offered a plan.",
+      "subj": "fox",
+      "verb": "offer",
+      "obj": "plan"
+    },
+    {
+      "id": "e0019",
+      "label": "\u2205 | be | mare",
+      "sent_id": 20,
+      "sentence": "\u201cIn the nearby village, there is a slow-walking mare who toils at the grinding stone, turning meal all day.",
+      "subj": "",
+      "verb": "be",
+      "obj": "mare"
+    },
+    {
+      "id": "e0020",
+      "label": "we | share | feast",
+      "sent_id": 21,
+      "sentence": "If I bring her here, we will share in the feast together.\u201d",
+      "subj": "we",
+      "verb": "share",
+      "obj": "feast"
+    },
+    {
+      "id": "e0021",
+      "label": "lion | agree | \u2205",
+      "sent_id": 22,
+      "sentence": "The lion agreed to wait and watch for the mare.",
+      "subj": "lion",
+      "verb": "agree",
+      "obj": ""
+    },
+    {
+      "id": "e0022",
+      "label": "fox | travel | village",
+      "sent_id": 23,
+      "sentence": "The fox traveled to the village, where the mare labored, circling the grinding stone from sunup to sundown.",
+      "subj": "fox",
+      "verb": "travel",
+      "obj": "village"
+    },
+    {
+      "id": "e0023",
+      "label": "fox | greet | she",
+      "sent_id": 24,
+      "sentence": "The fox greeted her warmly, \u201cOld friend, I\u2019ve come a long way just to see you.",
+      "subj": "fox",
+      "verb": "greet",
+      "obj": "she"
+    },
+    {
+      "id": "e0024",
+      "label": "what | keep | \u2205",
+      "sent_id": 25,
+      "sentence": "What keeps you turning in circles?\u201d",
+      "subj": "what",
+      "verb": "keep",
+      "obj": ""
+    },
+    {
+      "id": "e0025",
+      "label": "mare | reply | \u2205",
+      "sent_id": 26,
+      "sentence": "The mare replied, \u201cI work to earn my feed and rest, turning the millstone for the women of the village.",
+      "subj": "mare",
+      "verb": "reply",
+      "obj": ""
+    },
+    {
+      "id": "e0026",
+      "label": "work | be | \u2205",
+      "sent_id": 27,
+      "sentence": "The work is hard, but it keeps me alive.\u201d",
+      "subj": "work",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0027",
+      "label": "\u2205 | lie | land",
+      "sent_id": 28,
+      "sentence": "The fox, flicking his tail, shared a secret: \u201cBeyond the hills lies a green land where food is plenty and work unknown.",
+      "subj": "",
+      "verb": "lie",
+      "obj": "land"
+    },
+    {
+      "id": "e0028",
+      "label": "\u2205 | come | i",
+      "sent_id": 29,
+      "sentence": "Come with me, and you need not turn any more stones.\u201d",
+      "subj": "",
+      "verb": "come",
+      "obj": "i"
+    },
+    {
+      "id": "e0029",
+      "label": "\u2205 | agree | \u2205",
+      "sent_id": 30,
+      "sentence": "The mare paused, then agreed.",
+      "subj": "",
+      "verb": "agree",
+      "obj": ""
+    },
+    {
+      "id": "e0030",
+      "label": "fox | gnaw | rope",
+      "sent_id": 31,
+      "sentence": "The fox gnawed the ropes that bound her yoked neck, setting her free.",
+      "subj": "fox",
+      "verb": "gnaw",
+      "obj": "rope"
+    },
+    {
+      "id": "e0031",
+      "label": "i | ride | back",
+      "sent_id": 32,
+      "sentence": "\u201cMay I ride your back as we journey to this land?\u201d",
+      "subj": "i",
+      "verb": "ride",
+      "obj": "back"
+    },
+    {
+      "id": "e0032",
+      "label": "he | ask | \u2205",
+      "sent_id": 33,
+      "sentence": "he asked.",
+      "subj": "he",
+      "verb": "ask",
+      "obj": ""
+    },
+    {
+      "id": "e0033",
+      "label": "mare | nod | \u2205",
+      "sent_id": 34,
+      "sentence": "The mare nodded, and together they traveled toward the forest cave.",
+      "subj": "mare",
+      "verb": "nod",
+      "obj": ""
+    },
+    {
+      "id": "e0034",
+      "label": "mare | see | \u2205",
+      "sent_id": 35,
+      "sentence": "As they neared, the mare saw the mountain lion crouched in the bushes.",
+      "subj": "mare",
+      "verb": "see",
+      "obj": ""
+    },
+    {
+      "id": "e0035",
+      "label": "she | whisper | \u2205",
+      "sent_id": 37,
+      "sentence": "she whispered.",
+      "subj": "she",
+      "verb": "whisper",
+      "obj": ""
+    },
+    {
+      "id": "e0036",
+      "label": "she | flee | \u2205",
+      "sent_id": 38,
+      "sentence": "\u201cI must not be caught!\u201d\n\nTurning swiftly, she fled back to the village.",
+      "subj": "she",
+      "verb": "flee",
+      "obj": ""
+    },
+    {
+      "id": "e0037",
+      "label": "you | run | \u2205",
+      "sent_id": 39,
+      "sentence": "\u201cWhy do you run away now?\u201d",
+      "subj": "you",
+      "verb": "run",
+      "obj": ""
+    },
+    {
+      "id": "e0038",
+      "label": "fox | call | \u2205",
+      "sent_id": 40,
+      "sentence": "the fox called.",
+      "subj": "fox",
+      "verb": "call",
+      "obj": ""
+    },
+    {
+      "id": "e0039",
+      "label": "i | forget | gift",
+      "sent_id": 41,
+      "sentence": "\u201cI forgot an important gift, a small bundle of wisdom wrapped in cloth, given by my elders to protect me in dreams.",
+      "subj": "i",
+      "verb": "forget",
+      "obj": "gift"
+    },
+    {
+      "id": "e0040",
+      "label": "i | go | it",
+      "sent_id": 42,
+      "sentence": "I cannot go without it!\u201d",
+      "subj": "i",
+      "verb": "go",
+      "obj": "it"
+    },
+    {
+      "id": "e0041",
+      "label": "she | answer | \u2205",
+      "sent_id": 43,
+      "sentence": "she answered, quickening her pace.",
+      "subj": "she",
+      "verb": "answer",
+      "obj": ""
+    },
+    {
+      "id": "e0042",
+      "label": "fox | frown | \u2205",
+      "sent_id": 44,
+      "sentence": "The fox frowned but let her go, promising to return the next day.",
+      "subj": "fox",
+      "verb": "frown",
+      "obj": ""
+    },
+    {
+      "id": "e0043",
+      "label": "mare | smile | \u2205",
+      "sent_id": 45,
+      "sentence": "Safe at the mill, the mare smiled.",
+      "subj": "mare",
+      "verb": "smile",
+      "obj": ""
+    },
+    {
+      "id": "e0044",
+      "label": "\u2205 | avoid | friend",
+      "sent_id": 46,
+      "sentence": "\u201cMy elders\u2019 wisdom includes five truths: never travel without your protective gift; honor honest work; be grateful for what sustains you; avoid false friends, for they betray; and most importantly, keep clear of the mountain lion\u2019s lair.\u201d\n\nWith that, the mare shook the fox off her back and returned to her steady turning of the millstone, choosing the path of care over the fox\u2019s cunning deceit.",
+      "subj": "",
+      "verb": "avoid",
+      "obj": "friend"
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    },
+    {
+      "source": "e0029",
+      "target": "e0030",
+      "relation": "next"
+    },
+    {
+      "source": "e0030",
+      "target": "e0031",
+      "relation": "next"
+    },
+    {
+      "source": "e0031",
+      "target": "e0032",
+      "relation": "next"
+    },
+    {
+      "source": "e0032",
+      "target": "e0033",
+      "relation": "next"
+    },
+    {
+      "source": "e0033",
+      "target": "e0034",
+      "relation": "next"
+    },
+    {
+      "source": "e0034",
+      "target": "e0035",
+      "relation": "next"
+    },
+    {
+      "source": "e0035",
+      "target": "e0036",
+      "relation": "next"
+    },
+    {
+      "source": "e0036",
+      "target": "e0037",
+      "relation": "next"
+    },
+    {
+      "source": "e0037",
+      "target": "e0038",
+      "relation": "next"
+    },
+    {
+      "source": "e0038",
+      "target": "e0039",
+      "relation": "next"
+    },
+    {
+      "source": "e0039",
+      "target": "e0040",
+      "relation": "next"
+    },
+    {
+      "source": "e0040",
+      "target": "e0041",
+      "relation": "next"
+    },
+    {
+      "source": "e0041",
+      "target": "e0042",
+      "relation": "next"
+    },
+    {
+      "source": "e0042",
+      "target": "e0043",
+      "relation": "next"
+    },
+    {
+      "source": "e0043",
+      "target": "e0044",
+      "relation": "next"
+    }
+  ]
+}

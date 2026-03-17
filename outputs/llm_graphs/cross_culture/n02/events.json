@@ -1,0 +1,234 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "",
+    "verb": "speak",
+    "obj": "forest",
+    "label": "\u2205 | speak | forest",
+    "sentence": "Long ago, in the deep forests of the old Germanic lands, animals and trees spoke together as kin, yet there was no fire to warm the earth or light the night."
+  },
+  {
+    "sent_id": 1,
+    "subj": "fox",
+    "verb": "be",
+    "obj": "they",
+    "label": "fox | be | they",
+    "sentence": "Among them, the fox was cunningest of all and pondered how to bring fire to the world."
+  },
+  {
+    "sent_id": 2,
+    "subj": "fox",
+    "verb": "seek",
+    "obj": "goose",
+    "label": "fox | seek | goose",
+    "sentence": "One day, the fox sought out the wild geese that soared high above the misty pine woods."
+  },
+  {
+    "sent_id": 3,
+    "subj": "he",
+    "verb": "wish",
+    "obj": "",
+    "label": "he | wish | \u2205",
+    "sentence": "He wished to learn their call, for it carried the power of the skies."
+  },
+  {
+    "sent_id": 4,
+    "subj": "goose",
+    "verb": "agree",
+    "obj": "",
+    "label": "goose | agree | \u2205",
+    "sentence": "The geese agreed to teach him only if he would fly with them on their great migrations."
+  },
+  {
+    "sent_id": 5,
+    "subj": "they",
+    "verb": "fasten",
+    "obj": "wing",
+    "label": "they | fasten | wing",
+    "sentence": "So, they fastened feathery wings upon his flanks but warned him never to open his eyes during flight."
+  },
+  {
+    "sent_id": 6,
+    "subj": "fox",
+    "verb": "fly",
+    "obj": "they",
+    "label": "fox | fly | they",
+    "sentence": "Whenever the geese rose from the river valleys and marshes, Fox flew alongside them, practicing their honking cry."
+  },
+  {
+    "sent_id": 7,
+    "subj": "dusk",
+    "verb": "fall",
+    "obj": "flight",
+    "label": "dusk | fall | flight",
+    "sentence": "On one such flight, dusk fell swift and dark as they passed over the village of the glow-worms nestled in the underbrush."
+  },
+  {
+    "sent_id": 8,
+    "subj": "he",
+    "verb": "open",
+    "obj": "eye",
+    "label": "he | open | eye",
+    "sentence": "The gleaming lanterns of the glow-worms shone like tiny stars, and the flickering light dazzled Fox so that he forgot the warning\u2014he opened his eyes!"
+  },
+  {
+    "sent_id": 9,
+    "subj": "wing",
+    "verb": "droop",
+    "obj": "",
+    "label": "wing | droop | \u2205",
+    "sentence": "At once, his wings drooped and fell apart."
+  },
+  {
+    "sent_id": 10,
+    "subj": "he",
+    "verb": "tumble",
+    "obj": "",
+    "label": "he | tumble | \u2205",
+    "sentence": "Helpless, he tumbled downwards, landing within the stone circle that held the glow-worms\u2019 village."
+  },
+  {
+    "sent_id": 11,
+    "subj": "",
+    "verb": "blaze",
+    "obj": "fire",
+    "label": "\u2205 | blaze | fire",
+    "sentence": "In the center blazed an eternal hearth fire, guarded by two kindly glow-worms who came to his aid."
+  },
+  {
+    "sent_id": 12,
+    "subj": "fox",
+    "verb": "give",
+    "obj": "",
+    "label": "fox | give | \u2205",
+    "sentence": "To thank them, Fox gave each a necklace strung from fragrant juniper berries gathered from bushy thickets."
+  },
+  {
+    "sent_id": 13,
+    "subj": "fox",
+    "verb": "beg",
+    "obj": "worm",
+    "label": "fox | beg | worm",
+    "sentence": "Fox begged the glow-worms to tell him how to escape the walled village."
+  },
+  {
+    "sent_id": 14,
+    "subj": "they",
+    "verb": "lead",
+    "obj": "he",
+    "label": "they | lead | he",
+    "sentence": "They led him to an ancient oak, whose boughs bent low on command and flung him over the stones if he wished."
+  },
+  {
+    "sent_id": 15,
+    "subj": "fox",
+    "verb": "discover",
+    "obj": "earth",
+    "label": "fox | discover | earth",
+    "sentence": "That evening, near the spring where glow-worms bathed, Fox discovered earth rich with pigments\u2014red ochre and white chalk."
+  },
+  {
+    "sent_id": 16,
+    "subj": "he",
+    "verb": "smear",
+    "obj": "himself",
+    "label": "he | smear | himself",
+    "sentence": "He smeared himself with pale white paint and returned to the village, proposing a festival of dance and music."
+  },
+  {
+    "sent_id": 17,
+    "subj": "worms",
+    "verb": "gather",
+    "obj": "wood",
+    "label": "worms | gather | wood",
+    "sentence": "The glow-worms gathered wood to feed the fire while Fox secretly tied a strip of oak bark to his bushy tail."
+  },
+  {
+    "sent_id": 18,
+    "subj": "he",
+    "verb": "fashion",
+    "obj": "drum",
+    "label": "he | fashion | drum",
+    "sentence": "He fashioned a drum from hollow bark and beat out a lively rhythm, drawing the fireflies into dance."
+  },
+  {
+    "sent_id": 19,
+    "subj": "he",
+    "verb": "creep",
+    "obj": "",
+    "label": "he | creep | \u2205",
+    "sentence": "Slowly, he crept closer to the hearth."
+  },
+  {
+    "sent_id": 20,
+    "subj": "fox",
+    "verb": "hand",
+    "obj": "drum",
+    "label": "fox | hand | drum",
+    "sentence": "Feigning weariness, Fox handed his drum to some eager glow-worms."
+  },
+  {
+    "sent_id": 21,
+    "subj": "fox",
+    "verb": "shout",
+    "obj": "",
+    "label": "fox | shout | \u2205",
+    "sentence": "Swift as a shadow, he thrust his tail into the flames, igniting the bark, and cried, \"This hearth is too hot for me, I must find a cooler place.\"\n\nCalling to the oak, Fox shouted, \"Bend low, my strong oak, bend low!\""
+  },
+  {
+    "sent_id": 22,
+    "subj": "tree",
+    "verb": "bow",
+    "obj": "",
+    "label": "tree | bow | \u2205",
+    "sentence": "The mighty tree bowed, and Fox grasped its branches, soaring far beyond the village wall."
+  },
+  {
+    "sent_id": 23,
+    "subj": "worms",
+    "verb": "give",
+    "obj": "chase",
+    "label": "worms | give | chase",
+    "sentence": "The glow-worms gave chase, their lights glimmering behind him."
+  },
+  {
+    "sent_id": 24,
+    "subj": "",
+    "verb": "spark",
+    "obj": "bark",
+    "label": "\u2205 | spark | bark",
+    "sentence": "As Fox raced through thickets and meadows, sparks from the burning bark fell upon dry leaves and twigs, setting brushwood aflame."
+  },
+  {
+    "sent_id": 25,
+    "subj": "who",
+    "verb": "give",
+    "obj": "it",
+    "label": "who | give | it",
+    "sentence": "At last, exhausted, Fox passed the burning tail to the hawk soaring above, who in turn gave it to the crane flying south over misty moors and shimmering lakes."
+  },
+  {
+    "sent_id": 26,
+    "subj": "fire",
+    "verb": "carry",
+    "obj": "land",
+    "label": "fire | carry | land",
+    "sentence": "Thus, fire was carried across the lands."
+  },
+  {
+    "sent_id": 27,
+    "subj": "worm",
+    "verb": "chase",
+    "obj": "fox",
+    "label": "worm | chase | fox",
+    "sentence": "The glow-worms chased Fox to his den and declared, \"Forevermore, cunning Fox, for stealing our fire, you shall never warm yourself by its flame.\""
+  },
+  {
+    "sent_id": 28,
+    "subj": "fire",
+    "verb": "become",
+    "obj": "gift",
+    "label": "fire | become | gift",
+    "sentence": "And so, fire became a wild gift shared among all but forever withheld from Fox\u2019s own hearth."
+  }
+]

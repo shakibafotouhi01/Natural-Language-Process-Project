@@ -1,0 +1,658 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "",
+    "verb": "live",
+    "obj": "queen",
+    "label": "\u2205 | live | queen",
+    "sentence": "Once, in a flourishing realm of ancient Persia, there lived a queen blessed with a little daughter, a child still too tender to wander the palace gardens alone."
+  },
+  {
+    "sent_id": 1,
+    "subj": "child",
+    "verb": "grow",
+    "obj": "",
+    "label": "child | grow | \u2205",
+    "sentence": "One day, the child grew restless and tearful, and no matter how gently the queen tried to soothe her, the cries would not cease."
+  },
+  {
+    "sent_id": 2,
+    "subj": "queen",
+    "verb": "gaze",
+    "obj": "window",
+    "label": "queen | gaze | window",
+    "sentence": "Overcome with weariness, the queen gazed out the lattice window toward the dark cypress trees, where flocks of black ravens wheeled in the gilded sunlight."
+  },
+  {
+    "sent_id": 3,
+    "subj": "i",
+    "verb": "find",
+    "obj": "peace",
+    "label": "i | find | peace",
+    "sentence": "In a moment of despair, she whispered, \u201cOh, that my daughter might become a raven and fly away\u2014then I would find but a moment\u2019s peace.\u201d"
+  },
+  {
+    "sent_id": 4,
+    "subj": "",
+    "verb": "have",
+    "obj": "",
+    "label": "\u2205 | have | \u2205",
+    "sentence": "No sooner had the words left her lips than her beloved child transformed, feathers sprouting swiftly where soft skin had been."
+  },
+  {
+    "sent_id": 5,
+    "subj": "raven",
+    "verb": "flap",
+    "obj": "wing",
+    "label": "raven | flap | wing",
+    "sentence": "The little raven flapped its wings and darted through the open window, vanishing into the shadowed groves beyond the palace walls."
+  },
+  {
+    "sent_id": 6,
+    "subj": "queen",
+    "verb": "search",
+    "obj": "",
+    "label": "queen | search | \u2205",
+    "sentence": "The queen and king searched far and wide but heard no word of their lost princess."
+  },
+  {
+    "sent_id": 7,
+    "subj": "traveler",
+    "verb": "wander",
+    "obj": "forest",
+    "label": "traveler | wander | forest",
+    "sentence": "Some time later, a determined traveler wandered through the same forest when his ears caught the familiar cawing of a raven."
+  },
+  {
+    "sent_id": 8,
+    "subj": "he",
+    "verb": "find",
+    "obj": "",
+    "label": "he | find | \u2205",
+    "sentence": "Drawn to the voice, he found the bird perched upon a low branch."
+  },
+  {
+    "sent_id": 9,
+    "subj": "raven",
+    "verb": "speak",
+    "obj": "",
+    "label": "raven | speak | \u2205",
+    "sentence": "\u201cI was born a king\u2019s daughter,\u201d the raven spoke softly, \u201cbut a sorcerer\u2019s spell holds me captive in this form."
+  },
+  {
+    "sent_id": 10,
+    "subj": "you",
+    "verb": "break",
+    "obj": "bondage",
+    "label": "you | break | bondage",
+    "sentence": "You alone can break my bondage.\u201d"
+  },
+  {
+    "sent_id": 11,
+    "subj": "",
+    "verb": "ask",
+    "obj": "traveler",
+    "label": "\u2205 | ask | traveler",
+    "sentence": "\u201cWhat must I do?\u201d asked the traveler."
+  },
+  {
+    "sent_id": 13,
+    "subj": "she",
+    "verb": "offer",
+    "obj": "food",
+    "label": "she | offer | food",
+    "sentence": "She will offer you food and wine, but refuse her gifts, lest you fall into a cursed slumber and fail to free me."
+  },
+  {
+    "sent_id": 14,
+    "subj": "you",
+    "verb": "stand",
+    "obj": "",
+    "label": "you | stand | \u2205",
+    "sentence": "In the garden behind her house is a great pile of fragrant cedar leaves; on that you must stand watch."
+  },
+  {
+    "sent_id": 15,
+    "subj": "i",
+    "verb": "come",
+    "obj": "day",
+    "label": "i | come | day",
+    "sentence": "For three days, each at the stroke of afternoon, I shall come in my royal carriage."
+  },
+  {
+    "sent_id": 17,
+    "subj": "freedom",
+    "verb": "be",
+    "obj": "yours",
+    "label": "freedom | be | yours",
+    "sentence": "If you sleep while I arrive, my freedom will never be yours to claim.\u201d"
+  },
+  {
+    "sent_id": 18,
+    "subj": "traveler",
+    "verb": "swear",
+    "obj": "",
+    "label": "traveler | swear | \u2205",
+    "sentence": "The traveler swore he would heed her warning, but the raven\u2019s eyes clouded with doubt."
+  },
+  {
+    "sent_id": 19,
+    "subj": "i",
+    "verb": "fear",
+    "obj": "promise",
+    "label": "i | fear | promise",
+    "sentence": "\u201cAlas, I fear you will falter, despite your promises.\u201d\n\nWhen he reached the dwelling and entered, the old woman welcomed him warmly."
+  },
+  {
+    "sent_id": 20,
+    "subj": "you",
+    "verb": "look",
+    "obj": "",
+    "label": "you | look | \u2205",
+    "sentence": "\u201cFriend, you look weary."
+  },
+  {
+    "sent_id": 21,
+    "subj": "she",
+    "verb": "urge",
+    "obj": "",
+    "label": "she | urge | \u2205",
+    "sentence": "Rest and partake of bread and sweet wine,\u201d she urged."
+  },
+  {
+    "sent_id": 22,
+    "subj": "he",
+    "verb": "say",
+    "obj": "",
+    "label": "he | say | \u2205",
+    "sentence": "\u201cI cannot eat or drink,\u201d he said firmly."
+  },
+  {
+    "sent_id": 23,
+    "subj": "she",
+    "verb": "press",
+    "obj": "",
+    "label": "she | press | \u2205",
+    "sentence": "She pressed on until, with weakening will, he sipped the wine."
+  },
+  {
+    "sent_id": 24,
+    "subj": "traveler",
+    "verb": "climb",
+    "obj": "heap",
+    "label": "traveler | climb | heap",
+    "sentence": "As the first appointed hour drew near, the traveler climbed upon the cedar heap, eyes fixed on the horizon."
+  },
+  {
+    "sent_id": 25,
+    "subj": "fatigue",
+    "verb": "envelop",
+    "obj": "he",
+    "label": "fatigue | envelop | he",
+    "sentence": "Fatigue enveloped him like a silk garment, and though he fought it fiercely, sleep claimed him."
+  },
+  {
+    "sent_id": 26,
+    "subj": "she",
+    "verb": "sigh",
+    "obj": "",
+    "label": "she | sigh | \u2205",
+    "sentence": "When the princess came riding by her four white horses, she sighed, \u201cHe has fallen,\u201d and found him slumbering deeply despite her calls."
+  },
+  {
+    "sent_id": 27,
+    "subj": "scene",
+    "verb": "repeat",
+    "obj": "",
+    "label": "scene | repeat | \u2205",
+    "sentence": "The next day, the same scene repeated."
+  },
+  {
+    "sent_id": 28,
+    "subj": "traveler",
+    "verb": "resist",
+    "obj": "",
+    "label": "traveler | resist | \u2205",
+    "sentence": "The traveler resisted at first but finally drank again from the old woman\u2019s cup."
+  },
+  {
+    "sent_id": 29,
+    "subj": "he",
+    "verb": "succumb",
+    "obj": "",
+    "label": "he | succumb | \u2205",
+    "sentence": "Exhausted, he succumbed to sleep as the princess approached in her carriage drawn by chestnut steeds."
+  },
+  {
+    "sent_id": 30,
+    "subj": "she",
+    "verb": "find",
+    "obj": "he",
+    "label": "she | find | he",
+    "sentence": "She found him once more unawakened and sorrowfully left him."
+  },
+  {
+    "sent_id": 31,
+    "subj": "woman",
+    "verb": "press",
+    "obj": "traveler",
+    "label": "woman | press | traveler",
+    "sentence": "On the third day, the old woman pressed the traveler with even greater insistence."
+  },
+  {
+    "sent_id": 32,
+    "subj": "he",
+    "verb": "drink",
+    "obj": "himself",
+    "label": "he | drink | himself",
+    "sentence": "Scenting the sweet wine, he drank despite himself."
+  },
+  {
+    "sent_id": 33,
+    "subj": "he",
+    "verb": "fall",
+    "obj": "sleep",
+    "label": "he | fall | sleep",
+    "sentence": "That afternoon, heavier than before, he fell into a deep sleep."
+  },
+  {
+    "sent_id": 34,
+    "subj": "princess",
+    "verb": "arrive",
+    "obj": "horse",
+    "label": "princess | arrive | horse",
+    "sentence": "The princess arrived behind her black horses, more mournful than ever."
+  },
+  {
+    "sent_id": 35,
+    "subj": "she",
+    "verb": "place",
+    "obj": "loaf",
+    "label": "she | place | loaf",
+    "sentence": "Unable to rouse him, she placed beside him an enchanted loaf of bread, smoked meats, and a flask of wine\u2014gifts that would never diminish regardless of how much he partook."
+  },
+  {
+    "sent_id": 36,
+    "subj": "she",
+    "verb": "remove",
+    "obj": "ring",
+    "label": "she | remove | ring",
+    "sentence": "From her finger she removed a ring inscribed with her name and slipped it onto his hand."
+  },
+  {
+    "sent_id": 37,
+    "subj": "she",
+    "verb": "leave",
+    "obj": "letter",
+    "label": "she | leave | letter",
+    "sentence": "Finally, she left a letter:\n\n\u201cAs long as you remain here, you cannot release me."
+  },
+  {
+    "sent_id": 38,
+    "subj": "",
+    "verb": "seek",
+    "obj": "fortress",
+    "label": "\u2205 | seek | fortress",
+    "sentence": "Yet if your heart remains steadfast, seek the Golden Fortress of Shahrazad."
+  },
+  {
+    "sent_id": 39,
+    "subj": "",
+    "verb": "lie",
+    "obj": "power",
+    "label": "\u2205 | lie | power",
+    "sentence": "There lies the power you need.\u201d"
+  },
+  {
+    "sent_id": 40,
+    "subj": "she",
+    "verb": "return",
+    "obj": "carriage",
+    "label": "she | return | carriage",
+    "sentence": "She returned to her carriage and vanished toward the distant Golden Fortress."
+  },
+  {
+    "sent_id": 41,
+    "subj": "traveler",
+    "verb": "wash",
+    "obj": "he",
+    "label": "traveler | wash | he",
+    "sentence": "When the traveler awoke, sorrow washed over him for he feared all was lost."
+  },
+  {
+    "sent_id": 42,
+    "subj": "",
+    "verb": "fill",
+    "obj": "he",
+    "label": "\u2205 | fill | he",
+    "sentence": "Yet reading the letter filled him with resolve."
+  },
+  {
+    "sent_id": 43,
+    "subj": "he",
+    "verb": "set",
+    "obj": "",
+    "label": "he | set | \u2205",
+    "sentence": "He set out to find this fortress, journeying through shadowed forests for many days, until twilight found him too weary to go further."
+  },
+  {
+    "sent_id": 44,
+    "subj": "he",
+    "verb": "sleep",
+    "obj": "tree",
+    "label": "he | sleep | tree",
+    "sentence": "Under a tamarisk tree, he slept."
+  },
+  {
+    "sent_id": 45,
+    "subj": "cry",
+    "verb": "stir",
+    "obj": "he",
+    "label": "cry | stir | he",
+    "sentence": "On the next dusk, strange cries stirred him\u2014the howling of jackals and the groans of unseen spirits."
+  },
+  {
+    "sent_id": 46,
+    "subj": "he",
+    "verb": "come",
+    "obj": "hut",
+    "label": "he | come | hut",
+    "sentence": "Guided by a flickering light, he came upon a humble hut overshadowed by a giant sentinel."
+  },
+  {
+    "sent_id": 47,
+    "subj": "giant",
+    "verb": "declare",
+    "obj": "",
+    "label": "giant | declare | \u2205",
+    "sentence": "The towering giant declared, \u201cYou are a fortunate guest\u2014for I have naught to eat and hunger grows fierce."
+  },
+  {
+    "sent_id": 48,
+    "subj": "you",
+    "verb": "be",
+    "obj": "feast",
+    "label": "you | be | feast",
+    "sentence": "You shall be my feast.\u201d"
+  },
+  {
+    "sent_id": 49,
+    "subj": "traveler",
+    "verb": "plead",
+    "obj": "",
+    "label": "traveler | plead | \u2205",
+    "sentence": "The traveler pleaded, \u201cSpare me."
+  },
+  {
+    "sent_id": 50,
+    "subj": "i",
+    "verb": "offer",
+    "obj": "bread",
+    "label": "i | offer | bread",
+    "sentence": "If you hunger, I offer you this endless bread, wine, and meat.\u201d"
+  },
+  {
+    "sent_id": 51,
+    "subj": "giant",
+    "verb": "accept",
+    "obj": "",
+    "label": "giant | accept | \u2205",
+    "sentence": "Content with such sustenance, the giant accepted and shared the meal."
+  },
+  {
+    "sent_id": 52,
+    "subj": "traveler",
+    "verb": "inquire",
+    "obj": "fortress",
+    "label": "traveler | inquire | fortress",
+    "sentence": "Afterwards, the traveler inquired about the Golden Fortress."
+  },
+  {
+    "sent_id": 53,
+    "subj": "giant",
+    "verb": "search",
+    "obj": "scroll",
+    "label": "giant | search | scroll",
+    "sentence": "The giant searched his scrolls and maps but found none that named it."
+  },
+  {
+    "sent_id": 54,
+    "subj": "they",
+    "verb": "wait",
+    "obj": "brother",
+    "label": "they | wait | brother",
+    "sentence": "They waited for the giant\u2019s brother, who returned with new charts."
+  },
+  {
+    "sent_id": 55,
+    "subj": "fortress",
+    "verb": "lie",
+    "obj": "",
+    "label": "fortress | lie | \u2205",
+    "sentence": "Still, the fortress lay unmarked\u2014hidden far, far away."
+  },
+  {
+    "sent_id": 56,
+    "subj": "giant",
+    "verb": "offer",
+    "obj": "",
+    "label": "giant | offer | \u2205",
+    "sentence": "Finally, the giant offered to carry the traveler near the fortress before he had to return to care for a child in his keeping."
+  },
+  {
+    "sent_id": 57,
+    "subj": "traveler",
+    "verb": "set",
+    "obj": "mountain",
+    "label": "traveler | set | mountain",
+    "sentence": "The traveler was set down near the distant mountain on which the fortress gleamed like a jewel, its walls shimmering as if forged from purest gold atop a mountain of polished crystal."
+  },
+  {
+    "sent_id": 58,
+    "subj": "he",
+    "verb": "try",
+    "obj": "",
+    "label": "he | try | \u2205",
+    "sentence": "He tried to climb but the mountain\u2019s smooth glass repelled him, and he fell again and again."
+  },
+  {
+    "sent_id": 59,
+    "subj": "he",
+    "verb": "build",
+    "obj": "hut",
+    "label": "he | build | hut",
+    "sentence": "Resigned, he built a simple hut by its base and watched the princess drive her carriage daily around her radiant home."
+  },
+  {
+    "sent_id": 60,
+    "subj": "day",
+    "verb": "turn",
+    "obj": "season",
+    "label": "day | turn | season",
+    "sentence": "Days turned to seasons, and one afternoon, he witnessed three brigands quarrelling fiercely nearby."
+  },
+  {
+    "sent_id": 61,
+    "subj": "he",
+    "verb": "call",
+    "obj": "",
+    "label": "he | call | \u2205",
+    "sentence": "\u201cPeace be upon you,\u201d he called."
+  },
+  {
+    "sent_id": 62,
+    "subj": "they",
+    "verb": "pause",
+    "obj": "",
+    "label": "they | pause | \u2205",
+    "sentence": "They paused and looked about but saw no one, resuming their fierce brawl."
+  },
+  {
+    "sent_id": 63,
+    "subj": "he",
+    "verb": "repeat",
+    "obj": "",
+    "label": "he | repeat | \u2205",
+    "sentence": "\u201cPeace be upon you,\u201d he repeated twice more."
+  },
+  {
+    "sent_id": 64,
+    "subj": "he",
+    "verb": "ask",
+    "obj": "cause",
+    "label": "he | ask | cause",
+    "sentence": "At last, stepping forth, he asked the cause of their strife."
+  },
+  {
+    "sent_id": 65,
+    "subj": "one",
+    "verb": "say",
+    "obj": "",
+    "label": "one | say | \u2205",
+    "sentence": "\u201cI possess a rod that opens any door with a single tap,\u201d said one."
+  },
+  {
+    "sent_id": 66,
+    "subj": "another",
+    "verb": "say",
+    "obj": "",
+    "label": "another | say | \u2205",
+    "sentence": "\u201cI have a cloak that renders its wearer invisible,\u201d said another."
+  },
+  {
+    "sent_id": 67,
+    "subj": "third",
+    "verb": "declare",
+    "obj": "",
+    "label": "third | declare | \u2205",
+    "sentence": "\u201cMy horse can leap over every pit and climb the glass mountain,\u201d declared the third."
+  },
+  {
+    "sent_id": 68,
+    "subj": "they",
+    "verb": "debate",
+    "obj": "",
+    "label": "they | debate | \u2205",
+    "sentence": "They debated whether to share these gifts or part ways."
+  },
+  {
+    "sent_id": 69,
+    "subj": "traveler",
+    "verb": "say",
+    "obj": "",
+    "label": "traveler | say | \u2205",
+    "sentence": "\u201cI will trade you for all three,\u201d said the traveler, \u201cnot with coins but with a treasure of greater worth."
+  },
+  {
+    "sent_id": 70,
+    "subj": "",
+    "verb": "let",
+    "obj": "",
+    "label": "\u2205 | let | \u2205",
+    "sentence": "First, let me test these wonders.\u201d"
+  },
+  {
+    "sent_id": 71,
+    "subj": "he",
+    "verb": "become",
+    "obj": "",
+    "label": "he | become | \u2205",
+    "sentence": "Mounting the horse, donning the cloak, and grasping the rod, he became unseen and struck the brigands decisively with the rod, sending them fleeing in defeat."
+  },
+  {
+    "sent_id": 72,
+    "subj": "he",
+    "verb": "scale",
+    "obj": "peak",
+    "label": "he | scale | peak",
+    "sentence": "Now unseen and mounted on swift horse, he scaled the crystal peak."
+  },
+  {
+    "sent_id": 73,
+    "subj": "door",
+    "verb": "swing",
+    "obj": "magic",
+    "label": "door | swing | magic",
+    "sentence": "At the fortress\u2019s gate, locked tight, he tapped thrice with the rod; the door swung open as though by magic."
+  },
+  {
+    "sent_id": 74,
+    "subj": "princess",
+    "verb": "sit",
+    "obj": "",
+    "label": "princess | sit | \u2205",
+    "sentence": "Inside, the princess sat alone, golden cup of wine before her."
+  },
+  {
+    "sent_id": 75,
+    "subj": "he",
+    "verb": "slip",
+    "obj": "ring",
+    "label": "he | slip | ring",
+    "sentence": "Still cloaked in invisibility, he slipped her ring from his finger into the cup."
+  },
+  {
+    "sent_id": 76,
+    "subj": "that",
+    "verb": "be",
+    "obj": "ring",
+    "label": "that | be | ring",
+    "sentence": "\u201cThat is my ring!\u201d"
+  },
+  {
+    "sent_id": 77,
+    "subj": "she",
+    "verb": "exclaim",
+    "obj": "",
+    "label": "she | exclaim | \u2205",
+    "sentence": "she exclaimed, \u201cand the one who bears it must be near to free me!\u201d"
+  },
+  {
+    "sent_id": 78,
+    "subj": "she",
+    "verb": "search",
+    "obj": "fortress",
+    "label": "she | search | fortress",
+    "sentence": "She searched throughout the fortress but found no one."
+  },
+  {
+    "sent_id": 79,
+    "subj": "traveler",
+    "verb": "throw",
+    "obj": "cloak",
+    "label": "traveler | throw | cloak",
+    "sentence": "When she reached the gate, the traveler threw off his cloak and revealed himself."
+  },
+  {
+    "sent_id": 80,
+    "subj": "joy",
+    "verb": "be",
+    "obj": "",
+    "label": "joy | be | \u2205",
+    "sentence": "Her joy was radiant as sunshine."
+  },
+  {
+    "sent_id": 81,
+    "subj": "he",
+    "verb": "embrace",
+    "obj": "she",
+    "label": "he | embrace | she",
+    "sentence": "He embraced her gently, and she kissed him sweetly, saying, \u201cYou have truly freed me."
+  },
+  {
+    "sent_id": 82,
+    "subj": "we",
+    "verb": "celebrate",
+    "obj": "union",
+    "label": "we | celebrate | union",
+    "sentence": "On the morrow, we shall celebrate our union under the stars.\u201d"
+  },
+  {
+    "sent_id": 83,
+    "subj": "princess",
+    "verb": "return",
+    "obj": "form",
+    "label": "princess | return | form",
+    "sentence": "Thus, the enchanted princess returned to her true form, and the traveler\u2019s steadfast heart won both her freedom and her love in the timeless lands of Persia."
+  }
+]

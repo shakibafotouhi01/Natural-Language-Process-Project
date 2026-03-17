@@ -1,0 +1,31 @@
+story_id,culture,title,word_count,num_events,events_per_100_words,input_path,output_dir
+g01,german,THE GOLDEN BIRD,1436,91,6.337047353760446,data/llm/cross_culture/g01.txt,outputs/llm_graphs/cross_culture/g01
+g02,german,HANSEL AND GRETEL,1089,64,5.876951331496786,data/llm/cross_culture/g02.txt,outputs/llm_graphs/cross_culture/g02
+g03,german,RAPUNZEL,972,51,5.246913580246913,data/llm/cross_culture/g03.txt,outputs/llm_graphs/cross_culture/g03
+g04,german,THE FROG-PRINCE,891,55,6.172839506172839,data/llm/cross_culture/g04.txt,outputs/llm_graphs/cross_culture/g04
+g05,german,RUMPELSTILTSKIN,909,52,5.720572057205721,data/llm/cross_culture/g05.txt,outputs/llm_graphs/cross_culture/g05
+g06,german,THE TWELVE DANCING PRINCESSES,901,45,4.994450610432852,data/llm/cross_culture/g06.txt,outputs/llm_graphs/cross_culture/g06
+g07,german,THE FISHERMAN AND HIS WIFE,1143,83,7.26159230096238,data/llm/cross_culture/g07.txt,outputs/llm_graphs/cross_culture/g07
+g08,german,THE GOLDEN GOOSE,1007,53,5.263157894736842,data/llm/cross_culture/g08.txt,outputs/llm_graphs/cross_culture/g08
+g09,german,LILY AND THE LION,1116,58,5.197132616487455,data/llm/cross_culture/g09.txt,outputs/llm_graphs/cross_culture/g09
+g10,german,THE RAVEN,1228,82,6.677524429967427,data/llm/cross_culture/g10.txt,outputs/llm_graphs/cross_culture/g10
+n01,native american,Raven Steals the Sun,395,20,5.063291139240507,data/llm/cross_culture/n01.txt,outputs/llm_graphs/cross_culture/n01
+n02,native american,The origin of fire,528,29,5.492424242424242,data/llm/cross_culture/n02.txt,outputs/llm_graphs/cross_culture/n02
+n03,native american,Legend of the Corn,772,39,5.051813471502591,data/llm/cross_culture/n03.txt,outputs/llm_graphs/cross_culture/n03
+n04,native american,The Creation Story – Turtle Island,690,42,6.086956521739131,data/llm/cross_culture/n04.txt,outputs/llm_graphs/cross_culture/n04
+n05,native american,White Feather and the Six Giants,1280,68,5.3125,data/llm/cross_culture/n05.txt,outputs/llm_graphs/cross_culture/n05
+n06,native american,The Celestial Sisters,1075,61,5.674418604651163,data/llm/cross_culture/n06.txt,outputs/llm_graphs/cross_culture/n06
+n07,native american,He of the Little Shell,1078,61,5.658627087198516,data/llm/cross_culture/n07.txt,outputs/llm_graphs/cross_culture/n07
+n08,native american,The Man with his Leg Tied Up,931,41,4.403866809881848,data/llm/cross_culture/n08.txt,outputs/llm_graphs/cross_culture/n08
+n09,native american,The Crane that Crossed the River,912,56,6.140350877192982,data/llm/cross_culture/n09.txt,outputs/llm_graphs/cross_culture/n09
+n10,native american,Strong Desire and the Red Sorcerer,1428,87,6.092436974789916,data/llm/cross_culture/n10.txt,outputs/llm_graphs/cross_culture/n10
+p01,persian,The faith of a starving man,457,17,3.7199124726477026,data/llm/cross_culture/p01.txt,outputs/llm_graphs/cross_culture/p01
+p02,persian,Gulistan - story 16,836,44,5.263157894736842,data/llm/cross_culture/p02.txt,outputs/llm_graphs/cross_culture/p02
+p03,persian,Gulistan -chapter III- story 28,1442,82,5.6865464632454925,data/llm/cross_culture/p03.txt,outputs/llm_graphs/cross_culture/p03
+p04,persian,Gulistan chapter II - story 5,489,26,5.316973415132924,data/llm/cross_culture/p04.txt,outputs/llm_graphs/cross_culture/p04
+p05,persian,Gulistan Chapter II- sotry 20,502,20,3.9840637450199203,data/llm/cross_culture/p05.txt,outputs/llm_graphs/cross_culture/p05
+p06,persian,The fox that rode a camel,656,45,6.859756097560976,data/llm/cross_culture/p06.txt,outputs/llm_graphs/cross_culture/p06
+p07,persian,The smart rabbit,785,55,7.006369426751593,data/llm/cross_culture/p07.txt,outputs/llm_graphs/cross_culture/p07
+p08,persian,Rostam and Sohrab,1512,87,5.753968253968254,data/llm/cross_culture/p08.txt,outputs/llm_graphs/cross_culture/p08
+p09,persian,4 - Zal and Rodabeh,1222,62,5.073649754500818,data/llm/cross_culture/p09.txt,outputs/llm_graphs/cross_culture/p09
+p10,persian,9  - Saiawosh,1070,62,5.794392523364486,data/llm/cross_culture/p10.txt,outputs/llm_graphs/cross_culture/p10

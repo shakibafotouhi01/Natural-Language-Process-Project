@@ -1,0 +1,590 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "wodan | fashion | earth",
+      "sent_id": 0,
+      "sentence": "In the ancient days of the Germanic forests, after Wodan, the Great Mystery, had first fashioned the earth and breathed life into its people\u2014the Original Folk\u2014a shadow fell upon them.",
+      "subj": "wodan",
+      "verb": "fashion",
+      "obj": "earth"
+    },
+    {
+      "id": "e0001",
+      "label": "tribe | grow | \u2205",
+      "sent_id": 1,
+      "sentence": "Once bound in kinship and respect, the tribes grew restless and quarrels sprouted like weeds in the enchanted woods.",
+      "subj": "tribe",
+      "verb": "grow",
+      "obj": ""
+    },
+    {
+      "id": "e0002",
+      "label": "brother | turn | brother",
+      "sent_id": 2,
+      "sentence": "Brother turned against brother, and soon fierce disputes over hunting grounds and sacred groves led to bloodshed among the Original Folk.",
+      "subj": "brother",
+      "verb": "turn",
+      "obj": "brother"
+    },
+    {
+      "id": "e0003",
+      "label": "wodan | resolve | \u2205",
+      "sent_id": 3,
+      "sentence": "Seeing that harmony and honor had fled the land, Wodan resolved to cleanse the earth.",
+      "subj": "wodan",
+      "verb": "resolve",
+      "obj": ""
+    },
+    {
+      "id": "e0004",
+      "label": "he | summon | flood",
+      "sent_id": 4,
+      "sentence": "He summoned a mighty flood, the Wasserflut, whose waters surged through the valleys and swallowed the forests, sweeping away most of the people and creatures alike.",
+      "subj": "he",
+      "verb": "summon",
+      "obj": "flood"
+    },
+    {
+      "id": "e0005",
+      "label": "wotan | choose | \u2205",
+      "sent_id": 5,
+      "sentence": "Only Wotan\u2019s chosen, Nanaboozhoo\u2014a wise and enduring hero of many tales\u2014and a few creatures strong and swift survived, floating atop a vast driftwood log on the endless waters.",
+      "subj": "wotan",
+      "verb": "choose",
+      "obj": ""
+    },
+    {
+      "id": "e0006",
+      "label": "nanaboozhoo | allow | \u2205",
+      "sent_id": 6,
+      "sentence": "As the flood\u2019s depths stretched everywhere, Nanaboozhoo allowed the animals and birds to rest on the log in turn.",
+      "subj": "nanaboozhoo",
+      "verb": "allow",
+      "obj": ""
+    },
+    {
+      "id": "e0007",
+      "label": "land | lose | floodwater",
+      "sent_id": 7,
+      "sentence": "Yet, the land was lost beneath the floodwaters, and hope dwindled.",
+      "subj": "land",
+      "verb": "lose",
+      "obj": "floodwater"
+    },
+    {
+      "id": "e0008",
+      "label": "nanaboozhoo | speak | \u2205",
+      "sent_id": 8,
+      "sentence": "At last, Nanaboozhoo spoke solemnly: \u201cI will dive to the watery abyss and grasp a handful of earth.",
+      "subj": "nanaboozhoo",
+      "verb": "speak",
+      "obj": ""
+    },
+    {
+      "id": "e0009",
+      "label": "we | shape | land",
+      "sent_id": 9,
+      "sentence": "With it, and the aid of the four winds that dance through the northern forests, and the blessing of Wodan, we shall shape new land.\u201d",
+      "subj": "we",
+      "verb": "shape",
+      "obj": "land"
+    },
+    {
+      "id": "e0010",
+      "label": "nanaboozhoo | plunge | water",
+      "sent_id": 10,
+      "sentence": "Nanaboozhoo plunged beneath the waters but remained unseen for a long while.",
+      "subj": "nanaboozhoo",
+      "verb": "plunge",
+      "obj": "water"
+    },
+    {
+      "id": "e0011",
+      "label": "he | tell | other",
+      "sent_id": 11,
+      "sentence": "When he emerged, breathless, he told the others that the water was too deep to reach the bottom.",
+      "subj": "he",
+      "verb": "tell",
+      "obj": "other"
+    },
+    {
+      "id": "e0012",
+      "label": "silence | fall | they",
+      "sent_id": 12,
+      "sentence": "Silence fell upon them.",
+      "subj": "silence",
+      "verb": "fall",
+      "obj": "they"
+    },
+    {
+      "id": "e0013",
+      "label": "he | vanish | wave",
+      "sent_id": 14,
+      "sentence": "He vanished beneath the waves and stayed gone for what seemed an eternity.",
+      "subj": "he",
+      "verb": "vanish",
+      "obj": "wave"
+    },
+    {
+      "id": "e0014",
+      "label": "he | declare | \u2205",
+      "sent_id": 15,
+      "sentence": "When he finally surfaced, weak and trembling, he declared, \u201cNo bottom lies beneath these waters.\u201d",
+      "subj": "he",
+      "verb": "declare",
+      "obj": ""
+    },
+    {
+      "id": "e0015",
+      "label": "bird | step | \u2205",
+      "sent_id": 16,
+      "sentence": "Next, the helldiver bird, Zhing-gi-biss, stepped forward, famed among men and beasts for his long, relentless dives.",
+      "subj": "bird",
+      "verb": "step",
+      "obj": ""
+    },
+    {
+      "id": "e0016",
+      "label": "he | return | \u2205",
+      "sent_id": 17,
+      "sentence": "Yet he too returned broken and empty-beaked, unable to claim the earth from the depths.",
+      "subj": "he",
+      "verb": "return",
+      "obj": ""
+    },
+    {
+      "id": "e0017",
+      "label": "turtle | fail | \u2205",
+      "sent_id": 18,
+      "sentence": "One after another\u2014the mink Zhon-gwayzh' and even the steadfast turtle Mizhee-kay\u2014all failed.",
+      "subj": "turtle",
+      "verb": "fail",
+      "obj": ""
+    },
+    {
+      "id": "e0018",
+      "label": "hope | seem | lose",
+      "sent_id": 19,
+      "sentence": "The hope of finding the earth seemed lost.",
+      "subj": "hope",
+      "verb": "seem",
+      "obj": "lose"
+    },
+    {
+      "id": "e0019",
+      "label": "voice | whisper | \u2205",
+      "sent_id": 20,
+      "sentence": "Then a faint, timid voice whispered: \u201cI can do it.\u201d",
+      "subj": "voice",
+      "verb": "whisper",
+      "obj": ""
+    },
+    {
+      "id": "e0020",
+      "label": "one | see | speaker",
+      "sent_id": 21,
+      "sentence": "At first no one saw the speaker.",
+      "subj": "one",
+      "verb": "see",
+      "obj": "speaker"
+    },
+    {
+      "id": "e0021",
+      "label": "muskrat | step | \u2205",
+      "sent_id": 22,
+      "sentence": "Slowly, the small, gentle muskrat, Wa-zhushk, stepped forth.",
+      "subj": "muskrat",
+      "verb": "step",
+      "obj": ""
+    },
+    {
+      "id": "e0022",
+      "label": "creature | laugh | \u2205",
+      "sent_id": 23,
+      "sentence": "The larger creatures laughed, mocking his size and seeming frailty.",
+      "subj": "creature",
+      "verb": "laugh",
+      "obj": ""
+    },
+    {
+      "id": "e0023",
+      "label": "\u2205 | let | \u2205",
+      "sent_id": 25,
+      "sentence": "Let the muskrat try.\u201d",
+      "subj": "",
+      "verb": "let",
+      "obj": ""
+    },
+    {
+      "id": "e0024",
+      "label": "muskrat | dive | \u2205",
+      "sent_id": 26,
+      "sentence": "The muskrat dove deep and stayed submerged longer than any had dared.",
+      "subj": "muskrat",
+      "verb": "dive",
+      "obj": ""
+    },
+    {
+      "id": "e0025",
+      "label": "doubt | wash | other",
+      "sent_id": 27,
+      "sentence": "Doubt washed over the others.",
+      "subj": "doubt",
+      "verb": "wash",
+      "obj": "other"
+    },
+    {
+      "id": "e0026",
+      "label": "he | perish | \u2205",
+      "sent_id": 28,
+      "sentence": "Surely, he had perished.",
+      "subj": "he",
+      "verb": "perish",
+      "obj": ""
+    },
+    {
+      "id": "e0027",
+      "label": "paw | grasp | clod",
+      "sent_id": 29,
+      "sentence": "But far below the waves, the tiny muskrat\u2019s paws grasped a small clod of earth.",
+      "subj": "paw",
+      "verb": "grasp",
+      "obj": "clod"
+    },
+    {
+      "id": "e0028",
+      "label": "he | fight | way",
+      "sent_id": 30,
+      "sentence": "Weak and near spent, he fought his way upward.",
+      "subj": "he",
+      "verb": "fight",
+      "obj": "way"
+    },
+    {
+      "id": "e0029",
+      "label": "nanaboozhoo | catch | he",
+      "sent_id": 31,
+      "sentence": "As he surfaced, Nanaboozhoo caught him onto the log.",
+      "subj": "nanaboozhoo",
+      "verb": "catch",
+      "obj": "he"
+    },
+    {
+      "id": "e0030",
+      "label": "he | mourn | song",
+      "sent_id": 32,
+      "sentence": "\u201cBrothers and sisters, the muskrat has given his life for us,\u201d he mourned as a sorrowful song rose into the sky.",
+      "subj": "he",
+      "verb": "mourn",
+      "obj": "song"
+    },
+    {
+      "id": "e0031",
+      "label": "surprise | blossom | \u2205",
+      "sent_id": 33,
+      "sentence": "Yet then, surprise blossomed: something clenched tightly in muskrat\u2019s paw.",
+      "subj": "surprise",
+      "verb": "blossom",
+      "obj": ""
+    },
+    {
+      "id": "e0032",
+      "label": "nanaboozhoo | open | it",
+      "sent_id": 34,
+      "sentence": "Nanaboozhoo carefully opened it to reveal a small ball of earth.",
+      "subj": "nanaboozhoo",
+      "verb": "open",
+      "obj": "it"
+    },
+    {
+      "id": "e0033",
+      "label": "joy | burst | all",
+      "sent_id": 35,
+      "sentence": "Joy burst forth from all who beheld it.",
+      "subj": "joy",
+      "verb": "burst",
+      "obj": "all"
+    },
+    {
+      "id": "e0034",
+      "label": "nanaboozhoo | take | earth",
+      "sent_id": 36,
+      "sentence": "With great respect, Nanaboozhoo took the earth.",
+      "subj": "nanaboozhoo",
+      "verb": "take",
+      "obj": "earth"
+    },
+    {
+      "id": "e0035",
+      "label": "turtle | swam | \u2205",
+      "sent_id": 37,
+      "sentence": "At once, the wise old turtle, Mizhee-kay, swam close and said, \u201cLet my back carry this earth.",
+      "subj": "turtle",
+      "verb": "swam",
+      "obj": ""
+    },
+    {
+      "id": "e0036",
+      "label": "we | fashion | world",
+      "sent_id": 38,
+      "sentence": "With Wodan\u2019s blessing, we shall fashion a new world.\u201d",
+      "subj": "we",
+      "verb": "fashion",
+      "obj": "world"
+    },
+    {
+      "id": "e0037",
+      "label": "nanaboozhoo | call | wind",
+      "sent_id": 39,
+      "sentence": "Placing the earth upon the turtle\u2019s broad shell, Nanaboozhoo called on the Four Winds\u2014the northern, southern, eastern, and western breaths that roam the forests and mountains.",
+      "subj": "nanaboozhoo",
+      "verb": "call",
+      "obj": "wind"
+    },
+    {
+      "id": "e0038",
+      "label": "they | stir | \u2205",
+      "sent_id": 40,
+      "sentence": "They stirred and blew with mighty power, and the small clod of earth grew and grew until it rose above the waters like a new island.",
+      "subj": "they",
+      "verb": "stir",
+      "obj": ""
+    },
+    {
+      "id": "e0039",
+      "label": "animal | dance | \u2205",
+      "sent_id": 41,
+      "sentence": "As the island expanded, the animals and Nanaboozhoo danced and sang in a growing circle upon it.",
+      "subj": "animal",
+      "verb": "dance",
+      "obj": ""
+    },
+    {
+      "id": "e0040",
+      "label": "wind | still | home",
+      "sent_id": 42,
+      "sentence": "When at last the winds stilled and the waters calmed, the great island stood firm\u2014a new home for the second peoples of the earth.",
+      "subj": "wind",
+      "verb": "still",
+      "obj": "home"
+    },
+    {
+      "id": "e0041",
+      "label": "respect | hold | day",
+      "sent_id": 43,
+      "sentence": "To this day, in the folk songs and tales of the German lands, respect is held for the turtle whose steadfastness bore the new earth, and for the brave muskrat whose sacrifice made life anew.",
+      "subj": "respect",
+      "verb": "hold",
+      "obj": "day"
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    },
+    {
+      "source": "e0029",
+      "target": "e0030",
+      "relation": "next"
+    },
+    {
+      "source": "e0030",
+      "target": "e0031",
+      "relation": "next"
+    },
+    {
+      "source": "e0031",
+      "target": "e0032",
+      "relation": "next"
+    },
+    {
+      "source": "e0032",
+      "target": "e0033",
+      "relation": "next"
+    },
+    {
+      "source": "e0033",
+      "target": "e0034",
+      "relation": "next"
+    },
+    {
+      "source": "e0034",
+      "target": "e0035",
+      "relation": "next"
+    },
+    {
+      "source": "e0035",
+      "target": "e0036",
+      "relation": "next"
+    },
+    {
+      "source": "e0036",
+      "target": "e0037",
+      "relation": "next"
+    },
+    {
+      "source": "e0037",
+      "target": "e0038",
+      "relation": "next"
+    },
+    {
+      "source": "e0038",
+      "target": "e0039",
+      "relation": "next"
+    },
+    {
+      "source": "e0039",
+      "target": "e0040",
+      "relation": "next"
+    },
+    {
+      "source": "e0040",
+      "target": "e0041",
+      "relation": "next"
+    }
+  ]
+}

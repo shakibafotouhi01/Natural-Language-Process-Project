@@ -1,0 +1,354 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "companion",
+    "verb": "lament",
+    "obj": "time",
+    "label": "companion | lament | time",
+    "sentence": "A companion of mine lamented the harsh times we lived in."
+  },
+  {
+    "sent_id": 1,
+    "subj": "he",
+    "verb": "speak",
+    "obj": "resource",
+    "label": "he | speak | resource",
+    "sentence": "He spoke of his meager resources and the weight of his large family, feeling too weak to carry the burden of hardship."
+  },
+  {
+    "sent_id": 2,
+    "subj": "he",
+    "verb": "confess",
+    "obj": "",
+    "label": "he | confess | \u2205",
+    "sentence": "He confessed that often he dreamed of traveling far beyond the mountains, to a land where no one would know his fortune or misfortune, so that whether he prospered or struggled, he could walk without judgment."
+  },
+  {
+    "sent_id": 3,
+    "subj": "he",
+    "verb": "say",
+    "obj": "",
+    "label": "he | say | \u2205",
+    "sentence": "He said many wanderers roam hungry, unnoticed and forgotten."
+  },
+  {
+    "sent_id": 4,
+    "subj": "many",
+    "verb": "lie",
+    "obj": "door",
+    "label": "many | lie | door",
+    "sentence": "Many lay at death\u2019s door, and no one sheds a tear for them."
+  },
+  {
+    "sent_id": 5,
+    "subj": "heart",
+    "verb": "be",
+    "obj": "",
+    "label": "heart | be | \u2205",
+    "sentence": "His heart was troubled, fearing the hidden whispers of rivals who mocked him unseen."
+  },
+  {
+    "sent_id": 6,
+    "subj": "they",
+    "verb": "say",
+    "obj": "",
+    "label": "they | say | \u2205",
+    "sentence": "They said he lacked the courage to endure hardship and would soon abandon his family, choosing comfort over honor:\n\u201cSee him, that man without pride,\nNever blessed by fortune\u2019s smile,\nFleeing warmth, leaving kin to cold,\nA shadow without a path home.\u201d"
+  },
+  {
+    "sent_id": 7,
+    "subj": "he",
+    "verb": "ask",
+    "obj": "",
+    "label": "he | ask | \u2205",
+    "sentence": "Knowing I had some skill with numbers, he asked if I might use my influence with the tribal council to find him a position."
+  },
+  {
+    "sent_id": 8,
+    "subj": "this",
+    "verb": "ease",
+    "obj": "mind",
+    "label": "this | ease | mind",
+    "sentence": "This, he believed, would ease his mind and bind him with gratitude to me for life."
+  },
+  {
+    "sent_id": 9,
+    "subj": "i",
+    "verb": "answer",
+    "obj": "",
+    "label": "i | answer | \u2205",
+    "sentence": "I answered, \u201cFriend, serving the chief comes with two faces: hope for sustenance, but danger to your spirit."
+  },
+  {
+    "sent_id": 10,
+    "subj": "one",
+    "verb": "say",
+    "obj": "",
+    "label": "one | say | \u2205",
+    "sentence": "Wise ones say it is folly to brave great risk for uncertain reward.\u201d"
+  },
+  {
+    "sent_id": 11,
+    "subj": "one",
+    "verb": "visit",
+    "obj": "lodge",
+    "label": "one | visit | lodge",
+    "sentence": "No one visits the healer's lodge to seek wealth or claim the harvest\u2019s fruits."
+  },
+  {
+    "sent_id": 12,
+    "subj": "you",
+    "verb": "bear",
+    "obj": "sorrow",
+    "label": "you | bear | sorrow",
+    "sentence": "You must either bear your sorrow, or let your beloved children be scattered like leaves upon the wind."
+  },
+  {
+    "sent_id": 13,
+    "subj": "he",
+    "verb": "press",
+    "obj": "",
+    "label": "he | press | \u2205",
+    "sentence": "He pressed, citing old teachings: \u201cHave you not heard, \u2018The one who betrays must tremble when judged by the Great Spirit\u2019?\u201d\n\nI replied, \u201cThe path of truth is accepted by the Creator; no traveler is lost upon it."
+  },
+  {
+    "sent_id": 14,
+    "subj": "unfaithful",
+    "verb": "fear",
+    "obj": "witness",
+    "label": "unfaithful | fear | witness",
+    "sentence": "Wise elders say four fears haunt four souls: the outlaw fears the warrior, the thief fears the watchman, the unfaithful fears the witness, and the wanderer fears the guardian of law."
+  },
+  {
+    "sent_id": 15,
+    "subj": "",
+    "verb": "spend",
+    "obj": "mean",
+    "label": "\u2205 | spend | mean",
+    "sentence": "But what can harm the heart that holds no guilt?\u201d\n\n\u201cDo not spend beyond your means while in favor, lest when the winds turn, your foes mock your fall."
+  },
+  {
+    "sent_id": 16,
+    "subj": "",
+    "verb": "be",
+    "obj": "",
+    "label": "\u2205 | be | \u2205",
+    "sentence": "Be pure, brother, and fear no shadow."
+  },
+  {
+    "sent_id": 17,
+    "subj": "dirty",
+    "verb": "beat",
+    "obj": "",
+    "label": "dirty | beat | \u2205",
+    "sentence": "Only the dirty are beaten by the stone\u2019s edge.\u201d"
+  },
+  {
+    "sent_id": 18,
+    "subj": "i",
+    "verb": "tell",
+    "obj": "story",
+    "label": "i | tell | story",
+    "sentence": "To soften his worry, I told the story of the fox fleeing in terror, fearing camels forced into service."
+  },
+  {
+    "sent_id": 19,
+    "subj": "friend",
+    "verb": "mock",
+    "obj": "",
+    "label": "friend | mock | \u2205",
+    "sentence": "His friends mocked: \u201cWhat harm have you, fox, with beasts of burden?\u201d"
+  },
+  {
+    "sent_id": 20,
+    "subj": "fox",
+    "verb": "answer",
+    "obj": "",
+    "label": "fox | answer | \u2205",
+    "sentence": "The fox answered, \u201cSilence."
+  },
+  {
+    "sent_id": 21,
+    "subj": "who",
+    "verb": "help",
+    "obj": "",
+    "label": "who | help | \u2205",
+    "sentence": "If the jealous say I am a camel and catch me, who else will help?"
+  },
+  {
+    "sent_id": 22,
+    "subj": "one",
+    "verb": "die",
+    "obj": "",
+    "label": "one | die | \u2205",
+    "sentence": "The one bitten by the serpent dies before the bitter herb reaches him.\u201d"
+  },
+  {
+    "sent_id": 23,
+    "subj": "you",
+    "verb": "be",
+    "obj": "",
+    "label": "you | be | \u2205",
+    "sentence": "\u201cYou are honorable and true, yet enemies wait in every shadow."
+  },
+  {
+    "sent_id": 24,
+    "subj": "judgement",
+    "verb": "fall",
+    "obj": "heavy",
+    "label": "judgement | fall | heavy",
+    "sentence": "If they speak ill of you, the chief\u2019s judgement will fall heavy, and none will speak for you."
+  },
+  {
+    "sent_id": 26,
+    "subj": "elder",
+    "verb": "say",
+    "obj": "",
+    "label": "elder | say | \u2205",
+    "sentence": "The elders say:\n\n\u2018The river holds many treasures,\nBut safety lies upon the riverbank.\u2019\u201d"
+  },
+  {
+    "sent_id": 27,
+    "subj": "face",
+    "verb": "darken",
+    "obj": "",
+    "label": "face | darken | \u2205",
+    "sentence": "Hearing this, my friend\u2019s face darkened."
+  },
+  {
+    "sent_id": 28,
+    "subj": "he",
+    "verb": "rebuke",
+    "obj": "i",
+    "label": "he | rebuke | i",
+    "sentence": "He rebuked me harshly, saying, \u201cWhat wisdom is this?"
+  },
+  {
+    "sent_id": 29,
+    "subj": "friend",
+    "verb": "show",
+    "obj": "tooth",
+    "label": "friend | show | tooth",
+    "sentence": "Philosophers are right: friends show their teeth at the feast but turn to silence in the cell.\u201d\n\n\u201cTrust not the one who knocks upon fortune\u2019s door,\nWho calls himself kin but turns away in hardship."
+  },
+  {
+    "sent_id": 30,
+    "subj": "friendship",
+    "verb": "be",
+    "obj": "hand",
+    "label": "friendship | be | hand",
+    "sentence": "True friendship is the hand that holds tight in the coldest night.\u201d"
+  },
+  {
+    "sent_id": 31,
+    "subj": "i",
+    "verb": "seek",
+    "obj": "chief",
+    "label": "i | seek | chief",
+    "sentence": "Though hurt by his words, I sought the tribal chief."
+  },
+  {
+    "sent_id": 32,
+    "subj": "i",
+    "verb": "speak",
+    "obj": "plight",
+    "label": "i | speak | plight",
+    "sentence": "Calling on old bonds, I spoke of my friend\u2019s plight."
+  },
+  {
+    "sent_id": 33,
+    "subj": "chief",
+    "verb": "grant",
+    "obj": "role",
+    "label": "chief | grant | role",
+    "sentence": "The chief granted him a small role, and through kindness and skill, my friend rose in esteem and rank, becoming a trusted advisor to the leader, his star ascending like the sun at dawn."
+  },
+  {
+    "sent_id": 34,
+    "subj": "i",
+    "verb": "rejoice",
+    "obj": "",
+    "label": "i | rejoice | \u2205",
+    "sentence": "I rejoiced, saying:\n\n\u201cFear not tangled paths or shattered hearts,\nFor from darkness springs the life-giving light."
+  },
+  {
+    "sent_id": 36,
+    "subj": "i",
+    "verb": "return",
+    "obj": "journey",
+    "label": "i | return | journey",
+    "sentence": "Sit not in gloom for the changing winds,\nFor patience, though bitter, yields sweet fruit.\u201d\n\nOn a journey with friends to the sacred mountain, I returned to find him waiting two day\u2019s travel away, dressed like the wandering medicine men."
+  },
+  {
+    "sent_id": 37,
+    "subj": "face",
+    "verb": "be",
+    "obj": "",
+    "label": "face | be | \u2205",
+    "sentence": "His face was heavy with sorrow."
+  },
+  {
+    "sent_id": 38,
+    "subj": "he",
+    "verb": "tell",
+    "obj": "i",
+    "label": "he | tell | i",
+    "sentence": "When I asked, he told me:\n\n\u201cAs you saw, envy found me and enemies brought false charges of betrayal."
+  },
+  {
+    "sent_id": 39,
+    "subj": "chief",
+    "verb": "seek",
+    "obj": "truth",
+    "label": "chief | seek | truth",
+    "sentence": "The chief did not seek the truth, and old friends fell silent, forgetting all we shared."
+  },
+  {
+    "sent_id": 40,
+    "subj": "",
+    "verb": "see",
+    "obj": "",
+    "label": "\u2205 | see | \u2205",
+    "sentence": "\u201cSee how those who praise the mighty stand with bowed heads\u2014\nBut when fortune turns, all seek to trample them beneath their feet.\u201d"
+  },
+  {
+    "sent_id": 41,
+    "subj": "news",
+    "verb": "come",
+    "obj": "suffering",
+    "label": "news | come | suffering",
+    "sentence": "\u201cAt last, after much suffering, news came that the sacred travelers approached, and I was freed, though my family\u2019s lands were taken.\u201d"
+  },
+  {
+    "sent_id": 42,
+    "subj": "i",
+    "verb": "say",
+    "obj": "",
+    "label": "i | say | \u2205",
+    "sentence": "I said, \u201cYou did not heed when I cautioned that service to chiefs is a voyage on a stormy lake\u2014gain or death are the only outcomes.\u201d"
+  },
+  {
+    "sent_id": 43,
+    "subj": "traveler",
+    "verb": "bring",
+    "obj": "treasure",
+    "label": "traveler | bring | treasure",
+    "sentence": "The traveler may bring the treasure ashore,\nOr be found lifeless on the shoreline."
+  },
+  {
+    "sent_id": 44,
+    "subj": "you",
+    "verb": "know",
+    "obj": "",
+    "label": "you | know | \u2205",
+    "sentence": "To soothe his wounds, I spoke gently:\n\n\u201cDid you not know your hands would be bound,\nIf you did not heed the counsel of your elders?"
+  },
+  {
+    "sent_id": 45,
+    "subj": "",
+    "verb": "place",
+    "obj": "finger",
+    "label": "\u2205 | place | finger",
+    "sentence": "And if you cannot bear the sting\u2019s pain,\nDo not place your fingers where the scorpion dwells.\u201d"
+  }
+]

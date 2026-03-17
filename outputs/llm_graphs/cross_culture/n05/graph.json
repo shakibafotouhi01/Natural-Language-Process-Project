@@ -1,0 +1,954 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "e0000",
+      "label": "\u2205 | stand | cabin",
+      "sent_id": 0,
+      "sentence": "In the heart of an ancient Germanic forest stood a humble cabin where an old man lived with his grandson.",
+      "subj": "",
+      "verb": "stand",
+      "obj": "cabin"
+    },
+    {
+      "id": "e0001",
+      "label": "parent | lose | terror",
+      "sent_id": 1,
+      "sentence": "The boy\u2019s parents and kin had long ago been lost to the terror of six towering giants who roamed the Black Forest.",
+      "subj": "parent",
+      "verb": "lose",
+      "obj": "terror"
+    },
+    {
+      "id": "e0002",
+      "label": "\u2205 | destine | \u2205",
+      "sent_id": 2,
+      "sentence": "The tribe whispered of an old prophecy: one day, a hero would arise, marked by a single white feather, destined to astonish all with his courage and skill.",
+      "subj": "",
+      "verb": "destine",
+      "obj": ""
+    },
+    {
+      "id": "e0003",
+      "label": "grandfather | give | bow",
+      "sent_id": 3,
+      "sentence": "As soon as the boy was able to walk, his grandfather gave him a small bow and arrows.",
+      "subj": "grandfather",
+      "verb": "give",
+      "obj": "bow"
+    },
+    {
+      "id": "e0004",
+      "label": "boy | spot | creature",
+      "sent_id": 4,
+      "sentence": "One day, near the forest edge, the boy spotted a curious creature\u2014small, swift, with soft fur.",
+      "subj": "boy",
+      "verb": "spot",
+      "obj": "creature"
+    },
+    {
+      "id": "e0005",
+      "label": "he | run | \u2205",
+      "sent_id": 5,
+      "sentence": "Unsure of what it was, he ran home to describe it.",
+      "subj": "he",
+      "verb": "run",
+      "obj": ""
+    },
+    {
+      "id": "e0006",
+      "label": "grandfather | explain | \u2205",
+      "sent_id": 6,
+      "sentence": "His grandfather explained it was a hare, good to eat if he could only hit it with his arrow.",
+      "subj": "grandfather",
+      "verb": "explain",
+      "obj": ""
+    },
+    {
+      "id": "e0007",
+      "label": "boy | try | \u2205",
+      "sent_id": 7,
+      "sentence": "The boy tried and succeeded, bringing it back to boil for a modest feast.",
+      "subj": "boy",
+      "verb": "try",
+      "obj": ""
+    },
+    {
+      "id": "e0008",
+      "label": "grandfather | teach | he",
+      "sent_id": 8,
+      "sentence": "Encouraged, his grandfather taught him to hunt deer and boar, until the boy became a master woodsman.",
+      "subj": "grandfather",
+      "verb": "teach",
+      "obj": "he"
+    },
+    {
+      "id": "e0009",
+      "label": "curiosity | grow | life",
+      "sent_id": 9,
+      "sentence": "Isolated from other villages, the boy\u2019s curiosity grew about life beyond the trees.",
+      "subj": "curiosity",
+      "verb": "grow",
+      "obj": "life"
+    },
+    {
+      "id": "e0010",
+      "label": "he | find | ash",
+      "sent_id": 10,
+      "sentence": "One day, at the edge of a misty clearing, he found scattered ashes and upright poles\u2014signs of a nearby homestead unfamiliar to him.",
+      "subj": "he",
+      "verb": "find",
+      "obj": "ash"
+    },
+    {
+      "id": "e0011",
+      "label": "man | deny | it",
+      "sent_id": 11,
+      "sentence": "Asked if his grandfather had prepared them, the old man firmly denied it, warning the boy\u2019s imagination was playing tricks.",
+      "subj": "man",
+      "verb": "deny",
+      "obj": "it"
+    },
+    {
+      "id": "e0012",
+      "label": "voice | echo | tree",
+      "sent_id": 12,
+      "sentence": "Later, as the young man ventured deeper into the forest on a solitary walk, a mysterious voice echoed through the trees: \u201cCome forth, wearer of the white feather.",
+      "subj": "voice",
+      "verb": "echo",
+      "obj": "tree"
+    },
+    {
+      "id": "e0013",
+      "label": "you | be | \u2205",
+      "sent_id": 13,
+      "sentence": "Though you do not yet bear it, you are worthy.\u201d",
+      "subj": "you",
+      "verb": "be",
+      "obj": ""
+    },
+    {
+      "id": "e0014",
+      "label": "voice | tell | he",
+      "sent_id": 14,
+      "sentence": "The voice told him to rest and dream.",
+      "subj": "voice",
+      "verb": "tell",
+      "obj": "he"
+    },
+    {
+      "id": "e0015",
+      "label": "he | see | pipe",
+      "sent_id": 15,
+      "sentence": "In this vision, he saw a pipe, a pouch for tobacco, and a large white feather.",
+      "subj": "he",
+      "verb": "see",
+      "obj": "pipe"
+    },
+    {
+      "id": "e0016",
+      "label": "gift | lie | he",
+      "sent_id": 16,
+      "sentence": "Upon waking, these gifts lay before him.",
+      "subj": "gift",
+      "verb": "lie",
+      "obj": "he"
+    },
+    {
+      "id": "e0017",
+      "label": "voice | urge | \u2205",
+      "sent_id": 17,
+      "sentence": "\u201cPlace the feather upon your head,\u201d the voice urged, \u201cand you shall become a great hunter and warrior, capable of astounding feats.",
+      "subj": "voice",
+      "verb": "urge",
+      "obj": ""
+    },
+    {
+      "id": "e0018",
+      "label": "smoke | form | flock",
+      "sent_id": 18,
+      "sentence": "When you smoke the pipe, the smoke will form flocks of doves.\u201d",
+      "subj": "smoke",
+      "verb": "form",
+      "obj": "flock"
+    },
+    {
+      "id": "e0019",
+      "label": "voice | reveal | itself",
+      "sent_id": 19,
+      "sentence": "The voice revealed itself to be a woodland spirit, rooted like an ancient tree, who confided that the grandfather\u2019s kindness concealed selfish motives.",
+      "subj": "voice",
+      "verb": "reveal",
+      "obj": "itself"
+    },
+    {
+      "id": "e0020",
+      "label": "spirit | give | vine",
+      "sent_id": 20,
+      "sentence": "The spirit gave the young man an enchanted vine, invisible to enemies, to be used in races against his foes.",
+      "subj": "spirit",
+      "verb": "give",
+      "obj": "vine"
+    },
+    {
+      "id": "e0021",
+      "label": "he | triumph | \u2205",
+      "sent_id": 21,
+      "sentence": "If he could ensnare them with the vine during a contest of speed, he would triumph.",
+      "subj": "he",
+      "verb": "triumph",
+      "obj": ""
+    },
+    {
+      "id": "e0022",
+      "label": "boy | glimpse | face",
+      "sent_id": 22,
+      "sentence": "As the voice faded, the boy glimpsed the spirit\u2019s face vanish like dawn mist.",
+      "subj": "boy",
+      "verb": "glimpse",
+      "obj": "face"
+    },
+    {
+      "id": "e0023",
+      "label": "he | return | \u2205",
+      "sent_id": 23,
+      "sentence": "He returned home, slept, and woke to find the pipe, pouch, and feather as promised.",
+      "subj": "he",
+      "verb": "return",
+      "obj": ""
+    },
+    {
+      "id": "e0024",
+      "label": "grandfather | recall | prophecy",
+      "sent_id": 24,
+      "sentence": "His grandfather, noting the white feather and the fluttering doves escaping the cabin, recalled the old prophecy with dread, fearing his hold over the boy weakening.",
+      "subj": "grandfather",
+      "verb": "recall",
+      "obj": "prophecy"
+    },
+    {
+      "id": "e0025",
+      "label": "word | reach | giant",
+      "sent_id": 26,
+      "sentence": "Word of his coming reached the giants, who mocked him at first, calling him a mere child with his white plume.",
+      "subj": "word",
+      "verb": "reach",
+      "obj": "giant"
+    },
+    {
+      "id": "e0026",
+      "label": "they | offer | challenge",
+      "sent_id": 27,
+      "sentence": "Yet, they offered him a challenge: to race against each of them one by one.",
+      "subj": "they",
+      "verb": "offer",
+      "obj": "challenge"
+    },
+    {
+      "id": "e0027",
+      "label": "course | run | tree",
+      "sent_id": 28,
+      "sentence": "The course was run to a marked birch tree facing east and back to a heavy iron club that served as the prize.",
+      "subj": "course",
+      "verb": "run",
+      "obj": "tree"
+    },
+    {
+      "id": "e0028",
+      "label": "\u2205 | claim | club",
+      "sent_id": 29,
+      "sentence": "Whoever won the race claimed the club and could strike down the loser.",
+      "subj": "",
+      "verb": "claim",
+      "obj": "club"
+    },
+    {
+      "id": "e0029",
+      "label": "feather | outpace | giant",
+      "sent_id": 30,
+      "sentence": "Confident and supported by the magical vine, White Feather outpaced the first giant, ensnared him, and struck his head from his shoulders.",
+      "subj": "feather",
+      "verb": "outpace",
+      "obj": "giant"
+    },
+    {
+      "id": "e0030",
+      "label": "he | defeat | giant",
+      "sent_id": 31,
+      "sentence": "Morning after morning, he defeated each giant in turn, claiming their heads as trophies.",
+      "subj": "he",
+      "verb": "defeat",
+      "obj": "giant"
+    },
+    {
+      "id": "e0031",
+      "label": "giant | propose | trap",
+      "sent_id": 32,
+      "sentence": "The last giant, cunning and wary, proposed a trap.",
+      "subj": "giant",
+      "verb": "propose",
+      "obj": "trap"
+    },
+    {
+      "id": "e0032",
+      "label": "he | offer | \u2205",
+      "sent_id": 33,
+      "sentence": "He offered White Feather a generous head start if he would leave all the heads behind.",
+      "subj": "he",
+      "verb": "offer",
+      "obj": ""
+    },
+    {
+      "id": "e0033",
+      "label": "feather | refuse | \u2205",
+      "sent_id": 34,
+      "sentence": "White Feather refused, proud of his hard-won trophies.",
+      "subj": "feather",
+      "verb": "refuse",
+      "obj": ""
+    },
+    {
+      "id": "e0034",
+      "label": "he | meet | woman",
+      "sent_id": 35,
+      "sentence": "Before confronting this final giant, White Feather met the wise forest spirit again, who warned him of a great danger: on his path he would meet a bewitching woman\u2014the sixth giant in disguise\u2014who would try to lure him.",
+      "subj": "he",
+      "verb": "meet",
+      "obj": "woman"
+    },
+    {
+      "id": "e0035",
+      "label": "he | shut | eye",
+      "sent_id": 36,
+      "sentence": "On meeting her, he must shut his eyes and wish to become an elk to avoid her spell.",
+      "subj": "he",
+      "verb": "shut",
+      "obj": "eye"
+    },
+    {
+      "id": "e0036",
+      "label": "she | claim | \u2205",
+      "sent_id": 38,
+      "sentence": "She claimed to have traveled far to be his bride, admiring his bravery.",
+      "subj": "she",
+      "verb": "claim",
+      "obj": ""
+    },
+    {
+      "id": "e0037",
+      "label": "feather | reclaim | form",
+      "sent_id": 39,
+      "sentence": "Enchanted by her beauty and sweet words, White Feather reclaimed his human form.",
+      "subj": "feather",
+      "verb": "reclaim",
+      "obj": "form"
+    },
+    {
+      "id": "e0038",
+      "label": "they | rest | \u2205",
+      "sent_id": 40,
+      "sentence": "They rested together, and as he fell into a deep sleep, the woman revealed her true nature.",
+      "subj": "they",
+      "verb": "rest",
+      "obj": ""
+    },
+    {
+      "id": "e0039",
+      "label": "she | transform | giant",
+      "sent_id": 41,
+      "sentence": "She transformed back into the giant, seized the magic feather from his brow, struck him with the iron club, and turned him into a dog.",
+      "subj": "she",
+      "verb": "transform",
+      "obj": "giant"
+    },
+    {
+      "id": "e0040",
+      "label": "he | lead | form",
+      "sent_id": 42,
+      "sentence": "In this form, he was led like a pet back to the village.",
+      "subj": "he",
+      "verb": "lead",
+      "obj": "form"
+    },
+    {
+      "id": "e0041",
+      "label": "\u2205 | live | sister",
+      "sent_id": 43,
+      "sentence": "Not far away in a nearby village lived two sisters, daughters of a chieftain, known rivals who fasted for power, each hoping to win the favor of White Feather.",
+      "subj": "",
+      "verb": "live",
+      "obj": "sister"
+    },
+    {
+      "id": "e0042",
+      "label": "giant | visit | they",
+      "sent_id": 44,
+      "sentence": "The giant, now pretending to be White Feather with the stolen feather, visited them.",
+      "subj": "giant",
+      "verb": "visit",
+      "obj": "they"
+    },
+    {
+      "id": "e0043",
+      "label": "sister | welcome | he",
+      "sent_id": 45,
+      "sentence": "The elder sister, decked in finery, welcomed him lavishly and married him.",
+      "subj": "sister",
+      "verb": "welcome",
+      "obj": "he"
+    },
+    {
+      "id": "e0044",
+      "label": "sister | take | dog",
+      "sent_id": 46,
+      "sentence": "The younger sister, humble and kind, took in the dog, feeding and caring for him lovingly.",
+      "subj": "sister",
+      "verb": "take",
+      "obj": "dog"
+    },
+    {
+      "id": "e0045",
+      "label": "feather | hold | power",
+      "sent_id": 47,
+      "sentence": "Believing the feather held all its power for whoever bore it, the giant boldly hunted on the open fields, loudly calling game to him, but frightened all animals away, returning empty-handed.",
+      "subj": "feather",
+      "verb": "hold",
+      "obj": "power"
+    },
+    {
+      "id": "e0046",
+      "label": "dog | move | riverbank",
+      "sent_id": 48,
+      "sentence": "The dog, however, quietly moved to a riverbank, stepping into the water to draw out a stone that transformed into a beaver.",
+      "subj": "dog",
+      "verb": "move",
+      "obj": "riverbank"
+    },
+    {
+      "id": "e0047",
+      "label": "giant | try | \u2205",
+      "sent_id": 49,
+      "sentence": "Watching secretly, the giant tried to repeat this trick, but could only raise a useless stone by his belt.",
+      "subj": "giant",
+      "verb": "try",
+      "obj": ""
+    },
+    {
+      "id": "e0048",
+      "label": "dog | succeed | task",
+      "sent_id": 50,
+      "sentence": "Each day, the dog succeeded at every task, while the giant failed miserably.",
+      "subj": "dog",
+      "verb": "succeed",
+      "obj": "task"
+    },
+    {
+      "id": "e0049",
+      "label": "pride | grow | \u2205",
+      "sent_id": 51,
+      "sentence": "The youngest sister\u2019s pride in her silent companion grew, while the elder sister\u2019s glory dimmed as she saw her husband\u2019s shortcomings.",
+      "subj": "pride",
+      "verb": "grow",
+      "obj": ""
+    },
+    {
+      "id": "e0050",
+      "label": "wife | journey | father",
+      "sent_id": 52,
+      "sentence": "At last, the giant\u2019s wife journeyed to her father, boasting of her husband\u2019s wealth of sticks and stones she called bears and beavers.",
+      "subj": "wife",
+      "verb": "journey",
+      "obj": "father"
+    },
+    {
+      "id": "e0051",
+      "label": "chieftain | send | messenger",
+      "sent_id": 53,
+      "sentence": "The old chieftain, suspecting a mystery, sent messengers to fetch the youngest daughter and her dog.",
+      "subj": "chieftain",
+      "verb": "send",
+      "obj": "messenger"
+    },
+    {
+      "id": "e0052",
+      "label": "they | find | dog",
+      "sent_id": 54,
+      "sentence": "To their surprise, they found not a dog, but a handsome young man\u2014though strangely silent.",
+      "subj": "they",
+      "verb": "find",
+      "obj": "dog"
+    },
+    {
+      "id": "e0053",
+      "label": "voice | lose | transformation",
+      "sent_id": 55,
+      "sentence": "The young man\u2019s voice was lost in the dog\u2019s transformation, but the youngest sister prepared a steaming lodge in the old way.",
+      "subj": "voice",
+      "verb": "lose",
+      "obj": "transformation"
+    },
+    {
+      "id": "e0054",
+      "label": "warmth | draw | enchantment",
+      "sent_id": 56,
+      "sentence": "Enclosed with heated stones and swirling vapors, the lodge\u2019s warmth drew the enchantment from the young man, restoring his speech but not the magical plume.",
+      "subj": "warmth",
+      "verb": "draw",
+      "obj": "enchantment"
+    },
+    {
+      "id": "e0055",
+      "label": "sister | accuse | sibling",
+      "sent_id": 57,
+      "sentence": "Meanwhile, the elder sister accused her sibling of harboring an idle dog as a husband, failing to mention the false bears and beavers.",
+      "subj": "sister",
+      "verb": "accuse",
+      "obj": "sibling"
+    },
+    {
+      "id": "e0056",
+      "label": "man | give | pipe",
+      "sent_id": 59,
+      "sentence": "At their gathering, the young man\u2014now called White Feather\u2014was given the magic pipe.",
+      "subj": "man",
+      "verb": "give",
+      "obj": "pipe"
+    },
+    {
+      "id": "e0057",
+      "label": "smoke | emerge | \u2205",
+      "sent_id": 60,
+      "sentence": "When the giant tried to smoke it, only smoke emerged.",
+      "subj": "smoke",
+      "verb": "emerge",
+      "obj": ""
+    },
+    {
+      "id": "e0058",
+      "label": "\u2205 | place | feather",
+      "sent_id": 61,
+      "sentence": "When White Feather took it, placed the white feather on his brow, and smoked, great flocks of white and blue pigeons soared from the smoke, revealing the giant a fraud.",
+      "subj": "",
+      "verb": "place",
+      "obj": "feather"
+    },
+    {
+      "id": "e0059",
+      "label": "chieftain | order | \u2205",
+      "sent_id": 62,
+      "sentence": "The chieftain ordered the giant changed into a dog and driven to the village center, where boys pelted him with clubs.",
+      "subj": "chieftain",
+      "verb": "order",
+      "obj": ""
+    },
+    {
+      "id": "e0060",
+      "label": "giant | meet | end",
+      "sent_id": 63,
+      "sentence": "Thus, the six giants met their end and haunted the land no more.",
+      "subj": "giant",
+      "verb": "meet",
+      "obj": "end"
+    },
+    {
+      "id": "e0061",
+      "label": "chieftain | command | man",
+      "sent_id": 64,
+      "sentence": "In honor of White Feather\u2019s victory, the chieftain commanded the young men to fashion arrows for four days.",
+      "subj": "chieftain",
+      "verb": "command",
+      "obj": "man"
+    },
+    {
+      "id": "e0062",
+      "label": "feather | request | hide",
+      "sent_id": 65,
+      "sentence": "White Feather requested a buffalo hide, which he carefully shredded and scattered at night across the fields.",
+      "subj": "feather",
+      "verb": "request",
+      "obj": "hide"
+    },
+    {
+      "id": "e0063",
+      "label": "he | lead | hunter",
+      "sent_id": 66,
+      "sentence": "On the fifth day, he led the hunters to the prairie where a great herd of buffalo appeared, drawn by the scattered hide pieces.",
+      "subj": "he",
+      "verb": "lead",
+      "obj": "hunter"
+    },
+    {
+      "id": "e0064",
+      "label": "tribe | celebrate | triumph",
+      "sent_id": 67,
+      "sentence": "The tribe celebrated White Feather\u2019s triumph with a grand feast.",
+      "subj": "tribe",
+      "verb": "celebrate",
+      "obj": "triumph"
+    },
+    {
+      "id": "e0065",
+      "label": "feather | ask | wife",
+      "sent_id": 68,
+      "sentence": "Having restored peace, White Feather asked his wife to seek her father\u2019s blessing for their journey to visit his grandfather.",
+      "subj": "feather",
+      "verb": "ask",
+      "obj": "wife"
+    },
+    {
+      "id": "e0066",
+      "label": "chieftain | say | \u2205",
+      "sent_id": 69,
+      "sentence": "The chieftain said a wife must follow her husband wherever he goes.",
+      "subj": "chieftain",
+      "verb": "say",
+      "obj": ""
+    },
+    {
+      "id": "e0067",
+      "label": "feather | step | wife",
+      "sent_id": 70,
+      "sentence": "With his white feather shining and war-club in hand, White Feather stepped into the vast forest, his faithful wife at his side, ready for the next chapter of their legend.",
+      "subj": "feather",
+      "verb": "step",
+      "obj": "wife"
+    }
+  ],
+  "edges": [
+    {
+      "source": "e0000",
+      "target": "e0001",
+      "relation": "next"
+    },
+    {
+      "source": "e0001",
+      "target": "e0002",
+      "relation": "next"
+    },
+    {
+      "source": "e0002",
+      "target": "e0003",
+      "relation": "next"
+    },
+    {
+      "source": "e0003",
+      "target": "e0004",
+      "relation": "next"
+    },
+    {
+      "source": "e0004",
+      "target": "e0005",
+      "relation": "next"
+    },
+    {
+      "source": "e0005",
+      "target": "e0006",
+      "relation": "next"
+    },
+    {
+      "source": "e0006",
+      "target": "e0007",
+      "relation": "next"
+    },
+    {
+      "source": "e0007",
+      "target": "e0008",
+      "relation": "next"
+    },
+    {
+      "source": "e0008",
+      "target": "e0009",
+      "relation": "next"
+    },
+    {
+      "source": "e0009",
+      "target": "e0010",
+      "relation": "next"
+    },
+    {
+      "source": "e0010",
+      "target": "e0011",
+      "relation": "next"
+    },
+    {
+      "source": "e0011",
+      "target": "e0012",
+      "relation": "next"
+    },
+    {
+      "source": "e0012",
+      "target": "e0013",
+      "relation": "next"
+    },
+    {
+      "source": "e0013",
+      "target": "e0014",
+      "relation": "next"
+    },
+    {
+      "source": "e0014",
+      "target": "e0015",
+      "relation": "next"
+    },
+    {
+      "source": "e0015",
+      "target": "e0016",
+      "relation": "next"
+    },
+    {
+      "source": "e0016",
+      "target": "e0017",
+      "relation": "next"
+    },
+    {
+      "source": "e0017",
+      "target": "e0018",
+      "relation": "next"
+    },
+    {
+      "source": "e0018",
+      "target": "e0019",
+      "relation": "next"
+    },
+    {
+      "source": "e0019",
+      "target": "e0020",
+      "relation": "next"
+    },
+    {
+      "source": "e0020",
+      "target": "e0021",
+      "relation": "next"
+    },
+    {
+      "source": "e0021",
+      "target": "e0022",
+      "relation": "next"
+    },
+    {
+      "source": "e0022",
+      "target": "e0023",
+      "relation": "next"
+    },
+    {
+      "source": "e0023",
+      "target": "e0024",
+      "relation": "next"
+    },
+    {
+      "source": "e0024",
+      "target": "e0025",
+      "relation": "next"
+    },
+    {
+      "source": "e0025",
+      "target": "e0026",
+      "relation": "next"
+    },
+    {
+      "source": "e0026",
+      "target": "e0027",
+      "relation": "next"
+    },
+    {
+      "source": "e0027",
+      "target": "e0028",
+      "relation": "next"
+    },
+    {
+      "source": "e0028",
+      "target": "e0029",
+      "relation": "next"
+    },
+    {
+      "source": "e0029",
+      "target": "e0030",
+      "relation": "next"
+    },
+    {
+      "source": "e0030",
+      "target": "e0031",
+      "relation": "next"
+    },
+    {
+      "source": "e0031",
+      "target": "e0032",
+      "relation": "next"
+    },
+    {
+      "source": "e0032",
+      "target": "e0033",
+      "relation": "next"
+    },
+    {
+      "source": "e0033",
+      "target": "e0034",
+      "relation": "next"
+    },
+    {
+      "source": "e0034",
+      "target": "e0035",
+      "relation": "next"
+    },
+    {
+      "source": "e0035",
+      "target": "e0036",
+      "relation": "next"
+    },
+    {
+      "source": "e0036",
+      "target": "e0037",
+      "relation": "next"
+    },
+    {
+      "source": "e0037",
+      "target": "e0038",
+      "relation": "next"
+    },
+    {
+      "source": "e0038",
+      "target": "e0039",
+      "relation": "next"
+    },
+    {
+      "source": "e0039",
+      "target": "e0040",
+      "relation": "next"
+    },
+    {
+      "source": "e0040",
+      "target": "e0041",
+      "relation": "next"
+    },
+    {
+      "source": "e0041",
+      "target": "e0042",
+      "relation": "next"
+    },
+    {
+      "source": "e0042",
+      "target": "e0043",
+      "relation": "next"
+    },
+    {
+      "source": "e0043",
+      "target": "e0044",
+      "relation": "next"
+    },
+    {
+      "source": "e0044",
+      "target": "e0045",
+      "relation": "next"
+    },
+    {
+      "source": "e0045",
+      "target": "e0046",
+      "relation": "next"
+    },
+    {
+      "source": "e0046",
+      "target": "e0047",
+      "relation": "next"
+    },
+    {
+      "source": "e0047",
+      "target": "e0048",
+      "relation": "next"
+    },
+    {
+      "source": "e0048",
+      "target": "e0049",
+      "relation": "next"
+    },
+    {
+      "source": "e0049",
+      "target": "e0050",
+      "relation": "next"
+    },
+    {
+      "source": "e0050",
+      "target": "e0051",
+      "relation": "next"
+    },
+    {
+      "source": "e0051",
+      "target": "e0052",
+      "relation": "next"
+    },
+    {
+      "source": "e0052",
+      "target": "e0053",
+      "relation": "next"
+    },
+    {
+      "source": "e0053",
+      "target": "e0054",
+      "relation": "next"
+    },
+    {
+      "source": "e0054",
+      "target": "e0055",
+      "relation": "next"
+    },
+    {
+      "source": "e0055",
+      "target": "e0056",
+      "relation": "next"
+    },
+    {
+      "source": "e0056",
+      "target": "e0057",
+      "relation": "next"
+    },
+    {
+      "source": "e0057",
+      "target": "e0058",
+      "relation": "next"
+    },
+    {
+      "source": "e0058",
+      "target": "e0059",
+      "relation": "next"
+    },
+    {
+      "source": "e0059",
+      "target": "e0060",
+      "relation": "next"
+    },
+    {
+      "source": "e0060",
+      "target": "e0061",
+      "relation": "next"
+    },
+    {
+      "source": "e0061",
+      "target": "e0062",
+      "relation": "next"
+    },
+    {
+      "source": "e0062",
+      "target": "e0063",
+      "relation": "next"
+    },
+    {
+      "source": "e0063",
+      "target": "e0064",
+      "relation": "next"
+    },
+    {
+      "source": "e0064",
+      "target": "e0065",
+      "relation": "next"
+    },
+    {
+      "source": "e0065",
+      "target": "e0066",
+      "relation": "next"
+    },
+    {
+      "source": "e0066",
+      "target": "e0067",
+      "relation": "next"
+    }
+  ]
+}

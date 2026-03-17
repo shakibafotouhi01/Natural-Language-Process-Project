@@ -1,0 +1,330 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "",
+    "verb": "live",
+    "obj": "man",
+    "label": "\u2205 | live | man",
+    "sentence": "Once, in the rolling hills and dark forests of old Saxony, there lived a man named Aggo Dah Gauda, who bore a stubborn fate: one of his legs was bound tightly up to his thigh, a punishment for once using that very foot against a revered forest healer, a wise Kr\u00e4uterfrau."
+  },
+  {
+    "sent_id": 1,
+    "subj": "this",
+    "verb": "force",
+    "obj": "aggo",
+    "label": "this | force | aggo",
+    "sentence": "This forced Aggo to move by hopping, yet through tireless practice, he became highly skilled, leaping across the forest glades with an agility that seemed almost magical."
+  },
+  {
+    "sent_id": 2,
+    "subj": "house",
+    "verb": "stand",
+    "obj": "edge",
+    "label": "house | stand | edge",
+    "sentence": "Aggo was a man of some standing; his humble timber-framed house stood proudly at the edge of a great clearing, and his courtyard stretched as far as the eye could see toward the setting sun."
+  },
+  {
+    "sent_id": 3,
+    "subj": "treasure",
+    "verb": "be",
+    "obj": "daughter",
+    "label": "treasure | be | daughter",
+    "sentence": "His dearest treasure was his lovely daughter, whose beauty was said to rival that of the morning sun glistening on the river Elbe."
+  },
+  {
+    "sent_id": 4,
+    "subj": "heart",
+    "verb": "be",
+    "obj": "",
+    "label": "heart | be | \u2205",
+    "sentence": "Yet Aggo\u2019s heart was heavy with worry, for he feared the King of the Wisents\u2014the mighty ruler of the herds that roamed these ancient woods\u2014who wielded power over all the great bison and could command them as he pleased."
+  },
+  {
+    "sent_id": 5,
+    "subj": "aggo",
+    "verb": "warn",
+    "obj": "daughter",
+    "label": "aggo | warn | daughter",
+    "sentence": "Aggo warned his daughter sternly to remain indoors, for the Wisent King prowled near by, ever watchful and ready to carry her away into his realm."
+  },
+  {
+    "sent_id": 6,
+    "subj": "aggo",
+    "verb": "set",
+    "obj": "wisps",
+    "label": "aggo | set | wisps",
+    "sentence": "One bright morning, with just a few wisps of mist curling in the air, Aggo set out with his fishing spear, reminding his daughter as he left: \u201cMy child, stay within the house."
+  },
+  {
+    "sent_id": 7,
+    "subj": "king",
+    "verb": "watch",
+    "obj": "eye",
+    "label": "king | watch | eye",
+    "sentence": "The Wisent King watches with unblinking eyes, and the forest is no place for you alone.\u201d\n\nWith that, he hopped off, his good spirits high."
+  },
+  {
+    "sent_id": 8,
+    "subj": "he",
+    "verb": "reach",
+    "obj": "riverbank",
+    "label": "he | reach | riverbank",
+    "sentence": "But scarcely had he reached the glistening riverbank when a strange song floated on the breeze:\n\nMan with his leg bound tight, \nMan with his leg bound tight, \nLeg broken\u2014broke\u2014 \nBroken right."
+  },
+  {
+    "sent_id": 9,
+    "subj": "one",
+    "verb": "be",
+    "obj": "sight",
+    "label": "one | be | sight",
+    "sentence": "No one was in sight, yet Aggo heard the mocking tune clearly, and knowing it to be the work of the Wisent King\u2019s spies, he hurried home as fast as his one leg could carry him."
+  },
+  {
+    "sent_id": 10,
+    "subj": "daughter",
+    "verb": "grow",
+    "obj": "confinement",
+    "label": "daughter | grow | confinement",
+    "sentence": "Left alone, the daughter grew restless with her confinement."
+  },
+  {
+    "sent_id": 11,
+    "subj": "she",
+    "verb": "think",
+    "obj": "",
+    "label": "she | think | \u2205",
+    "sentence": "\u201cIt is cruel to be locked away while the forest calls to me,\u201d she thought."
+  },
+  {
+    "sent_id": 12,
+    "subj": "warning",
+    "verb": "haunt",
+    "obj": "i",
+    "label": "warning | haunt | i",
+    "sentence": "\u201cBut father\u2019s warning haunts me."
+  },
+  {
+    "sent_id": 13,
+    "subj": "i",
+    "verb": "climb",
+    "obj": "roof",
+    "label": "i | climb | roof",
+    "sentence": "Yet I know what I will do\u2014I shall climb to the roof and braid my hair in the soft sunlight, safe above the reach of harm.\u201d"
+  },
+  {
+    "sent_id": 14,
+    "subj": "she",
+    "verb": "climb",
+    "obj": "shingle",
+    "label": "she | climb | shingle",
+    "sentence": "So she climbed to the heavy wooden shingles and began to untangle and comb her long, shining hair, which flowed in thick waves so long that it spilled like golden ribbons down the side of the house and brushed the forest floor as she sat."
+  },
+  {
+    "sent_id": 15,
+    "subj": "king",
+    "verb": "charge",
+    "obj": "tree",
+    "label": "king | charge | tree",
+    "sentence": "Unaware of danger, she was suddenly seized\u2014the Wisent King charged through the trees with his herd thundering behind him."
+  },
+  {
+    "sent_id": 16,
+    "subj": "he",
+    "verb": "lift",
+    "obj": "she",
+    "label": "he | lift | she",
+    "sentence": "Catching hold of the shimmering locks, he lifted her onto the back of his largest bison and rode swiftly across the open glades."
+  },
+  {
+    "sent_id": 17,
+    "subj": "he",
+    "verb": "bear",
+    "obj": "she",
+    "label": "he | bear | she",
+    "sentence": "Crossing a chilly river that marked the edge of his domain, he bore her away to a lodge hidden deep in the ancient forest."
+  },
+  {
+    "sent_id": 18,
+    "subj": "king",
+    "verb": "seek",
+    "obj": "",
+    "label": "king | seek | \u2205",
+    "sentence": "There, the Wisent King sought to win her heart, but she remained withdrawn, gloomy as the dark pine trees under a moonless sky."
+  },
+  {
+    "sent_id": 19,
+    "subj": "she",
+    "verb": "speak",
+    "obj": "",
+    "label": "she | speak | \u2205",
+    "sentence": "Though he lavished her with the choicest venison and wild herbs, placed her in the seat of honour beneath his great oak beams, and gave her gentle rides upon his quietest bison, she spoke little and showed no warmth."
+  },
+  {
+    "sent_id": 20,
+    "subj": "he",
+    "verb": "vow",
+    "obj": "",
+    "label": "he | vow | \u2205",
+    "sentence": "He vowed that none in his lodge must harm or displease her, and sometimes he played a haunting melody on his flute beneath her window, a song filled with yearning:\n\nMy beloved, \nMy beloved, \nAh me!"
+  },
+  {
+    "sent_id": 21,
+    "subj": "i",
+    "verb": "think",
+    "obj": "you",
+    "label": "i | think | you",
+    "sentence": "When I think of you, \nAh me!"
+  },
+  {
+    "sent_id": 22,
+    "subj": "i",
+    "verb": "do",
+    "obj": "what",
+    "label": "i | do | what",
+    "sentence": "What can I do?"
+  },
+  {
+    "sent_id": 23,
+    "subj": "i",
+    "verb": "love",
+    "obj": "you",
+    "label": "i | love | you",
+    "sentence": "How I love you, \nAh me!"
+  },
+  {
+    "sent_id": 24,
+    "subj": "",
+    "verb": "hate",
+    "obj": "i",
+    "label": "\u2205 | hate | i",
+    "sentence": "Do not hate me, \nSpeak\u2014if must be stern, \nBut hear my heart, \nAh me!"
+  },
+  {
+    "sent_id": 25,
+    "subj": "aggo",
+    "verb": "reach",
+    "obj": "",
+    "label": "aggo | reach | \u2205",
+    "sentence": "Meanwhile, Aggo reached home and instantly knew his daughter was gone."
+  },
+  {
+    "sent_id": 26,
+    "subj": "he",
+    "verb": "vow",
+    "obj": "",
+    "label": "he | vow | \u2205",
+    "sentence": "His fury was such that he might have torn out every hair on his head, yet, being long bald, he could only hop in place to vent his grief, pacing tirelessly east, west, north, and south \u2014 until, worn but undaunted, he vowed never to rest until she was safely home."
+  },
+  {
+    "sent_id": 27,
+    "subj": "aggo",
+    "verb": "find",
+    "obj": "river",
+    "label": "aggo | find | river",
+    "sentence": "Tracking the Wisent King\u2019s trail, Aggo found the frozen river where the herd had crossed."
+  },
+  {
+    "sent_id": 28,
+    "subj": "he",
+    "verb": "wait",
+    "obj": "",
+    "label": "he | wait | \u2205",
+    "sentence": "Though the ice was thin, he waited until it grew firm, then leapt onward, following a path marked by broken twigs\u2014signs his clever daughter had left, catching her hair on branches during her abduction."
+  },
+  {
+    "sent_id": 29,
+    "subj": "aggo",
+    "verb": "reach",
+    "obj": "lodge",
+    "label": "aggo | reach | lodge",
+    "sentence": "At nightfall, Aggo reached the Wisent King\u2019s lodge."
+  },
+  {
+    "sent_id": 30,
+    "subj": "he",
+    "verb": "see",
+    "obj": "",
+    "label": "he | see | \u2205",
+    "sentence": "Peering through its lattice, he saw his daughter sitting silent and sorrowful."
+  },
+  {
+    "sent_id": 31,
+    "subj": "heart",
+    "verb": "soften",
+    "obj": "",
+    "label": "heart | soften | \u2205",
+    "sentence": "Upon seeing her father, her heart softened."
+  },
+  {
+    "sent_id": 32,
+    "subj": "she",
+    "verb": "ask",
+    "obj": "cup",
+    "label": "she | ask | cup",
+    "sentence": "She asked for the water cup and told the king she would fetch him a drink."
+  },
+  {
+    "sent_id": 33,
+    "subj": "king",
+    "verb": "wait",
+    "obj": "return",
+    "label": "king | wait | return",
+    "sentence": "The king, hopeful, waited for her return."
+  },
+  {
+    "sent_id": 34,
+    "subj": "aggo",
+    "verb": "spring",
+    "obj": "",
+    "label": "aggo | spring | \u2205",
+    "sentence": "But when she slipped away, Aggo sprang up, clutching his daughter tightly, and hopped swiftly westward with the whole herd shouting in pursuit under the full moon."
+  },
+  {
+    "sent_id": 35,
+    "subj": "",
+    "verb": "determine",
+    "obj": "",
+    "label": "\u2205 | determine | \u2205",
+    "sentence": "Though the bison ran fast, their leader was determined not to be outrun by a one-legged man."
+  },
+  {
+    "sent_id": 36,
+    "subj": "leap",
+    "verb": "take",
+    "obj": "he",
+    "label": "leap | take | he",
+    "sentence": "Yet Aggo\u2019s clever leaps took him in sudden zigzags\u2014just out of reach, confusing the herd and their enraged king, who shouted and bellowed in frustration."
+  },
+  {
+    "sent_id": 37,
+    "subj": "king",
+    "verb": "madden",
+    "obj": "",
+    "label": "king | madden | \u2205",
+    "sentence": "At last, the king, maddened and weary, called off the chase and vanished into the forest forever."
+  },
+  {
+    "sent_id": 38,
+    "subj": "safe",
+    "verb": "carry",
+    "obj": "daughter",
+    "label": "safe | carry | daughter",
+    "sentence": "Safe at last, Aggo carried his daughter across the stream to his home."
+  },
+  {
+    "sent_id": 39,
+    "subj": "time",
+    "verb": "pass",
+    "obj": "",
+    "label": "time | pass | \u2205",
+    "sentence": "Time passed, and she married a brave young huntsman, who owned no mighty beasts save for a splendid deerskin cloak he wore on their wedding day."
+  },
+  {
+    "sent_id": 40,
+    "subj": "leg",
+    "verb": "carry",
+    "obj": "he",
+    "label": "leg | carry | he",
+    "sentence": "On that day, Aggo\u2019s single leg carried him with livelier hops than ever before, a joyful sign that all was well once more."
+  }
+]

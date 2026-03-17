@@ -1,0 +1,410 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "",
+    "verb": "live",
+    "obj": "couple",
+    "label": "\u2205 | live | couple",
+    "sentence": "In a small village nestled beneath the rugged mountains of Persia, there lived a humble couple who longed with all their hearts for a child but remained childless for many years."
+  },
+  {
+    "sent_id": 1,
+    "subj": "wife",
+    "verb": "stand",
+    "obj": "window",
+    "label": "wife | stand | window",
+    "sentence": "One day, the wife stood by a small lattice window facing the grand garden of a nearby palace."
+  },
+  {
+    "sent_id": 3,
+    "subj": "it",
+    "verb": "say",
+    "obj": "",
+    "label": "it | say | \u2205",
+    "sentence": "It was said that the garden belonged to a powerful sorceress, a woman both feared and respected throughout the land."
+  },
+  {
+    "sent_id": 4,
+    "subj": "she",
+    "verb": "spot",
+    "obj": "bed",
+    "label": "she | spot | bed",
+    "sentence": "As the wife gazed into the garden, she spotted a bed of lovely fenugreek plants\u2014a herb prized in Persian cooking and medicine."
+  },
+  {
+    "sent_id": 5,
+    "subj": "leaf",
+    "verb": "call",
+    "obj": "she",
+    "label": "leaf | call | she",
+    "sentence": "Its vibrant green leaves called to her, and she became consumed with desire for it."
+  },
+  {
+    "sent_id": 6,
+    "subj": "health",
+    "verb": "wan",
+    "obj": "",
+    "label": "health | wan | \u2205",
+    "sentence": "Her health soon waned, and her face grew pale with longing."
+  },
+  {
+    "sent_id": 7,
+    "subj": "husband",
+    "verb": "ask",
+    "obj": "",
+    "label": "husband | ask | \u2205",
+    "sentence": "The husband, seeing her suffer, asked what troubled her so."
+  },
+  {
+    "sent_id": 8,
+    "subj": "she",
+    "verb": "whisper",
+    "obj": "",
+    "label": "she | whisper | \u2205",
+    "sentence": "\u201cIf I do not taste the fenugreek from the sorceress\u2019s garden,\u201d she whispered, \u201cI shall surely perish.\u201d"
+  },
+  {
+    "sent_id": 9,
+    "subj": "man",
+    "verb": "resolve",
+    "obj": "",
+    "label": "man | resolve | \u2205",
+    "sentence": "Driven by love, the man resolved to risk all and steal some of the herb."
+  },
+  {
+    "sent_id": 10,
+    "subj": "he",
+    "verb": "scale",
+    "obj": "wall",
+    "label": "he | scale | wall",
+    "sentence": "As dusk fell, he scaled the high garden walls, plucked a handful of fenugreek leaves, and hurried home to his wife."
+  },
+  {
+    "sent_id": 11,
+    "subj": "she",
+    "verb": "feast",
+    "obj": "they",
+    "label": "she | feast | they",
+    "sentence": "She feasted eagerly upon them, and the taste revived her like the sweetest sherbet on a summer\u2019s day."
+  },
+  {
+    "sent_id": 12,
+    "subj": "craving",
+    "verb": "be",
+    "obj": "",
+    "label": "craving | be | \u2205",
+    "sentence": "But the next morning, her craving was threefold, and he knew he must return."
+  },
+  {
+    "sent_id": 13,
+    "subj": "sorceress",
+    "verb": "confront",
+    "obj": "he",
+    "label": "sorceress | confront | he",
+    "sentence": "On his next venture, however, the sorceress confronted him, her eyes blazing like burning coals."
+  },
+  {
+    "sent_id": 14,
+    "subj": "she",
+    "verb": "thunder",
+    "obj": "dare",
+    "label": "she | thunder | dare",
+    "sentence": "\u201cHow dare you trespass and take what is mine as though you were a thief?\u201d she thundered."
+  },
+  {
+    "sent_id": 15,
+    "subj": "he",
+    "verb": "beg",
+    "obj": "mercy",
+    "label": "he | beg | mercy",
+    "sentence": "Trembling, he begged her mercy and told of his wife\u2019s dire need."
+  },
+  {
+    "sent_id": 16,
+    "subj": "sorceress",
+    "verb": "agree",
+    "obj": "",
+    "label": "sorceress | agree | \u2205",
+    "sentence": "Moved to a semblance of kindness, the sorceress agreed to allow him as much fenugreek as he wished\u2014but on one condition: that in time, they would give her their child."
+  },
+  {
+    "sent_id": 17,
+    "subj": "man",
+    "verb": "consent",
+    "obj": "",
+    "label": "man | consent | \u2205",
+    "sentence": "The man, fearful yet desperate, consented."
+  },
+  {
+    "sent_id": 18,
+    "subj": "sorceress",
+    "verb": "appear",
+    "obj": "",
+    "label": "sorceress | appear | \u2205",
+    "sentence": "When the child was born, the sorceress appeared, naming the girl Shireen, meaning \u201csweet,\u201d and took her away to raise in a hidden tower deep within the cypress forests."
+  },
+  {
+    "sent_id": 19,
+    "subj": "tower",
+    "verb": "have",
+    "obj": "door",
+    "label": "tower | have | door",
+    "sentence": "The tower had no door and only a small window at the top."
+  },
+  {
+    "sent_id": 20,
+    "subj": "she",
+    "verb": "stand",
+    "obj": "",
+    "label": "she | stand | \u2205",
+    "sentence": "Whenever the sorceress wanted to visit, she would stand below and call:\n\n\u201cShireen, Shireen, \nShed down your hair for me.\u201d"
+  },
+  {
+    "sent_id": 21,
+    "subj": "hair",
+    "verb": "be",
+    "obj": "",
+    "label": "hair | be | \u2205",
+    "sentence": "Shireen\u2019s hair was like spun gold, long and gleaming like the threads of Persian silk."
+  },
+  {
+    "sent_id": 22,
+    "subj": "she",
+    "verb": "lower",
+    "obj": "it",
+    "label": "she | lower | it",
+    "sentence": "She would lower it from the window, winding her braids around a carved ring, and the sorceress would climb up as easily as a bird."
+  },
+  {
+    "sent_id": 23,
+    "subj": "year",
+    "verb": "pass",
+    "obj": "",
+    "label": "year | pass | \u2205",
+    "sentence": "Years passed, and Shireen blossomed into a maiden of breathtaking beauty, her voice as pure and melodious as the ney flute."
+  },
+  {
+    "sent_id": 24,
+    "subj": "prince",
+    "verb": "hear",
+    "obj": "song",
+    "label": "prince | hear | song",
+    "sentence": "One day, a prince from a distant land rode through the forest and heard her enchanting song."
+  },
+  {
+    "sent_id": 25,
+    "subj": "he",
+    "verb": "seek",
+    "obj": "",
+    "label": "he | seek | \u2205",
+    "sentence": "Entranced, he sought to find her, but the tower had no door, only the high window."
+  },
+  {
+    "sent_id": 26,
+    "subj": "he",
+    "verb": "watch",
+    "obj": "",
+    "label": "he | watch | \u2205",
+    "sentence": "He watched as the sorceress called her name and heard the hair descend."
+  },
+  {
+    "sent_id": 27,
+    "subj": "prince",
+    "verb": "think",
+    "obj": "",
+    "label": "prince | think | \u2205",
+    "sentence": "\u201cI too must try,\u201d the prince thought."
+  },
+  {
+    "sent_id": 28,
+    "subj": "he",
+    "verb": "call",
+    "obj": "shireen",
+    "label": "he | call | shireen",
+    "sentence": "At dusk, he called softly:\n\n\u201cShireen, Shireen,"
+  },
+  {
+    "sent_id": 29,
+    "subj": "",
+    "verb": "shed",
+    "obj": "hair",
+    "label": "\u2205 | shed | hair",
+    "sentence": "Shed down your hair for me.\u201d"
+  },
+  {
+    "sent_id": 30,
+    "subj": "tress",
+    "verb": "fall",
+    "obj": "",
+    "label": "tress | fall | \u2205",
+    "sentence": "Her golden tresses fell, and the prince climbed up."
+  },
+  {
+    "sent_id": 31,
+    "subj": "shireen",
+    "verb": "tremble",
+    "obj": "",
+    "label": "shireen | tremble | \u2205",
+    "sentence": "At first, Shireen trembled, unaccustomed to the sight of a human other than her captor."
+  },
+  {
+    "sent_id": 32,
+    "subj": "prince",
+    "verb": "speak",
+    "obj": "",
+    "label": "prince | speak | \u2205",
+    "sentence": "But the prince spoke kindly, and soon they vowed their love."
+  },
+  {
+    "sent_id": 33,
+    "subj": "she",
+    "verb": "agree",
+    "obj": "",
+    "label": "she | agree | \u2205",
+    "sentence": "She agreed to escape with him, weaving a rope of silk threads he brought each night."
+  },
+  {
+    "sent_id": 34,
+    "subj": "shireen",
+    "verb": "ask",
+    "obj": "sorceress",
+    "label": "shireen | ask | sorceress",
+    "sentence": "Their secret remained until one day Shireen asked the sorceress why she was so heavy to haul up compared to the prince."
+  },
+  {
+    "sent_id": 35,
+    "subj": "sorceress",
+    "verb": "seize",
+    "obj": "hair",
+    "label": "sorceress | seize | hair",
+    "sentence": "Realizing the betrayal, the sorceress seized the golden hair, cut it short, and banished Shireen to wander the desert alone, her heart heavy with sorrow."
+  },
+  {
+    "sent_id": 36,
+    "subj": "sorceress",
+    "verb": "let",
+    "obj": "trap",
+    "label": "sorceress | let | trap",
+    "sentence": "The next time the prince came, the sorceress let down the shorn hair as a trap."
+  },
+  {
+    "sent_id": 37,
+    "subj": "she",
+    "verb": "tell",
+    "obj": "",
+    "label": "she | tell | \u2205",
+    "sentence": "Angry, she told him Shireen was lost to him forever, and in despair he fled from the tower, falling among thorny bushes that blinded him."
+  },
+  {
+    "sent_id": 38,
+    "subj": "prince",
+    "verb": "wander",
+    "obj": "wilderness",
+    "label": "prince | wander | wilderness",
+    "sentence": "Blind and forlorn, the prince wandered through the wilderness, living on wild herbs and lamenting his lost love."
+  },
+  {
+    "sent_id": 39,
+    "subj": "footstep",
+    "verb": "bring",
+    "obj": "he",
+    "label": "footstep | bring | he",
+    "sentence": "At length, his footsteps brought him near the desert where Shireen, now a mother of twins\u2014twin stars of her own fortune\u2014was dwelling in exile."
+  },
+  {
+    "sent_id": 40,
+    "subj": "prince",
+    "verb": "call",
+    "obj": "",
+    "label": "prince | call | \u2205",
+    "sentence": "Hearing her voice upon the wind, the prince called out."
+  },
+  {
+    "sent_id": 41,
+    "subj": "shireen",
+    "verb": "recognize",
+    "obj": "he",
+    "label": "shireen | recognize | he",
+    "sentence": "Shireen recognized him and embraced him, and two tears from her eyes fell upon his blind ones."
+  },
+  {
+    "sent_id": 42,
+    "subj": "",
+    "verb": "be",
+    "obj": "forester",
+    "label": "\u2205 | be | forester",
+    "sentence": "Miraculously, his sight was restored, and with joy they journeyed back to his kingdom, where they lived happily, forever blessed by the grace of the heavens.\n\n---\n\nIn another tale from those ancient lands, there was a forester who heard the plaintive cries of a child deep in the forest."
+  },
+  {
+    "sent_id": 43,
+    "subj": "he",
+    "verb": "find",
+    "obj": "sound",
+    "label": "he | find | sound",
+    "sentence": "Following the sound, he found a baby perched high in the branches of an old pomegranate tree, abandoned after a bird of prey had snatched it away from its sleeping mother."
+  },
+  {
+    "sent_id": 44,
+    "subj": "forester",
+    "verb": "climb",
+    "obj": "",
+    "label": "forester | climb | \u2205",
+    "sentence": "The forester climbed and rescued the child, naming him Parvaneh, meaning \u201cbutterfly,\u201d for the bird that had carried him."
+  },
+  {
+    "sent_id": 45,
+    "subj": "parvaneh",
+    "verb": "raise",
+    "obj": "daughter",
+    "label": "parvaneh | raise | daughter",
+    "sentence": "Parvaneh was raised alongside the forester\u2019s daughter, Laleh, and the two children grew inseparable, their hearts bound like the threads of a Persian carpet."
+  },
+  {
+    "sent_id": 46,
+    "subj": "danger",
+    "verb": "lurk",
+    "obj": "home",
+    "label": "danger | lurk | home",
+    "sentence": "But danger lurked in their home."
+  },
+  {
+    "sent_id": 48,
+    "subj": "laleh",
+    "verb": "overhear",
+    "obj": "",
+    "label": "laleh | overhear | \u2205",
+    "sentence": "Laleh overheard and warned Parvaneh."
+  },
+  {
+    "sent_id": 49,
+    "subj": "child",
+    "verb": "flee",
+    "obj": "dawn",
+    "label": "child | flee | dawn",
+    "sentence": "At dawn, the children fled into the forest, escaping the wicked plot."
+  },
+  {
+    "sent_id": 50,
+    "subj": "cook",
+    "verb": "send",
+    "obj": "servant",
+    "label": "cook | send | servant",
+    "sentence": "The cook sent three servants to catch them, but the children turned into magical forms to evade capture: first a rose bush and blossom, then a mosque with a glowing chandelier, and finally a lotus pond with a duck floating upon it."
+  },
+  {
+    "sent_id": 51,
+    "subj": "cook",
+    "verb": "meet",
+    "obj": "end",
+    "label": "cook | meet | end",
+    "sentence": "The cook met her end when she tried to drink the pond, and the duck dragged her beneath the waters."
+  },
+  {
+    "sent_id": 52,
+    "subj": "free",
+    "verb": "return",
+    "obj": "",
+    "label": "free | return | \u2205",
+    "sentence": "Freed from their pursuer, Parvaneh and Laleh returned home, their love stronger and unbroken, living on in the whispers of the wind and the tales told beneath the stars of Persia."
+  }
+]

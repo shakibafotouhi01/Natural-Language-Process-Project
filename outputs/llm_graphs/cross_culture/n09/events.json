@@ -1,0 +1,450 @@
+[
+  {
+    "sent_id": 0,
+    "subj": "",
+    "verb": "lie",
+    "obj": "cabin",
+    "label": "\u2205 | lie | cabin",
+    "sentence": "In a distant corner of the dense Germanic woods lay a lonely forester\u2019s cabin, home to a renowned hunter named Dietrich, his fair wife Elsa, and their two sons, Wilhelm and Otto."
+  },
+  {
+    "sent_id": 1,
+    "subj": "elsa",
+    "verb": "remain",
+    "obj": "seclusion",
+    "label": "elsa | remain | seclusion",
+    "sentence": "Each day, as Dietrich ventured into the vast Schwarzwald to track deer and boar\u2014their chief sustenance\u2014Elsa and her sons remained in the seclusion of their timbered home."
+  },
+  {
+    "sent_id": 2,
+    "subj": "game",
+    "verb": "be",
+    "obj": "day",
+    "label": "game | be | day",
+    "sentence": "In those days, game was plentiful, and Dietrich\u2019s skilled pursuit brought them well-fed and secure."
+  },
+  {
+    "sent_id": 3,
+    "subj": "homestead",
+    "verb": "remove",
+    "obj": "village",
+    "label": "homestead | remove | village",
+    "sentence": "Their homestead was far removed from other villages, and rarely did any stranger\u2019s face breach the wild domain beyond their clearing."
+  },
+  {
+    "sent_id": 4,
+    "subj": "they",
+    "verb": "roam",
+    "obj": "",
+    "label": "they | roam | \u2205",
+    "sentence": "Wilhelm and Otto were yet too young to share their father\u2019s hunts; instead, they roamed nearby, chasing woodland creatures and watching birds flit through the ancient oaks and pines."
+  },
+  {
+    "sent_id": 5,
+    "subj": "it",
+    "verb": "be",
+    "obj": "wandering",
+    "label": "it | be | wandering",
+    "sentence": "It was during these innocent wanderings that they noticed a tall stranger, a somber young man, visiting the cabin repeatedly whenever their father was away."
+  },
+  {
+    "sent_id": 6,
+    "subj": "visit",
+    "verb": "be",
+    "obj": "whisper",
+    "label": "visit | be | whisper",
+    "sentence": "The visits were quiet and frequent, like whispers between shadows."
+  },
+  {
+    "sent_id": 7,
+    "subj": "wilhelm",
+    "verb": "turn",
+    "obj": "mother",
+    "label": "wilhelm | turn | mother",
+    "sentence": "One evening, Wilhelm turned to their mother, curiosity shining in his eyes."
+  },
+  {
+    "sent_id": 9,
+    "subj": "he",
+    "verb": "seek",
+    "obj": "father",
+    "label": "he | seek | father",
+    "sentence": "Does he seek my father?"
+  },
+  {
+    "sent_id": 10,
+    "subj": "i",
+    "verb": "tell",
+    "obj": "father",
+    "label": "i | tell | father",
+    "sentence": "Shall I tell Father when he returns?\u201d\n\nElsa\u2019s face tightened like the bark of an old tree."
+  },
+  {
+    "sent_id": 11,
+    "subj": "she",
+    "verb": "say",
+    "obj": "",
+    "label": "she | say | \u2205",
+    "sentence": "\u201cFoolish child,\u201d she said sharply."
+  },
+  {
+    "sent_id": 12,
+    "subj": "",
+    "verb": "attend",
+    "obj": "bow",
+    "label": "\u2205 | attend | bow",
+    "sentence": "\u201cAttend to your bows and arrows."
+  },
+  {
+    "sent_id": 13,
+    "subj": "",
+    "verb": "be",
+    "obj": "",
+    "label": "\u2205 | be | \u2205",
+    "sentence": "Be brave and venture into the woods with your brother."
+  },
+  {
+    "sent_id": 14,
+    "subj": "son",
+    "verb": "linger",
+    "obj": "idle",
+    "label": "son | linger | idle",
+    "sentence": "A hunter\u2019s sons do not linger at the hearth idle, nor do they speak of every shadow they glimpse."
+  },
+  {
+    "sent_id": 15,
+    "subj": "",
+    "verb": "say",
+    "obj": "nothing",
+    "label": "\u2205 | say | nothing",
+    "sentence": "Your father has enough to bear; say nothing.\u201d"
+  },
+  {
+    "sent_id": 16,
+    "subj": "boy",
+    "verb": "obey",
+    "obj": "",
+    "label": "boy | obey | \u2205",
+    "sentence": "The boys obeyed, yet their suspicions grew as the stranger\u2019s visits endured."
+  },
+  {
+    "sent_id": 17,
+    "subj": "they",
+    "verb": "press",
+    "obj": "",
+    "label": "they | press | \u2205",
+    "sentence": "Now older, they pressed again, declaring their intent to tell their father, for the man never followed paths nor carried food, and if he bore news, why did he never speak to their father directly?"
+  },
+  {
+    "sent_id": 18,
+    "subj": "they",
+    "verb": "mention",
+    "obj": "stranger",
+    "label": "they | mention | stranger",
+    "sentence": "Their mother\u2019s countenance darkened to storm clouds; she threatened them with terrible consequences should they mention the stranger."
+  },
+  {
+    "sent_id": 19,
+    "subj": "they",
+    "verb": "keep",
+    "obj": "silent",
+    "label": "they | keep | silent",
+    "sentence": "Fearing her wrath, they kept silent for a time."
+  },
+  {
+    "sent_id": 20,
+    "subj": "visitor",
+    "verb": "come",
+    "obj": "",
+    "label": "visitor | come | \u2205",
+    "sentence": "Yet, the shadowy visitor came still, weaving curiosity into dread."
+  },
+  {
+    "sent_id": 21,
+    "subj": "they",
+    "verb": "confide",
+    "obj": "father",
+    "label": "they | confide | father",
+    "sentence": "At last, they confided all to their father during a hunting lesson beneath towering firs."
+  },
+  {
+    "sent_id": 22,
+    "subj": "eye",
+    "verb": "blaze",
+    "obj": "fury",
+    "label": "eye | blaze | fury",
+    "sentence": "Dietrich\u2019s eyes blazed with silent fury before he steadied himself."
+  },
+  {
+    "sent_id": 23,
+    "subj": "he",
+    "verb": "say",
+    "obj": "",
+    "label": "he | say | \u2205",
+    "sentence": "\u201cIt is decided,\u201d he said grimly."
+  },
+  {
+    "sent_id": 24,
+    "subj": "you",
+    "verb": "remain",
+    "obj": "",
+    "label": "you | remain | \u2205",
+    "sentence": "\u201cYou two remain here until sundown and then return to the cabin."
+  },
+  {
+    "sent_id": 25,
+    "subj": "you",
+    "verb": "find",
+    "obj": "i",
+    "label": "you | find | i",
+    "sentence": "You shall find me there.\u201d"
+  },
+  {
+    "sent_id": 26,
+    "subj": "he",
+    "verb": "walk",
+    "obj": "",
+    "label": "he | walk | \u2205",
+    "sentence": "He walked away slowly, leaving the boys to their restless play until twilight summoned them home."
+  },
+  {
+    "sent_id": 27,
+    "subj": "they",
+    "verb": "find",
+    "obj": "arrival",
+    "label": "they | find | arrival",
+    "sentence": "Upon arrival, they found the cabin empty."
+  },
+  {
+    "sent_id": 28,
+    "subj": "mother",
+    "verb": "be",
+    "obj": "",
+    "label": "mother | be | \u2205",
+    "sentence": "Their mother was gone\u2014and never again was her name spoken in the hearthlit walls."
+  },
+  {
+    "sent_id": 29,
+    "subj": "elsa",
+    "verb": "linger",
+    "obj": "curse",
+    "label": "elsa | linger | curse",
+    "sentence": "Though unseen, Elsa lingered like a curse, a withered specter with hollow eyes and gnarled limbs, appearing at dusk to haunt her sons as they returned from the hunt."
+  },
+  {
+    "sent_id": 30,
+    "subj": "she",
+    "verb": "unbolt",
+    "obj": "door",
+    "label": "she | unbolt | door",
+    "sentence": "By night, she would silently unbolt the door and drift through their slumbering forms, mocking them with her pale, bony visage suspended in the darkness."
+  },
+  {
+    "sent_id": 31,
+    "subj": "presence",
+    "verb": "turn",
+    "obj": "home",
+    "label": "presence | turn | home",
+    "sentence": "Her dreadful presence turned their once-familiar home into a place of terror."
+  },
+  {
+    "sent_id": 32,
+    "subj": "",
+    "verb": "torment",
+    "obj": "endurance",
+    "label": "\u2205 | torment | endurance",
+    "sentence": "Tormented beyond endurance, the family\u2014father and now grown sons\u2014resolved to flee the cursed forest."
+  },
+  {
+    "sent_id": 33,
+    "subj": "path",
+    "verb": "lead",
+    "obj": "shore",
+    "label": "path | lead | shore",
+    "sentence": "Their path led southward, following the winding shore of a vast, mist-shrouded lake."
+  },
+  {
+    "sent_id": 34,
+    "subj": "they",
+    "verb": "come",
+    "obj": "cliff",
+    "label": "they | come | cliff",
+    "sentence": "Around a jagged cliff, they came upon a raging waterfall where the lake gave birth to a mighty river, thundering into the valley below."
+  },
+  {
+    "sent_id": 35,
+    "subj": "skull",
+    "verb": "roll",
+    "obj": "shore",
+    "label": "skull | roll | shore",
+    "sentence": "As they gazed upon the churning cascade, a strange sight startled them\u2014a woman\u2019s skull rolling swiftly along the rocky shore, as if in pursuit."
+  },
+  {
+    "sent_id": 36,
+    "subj": "",
+    "verb": "emerge",
+    "obj": "figure",
+    "label": "\u2205 | emerge | figure",
+    "sentence": "From the nearby forest emerged a headless figure, moving with grim purpose toward the skull."
+  },
+  {
+    "sent_id": 37,
+    "subj": "part",
+    "verb": "merge",
+    "obj": "speed",
+    "label": "part | merge | speed",
+    "sentence": "The two parts merged with unnatural speed, forming a dreadful phantom racing after the hunter and his sons."
+  },
+  {
+    "sent_id": 38,
+    "subj": "fear",
+    "verb": "seize",
+    "obj": "they",
+    "label": "fear | seize | they",
+    "sentence": "Fear seized them, for the haunt was relentless, and escape seemed impossible."
+  },
+  {
+    "sent_id": 39,
+    "subj": "feather",
+    "verb": "dull",
+    "obj": "",
+    "label": "feather | dull | \u2205",
+    "sentence": "Then Wilhelm spotted a great crane perched solemnly upon a rock amid the foaming rapids\u2014a venerable bird, feathers dulled by countless winters, eyes deep with ancient wisdom."
+  },
+  {
+    "sent_id": 40,
+    "subj": "crane",
+    "verb": "help",
+    "obj": "",
+    "label": "crane | help | \u2205",
+    "sentence": "\u201cGrandfather crane,\u201d they called, \u201chelp us cross the falls and flee this evil!\u201d"
+  },
+  {
+    "sent_id": 41,
+    "subj": "crane",
+    "verb": "stretch",
+    "obj": "neck",
+    "label": "crane | stretch | neck",
+    "sentence": "The crane, immense and solemn, stretched forth its long neck, rose on mighty wings, and flew across the turbulent water to their aid."
+  },
+  {
+    "sent_id": 42,
+    "subj": "",
+    "verb": "beware",
+    "obj": "",
+    "label": "\u2205 | beware | \u2205",
+    "sentence": "\u201cBeware,\u201d the old bird warned, \u201ctouch not the crown of my head."
+  },
+  {
+    "sent_id": 43,
+    "subj": "age",
+    "verb": "leave",
+    "obj": "it",
+    "label": "age | leave | it",
+    "sentence": "Age has left it bare and tender."
+  },
+  {
+    "sent_id": 44,
+    "subj": "i",
+    "verb": "save",
+    "obj": "you",
+    "label": "i | save | you",
+    "sentence": "Should you lay hands upon it, I cannot save you from the raging currents below.\u201d"
+  },
+  {
+    "sent_id": 45,
+    "subj": "they",
+    "verb": "heed",
+    "obj": "word",
+    "label": "they | heed | word",
+    "sentence": "They heeded his words with reverence, and soon found themselves safe upon the far bank."
+  },
+  {
+    "sent_id": 46,
+    "subj": "crane",
+    "verb": "return",
+    "obj": "",
+    "label": "crane | return | \u2205",
+    "sentence": "The crane returned and carried Dietrich in like fashion before settling once more among the restless rapids."
+  },
+  {
+    "sent_id": 47,
+    "subj": "woman",
+    "verb": "reach",
+    "obj": "shore",
+    "label": "woman | reach | shore",
+    "sentence": "But the woman\u2014now whole and dreadful\u2014reached the shore and cried, \u201cGrandfather, carry me across, that I may be with my children."
+  },
+  {
+    "sent_id": 48,
+    "subj": "i",
+    "verb": "lose",
+    "obj": "",
+    "label": "i | lose | \u2205",
+    "sentence": "I am lost and sorrowful.\u201d"
+  },
+  {
+    "sent_id": 49,
+    "subj": "crane",
+    "verb": "caution",
+    "obj": "she",
+    "label": "crane | caution | she",
+    "sentence": "The aged crane cautioned her again, repeating his warning with great solemnity."
+  },
+  {
+    "sent_id": 50,
+    "subj": "she",
+    "verb": "vow",
+    "obj": "",
+    "label": "she | vow | \u2205",
+    "sentence": "She vowed to obey, but scarcely had they begun the crossing than she slyly sought to touch the fragile crown."
+  },
+  {
+    "sent_id": 51,
+    "subj": "crane",
+    "verb": "cast",
+    "obj": "she",
+    "label": "crane | cast | she",
+    "sentence": "Swift as the storm wind, the crane cast her into the frothing torrent."
+  },
+  {
+    "sent_id": 52,
+    "subj": "you",
+    "verb": "do",
+    "obj": "forbidden",
+    "label": "you | do | forbidden",
+    "sentence": "\u201cThere,\u201d he spoke sternly as she sank beneath the whirlpool, \u201cyou have done the forbidden once more."
+  },
+  {
+    "sent_id": 53,
+    "subj": "you",
+    "verb": "pursue",
+    "obj": "those",
+    "label": "you | pursue | those",
+    "sentence": "As in life you pursued those to be shunned, so shall you henceforth be shunned by those who seek you."
+  },
+  {
+    "sent_id": 55,
+    "subj": "woman",
+    "verb": "lose",
+    "obj": "time",
+    "label": "woman | lose | time",
+    "sentence": "Consumed by the river\u2019s depths, the ghostly woman was lost to all time and memory."
+  },
+  {
+    "sent_id": 56,
+    "subj": "family",
+    "verb": "embrace",
+    "obj": "crane",
+    "label": "family | embrace | crane",
+    "sentence": "Grateful and wise, the hunter\u2019s family embraced the crane as their talisman, a symbol of protection and endurance."
+  },
+  {
+    "sent_id": 57,
+    "subj": "they",
+    "verb": "prosper",
+    "obj": "wing",
+    "label": "they | prosper | wing",
+    "sentence": "Under the watchful wings of the Crane that Crossed the River, they prospered still\u2014surrounded by forest peace, abundant game, and the blessings of the ancient wild."
+  }
+]
