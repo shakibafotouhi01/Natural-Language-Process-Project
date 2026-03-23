@@ -24,10 +24,13 @@ Embedding-based semantic similarity (Sentence-BERT + cosine similarity)
 * Core narrative flow is mostly maintained, but some events are omitted
 * Semantic similarity remains relatively high despite structural reduction
 ## Repository Structure
+
 data/ – Original and generated narratives
+
 src/ – Core modules (event extraction, graph building, evaluation)
-notebooks/ – Experiments and visualizations
+
 outputs/ – Built human and LLm Graphs, Tables, plots, and analysis outputs
+
 ## Goal
 
 To evaluate whether LLMs can act as cultural narrative translators, preserving both structure and meaning across storytelling traditions.
